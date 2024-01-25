@@ -4,7 +4,16 @@ author: Issa Rice
 date: 2024-01-24
 ---
 
-THIS IS A DRAFT.  THIS IS NOT PERSONALIZED MEDICAL ADVICE.  USE AT YOUR OWN RISK.
+THIS IS A DRAFT.  THIS IS NOT PERSONALIZED MEDICAL ADVICE.  USE AT YOUR OWN RISK. (at the same time, i _am_ interested in improving this document, so if you think i am recommending something unsafe i'd like to know about it)
+
+
+I am writing basically the document I wish someone had handed to me over a decade ago when I first started to experience shortness of breath.
+
+# On ruling out more serious medical problems
+
+I think as a first step, it's a good idea to rule out any standard problems with the lungs, by e.g.\ doing a chest x-ray, pulmonary function test, etc. I will say more about what tests I got done and why. The breathing stuff I describe later in the document _might_ help with your breathing anyway, even if you have a problem with your lungs, but you definitely want to know if you do have problems and to get proper treatment.
+
+[TODO: add more details]
 
 
 # Safety
@@ -40,6 +49,58 @@ The important point is that because of the form of the Henderson--Hasselbalch eq
 
 Let's look at some numbers.
 
-$$7.4 \approx 6.1 + log_{10}\left(\frac{24}{0.0307 \cdot 40}\right)$$
+$$7.4 \approx 6.1 + \log_{10}\left(\frac{24}{0.0307 \cdot 40}\right)$$
 
 above are the values for a normal person.
+
+When I first used a capnometer, my CO~2~ was around 25\ mmHg. So to get the same pH, my bicarbonate level must have been around 15:
+
+$$7.4 \approx 6.1 + \log_{10}\left(\frac{15}{0.0307 \cdot 25}\right)$$
+
+Now let's say both individuals do a breath hold to raise their PCO~2~ by 5\ mmHg. In the case of the healthy person, their pH goes down to 7.34, but in the chronic overbreather's case, it goes down to 7.31.
+
+
+So what we've established is:
+
+- If you have shortness of breath with no clear medical cause, it is likely that your CO~2~ (and thus bicarbonate) levels are too low.
+- Low CO~2~ means you are more sensitive to changes in CO~2~, in particular to increases in it. This is why you always feel short of breath.
+- The solution is _not_ to "take a deep breath" and get more oxygen, but rather, to breathe _less_ so that you gradually raise your CO~2~ levels. The emphasis is on the word "gradually". If you just hold your breath in the hopes of raising your CO~2~, you will just give yourself a panic attack. The kidneys take time to adjust the bicarbonate levels. So you want to sit with a slight-to-moderate amount of air hunger, over the course of days and weeks, so as to gradually raise your baseline CO~2~. How to do this? We'll discuss breathing techniques and breathing habits more elsewhere in this document.
+
+
+What does Howard Cooper's explanation get wrong?
+
+- In the initial video, he doesn't give any mechanism for why people with air hunger are more sensitive to CO~2~ buildup. He just says that it's like people who are sensitive to alcohol.  But why does your level of CO~2~ affect how sensitive you are to buildup of CO~2~? It's completely mysterious.
+- In the second video, he tries to give an explanation in terms of the bicarbonate buffer model. The problem is, in his analogy with the water levels, _everything is on an additive scale_. The inferred version of the Henderson-Hasselbalch equation becomes $-\mathrm{pH} = -\mathrm{CO_2} + \mathrm{HCO_3^-}$ ($\text{water level} = -\text{water leaving} + \text{water entering}$). A healthy person and a chronic overbreather will _both_ have the same buildup of CO~2~ when they hold their breath. So why does the chronic overbreather have a lower Control Pause? His model can't explain this. You need to look at the real Henderson-Hasselbalch equation, with the log and fraction, to understand this.
+
+
+more notes on howard cooper videos:
+
+video 1: <https://invidious.slipfox.xyz/watch?v=XliOGg8Tl98>
+
+(why am i making such a big deal out of his videos? it's because it's the first resource that really made things click for me. it's what got me to start doing breath pauses and nasal breathing. but it wasn't sufficient because it got the theory a bit wrong and also didn't have a good solution other than "do some breath pauses" which i now think are not the most effective way to cure air hunger. so, i want to take the good stuff from this video while also correcting the stuff it got wrong.)
+
+sequence/flow of the video (first person pronoun is from the perspective of howard cooper):
+
+- this video is about air hunger and anxiety
+- i personally had air hunger, and it was real bad
+- but people told me to do breathing exercises: this just made it worse! being conscious of my breathing made it worse.
+- there is a physical cause of air hunger; it's not in your head.
+- caveat: but make sure you get checked out by a doctor. the rest of this video assumes you have nothing obviously wrong.
+- carbon dioxide: cells take in oxygen and release CO2. when CO2 builds up, you get an urge to breathe.
+- anxiety -> overbreathing. "take deep breaths".
+- if you have overbreathing for a long time, your CO2 levels go down. your body makes adjustments to the low levels of CO2, and one of these is to become very sensitive to any increase in CO2 [this is WRONG. it's the low level itself that makes you sensitive, not due to any adjustment, as far as i know.]
+- alcohol tolerance analogy.
+- so what's the cure? gradually expose yourself to more and more CO2, so your body gets used to it.
+- "take a deep breath": the worst advice you can give.
+- strategies for dealing with air hunger:
+  1. sit with the feeling of air hunger, and do shallow breathing.
+  2. breathe through your nose. you can even tape your mouth. shoutout to buteyko method.
+  3. control pause test introduced. [unfortunately, he doesn't explain it very well. in particular, he doesn't mention that you shouldn't breathe any differently AFTER the test is completed. lol and he even _does it wrong_ in the video by doing an audible inhale after the test!!!] control pause as a marker of your CO2 tolerance.
+  4. reduced breathing exercise: you want a manageable amount of air hunger for "a period of time". halve your CP, then do a breath hold for that many seconds, take in some normal breaths, repeat. [i think buteyko people distinguish between reduced breathing and breath holds, and this is a breath hold exercise.] 20 second CP as a marker of normal. exercise while reduced breathing is mentioned. anxiety also improves as CP increases.
+  5. avoid ruminating. tell yourself that mild air hunger is ok.
+
+video 2: <https://invidious.slipfox.xyz/watch?v=RLMjvDYJL6Q>
+
+sequence/flow of the video (first person pronoun is from the perspective of howard cooper):
+
+- this video is about air hunger.
