@@ -2,10 +2,16 @@
 
 \usepackage[english]{babel}
 \usepackage{amsmath}
+
+\usepackage[bitstream-charter]{mathdesign}
+\usepackage[T1]{fontenc}
+
 \usepackage{hyperref}
 
-\usepackage{fourier}
-\usepackage[T1]{fontenc}
+% From the Pandoc LaTeX template
+\setlength{\emergencystretch}{3em} % prevent overfull lines
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
 
 \title{$title$}
 \author{$author$}
