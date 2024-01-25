@@ -26,5 +26,20 @@ The aim of this section is to give you a useful mechanistic model of how respira
 
 The central thing we're trying to explain here is: why is it that if you have shortness of breath, the right thing to do is the breathe _less_, even though your body is telling you to breathe _more_? What is going on at the chemical level when people have shortness of breath?
 
+(This is sort of like [Howard Cooper's video](https://www.youtube.com/watch?v=XliOGg8Tl98 "Help with air hunger - I have anxiety and feel like I can't breathe!") on air hunger, but there are a few things I don't like about his explanation, so I'm going to be writing my own ideal version. But if you prefer a video explanation, then you can start with the video and then come back here.)
 
+What causes the urge to breathe? Humans have what are called chemoreceptors in their brain (and some other places) that tell the body to breathe. How do chemoreceptors know _when_ to breathe? They watch out for signals from the body, in the form of carbon dioxide levels, oxygen levels, and blood pH. Most of the time, when people breathe, it is because the carbon dioxide level increased above some threshold. Oxygen only triggers breathing when it gets really low (so low that I don't think most humans experience it except on very rare occasions). I think blood pH also matters, but maybe only during exercise? (but it might matter more for air hunger; see below).
 
+[argh, this is kind of hard to explain well. curse of knowledge...]
+
+Okay, so CO~2~ levels (partial pressure?) in the blood regulate breathing. Now let's imagine what happens when someone overbreathes. You might think, okay, CO~2~ goes down, so then you don't get as much of an urge to breathe. That's true in the short term. But if someone _chronically_ overbreathes, then the bodies tries to correct this. You see, the body tries very hard to keep the blood pH at a narrow range of 7.35--7.45. If one chronically overbreathes, then since CO~2~ causes the blood to become acidic, the _lack_ of CO~2~ (you're overbreathing, remember) causes your blood to become too alkaline. So the body compensates by trying to make blood more acidic. How? The kidneys dump out more bicarbonate ($\mathrm{HCO_3^-}$) into the urine. Since bicarbonate is alkaline, getting rid of it makes the blood more acidic. The kidneys don't react immediately; all this happens over the course of hours to roughly 5 days.
+
+[... some more stuff here ...]
+
+The important point is that because of the form of the Henderson--Hasselbalch equation, the more CO~2~ you have, the less sensitive pH is to slight increases in CO~2~. So breath holding for a few seconds does not cause air hunger/panic. Whereas if your CO~2~ is already too low (hypocapnia), then your pH is still normal (thanks to the bicarbonate levels being adjusted by your kidneys), but because of the low CO~2~, even slight changes in CO~2~ can cause large shifts in pH. I think it's this increase in pH that triggers a strong sense of air hunger. If you give in to this urge and breathe, then your pH will be restored, so _temporarily_ you will feel better. But if you keep giving into this urge and breathing more and more, then over time you're shifting down your bicarbonate buffer even more. Your body adjusts. But that means your baseline CO~2~ also keeps decreasing. So now you're _even more_ sensitive to slight increases in CO~2~. It's a vicious cycle.
+
+Let's look at some numbers.
+
+$$7.4 \approx 6.1 + log_{10}\left(\frac{24}{0.0307 \cdot 40}\right)$$
+
+above are the values for a normal person.
