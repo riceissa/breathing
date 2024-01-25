@@ -161,7 +161,7 @@ i don't know how representative the speed of my improvements is, but it's the on
 
 # Clearing your nose
 
-In my view, nasal breathing is essential for overcoming shortness of breath. It's also the very first step. There's a lot of strategies here so I'll list a bunch along with what I think of them:
+In my view, nasal breathing is essential for overcoming shortness of breath. It's also the very first step. There's a lot of strategies here so I'll list a bunch along with what I think of them. My guess is that different ones will work for different people, so you kind of want to try a bunch and see what works (most of these are quite cheap).
 
 - Saline spray: works less well than the saline wash, but it's a lot less unpleasant. it doesn't go "deep" enough, which is why it is both less painful and doesn't work as well. i went through about 1.5 bottles of the NeilMed one (lime green color bottle) before my nose improved enough that I didn't need to use it anymore.
 - Saline wash/netipot: tried this once. it works really well for clearing your nose, but it was also quite unpleasant. make sure to never use tap water for this.
@@ -190,3 +190,11 @@ One might naively expect that capnometers would be useless, since they don't act
 My model of why capnometers are so "unreasonably effective" is basically that with Buteyko breathing, part of the problem is that even if you make progress, you can never know if you're pushing so hard that you've overshot your CO~2~ and are now having too much CO2. You can't really avoid this problem because both too low CO~2~ and too high CO~2~ feel pretty much exactly the same -- air hunger. So a capnometer is what actually lets you know for sure whether you are undershooting, just right, or overshooting.
 
 It's just super helpful to _see_ what your breath looks like. Buteyko breathing can feel _scary_ because you don't know if you're going too hard and might be harming yourself. Hooking yourself up to a capnometer tells you whether your CO~2~ levels are normal.
+
+# Posture
+
+I'm appreciating posture more now -- it really makes silent relaxed breathing easier when you have better posture. But "good posture" is maybe not what society thinks is good posture, but whatever feels comfortable to you and allows for good breathing.
+
+The Buteyko people also emphasize posture, but I have not read much about what they say.
+
+i still have a lot to learn here. apparently some posture techniques can be quite dangerous (can even cause die-off reactions??)
