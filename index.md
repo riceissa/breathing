@@ -6,8 +6,16 @@ date: 2024-01-24
 
 THIS IS A DRAFT.  THIS IS NOT PERSONALIZED MEDICAL ADVICE.  USE AT YOUR OWN RISK. (at the same time, i _am_ interested in improving this document, so if you think i am recommending something unsafe i'd like to know about it)
 
+# Why this document?
 
 I am writing basically the document I wish someone had handed to me over a decade ago when I first started to experience shortness of breath.
+
+There's a lot written about air hunger already. the problem is that each source only seems to have a part of the solution. there's no one-stop place to get everything i need. so in some sense i'm just synthesizing and collecting everything into one place.
+
+but also, i've noticed a lot of sources making mistakes or not fully explaining things. so i've had to think about some stuff and work it out on my own or with friends, and also by experimenting on my own.
+
+i will be critiquing a lot of sources as i discuss them. i don't want to sound too negative -- it's only because of all these sources that i've made significant progress on overcoming my own breathing problem. but seeing how things are explained incorrectly/what can go wrong is one of the best ways to understand why something is the way it is. see [here](https://learning.subwiki.org/wiki/Importance_of_struggling_in_learning) for more on this pedagogical perspective.
+
 
 # On ruling out more serious medical problems
 
@@ -119,3 +127,5 @@ sequence/flow of the video (first person pronoun is from the perspective of howa
 # Is normal breathing universal?
 
 One of the weird things I discovered while using the CapnoTrainer is that the breathing style that brought CO~2~ levels up to normal in the most effortless way turned out to be what the Buteyko people have been saying all along: silent nasal breathing. This raises the question of whether there is some universally "optimal" breathing style that everyone should have, or if it's more of a preference (different people can have different breathing styles, but what matters is that your CO~2~ levels are normal and you don't have air hunger or other breathing issues).
+
+Peter Litchfield on the other hand says that it doesn't matter how you breathe -- you could even mouth breathe -- as long as your breathing habits are "functional" (by which I think he means your CO~2~ levels are at like 40\ mmHg).
