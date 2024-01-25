@@ -16,6 +16,7 @@ but also, i've noticed a lot of sources making mistakes or not fully explaining 
 
 i will be critiquing a lot of sources as i discuss them. i don't want to sound too negative -- it's only because of all these sources that i've made significant progress on overcoming my own breathing problem. but seeing how things are explained incorrectly/what can go wrong is one of the best ways to understand why something is the way it is. see [here](https://learning.subwiki.org/wiki/Importance_of_struggling_in_learning) for more on this pedagogical perspective.
 
+note to self: this document should have a tightly focused scope. it's to explain what is going on biologically in air hunger, and then explain _how to get out of that state_. all my other random thoughts about breathing should be put somewhere else. ask: will this directly help someone who is suffering from shortness of breath?
 
 # On ruling out more serious medical problems
 
@@ -35,6 +36,13 @@ I want to make two seemingly contradictory remarks about the safety of trying va
 When I started practicing silent nasal breathing, I got a few weird symptoms including head pressure, throat tightening (it felt as if I was being subtly choked), and possibly others. (Since I have a mysterious chronic illness, I have a daily occurrence of weird physical symptoms, so I am already quite used to dealing with random new symptoms, and it's often hard to pin down _why_ a new symptom started happening, but in the case of head pressure and throat tightening, I am pretty confident it happens because of the breathing.)
 
 The other thing I want to say about safety.  It's not helpful when people just tell you a blanket "if you have health issues, don't attempt this". Part of _why_ I'm interested in fixing my breathing is because I already have breathing and other health issues. I shouldn't automatically be turned away from trying to solve these issues! So, I don't want to _ignore_ safety issues, but I also don't want to give useless cowardly ass-covering safety warnings. How to avoid both problems?
+
+
+## Accidental meditation
+
+as you try to normalize your breath, you're constantly paying attention to the way you breathe, and that's essentially the mental motion that meditators make (at least, when they do the kind of meditation where they focus on their breath). could you be accidentally meditating by trying to fix your air hunger? is that why the intracranial pressure happens? how can we correct the breath without risking accidentally meditating?
+
+i don't have any good answers yet. i'm still working through this myself. for the head pressure, it was somewhat bad for one day, but then after that it just got better on its own. i've also been just trying to do other stuff, so that even as i do inevitably bring my attention back to my breath to see if i'm still doing silent nasal breathing, i'm not just sitting there doing that the entire day.
 
 
 # The simple math of respiration (acid--base balance, bicarbonate buffer model, and the Henderson--Hasselbalch equation)
@@ -129,3 +137,56 @@ sequence/flow of the video (first person pronoun is from the perspective of howa
 One of the weird things I discovered while using the CapnoTrainer is that the breathing style that brought CO~2~ levels up to normal in the most effortless way turned out to be what the Buteyko people have been saying all along: silent nasal breathing. This raises the question of whether there is some universally "optimal" breathing style that everyone should have, or if it's more of a preference (different people can have different breathing styles, but what matters is that your CO~2~ levels are normal and you don't have air hunger or other breathing issues).
 
 Peter Litchfield on the other hand says that it doesn't matter how you breathe -- you could even mouth breathe -- as long as your breathing habits are "functional" (by which I think he means your CO~2~ levels are at like 40\ mmHg).
+
+# Can you overshoot your CO~2~ levels by doing too much reduced breathing?
+
+so you combat air hunger by breathing less, which raises CO~2~. what if you just keep going? could you be overshooting and getting _hypercapnia_ instead?
+
+Here's a heuristic argument for why this shouldn't happen: even people who overbreathe don't overbreathe so much that their CO~2~ just keeps dropping indefinitely. Each style of breathing seems to asymptote at a certain point. So I think Buteyko-style reduced breathing also asymptotes in terms of CO~2~ levels.
+
+But also, I think there must be some other effect going on, because I don't think the Buteyko people have abnormally high CO~2~ (that's just my current guess).
+
+the main lesson here is that having a capnometer is quite useful, to give the assurance that your CO~2~ levels are normal.
+
+# A short timeline of my improvements
+
+i don't know how representative the speed of my improvements is, but it's the only case i am deeply familiar with, and it might give people an idea of what to expect.
+
+[TODO: add this]
+
+
+# Sequence of cumulative constraints of breathing practice
+
+[TODO: move from <https://issarice.com/sequence-of-cumulative-constraints-of-breathing-practice>]
+
+# Clearing your nose
+
+In my view, nasal breathing is essential for overcoming shortness of breath. It's also the very first step. There's a lot of strategies here so I'll list a bunch along with what I think of them:
+
+- Saline spray: works less well than the saline wash, but it's a lot less unpleasant. it doesn't go "deep" enough, which is why it is both less painful and doesn't work as well. i went through about 1.5 bottles of the NeilMed one (lime green color bottle) before my nose improved enough that I didn't need to use it anymore.
+- Saline wash/netipot: tried this once. it works really well for clearing your nose, but it was also quite unpleasant. make sure to never use tap water for this.
+- Nose strips: these were quite helpful. at first i used the RiteAid brand ones and they worked well enough, and then i got cheaper ones from Amazon and those also worked fine. so my guess is that there isn't much of a quality difference between different brands, and you can just go with whatever. the main thing to watch for is that your skin should not get irritated from using them. also, you should _immediately_ notice an improvement. if you don't immediately breathe better, then you're either not putting them on right or the thing isn't working. There is also a magnetic strip made by a company called Intake Breathing. I never used it so I don't know how well it works, but if you can't get regular nose strips to work, you can look into this.
+- Nose cones: these didn't work for me (i got them because i was encouraged by how useful the nose strips were, and cones seemed like reusable strips). they don't go deep enough in the nose, so they really only help i think if you have a deviated septum or something...
+- Patrick McKeown's nose unblocking exercise: this is one where you pinch your nose while holding your breath, and swaying or walking around as you do that. I tried this back when my nose was stuffier, and it didn't work very well for me, but i also didn't try very hard to get it working (i just followed one of his videos).
+- Antihistamine spray (e.g., azelastine): my guess is azelastine did nothing for me. but maybe it helped a bit with reducing mucus producing during the night. i never tried olopatadine (the more famous antihistamine nasal spray) because my insurance doesn't cover it.
+- Steroid spray (e.g. Flonase): i would stay away from these, unless you already know they work well for you. definitely try all the other ones in the list first. note that there are different kinds of steroid sprays and some of them are _very_ bad to keep using long-term. Flonase is supposed to be one of the safer kinds, but i only used it once so i can't speak to any longer-term effects.
+
+Important note: as you start breathing through your nose more, you should find that your nose becomes less blocked even without doing these things. I used to need the nose strips _a lot_ when I first started nasal breathing. But now I hardly need them. So these techniques should be thought of as temporary crutches -- or like training wheels on a bicycle. They are there to help jump start your nasal breathing until your nose is strong enough, but you shouldn't need them forever.
+
+Definitely don't get surgery, unless you've tried all the safe options and nothing works. I think the mainstream medical world understates the risks here, e.g., you should read about empty nose syndrome. James Nestor's book _Breath_ has a bit about this.
+
+i should say something about mouth taping as well. i don't have any _strong_ argument again it, but i have personally not done it. as you improve your breathing, you mouth should automatically close. so mouth taping is, in my view, unnecessary in the long-term. what about the short term? after all, all the other nose-unblocking stuff i'm recommending are short-term crutches as well. i think in the short term maybe it's completely fine? i was just personally scared of using it, and never needed it.
+
+
+# On the unreasonable effectiveness of capnometers
+
+One might naively expect that capnometers would be useless, since they don't actually _do_ anything to your breathing. All of the breathing changes you make are ones you make yourself, and the capnometer just tells you what your CO~2~ levels are without affecting them. One might thus conclude that capnometers are useless. I don't have a great reply to this -- in fact, some people seem to get better just by doing Buteyko breathing "blind" (i.e., without seeing their breathing curve using a capnometer). So clearly it _is_ possible to do the same things without a capnometer. (Even Peter Litchfield admits this to some extent.[^capnocourse]) But in my case, it was only after I got a capnometer that I saw rapid progress. Here I will try to build a model of _why_ having a capnometer is so useful.
+
+[^capnocourse]: From the [CapnoLearning course page](https://www.thebsj.org/capnolearningcourse):
+
+    > You may be wondering, "can I benefit from the course without using technology?"  The answer, of course, is a resounding YES.  The ultimate objective of breathing behavior analysis work is NOT about learning to use technology for manipulating breathing with physical techniques, i.e., an outside-in paradigm, but rather it is about learning new breathing habits that automatically optimize respiration, that is, aligning breathing with respiration based on the principles of self-regulation, an inside-out paradigm.  The CapnoTrainer GO technology is a powerful tool for making this transition from an outside-in to an inside-out paradigm, that is, for identifying existing habits and learning new ones.
+
+
+My model of why capnometers are so "unreasonably effective" is basically that with Buteyko breathing, part of the problem is that even if you make progress, you can never know if you're pushing so hard that you've overshot your CO~2~ and are now having too much CO2. You can't really avoid this problem because both too low CO~2~ and too high CO~2~ feel pretty much exactly the same -- air hunger. So a capnometer is what actually lets you know for sure whether you are undershooting, just right, or overshooting.
+
+It's just super helpful to _see_ what your breath looks like. Buteyko breathing can feel _scary_ because you don't know if you're going too hard and might be harming yourself. Hooking yourself up to a capnometer tells you whether your CO~2~ levels are normal.
