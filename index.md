@@ -100,7 +100,7 @@ $$7.4 \approx 6.1 + \log_{10}\left(\frac{24}{0.0307 \cdot 40}\right)$$
 
 above are the values for a normal person.
 
-When I first used a capnometer, my CO~2~ was around 25\ mmHg. So to get the same pH, my bicarbonate level must have been around 15:
+When I first used a capnometer, my CO~2~ was around 25\ mmHg. So to get the same pH, my bicarbonate level must have been around 15 (here I'm basically solving for the equation $24/40 = x/25$):
 
 $$7.4 \approx 6.1 + \log_{10}\left(\frac{15}{0.0307 \cdot 25}\right)$$
 
@@ -110,9 +110,9 @@ Now let's say both individuals do a breath hold to raise their PCO~2~ by 5\ mmHg
 
 So what we've established is:
 
-- If you have shortness of breath with no clear medical cause, it is likely that your CO~2~ (and thus bicarbonate) levels are too low.
+- If you have shortness of breath with no clear medical cause, it is likely that your CO~2~ level (and thus bicarbonate level) is too low.
 - Low CO~2~ means you are more sensitive to changes in CO~2~, in particular to increases in it. This is why you always feel short of breath.
-- The solution is _not_ to "take a deep breath" and get more oxygen, but rather, to breathe _less_ so that you gradually raise your CO~2~ levels. The emphasis is on the word "gradually". If you just hold your breath in the hopes of raising your CO~2~, you will just give yourself a panic attack. The kidneys take time to adjust the bicarbonate levels. So you want to sit with a slight-to-moderate amount of air hunger, over the course of days and weeks, so as to gradually raise your baseline CO~2~. How to do this? We'll discuss breathing techniques and breathing habits more elsewhere in this document.
+- The solution is _not_ to "take a deep breath" and get more oxygen, but rather, to breathe _less_ so that you _gradually_ raise your CO~2~ levels. The emphasis is on the word "gradually". If you just hold your breath as long as possible in the hopes of raising your CO~2~, you will just give yourself a panic attack. The kidneys take time to adjust the bicarbonate levels. So you want to sit with a slight-to-moderate amount of air hunger, over the course of days and weeks, so as to gradually raise your baseline CO~2~. How to do this? We'll discuss breathing techniques and breathing habits more elsewhere in this document.
 
 ## Analysis of Howard Cooper videos
 
@@ -241,18 +241,18 @@ Now, here are the main strategies I recommend for clearing your nose so you can 
 
 Important note: as you start breathing through your nose more, you should find that your nose becomes less blocked even without doing these things. I used to need the nose strips _a lot_ when I first started nasal breathing. But now I hardly need them. So these techniques should be thought of as temporary crutches -- or like training wheels on a bicycle. They are there to help jump start your nasal breathing until your nose is strong enough, but you shouldn't need them forever. I had a clear shift when I first switched to nasal breathing, and then a second shift when I switched to _silent_ nasal breathing. It seems odd that my nose would clear up with _less_ air moving through the nose. My hypothesis is that either my health in general got better, or maybe less air means less irritation.
 
-Definitely don't get surgery, unless you've tried all the safe options and nothing works. I think the mainstream medical world understates the risks here, e.g., you should read about empty nose syndrome. @nestor2020 has a bit about this.
+Definitely don't get surgery, unless you've tried all the safe options and nothing works. I think the mainstream medical world understates the risks here, e.g., you should read about empty nose syndrome. @nestor2020 has a bit about this. See also @sager2024 for a random encouraging anecdote that I came across on Twitter.
 
 i should say something about mouth taping as well. i don't have any _strong_ argument again it, but i have personally not done it. as you improve your breathing, you mouth should automatically close. so mouth taping is, in my view, unnecessary in the long-term. what about the short term? after all, all the other nose-unblocking stuff i'm recommending are short-term crutches as well. i think in the short term maybe it's completely fine? i was just personally scared of using it, and never needed it.
 
 my nose still sometimes feels unblocked in the morning. not sure what's going on there.
 
 
-# On the unreasonable effectiveness of capnometers
+# The unreasonable effectiveness of capnometers
 
 One might naively expect that capnometers would be useless, since they don't actually _do_ anything to your breathing. All of the breathing changes you make are ones you make yourself, and the capnometer just tells you what your CO~2~ levels are without affecting them. One might thus conclude that capnometers are useless. I don't have a great reply to this -- in fact, some people seem to get better just by doing Buteyko breathing "blind" (i.e., without seeing their breathing curve using a capnometer). So clearly it _is_ possible to do the same things without a capnometer. (Even Peter Litchfield admits this to some extent.[^capnocourse]) But in my case, it was only after I got a capnometer that I saw rapid progress. Here I will try to build a model of _why_ having a capnometer is so useful.
 
-[^capnocourse]: From the @capnolearningcourse:
+[^capnocourse]: From @capnolearningcourse:
 
     > You may be wondering, "can I benefit from the course without using technology?"  The answer, of course, is a resounding YES.  The ultimate objective of breathing behavior analysis work is NOT about learning to use technology for manipulating breathing with physical techniques, i.e., an outside-in paradigm, but rather it is about learning new breathing habits that automatically optimize respiration, that is, aligning breathing with respiration based on the principles of self-regulation, an inside-out paradigm.  The CapnoTrainer GO technology is a powerful tool for making this transition from an outside-in to an inside-out paradigm, that is, for identifying existing habits and learning new ones.
 

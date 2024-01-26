@@ -7,7 +7,7 @@
 \usepackage[T1]{fontenc}
 
 \usepackage[backend=biber,style=authoryear]{biblatex}
-\addbibresource{references.bib}
+\addbibresource{$bibliography$}
 
 \usepackage{hyperref}
 \hypersetup{bookmarksnumbered}
@@ -25,6 +25,10 @@
 \begin{document}
 \maketitle
 
+% Not sure why, but using 0 or no optional argument makes all the
+% other bookmarks be sub-bookmarks to the Contents bookmark. Using 1
+% makes all the bookmarks appear on the same level.
+\pdfbookmark[1]{\contentsname}{toc}
 \tableofcontents
 
 $body$
