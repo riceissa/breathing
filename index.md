@@ -229,3 +229,5 @@ i still have a lot to learn here. apparently some posture techniques can be quit
 # Breathing synthesis
 
 [TODO: fill in later]
+
+# References {.unnumbered}
