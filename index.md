@@ -4,9 +4,11 @@ author: Issa Rice
 date: 2024-01-24
 ---
 
-# Warning/disclaimer
+# Warning/disclaimer and disclosures
 
 THIS IS A DRAFT.  THIS IS NOT PERSONALIZED MEDICAL ADVICE.  USE AT YOUR OWN RISK. (At the same time, I _am_ interested in improving this document, so if you think I am recommending something unsafe or I am making some other sort of error, I'd like to know about it. Email me at <riceissa@gmail.com>.)
+
+As for disclosures, I have nothing to disclose: I am not selling anything. This document is freely available. I am not affiliated with any of the products or services I recommend in this document. I don't use affiliate links.
 
 # Why this document?
 
@@ -84,7 +86,7 @@ Okay, so CO~2~ levels (partial pressure?) in the blood regulate breathing. Now l
 
 [... some more stuff here ...]
 
-The important point is that because of the form of the Henderson--Hasselbalch equation, the more CO~2~ you have, the less sensitive pH is to slight increases in CO~2~. So breath holding for a few seconds does not cause air hunger/panic. Whereas if your CO~2~ is already too low (hypocapnia), then your pH is still normal (thanks to the bicarbonate levels being adjusted by your kidneys), but because of the low CO~2~, even slight changes in CO~2~ can cause large shifts in pH. I think it's this increase in pH that triggers a strong sense of air hunger. If you give in to this urge and breathe, then your pH will be restored, so _temporarily_ you will feel better. But if you keep giving into this urge and breathing more and more, then over time you're shifting down your bicarbonate buffer even more. Your body adjusts. But that means your baseline CO~2~ also keeps decreasing. So now you're _even more_ sensitive to slight increases in CO~2~. It's a vicious cycle.
+The important point is that because of the form of the Henderson--Hasselbalch equation, the more CO~2~ you have, the less sensitive pH is to slight increases in CO~2~. So breath holding for a few seconds does not cause air hunger/panic. Whereas if your CO~2~ is already too low (hypocapnia), then your pH is still normal (thanks to the bicarbonate levels being adjusted by your kidneys), but because of the low CO~2~, even slight changes in CO~2~ can cause large shifts in pH. I think it's this increase in pH that triggers a strong sense of air hunger. If you give in to this urge and breathe, then your pH will be restored, so _temporarily_ you will feel better. But if you keep giving into this urge and breathing more and more, then over time you're shifting down your bicarbonate buffer even more. Your body adjusts. But that means your baseline CO~2~ also keeps decreasing. So now you're _even more_ sensitive to slight increases in CO~2~. It's a vicious cycle. (and this isn't even talking about the negative health effects of low CO~2~.)
 
 Let's look at some numbers.
 
@@ -98,6 +100,7 @@ $$7.4 \approx 6.1 + \log_{10}\left(\frac{15}{0.0307 \cdot 25}\right)$$
 
 Now let's say both individuals do a breath hold to raise their PCO~2~ by 5\ mmHg. In the case of the healthy person, their pH goes down to 7.34, but in the chronic overbreather's case, it goes down to 7.31.
 
+## Summary
 
 So what we've established is:
 
@@ -105,6 +108,7 @@ So what we've established is:
 - Low CO~2~ means you are more sensitive to changes in CO~2~, in particular to increases in it. This is why you always feel short of breath.
 - The solution is _not_ to "take a deep breath" and get more oxygen, but rather, to breathe _less_ so that you gradually raise your CO~2~ levels. The emphasis is on the word "gradually". If you just hold your breath in the hopes of raising your CO~2~, you will just give yourself a panic attack. The kidneys take time to adjust the bicarbonate levels. So you want to sit with a slight-to-moderate amount of air hunger, over the course of days and weeks, so as to gradually raise your baseline CO~2~. How to do this? We'll discuss breathing techniques and breathing habits more elsewhere in this document.
 
+## Analysis of Howard Cooper videos
 
 What does Howard Cooper's explanation get wrong?
 
@@ -114,7 +118,7 @@ What does Howard Cooper's explanation get wrong?
 
 more notes on howard cooper videos:
 
-video 1: <https://invidious.slipfox.xyz/watch?v=XliOGg8Tl98>
+video 1: [@cooper2021]
 
 (why am i making such a big deal out of his videos? it's because it's the first resource that really made things click for me. it's what got me to start doing breath pauses and nasal breathing. but it wasn't sufficient because it got the theory a bit wrong and also didn't have a good solution other than "do some breath pauses" which i now think are not the most effective way to cure air hunger. so, i want to take the good stuff from this video while also correcting the stuff it got wrong.)
 
@@ -155,7 +159,7 @@ sequence/flow of the video:
 - anxiety cycle -- being hyperfixated on breathing. anxiety causes you to overbreathe, and you maintain your air hunger, and the air hunger makes you more worried about breathing. so there's a vicious cycle. so need to treat both breathing and anxiety.
 
 
-# Is normal breathing universal?
+# Is healthy breathing the same for everyone?/Is normal breathing universal?
 
 One of the weird things I discovered while using the CapnoTrainer is that the breathing style that brought CO~2~ levels up to normal in the most effortless way turned out to be what the Buteyko people have been saying all along: silent nasal breathing. This raises the question of whether there is some universally "optimal" breathing style that everyone should have, or if it's more of a preference (different people can have different breathing styles, but what matters is that your CO~2~ levels are normal and you don't have air hunger or other breathing issues).
 
