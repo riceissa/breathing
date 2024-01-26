@@ -51,6 +51,8 @@ The other thing I want to say about safety.  It's not helpful when people just t
 
 i also don't want to just put a big safety warning at the start, and then not mention safety at all later on. safety will be a concern throughout. but, also, i will have a safety section here to give an overview of what you might experience.
 
+because i have a lot of health anxiety i am pretty nervous to try new things. i think a lot of buteyko people don't have this same orientation. like, they are in it to get superpowers or something (like sleeping only 2 hours a day) and not out of a sense of desperation to breathe like a normal person. so in some sense this document is like a maximally cautious, "only in it for the health improvements" version.
+
 ## Accidental meditation
 
 as you try to normalize your breath, you're constantly paying attention to the way you breathe, and that's essentially the mental motion that meditators make (at least, when they do the kind of meditation where they focus on their breath). could you be accidentally meditating by trying to fix your air hunger? is that why the intracranial pressure happens? how can we correct the breath without risking accidentally meditating?
@@ -280,5 +282,15 @@ One of the disagreements I've seen in the breathing world is the emphasis betwee
 I find myself somewhere in between these two views. In a sense, I think both sides are right, and it's actually quite important to understand what's going on here. Techniques are a way of _learning_ a thing. Once you've learned it, you don't need to "follow a technique" anymore, it's just a part of you. But having it verbally, explicitly, legibly, outlined is a useful step in actually learning the thing initially. You follow the technique, you get anxious about whether you're doing it right, you get obsessed about it, you get good at it, and then finally you get bored of it. It's all part of the _overlearning_ process. Once your bodymind digests it, it poops out the scaffolding of the technique and you can just Do The Thing. See also the four stages of competence [@fourstageswikipedia].
 
 So yes, do the techniques. Learn them so well that you get bored of them and forget about them.
+
+# Breathing techniques
+
+## Relaxed silent breathing
+
+This one is most similar to @rakhimov2013advanced [section 4.6, "Relaxing the diaphragm (Buteyko relaxed breathing exercise)"]. sit upright in a comfortable way. breathe silently through your nose. then just try to make sure the exhale is done in a completely relaxed way, where your whole body (but esp diaphragm) relaxes. you are NOT pushing the air out. just a whole-body relaxation on every exhale. on each exhale scan ONE body part for tenseness. shoulders? torso? legs? etc. just focus on one body part at a time, and try to relax it on the exhale, and keep it relaxed. The idea of this exercise is that just by relaxing the exhale, your breathing should slow down and so it actually IS a (mild) reduced breathing exercise even though it just seems like a relaxation one. Do this for like 15 mins. Attention drifting during the exercise is a GOOD thing. here's why. you want to make sure this style of breathing becomes a HABIT, so you want your mind to drift away from your breath. the important part is that whenever you realize you have drifted and you're aware of your breathing again, to just gently check to make sure you're still doing the completely relaxed exhale, and that your body isn't tense.
+
+## Many small breath holds
+
+@tranter2022 -- the actual exercise starts around 7:46.
 
 # References {.unnumbered}
