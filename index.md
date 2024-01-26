@@ -305,7 +305,7 @@ Reminder that none of these techniques will work if you can't breathe through yo
 
 ## Relaxed silent breathing
 
-This one is most similar to @rakhimov2013advanced [section 4.6, "Relaxing the diaphragm (Buteyko relaxed breathing exercise)"], but Neil Tranter also has a similar video [@tranter2023relaxed].
+This one is most similar to @rakhimov2013advanced [section 4.6, "Relaxing the diaphragm (Buteyko relaxed breathing exercise)"], but Neil Tranter also has a similar video [@tranter2023relaxed]. @novozhilov2012 has similar exercises too (e.g., Exercise 1).
 
 sit upright in a comfortable way. breathe silently through your nose. then just try to make sure the exhale is done in a completely relaxed way, where your whole body (but esp diaphragm) relaxes. you are NOT pushing the air out. just a whole-body relaxation on every exhale. on each exhale scan ONE body part for tenseness. shoulders? torso? legs? etc. just focus on one body part at a time, and try to relax it on the exhale, and keep it relaxed. The idea of this exercise is that just by relaxing the exhale, your breathing should slow down and so it actually IS a (mild) reduced breathing exercise even though it just seems like a relaxation one. Do this for like 15 mins. Attention drifting during the exercise is a GOOD thing. here's why. you want to make sure this style of breathing becomes a HABIT, so you want your mind to drift away from your breath. the important part is that whenever you realize you have drifted and you're aware of your breathing again, to just gently check to make sure you're still doing the completely relaxed exhale, and that your body isn't tense.
 
