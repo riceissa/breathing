@@ -1,5 +1,5 @@
 ---
-title: My thoughts on breathing, with an emphasis on dealing with chronic shortness of breath
+title: [draft] My thoughts on breathing, with an emphasis on dealing with chronic shortness of breath
 author: Issa Rice
 date: 2024-01-24
 ---
@@ -25,6 +25,8 @@ i will be critiquing a lot of sources as i discuss them. i don't want to sound t
 note to self: this document should have a tightly focused scope. it's to explain what is going on biologically in air hunger, and then explain _how to get out of that state_. all my other random thoughts about breathing should be put somewhere else. ask: will this directly help someone who is suffering from shortness of breath?
 
 a note for breathing experts: if you're wondering what the philosophy of this document is in a few words, check out the [Breathing synthesis] section. In short, my philosophy is the "Buteyko method" + the "Alexander Technique" + capnometry biofeedback, with the first two terms in quotes because I'm sort of doing my own bastardized versions of them, and wouldn't want to claim I am propagating the "real thing". If you don't know what any of the three terms mean, don't worry! They will all be explained in the course of this document.
+
+i think a lot of resources are needlessly general, to the point where the reader has to do a lot of work to figure out which parts to ignore and which parts to follow. trying to satisfy everyone by writing super generally means everyone gets a decent but not great experience. so i'm solving this problem by writing for an extremely specific audience: people like my past self. this will make the document useless or only tangentially relevant to a lot of people, but for the intended audience, it will be _exactly_ what they need. i'll try to make this document a self-contained do-it-yourself guide on how to overcome shortness of breath.
 
 # Ruling out more serious medical problems
 
@@ -73,6 +75,8 @@ The central thing we're trying to explain here is: why is it that if you have sh
 The chemistry of respiration
 
 What causes the urge to breathe? Humans have what are called chemoreceptors in their brain (and some other places) that tell the body to breathe. How do chemoreceptors know _when_ to breathe? They watch out for signals from the body, in the form of carbon dioxide levels, oxygen levels, and blood pH. Most of the time, when people breathe, it is because the carbon dioxide level increased above some threshold. Oxygen only triggers breathing when it gets really low (so low that I don't think most humans experience it except on very rare occasions). I think blood pH also matters, but maybe only during exercise? (but it might matter more for air hunger; see below).
+
+i'm not very attached to "high levels of CO2 are super healthy". i honestly haven't vetted the claims. but basically everyone (including mainstream western medicine) agrees that 35--45\ mmHg is the healthy range for partial pressure of CO~2~.
 
 ## Chronic overbreathing and the bicarbonate buffer system
 
@@ -197,7 +201,7 @@ This page used to use the phrase "sequence of moving targets" rather than "seque
 
 Here is the sequence I am thinking of:
 
-1. Initially, because I was still mouth-breathing a significant percentage of the time (20%?), my constraint was to do nasal breathing. _Any_ nasal breathing. The goal was simply to get away from the habit of mouth breathing. Nasal breathing is a good first target because (a) it's extremely obvious whether any particular breath happens through the nose or mouth; and (b) on its own it already has pretty dramatic effects (see James Nestor's book _Breath_ for a lot more detail on this). Achieving nose breathing itself occurs in two stages:
+1. Initially, because I was still mouth-breathing a significant percentage of the time (20%?), my constraint was to do nasal breathing. _Any_ nasal breathing. The goal was simply to get away from the habit of mouth breathing. Nasal breathing is a good first target because (a) it's extremely obvious whether any particular breath happens through the nose or mouth; and (b) on its own it already has pretty dramatic effects (see @nestor2020 for a lot more detail on this). Achieving nose breathing itself occurs in two stages:
 	- Consciously do nasal breathing. You use any and all tools you have to try to nose breathe: just anxiously paying attention all the time, nasal strips, nose cones, azelastine, NeilMed, allergy sheets, etc. (Flonase is another option that _might_ help people but it didn't work for me because of side-effects and there's a chance it builds up a dependence even though it's not supposed to?) You want to get to a point where the only times you mouth breathe are when you have to blow your nose, when you swim, when you take a shower, or things like that. I nose breathe even with a mask on, even when I'm brushing my teeth, and as much as possible even in my sleep (mouth taping might help with this). (This step took around 1 month for me.)
 	- Eventually, it becomes automatic, and you won't even need the training wheels. (After a month, my nasal breathing became habitual/automatic. I remained at this stage for the next 4 months or so, not because I wanted to but because I wasn't sure what to do next.)
 2. Next stage: silence your breath.
@@ -208,12 +212,13 @@ Here is the sequence I am thinking of:
     - This one is tricky because I notice that as I try to do it my diaphragm can get sore if I do it wrong. In particular, it can sometimes help to break the "silent" rule in order to get the breath smoother. There's a distinction between breathing in a way so that you aren't hypocapnic, and breathing in a way that is comfortable and not painful to your body. Every combination is possible.
 2. Next stage: slow down your breath.
     - Your breath should already be slower if it's more quiet and smooth. But when you're trying to make it quiet or smooth, you don't want to focus on slowing it down … that just makes you uncomfortable because you're not used to that much air hunger. But once your breath is silent and smooth, it's time to focus on slowing it down. I still haven't gotten to this stage so I don't know how slow is optimal. I suspect this is the point where an HRV monitor or such would be handy: there might be individual variation in the optimal rate. Notice how it's much harder to say what "slow breath" is compared to "nasal breath" or "silent breath" or "smooth breath", and it is much harder to track without an instrument like a capnometer (counting in your head all the time seems annoying!).
+    - UPDATE (2024-01-26): i am thinking more and more that slowing your breath is unnecessary; it's like the diaphragm thing and it automatically happens. i think some of the buteyko people also say the same thing.
 
 Note that the above is essentially (some of the particular techniques taught in) Buteyko breathing. The differences are: (1) pedagogical, in that I think focusing on each step in sequence works a lot better, and (2) whether to use a CapnoTrainer to help with some of the steps.
 
 ## Any more stages?
 
-upper chest (intercostals) vs diaphragm? i feel like this one happens automatically by doing the ones above. But for some reason this is like the focus of many breathing gurus/meditation experts. but it's not necessary!
+upper chest (intercostals) vs diaphragm? i feel like this one happens automatically by doing the ones above. But for some reason this is like the focus of many breathing gurus/meditation experts. but it's not necessary! in fact, i think it can be harmful to focus on your diaphragm too much -- it leads to exaggerated/forceful movement of it which can cause overbreathing/sore muscles. like, sure, it's fine to check your abdomen to see that you are generally breathing with your diaphragm more than upper chest, but it shouldn't be a target.
 
 
 # Clearing your nose
@@ -236,9 +241,11 @@ Now, here are the main strategies I recommend for clearing your nose so you can 
 
 Important note: as you start breathing through your nose more, you should find that your nose becomes less blocked even without doing these things. I used to need the nose strips _a lot_ when I first started nasal breathing. But now I hardly need them. So these techniques should be thought of as temporary crutches -- or like training wheels on a bicycle. They are there to help jump start your nasal breathing until your nose is strong enough, but you shouldn't need them forever. I had a clear shift when I first switched to nasal breathing, and then a second shift when I switched to _silent_ nasal breathing. It seems odd that my nose would clear up with _less_ air moving through the nose. My hypothesis is that either my health in general got better, or maybe less air means less irritation.
 
-Definitely don't get surgery, unless you've tried all the safe options and nothing works. I think the mainstream medical world understates the risks here, e.g., you should read about empty nose syndrome. James Nestor's book _Breath_ has a bit about this.
+Definitely don't get surgery, unless you've tried all the safe options and nothing works. I think the mainstream medical world understates the risks here, e.g., you should read about empty nose syndrome. @nestor2020 has a bit about this.
 
 i should say something about mouth taping as well. i don't have any _strong_ argument again it, but i have personally not done it. as you improve your breathing, you mouth should automatically close. so mouth taping is, in my view, unnecessary in the long-term. what about the short term? after all, all the other nose-unblocking stuff i'm recommending are short-term crutches as well. i think in the short term maybe it's completely fine? i was just personally scared of using it, and never needed it.
+
+my nose still sometimes feels unblocked in the morning. not sure what's going on there.
 
 
 # On the unreasonable effectiveness of capnometers
