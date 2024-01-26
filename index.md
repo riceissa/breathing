@@ -78,6 +78,8 @@ What causes the urge to breathe? Humans have what are called chemoreceptors in t
 
 acid--base balance, bicarbonate buffer model
 
+mention how people with shortness of breath might not think they are hyperventilating. For example I don't think I've ever overtly hyperventilated in my life. And yet, I was constantly low-grade overbreathing. @breathingdisordersbookchapter4 [p. 68] says "Hyperventilation tends to persist in many people, and once a pattern of overbreathing is established it can be maintained by only a 10% increase in minute volume, which could be achieved by a combination of deeper breaths, faster breathing, or an occasional sigh".
+
 ## The Henderson--Hasselbalch equation and CO~2~ tolerance
 
 [argh, this is kind of hard to explain well. curse of knowledge...]
