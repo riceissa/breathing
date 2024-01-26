@@ -18,9 +18,11 @@ i will be critiquing a lot of sources as i discuss them. i don't want to sound t
 
 note to self: this document should have a tightly focused scope. it's to explain what is going on biologically in air hunger, and then explain _how to get out of that state_. all my other random thoughts about breathing should be put somewhere else. ask: will this directly help someone who is suffering from shortness of breath?
 
-# On ruling out more serious medical problems
+# Ruling out more serious medical problems
 
-I think as a first step, it's a good idea to rule out any standard problems with the lungs, by e.g.\ doing a chest x-ray, pulmonary function test, etc. I will say more about what tests I got done and why. The breathing stuff I describe later in the document _might_ help with your breathing anyway, even if you have a problem with your lungs, but you definitely want to know if you do have problems and to get proper treatment.
+I think as a first step, it's a good idea to rule out any standard problems with the lungs or other body organs, by e.g.\ doing a chest x-ray, pulmonary function test, blood test, etc. I will say more about what tests I got done and why. The breathing stuff I describe later in the document _might_ help with your breathing anyway, even if you have a problem with your lungs, but you definitely want to know if you do have problems and to get proper treatment for those before progressing to any breathing modification.
+
+<https://youtu.be/G3YHBYVxxmI?t=1049> -- Chris Gilbert lists a bunch of possible reasons for hyperventilation that _aren't_ just anxiety/stress.
 
 [TODO: add more details]
 
@@ -37,6 +39,7 @@ When I started practicing silent nasal breathing, I got a few weird symptoms inc
 
 The other thing I want to say about safety.  It's not helpful when people just tell you a blanket "if you have health issues, don't attempt this". Part of _why_ I'm interested in fixing my breathing is because I already have breathing and other health issues. I shouldn't automatically be turned away from trying to solve these issues! So, I don't want to _ignore_ safety issues, but I also don't want to give useless cowardly ass-covering safety warnings. How to avoid both problems?
 
+i also don't want to just put a big safety warning at the start, and then not mention safety at all later on. safety will be a concern throughout. but, also, i will have a safety section here to give an overview of what you might experience.
 
 ## Accidental meditation
 
@@ -45,7 +48,21 @@ as you try to normalize your breath, you're constantly paying attention to the w
 i don't have any good answers yet. i'm still working through this myself. for the head pressure, it was somewhat bad for one day, but then after that it just got better on its own. i've also been just trying to do other stuff, so that even as i do inevitably bring my attention back to my breath to see if i'm still doing silent nasal breathing, i'm not just sitting there doing that the entire day.
 
 
-# The simple math of respiration (acid--base balance, bicarbonate buffer model, and the Henderson--Hasselbalch equation)
+# The biological basis of shortness of breath
+
+If you followed my advice and ruled out serious medical problems with a doctor, you may be thinking there is no biological cause of your shortness of breath, that it is just all "in your head". Certainly this is what doctors kept telling _me_, that it was all due to anxiety or some other hard-to-verify physical cause like mast cell activation (primary care physician, two pulmonologists, allergist).
+
+It turns out that there is a pretty well-understood cause of air hunger! But to understand it, we need to have a decent understanding of the chemistry of respiration; in particular we'll need to correct some misconceptions about breathing. So that's what this section is about.
+
+## Respiration and misconceptions about CO~2~
+
+The chemistry of respiration
+
+## Chronic overbreathing and the bicarbonate buffer system
+
+acid--base balance, bicarbonate buffer model
+
+## The Henderson--Hasselbalch equation and CO~2~ tolerance
 
 The aim of this section is to give you a useful mechanistic model of how respiration works. I will skip a lot of details because while it's helpful to know them, they aren't essential.
 
@@ -95,11 +112,11 @@ video 1: <https://invidious.slipfox.xyz/watch?v=XliOGg8Tl98>
 
 (why am i making such a big deal out of his videos? it's because it's the first resource that really made things click for me. it's what got me to start doing breath pauses and nasal breathing. but it wasn't sufficient because it got the theory a bit wrong and also didn't have a good solution other than "do some breath pauses" which i now think are not the most effective way to cure air hunger. so, i want to take the good stuff from this video while also correcting the stuff it got wrong.)
 
-sequence/flow of the video (first person pronoun is from the perspective of howard cooper):
+sequence/flow of the video:
 
 - this video is about air hunger and anxiety
-- i personally had air hunger, and it was real bad
-- but people told me to do breathing exercises: this just made it worse! being conscious of my breathing made it worse.
+- cooper personally had air hunger, and it was real bad
+- but people told cooper to do breathing exercises: this just made it worse! being conscious of his breathing made it worse.
 - there is a physical cause of air hunger; it's not in your head.
 - caveat: but make sure you get checked out by a doctor. the rest of this video assumes you have nothing obviously wrong.
 - carbon dioxide: cells take in oxygen and release CO2. when CO2 builds up, you get an urge to breathe.
@@ -117,7 +134,7 @@ sequence/flow of the video (first person pronoun is from the perspective of howa
 
 video 2: <https://invidious.slipfox.xyz/watch?v=RLMjvDYJL6Q>
 
-sequence/flow of the video (first person pronoun is from the perspective of howard cooper):
+sequence/flow of the video:
 
 - this video is about air hunger.
 - check with doctor first.
