@@ -1,7 +1,8 @@
 ---
 title: '[draft] My thoughts on breathing, with an emphasis on dealing with chronic shortness of breath'
 author: Issa Rice
-date: 2024-01-24
+created: 2024-01-24
+date: 2024-01-26
 ---
 
 # Warning/disclaimer and disclosures
@@ -9,6 +10,8 @@ date: 2024-01-24
 THIS IS A DRAFT.  THIS IS NOT PERSONALIZED MEDICAL ADVICE.  USE AT YOUR OWN RISK. See the section [Safety] below for more details. (At the same time, I _am_ interested in improving this document, so if you think I am recommending something unsafe or I am making some other sort of error, I'd like to know about it. Email me at <riceissa@gmail.com>.)
 
 As for disclosures, I have nothing to disclose: I am not selling anything. This document is freely available. I am not affiliated with any of the products or services I recommend in this document. I don't use affiliate links.
+
+also, while i've made significant progress on overcoming shortness of breath, as of this writing i _still experience it daily_. so i think there's still insights i need to discover. but i think i am on the right track in a way that i was _not_ before mid-2023, so i think at this point it makes sense to start writing things up and collecting it all in one place, so that as i keep learning i can edit this document.
 
 # Why this document?
 
@@ -107,6 +110,19 @@ When I first used a capnometer, my CO~2~ was around 25\ mmHg. So to get the same
 $$7.4 \approx 6.1 + \log_{10}\left(\frac{15}{0.0307 \cdot 25}\right)$$
 
 Now let's say both individuals do a breath hold to raise their PCO~2~ by 5\ mmHg. In the case of the healthy person, their pH goes down to 7.34, but in the chronic overbreather's case, it goes down to 7.31.
+
+
+
+for advanced buteyko practitioners however, my current guess is that their PCO~2~ levels are normal (40--45\ mmHg). so now, how do we explain how they can hold their breaths for so long? i think some other factors are at play here including:
+
+- less sensitive chemoreceptors
+- hemoglobin count or efficiency
+- myoglobin count or efficiency
+- reduced or more efficient cellular metabolish (slower rate of generation of CO2)
+- higher lung capacity
+
+some of the above may also be happening in going from chronic overbreather to normal breather, but it's not obviously necessary to explain the differences in CO~2~ tolerance between overbreather and normal.
+
 
 ## Summary
 
@@ -285,12 +301,26 @@ So yes, do the techniques. Learn them so well that you get bored of them and for
 
 # Breathing techniques
 
+Reminder that none of these techniques will work if you can't breathe through your nose comfortably. See the section [Clearing your nose] for how to unblock your nose.
+
 ## Relaxed silent breathing
 
-This one is most similar to @rakhimov2013advanced [section 4.6, "Relaxing the diaphragm (Buteyko relaxed breathing exercise)"]. sit upright in a comfortable way. breathe silently through your nose. then just try to make sure the exhale is done in a completely relaxed way, where your whole body (but esp diaphragm) relaxes. you are NOT pushing the air out. just a whole-body relaxation on every exhale. on each exhale scan ONE body part for tenseness. shoulders? torso? legs? etc. just focus on one body part at a time, and try to relax it on the exhale, and keep it relaxed. The idea of this exercise is that just by relaxing the exhale, your breathing should slow down and so it actually IS a (mild) reduced breathing exercise even though it just seems like a relaxation one. Do this for like 15 mins. Attention drifting during the exercise is a GOOD thing. here's why. you want to make sure this style of breathing becomes a HABIT, so you want your mind to drift away from your breath. the important part is that whenever you realize you have drifted and you're aware of your breathing again, to just gently check to make sure you're still doing the completely relaxed exhale, and that your body isn't tense.
+This one is most similar to @rakhimov2013advanced [section 4.6, "Relaxing the diaphragm (Buteyko relaxed breathing exercise)"], but Neil Tranter also has a similar video [@tranter2023relaxed].
+
+sit upright in a comfortable way. breathe silently through your nose. then just try to make sure the exhale is done in a completely relaxed way, where your whole body (but esp diaphragm) relaxes. you are NOT pushing the air out. just a whole-body relaxation on every exhale. on each exhale scan ONE body part for tenseness. shoulders? torso? legs? etc. just focus on one body part at a time, and try to relax it on the exhale, and keep it relaxed. The idea of this exercise is that just by relaxing the exhale, your breathing should slow down and so it actually IS a (mild) reduced breathing exercise even though it just seems like a relaxation one. Do this for like 15 mins. Attention drifting during the exercise is a GOOD thing. here's why. you want to make sure this style of breathing becomes a HABIT, so you want your mind to drift away from your breath. the important part is that whenever you realize you have drifted and you're aware of your breathing again, to just gently check to make sure you're still doing the completely relaxed exhale, and that your body isn't tense.
+
+note that i use the word "silent" rather than "quiet" because for a long time i thought my breathing was quiet, but it turned out my breathing was still making quite a bit of noise compared to what i _could_ do. i don't want others to make the same mistake i did. if your hearing is normal, you should not be able to hear your breathing. if you are hard of hearing, then maybe get someone else to check for you.
+
+the goal is to eventually be breathing in this way all the time. so it's a "technique" but also it is going to become a habit.
 
 ## Many small breath holds
 
-@tranter2022 -- the actual exercise starts around 7:46.
+@tranter2022breathhold -- the actual exercise starts around 7:46.
+
+## Double inhale technique
+
+you take two relatively quick inhales, then exhale in a relaxed way.
+
+This one was shown to me by my breathing coach. I've found this quite useful for getting my body to relax the exhale. i have no idea why it works, but somehow it's just easier to exhale in a relaxed way from a more full inhale.
 
 # References {.unnumbered}
