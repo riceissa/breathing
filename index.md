@@ -66,7 +66,7 @@ The aim of this section is to give you a useful mechanistic model of how respira
 
 The central thing we're trying to explain here is: why is it that if you have shortness of breath, the right thing to do is the breathe _less_, even though your body is telling you to breathe _more_? What is going on at the chemical level when people have shortness of breath?
 
-(This is sort of like [Howard Cooper's video](https://www.youtube.com/watch?v=XliOGg8Tl98 "Help with air hunger - I have anxiety and feel like I can't breathe!") on air hunger, but there are a few things I don't like about his explanation, so I'm going to be writing my own ideal version. But if you prefer a video explanation, then you can start with the video and then come back here.)
+(This is sort of like @cooper2021 on air hunger, but there are a few things I don't like about his explanation, so I'm going to be writing my own ideal version. But if you prefer a video explanation, then you can start with the video and then come back here.)
 
 ## Respiration and misconceptions about CO~2~
 
@@ -209,7 +209,7 @@ i should say something about mouth taping as well. i don't have any _strong_ arg
 
 One might naively expect that capnometers would be useless, since they don't actually _do_ anything to your breathing. All of the breathing changes you make are ones you make yourself, and the capnometer just tells you what your CO~2~ levels are without affecting them. One might thus conclude that capnometers are useless. I don't have a great reply to this -- in fact, some people seem to get better just by doing Buteyko breathing "blind" (i.e., without seeing their breathing curve using a capnometer). So clearly it _is_ possible to do the same things without a capnometer. (Even Peter Litchfield admits this to some extent.[^capnocourse]) But in my case, it was only after I got a capnometer that I saw rapid progress. Here I will try to build a model of _why_ having a capnometer is so useful.
 
-[^capnocourse]: From the [CapnoLearning course page](https://www.thebsj.org/capnolearningcourse):
+[^capnocourse]: From the @capnolearningcourse:
 
     > You may be wondering, "can I benefit from the course without using technology?"  The answer, of course, is a resounding YES.  The ultimate objective of breathing behavior analysis work is NOT about learning to use technology for manipulating breathing with physical techniques, i.e., an outside-in paradigm, but rather it is about learning new breathing habits that automatically optimize respiration, that is, aligning breathing with respiration based on the principles of self-regulation, an inside-out paradigm.  The CapnoTrainer GO technology is a powerful tool for making this transition from an outside-in to an inside-out paradigm, that is, for identifying existing habits and learning new ones.
 
