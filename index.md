@@ -4,9 +4,13 @@ author: Issa Rice
 date: 2024-01-24
 ---
 
-THIS IS A DRAFT.  THIS IS NOT PERSONALIZED MEDICAL ADVICE.  USE AT YOUR OWN RISK. (at the same time, i _am_ interested in improving this document, so if you think i am recommending something unsafe i'd like to know about it)
+# Warning/disclaimer
+
+THIS IS A DRAFT.  THIS IS NOT PERSONALIZED MEDICAL ADVICE.  USE AT YOUR OWN RISK. (At the same time, I _am_ interested in improving this document, so if you think I am recommending something unsafe or I am making some other sort of error, I'd like to know about it. Email me at <riceissa@gmail.com>.)
 
 # Why this document?
+
+there has been a lot written about breathing, both in the academic literature and in self-help/meditation/mindfulness contexts. why am i adding my own words to this vast literature? what value am i adding?
 
 I am writing basically the document I wish someone had handed to me over a decade ago when I first started to experience shortness of breath.
 
@@ -17,6 +21,8 @@ but also, i've noticed a lot of sources making mistakes or not fully explaining 
 i will be critiquing a lot of sources as i discuss them. i don't want to sound too negative -- it's only because of all these sources that i've made significant progress on overcoming my own breathing problem. but seeing how things are explained incorrectly/what can go wrong is one of the best ways to understand why something is the way it is. see [here](https://learning.subwiki.org/wiki/Importance_of_struggling_in_learning) for more on this pedagogical perspective.
 
 note to self: this document should have a tightly focused scope. it's to explain what is going on biologically in air hunger, and then explain _how to get out of that state_. all my other random thoughts about breathing should be put somewhere else. ask: will this directly help someone who is suffering from shortness of breath?
+
+a note for breathing experts: if you're wondering what the philosophy of this document is in a few words, check out the [Breathing synthesis] section. In short, my philosophy is the "Buteyko method" + the "Alexander Technique" + capnometry biofeedback, with the first two terms in quotes because I'm sort of doing my own bastardized versions of them, and wouldn't want to claim I am propagating the "real thing". If you don't know what any of the three terms mean, don't worry! They will all be explained in the course of this document.
 
 # Ruling out more serious medical problems
 
@@ -54,23 +60,23 @@ If you followed my advice and ruled out serious medical problems with a doctor, 
 
 It turns out that there is a pretty well-understood cause of air hunger! But to understand it, we need to have a decent understanding of the chemistry of respiration; in particular we'll need to correct some misconceptions about breathing. So that's what this section is about.
 
-## Respiration and misconceptions about CO~2~
-
-The chemistry of respiration
-
-## Chronic overbreathing and the bicarbonate buffer system
-
-acid--base balance, bicarbonate buffer model
-
-## The Henderson--Hasselbalch equation and CO~2~ tolerance
-
 The aim of this section is to give you a useful mechanistic model of how respiration works. I will skip a lot of details because while it's helpful to know them, they aren't essential.
 
 The central thing we're trying to explain here is: why is it that if you have shortness of breath, the right thing to do is the breathe _less_, even though your body is telling you to breathe _more_? What is going on at the chemical level when people have shortness of breath?
 
 (This is sort of like [Howard Cooper's video](https://www.youtube.com/watch?v=XliOGg8Tl98 "Help with air hunger - I have anxiety and feel like I can't breathe!") on air hunger, but there are a few things I don't like about his explanation, so I'm going to be writing my own ideal version. But if you prefer a video explanation, then you can start with the video and then come back here.)
 
+## Respiration and misconceptions about CO~2~
+
+The chemistry of respiration
+
 What causes the urge to breathe? Humans have what are called chemoreceptors in their brain (and some other places) that tell the body to breathe. How do chemoreceptors know _when_ to breathe? They watch out for signals from the body, in the form of carbon dioxide levels, oxygen levels, and blood pH. Most of the time, when people breathe, it is because the carbon dioxide level increased above some threshold. Oxygen only triggers breathing when it gets really low (so low that I don't think most humans experience it except on very rare occasions). I think blood pH also matters, but maybe only during exercise? (but it might matter more for air hunger; see below).
+
+## Chronic overbreathing and the bicarbonate buffer system
+
+acid--base balance, bicarbonate buffer model
+
+## The Henderson--Hasselbalch equation and CO~2~ tolerance
 
 [argh, this is kind of hard to explain well. curse of knowledge...]
 
@@ -215,3 +221,7 @@ I'm appreciating posture more now -- it really makes silent relaxed breathing ea
 The Buteyko people also emphasize posture, but I have not read much about what they say.
 
 i still have a lot to learn here. apparently some posture techniques can be quite dangerous (can even cause die-off reactions??)
+
+# Breathing synthesis
+
+[TODO: fill in later]
