@@ -186,11 +186,45 @@ i don't know how representative the speed of my improvements is, but it's the on
 
 # Sequence of cumulative constraints of breathing practice
 
-[TODO: move from <https://issarice.com/sequence-of-cumulative-constraints-of-breathing-practice>]
+I think it may be helpful to conceptualize breathing practice[^kind] not as a set of "breathing techniques" that you practice over time to help calm you down or whatever (such as: "when you're feeling anxious, do square breathing; once you feel comfortable with that, you can move onto different patterns like 4-7-8"), but instead as a *sequence of cumulative constraints*. The reason for having a _sequence_ is that it's too hard to pay attention to the more subtle stuff and get it right all on the first try before you get the basics down; each stage might take a month or more. (The other reason for this particular sequence: if you follow the sequence, then by doing the previous steps, you automatically almost do the next stage, so that at each stage you only need to put in a *little* bit of effort, not invent a whole new thing.) The reason for having *constraints* rather than practices is that it mostly doesn't matter *how* you achieve good breathing, you just want the outcome.
+
+This page used to use the phrase "sequence of moving targets" rather than "sequence of cumulative constraints", but I renamed this page because I thought the new version is a more accurate phrasing. Like the Gram--Schmidt process in linear algebra the constraints are cumulative (at each step $n$, you want to make sure that the new vector you create is orthogonal not just to the $(n-1)$th vector, but to *all* the vectors $1, \dots, n-1$. This kind of mechanic also happens a lot in puzzle games where if you get one thing in a "good" state, and then try to get another thing in a "good" state, the first one will turn back into a "bad" state, and the difficulty of the puzzle is to make sure you can get all the good states cumulatively). Also "constraint" feels more accurate than "target" because you're not trying to hit some new breathing pattern some of the time, but rather you're trying to *only* do the "good" kind of breathing *all* of the time.
+
+[^kind]: By "breathing practice", here I specifically mean breathing practice to cure shortness of breath from over-breathing, but it may also apply to meditative practices as well, I don't know.
+
+
+## The sequence
+
+Here is the sequence I am thinking of:
+
+1. Initially, because I was still mouth-breathing a significant percentage of the time (20%?), my constraint was to do nasal breathing. _Any_ nasal breathing. The goal was simply to get away from the habit of mouth breathing. Nasal breathing is a good first target because (a) it's extremely obvious whether any particular breath happens through the nose or mouth; and (b) on its own it already has pretty dramatic effects (see James Nestor's book _Breath_ for a lot more detail on this). Achieving nose breathing itself occurs in two stages:
+	- Consciously do nasal breathing. You use any and all tools you have to try to nose breathe: just anxiously paying attention all the time, nasal strips, nose cones, azelastine, NeilMed, allergy sheets, etc. (Flonase is another option that _might_ help people but it didn't work for me because of side-effects and there's a chance it builds up a dependence even though it's not supposed to?) You want to get to a point where the only times you mouth breathe are when you have to blow your nose, when you swim, when you take a shower, or things like that. I nose breathe even with a mask on, even when I'm brushing my teeth, and as much as possible even in my sleep (mouth taping might help with this). (This step took around 1 month for me.)
+	- Eventually, it becomes automatic, and you won't even need the training wheels. (After a month, my nasal breathing became habitual/automatic. I remained at this stage for the next 4 months or so, not because I wanted to but because I wasn't sure what to do next.)
+2. Next stage: silence your breath.
+    - Same two stages here (conscious/manual techniques, then unconscious/automatic habit). Silent breath is the next constraint because it's also easy to detect: it means you can't hear your own breath at all (neither inhale nor exhale). Silent breath. At least when you're just sitting or standing. I'm not sure how feasible it is yet to have a silent breath while exercising. (This stage took about a week once I got the CapnoTrainer, though arguably it's still ongoing. In particular, there was a 24 hour period where I had a kind of epiphany and figured out how to do this right.)
+    - As with the nose breathing stage, you don't have to get it to be perfect. Sometimes, breathing in a silent way can make your diaphragm or your throat hurt. I think this happens because you're manually trying to control those muscles too hard by tensing them up in the wrong ways. If that's the case, you can try for a while to just make a bit of noise when breathing, just like you might still have "rescue breaths" through your mouth sometimes.
+1. Next stage: smooth your breath.
+    - Even when your breath is through the nose and silent, it can be "jagged" on the CapnoTrainer. It can even *feel* jagged to you, like you're manually forcing air out in little bursts, instead of it just flowing out like it should. I don't know how to fix this one yet, but it seems harder to notice and harder to fix, so that's why it comes later. But the idea, at least for the exhale, is to just try to let go of the breath and naturally let your diaphragm relax. It should feel like your body is just relaxing, instead of exhaling (even though of course you are also exhaling). As I said, I'm still experimenting with this one.
+    - This one is tricky because I notice that as I try to do it my diaphragm can get sore if I do it wrong. In particular, it can sometimes help to break the "silent" rule in order to get the breath smoother. There's a distinction between breathing in a way so that you aren't hypocapnic, and breathing in a way that is comfortable and not painful to your body. Every combination is possible.
+2. Next stage: slow down your breath.
+    - Your breath should already be slower if it's more quiet and smooth. But when you're trying to make it quiet or smooth, you don't want to focus on slowing it down … that just makes you uncomfortable because you're not used to that much air hunger. But once your breath is silent and smooth, it's time to focus on slowing it down. I still haven't gotten to this stage so I don't know how slow is optimal. I suspect this is the point where an HRV monitor or such would be handy: there might be individual variation in the optimal rate. Notice how it's much harder to say what "slow breath" is compared to "nasal breath" or "silent breath" or "smooth breath", and it is much harder to track without an instrument like a capnometer (counting in your head all the time seems annoying!).
+
+Note that the above is essentially (some of the particular techniques taught in) Buteyko breathing. The differences are: (1) pedagogical, in that I think focusing on each step in sequence works a lot better, and (2) whether to use a CapnoTrainer to help with some of the steps.
+
+## Any more stages?
+
+upper chest (intercostals) vs diaphragm? i feel like this one happens automatically by doing the ones above. But for some reason this is like the focus of many breathing gurus/meditation experts. but it's not necessary!
+
 
 # Clearing your nose
 
 In my view, nasal breathing is essential for overcoming shortness of breath. It's also the very first step. There's a lot of strategies here so I'll list a bunch along with what I think of them. My guess is that different ones will work for different people, so you kind of want to try a bunch and see what works (most of these are quite cheap).
+
+I won't say much about _why_ it's better to breathe through your nose, as I think this is already covered pretty well in other sources, in particular @nestor2020, which gives a pretty vivid description of the author's own experiment of breathing solely through his mouth (it's scattered throughout the book, so unfortunately I can't cite a specific chapter).
+
+I think there are two broad ways you can react to "you need to clear your nose". One of them will be to say "Yeah, I hardly ever breathe through my nose; I know I need to work on it but I don't know how". The other is to say "I already breathe through my nose; I don't think I need any advice". For this second type of person I want to mention my own anecdote. Before I started really focusing on my breath, I used to think I was already a nasal breather, but when I started paying attention I realized that I was actually taking quite a few mouth breaths throughout the day. A sure way to find out is to tape your mouth during the day (even for just 15 minutes or so) and see how easy it is for you. I think I probably went from around 80% nose breaths to 99.9% nose breaths by following the strategies listed below (just a wild guess unfortunately because I didn't keep good records); during breathing attacks, I probably went from 10--50% nose breaths to 95% nose breaths. So if you already think you are a nasal breather, I would still try paying attention.
+
+Now, here are the main strategies I recommend for clearing your nose so you can nose breathe more:
 
 - Saline spray: works less well than the saline wash, but it's a lot less unpleasant. it doesn't go "deep" enough, which is why it is both less painful and doesn't work as well. i went through about 1.5 bottles of the NeilMed one (lime green color bottle) before my nose improved enough that I didn't need to use it anymore.
 - Saline wash/netipot: tried this once. it works really well for clearing your nose, but it was also quite unpleasant. make sure to never use tap water for this.
@@ -200,7 +234,7 @@ In my view, nasal breathing is essential for overcoming shortness of breath. It'
 - Antihistamine spray (e.g., azelastine): my guess is azelastine did nothing for me. but maybe it helped a bit with reducing mucus producing during the night. i never tried olopatadine (the more famous antihistamine nasal spray) because my insurance doesn't cover it.
 - Steroid spray (e.g. Flonase): i would stay away from these, unless you already know they work well for you. definitely try all the other ones in the list first. note that there are different kinds of steroid sprays and some of them are _very_ bad to keep using long-term. Flonase is supposed to be one of the safer kinds, but i only used it once so i can't speak to any longer-term effects.
 
-Important note: as you start breathing through your nose more, you should find that your nose becomes less blocked even without doing these things. I used to need the nose strips _a lot_ when I first started nasal breathing. But now I hardly need them. So these techniques should be thought of as temporary crutches -- or like training wheels on a bicycle. They are there to help jump start your nasal breathing until your nose is strong enough, but you shouldn't need them forever.
+Important note: as you start breathing through your nose more, you should find that your nose becomes less blocked even without doing these things. I used to need the nose strips _a lot_ when I first started nasal breathing. But now I hardly need them. So these techniques should be thought of as temporary crutches -- or like training wheels on a bicycle. They are there to help jump start your nasal breathing until your nose is strong enough, but you shouldn't need them forever. I had a clear shift when I first switched to nasal breathing, and then a second shift when I switched to _silent_ nasal breathing. It seems odd that my nose would clear up with _less_ air moving through the nose. My hypothesis is that either my health in general got better, or maybe less air means less irritation.
 
 Definitely don't get surgery, unless you've tried all the safe options and nothing works. I think the mainstream medical world understates the risks here, e.g., you should read about empty nose syndrome. James Nestor's book _Breath_ has a bit about this.
 
@@ -231,5 +265,13 @@ i still have a lot to learn here. apparently some posture techniques can be quit
 # Breathing synthesis
 
 [TODO: fill in later]
+
+# Techniques vs habits
+
+One of the disagreements I've seen in the breathing world is the emphasis between techniques vs habits. Those on the techniques side (such as anxiety specialists and Buteyko practitioners) present various techniques you can use when you are stressed, anxious, or have breathing difficulty. Those on the habits side (such as Peter Litchfield) say that techniques are mere bandage covering up a dysfunctional breathing habit, and that the solution is to unlearn the old habits and introduce new habits.
+
+I find myself somewhere in between these two views. In a sense, I think both sides are right, and it's actually quite important to understand what's going on here. Techniques are a way of _learning_ a thing. Once you've learned it, you don't need to "follow a technique" anymore, it's just a part of you. But having it verbally, explicitly, legibly, outlined is a useful step in actually learning the thing initially. You follow the technique, you get anxious about whether you're doing it right, you get obsessed about it, you get good at it, and then finally you get bored of it. It's all part of the _overlearning_ process. Once your bodymind digests it, it poops out the scaffolding of the technique and you can just Do The Thing. See also the four stages of competence [@fourstageswikipedia].
+
+So yes, do the techniques. Learn them so well that you get bored of them and forget about them.
 
 # References {.unnumbered}
