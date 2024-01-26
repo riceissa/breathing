@@ -62,6 +62,10 @@
     img {
       max-width: 100%;
     }
+    svg {
+      height: auto;
+      max-width: 100%;
+    }
     h1, h2, h3, h4, h5, h6 {
       margin-top: 1.4em;
     }
@@ -154,8 +158,11 @@
     div.columns{display: flex; gap: min(4vw, 1.5em);}
     div.column{flex: auto; overflow-x: auto;}
     div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
-    ul.task-list{list-style: none;}
+    /* The extra [class] is a hack that increases specificity enough to
+       override a similar rule in reveal.js */
+    ul.task-list[class]{list-style: none;}
     ul.task-list li input[type="checkbox"] {
+      font-size: inherit;
       width: 0.8em;
       margin: 0 0.8em 0.2em -1.6em;
       vertical-align: middle;
@@ -164,6 +171,7 @@
     div.csl-bib-body { }
     div.csl-entry {
       clear: both;
+      margin-bottom: 0em;
     }
     .hanging-indent div.csl-entry {
       margin-left:2em;
@@ -180,12 +188,10 @@
     div.csl-indent {
       margin-left: 2em;
     }  </style>
+  <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
   <script
   src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js"
   type="text/javascript"></script>
-  <!--[if lt IE 9]>
-    <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv-printshiv.min.js"></script>
-  <![endif]-->
 </head>
 <body>
 <header id="title-block-header">
@@ -194,6 +200,66 @@ with chronic shortness of breath</h1>
 <p class="author">Issa Rice</p>
 <p class="date">2024-01-24</p>
 </header>
+<nav id="TOC" role="doc-toc">
+<ul>
+<li><a href="#warningdisclaimer-and-disclosures"
+id="toc-warningdisclaimer-and-disclosures">Warning/disclaimer and
+disclosures</a></li>
+<li><a href="#why-this-document" id="toc-why-this-document">Why this
+document?</a></li>
+<li><a href="#ruling-out-more-serious-medical-problems"
+id="toc-ruling-out-more-serious-medical-problems">Ruling out more
+serious medical problems</a></li>
+<li><a href="#safety" id="toc-safety">Safety</a>
+<ul>
+<li><a href="#accidental-meditation"
+id="toc-accidental-meditation">Accidental meditation</a></li>
+</ul></li>
+<li><a href="#the-biological-basis-of-shortness-of-breath"
+id="toc-the-biological-basis-of-shortness-of-breath">The biological
+basis of shortness of breath</a>
+<ul>
+<li><a href="#respiration-and-misconceptions-about-co2"
+id="toc-respiration-and-misconceptions-about-co2">Respiration and
+misconceptions about CO<sub>2</sub></a></li>
+<li><a href="#chronic-overbreathing-and-the-bicarbonate-buffer-system"
+id="toc-chronic-overbreathing-and-the-bicarbonate-buffer-system">Chronic
+overbreathing and the bicarbonate buffer system</a></li>
+<li><a href="#the-hendersonhasselbalch-equation-and-co2-tolerance"
+id="toc-the-hendersonhasselbalch-equation-and-co2-tolerance">The
+Henderson–Hasselbalch equation and CO<sub>2</sub> tolerance</a></li>
+<li><a href="#summary" id="toc-summary">Summary</a></li>
+<li><a href="#analysis-of-howard-cooper-videos"
+id="toc-analysis-of-howard-cooper-videos">Analysis of Howard Cooper
+videos</a></li>
+</ul></li>
+<li><a
+href="#is-healthy-breathing-the-same-for-everyoneis-normal-breathing-universal"
+id="toc-is-healthy-breathing-the-same-for-everyoneis-normal-breathing-universal">Is
+healthy breathing the same for everyone?/Is normal breathing
+universal?</a></li>
+<li><a
+href="#can-you-overshoot-your-co2-levels-by-doing-too-much-reduced-breathing"
+id="toc-can-you-overshoot-your-co2-levels-by-doing-too-much-reduced-breathing">Can
+you overshoot your CO<sub>2</sub> levels by doing too much reduced
+breathing?</a></li>
+<li><a href="#a-short-timeline-of-my-improvements"
+id="toc-a-short-timeline-of-my-improvements">A short timeline of my
+improvements</a></li>
+<li><a href="#sequence-of-cumulative-constraints-of-breathing-practice"
+id="toc-sequence-of-cumulative-constraints-of-breathing-practice">Sequence
+of cumulative constraints of breathing practice</a></li>
+<li><a href="#clearing-your-nose" id="toc-clearing-your-nose">Clearing
+your nose</a></li>
+<li><a href="#on-the-unreasonable-effectiveness-of-capnometers"
+id="toc-on-the-unreasonable-effectiveness-of-capnometers">On the
+unreasonable effectiveness of capnometers</a></li>
+<li><a href="#posture" id="toc-posture">Posture</a></li>
+<li><a href="#breathing-synthesis"
+id="toc-breathing-synthesis">Breathing synthesis</a></li>
+<li><a href="#references" id="toc-references">References</a></li>
+</ul>
+</nav>
 <h1 id="warningdisclaimer-and-disclosures">Warning/disclaimer and
 disclosures</h1>
 <p>THIS IS A DRAFT. THIS IS NOT PERSONALIZED MEDICAL ADVICE. USE AT YOUR
@@ -325,13 +391,11 @@ you have shortness of breath, the right thing to do is the breathe
 <em>less</em>, even though your body is telling you to breathe
 <em>more</em>? What is going on at the chemical level when people have
 shortness of breath?</p>
-<p>(This is sort of like <a
-href="https://www.youtube.com/watch?v=XliOGg8Tl98"
-title="Help with air hunger - I have anxiety and feel like I can&#39;t breathe!">Howard
-Cooper’s video</a> on air hunger, but there are a few things I don’t
-like about his explanation, so I’m going to be writing my own ideal
-version. But if you prefer a video explanation, then you can start with
-the video and then come back here.)</p>
+<p>(This is sort of like <span class="citation"
+data-cites="cooper2021">Cooper (2021)</span> on air hunger, but there
+are a few things I don’t like about his explanation, so I’m going to be
+writing my own ideal version. But if you prefer a video explanation,
+then you can start with the video and then come back here.)</p>
 <h2 id="respiration-and-misconceptions-about-co2">Respiration and
 misconceptions about CO<sub>2</sub></h2>
 <p>The chemistry of respiration</p>
@@ -714,21 +778,28 @@ about what they say.</p>
 can be quite dangerous (can even cause die-off reactions??)</p>
 <h1 id="breathing-synthesis">Breathing synthesis</h1>
 <p>[TODO: fill in later]</p>
+<h1 class="unnumbered" id="references">References</h1>
 <div id="refs" class="references csl-bib-body hanging-indent"
-role="list">
+data-entry-spacing="0" role="list">
 <div id="ref-cooper2021" class="csl-entry" role="listitem">
-Cooper, Howard. 2021. <span>“Help with Air Hunger - i Have Anxiety and
+Cooper, Howard. 2021. <span>“Help with Air Hunger – i Have Anxiety and
 Feel Like i Can’t Breathe!”</span> YouTube. <a
 href="https://www.youtube.com/watch?v=XliOGg8Tl98">https://www.youtube.com/watch?v=XliOGg8Tl98</a>.
+</div>
+<div id="ref-capnolearningcourse" class="csl-entry" role="listitem">
+Litchfield, Peter M., and Sandra Reamer. 2024.
+<span>“<span>CapnoLearning</span> Course.”</span> Breathing Science,
+Inc. <a
+href="https://www.thebsj.org/capnolearningcourse">https://www.thebsj.org/capnolearningcourse</a>.
 </div>
 </div>
 <section id="footnotes" class="footnotes footnotes-end-of-document"
 role="doc-endnotes">
 <hr />
 <ol>
-<li id="fn1"><p>From the <a
-href="https://www.thebsj.org/capnolearningcourse">CapnoLearning course
-page</a>:</p>
+<li id="fn1"><p>From the <span class="citation"
+data-cites="capnolearningcourse">Litchfield and Reamer
+(2024)</span>:</p>
 <blockquote>
 <p>You may be wondering, “can I benefit from the course without using
 technology?” The answer, of course, is a resounding YES. The ultimate
