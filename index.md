@@ -6,7 +6,7 @@ date: 2024-01-24
 
 # Warning/disclaimer and disclosures
 
-THIS IS A DRAFT.  THIS IS NOT PERSONALIZED MEDICAL ADVICE.  USE AT YOUR OWN RISK. (At the same time, I _am_ interested in improving this document, so if you think I am recommending something unsafe or I am making some other sort of error, I'd like to know about it. Email me at <riceissa@gmail.com>.)
+THIS IS A DRAFT.  THIS IS NOT PERSONALIZED MEDICAL ADVICE.  USE AT YOUR OWN RISK. See the section [Safety] below for more details. (At the same time, I _am_ interested in improving this document, so if you think I am recommending something unsafe or I am making some other sort of error, I'd like to know about it. Email me at <riceissa@gmail.com>.)
 
 As for disclosures, I have nothing to disclose: I am not selling anything. This document is freely available. I am not affiliated with any of the products or services I recommend in this document. I don't use affiliate links.
 
