@@ -1,5 +1,5 @@
 ---
-title: [draft] My thoughts on breathing, with an emphasis on dealing with chronic shortness of breath
+title: '[draft] My thoughts on breathing, with an emphasis on dealing with chronic shortness of breath'
 author: Issa Rice
 date: 2024-01-24
 ---
