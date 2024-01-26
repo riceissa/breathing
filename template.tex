@@ -6,6 +6,9 @@
 \usepackage[bitstream-charter]{mathdesign}
 \usepackage[T1]{fontenc}
 
+\usepackage[backend=biber,style=authoryear]{biblatex}
+\addbibresource{references.bib}
+
 \usepackage{hyperref}
 \hypersetup{bookmarksnumbered}
 % Adds linebreaks in the middle of long URLs
@@ -25,5 +28,7 @@
 \tableofcontents
 
 $body$
+
+\printbibliography
 
 \end{document}
