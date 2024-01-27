@@ -70,6 +70,10 @@ because i have a lot of health anxiety i am pretty nervous to try new things. i 
 
 buteyko people also mention this, but increased sensitivity to medications can be a thing. i used to (2024-01-07 was last time i took it before breathing changed) be able to take 5--10 drops of methyl factors and it would just give me a bit of energy, but now (2024-01-27) even 1 drop of it seems to send me into irritable/uncomfortable/anxious state. i haven't noticed this kind of heightened sensitivity with any of my other meds/supplements so far though. because the methyl factors thing has only happened once so far (i'm in the middle of the episode as i write this), it _could_ be a one-time fluke, who knows.
 
+i tentatively recommend going pretty slowly (need a better descriptor here...) so that you get adjusted to the changes. i'm not sure how to go slowly on some of the steps (e.g., when i switched from loud nasal to silent nasal, the loud nasal just felt very unnatural so i couldn't go back and titrate it).
+
+if you are already ill in various ways like i am, then maybe it's not a big deal to suffer for a while and make rapid progress. the problem is if it's not _just_ being uncomfortable for a while, but if it becomes permanent or if it's a sign of actually dangerous stuff happening. i don't know how to distinguish what each symptom means. hence the recommendation to go slowly.
+
 ## Accidental meditation
 
 as you try to normalize your breath, you're constantly paying attention to the way you breathe, and that's essentially the mental motion that meditators make (at least, when they do the kind of meditation where they focus on their breath). could you be accidentally meditating by trying to fix your air hunger? is that why the intracranial pressure happens? how can we correct the breath without risking accidentally meditating? (most people might have the sense that meditation is harmless, but my current belief is that if you do more than like a few minutes a day, then meditation requires a lot of care to do correctly, and you can really risk hurting yourself/disrupting your whole life. see stuff like "dark night of the soul". as they say about meditation, "Better not to start. Once started, better to finish." you really don't want to accidentally meditate.)
@@ -153,16 +157,16 @@ here's the other thing vipul showed me:
 
 suppose your equation right now is:
 
-$$\mathrm{pH} \approx 6.1 + \log_{10}\left(\frac{\mathrm{[HCO_3^-]}}{0.0307 \cdot p\mathrm{CO_2}}\right) = 6.1 + \log_{10}(\mathrm{[HCO_3^-]}) - \log_{10}(0.0307) - \log_{10}(p\mathrm{CO_2})$$
+$$\begin{aligned}\mathrm{pH} &\approx 6.1 + \log_{10}\left(\frac{\mathrm{[HCO_3^-]}}{0.0307 \cdot p\mathrm{CO_2}}\right) \\ &= 6.1 + \log_{10}(\mathrm{[HCO_3^-]}) - \log_{10}(0.0307) - \log_{10}(p\mathrm{CO_2})\end{aligned}$$
 
 Now you hold your breath so that the *p*CO~2~ goes up by some amount, $\Delta p\mathrm{CO_2}$, and the pH changes by some amount, $\Delta \mathrm{pH}$ (it's a negative quantity, since your pH goes down when the blood becomes more acidic). Your equation now looks like:
 
-$$\mathrm{pH} + \Delta \mathrm{pH} \approx 6.1 + \log_{10}\left(\frac{\mathrm{[HCO_3^-]}}{0.0307 \cdot (p\mathrm{CO_2} + \Delta p\mathrm{CO_2})}\right) = 6.1 + \log_{10}(\mathrm{[HCO_3^-]}) - \log_{10}(0.0307) - \log_{10}(p\mathrm{CO_2} + \Delta p\mathrm{CO_2})$$
+$$\begin{aligned}\mathrm{pH} + \Delta \mathrm{pH} &\approx 6.1 + \log_{10}\left(\frac{\mathrm{[HCO_3^-]}}{0.0307 \cdot (p\mathrm{CO_2} + \Delta p\mathrm{CO_2})}\right) \\ &= 6.1 + \log_{10}(\mathrm{[HCO_3^-]}) - \log_{10}(0.0307) - \log_{10}(p\mathrm{CO_2} + \Delta p\mathrm{CO_2})\end{aligned}$$
 
 Now let's subtract the first equation from the second; we get:
 
 
-$$\Delta \mathrm{pH} \approx \log_{10}(p\mathrm{CO_2}) - \log_{10}(p\mathrm{CO_2} + \Delta p\mathrm{CO_2}) = \log_{10}\left(\frac{p\mathrm{CO_2}}{p\mathrm{CO_2} + \Delta p\mathrm{CO_2}}\right) = - \log_{10}\left(1 + \frac{\Delta p\mathrm{CO_2}}{p\mathrm{CO_2}}\right)$$
+$$\begin{aligned}\Delta \mathrm{pH} &\approx \log_{10}(p\mathrm{CO_2}) - \log_{10}(p\mathrm{CO_2} + \Delta p\mathrm{CO_2}) \\ &= \log_{10}\left(\frac{p\mathrm{CO_2}}{p\mathrm{CO_2} + \Delta p\mathrm{CO_2}}\right) \\ &= - \log_{10}\left(1 + \frac{\Delta p\mathrm{CO_2}}{p\mathrm{CO_2}}\right)\end{aligned}$$
 
 What does all of this show? Well, the quantity $\frac{\Delta p\mathrm{CO_2}}{p\mathrm{CO_2}}$ is actually the percentage change in pCO~2~. So it shows that _the change in pH is a function of the percentage change in pCO~2~_.
 
