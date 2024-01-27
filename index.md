@@ -5,17 +5,11 @@ created: 2024-01-24
 date: 2024-01-26
 ---
 
+# Introduction
+
 maybe a better title is: overcoming chronic shortness of breath by fixing your breathing
 
-# Warning/disclaimer and disclosures
-
-THIS IS A DRAFT.  THIS IS NOT PERSONALIZED MEDICAL ADVICE.  USE AT YOUR OWN RISK. See the section [Safety] below for more details. (At the same time, I _am_ interested in improving this document, so if you think I am recommending something unsafe or I am making some other sort of error, I'd like to know about it. Email me at <riceissa@gmail.com>.)
-
-As for disclosures, I have nothing to disclose: I am not selling anything. This document is freely available. I am not affiliated with any of the products or services I recommend in this document. I don't use affiliate links.
-
-also, while i've made significant progress on overcoming shortness of breath, as of this writing i _still experience it daily_. so i think there's still insights i need to discover. but i think i am on the right track in a way that i was _not_ before mid-2023, so i think at this point it makes sense to start writing things up and collecting it all in one place, so that as i keep learning i can edit this document.  ultimate goal of this document: hopefully in a few months my breathing will be fixed forever and this document will also completely reflect my understanding of how i fixed it.
-
-# Why this document?
+## Why this document?
 
 there has been a lot written about breathing, both in the academic literature and in self-help/meditation/mindfulness contexts. why am i adding my own words to this vast literature? what value am i adding?
 
@@ -33,7 +27,15 @@ a note for breathing experts: if you're wondering what the philosophy of this do
 
 i think a lot of resources are needlessly general, to the point where the reader has to do a lot of work to figure out which parts to ignore and which parts to follow. trying to satisfy everyone by writing super generally means everyone gets a decent but not great experience. so i'm solving this problem by writing for an extremely specific audience: people like my past self. this will make the document useless or only tangentially relevant to a lot of people, but for the intended audience, it will be _exactly_ what they need. i'll try to make this document a self-contained do-it-yourself guide on how to overcome shortness of breath.
 
-# Ruling out more serious medical problems
+## Warning/disclaimer and disclosures
+
+THIS IS A DRAFT.  THIS IS NOT PERSONALIZED MEDICAL ADVICE.  USE AT YOUR OWN RISK. See the section [Safety] below for more details. (At the same time, I _am_ interested in improving this document, so if you think I am recommending something unsafe or I am making some other sort of error, I'd like to know about it. Email me at <riceissa@gmail.com>.)
+
+As for disclosures, I have nothing to disclose: I am not selling anything. This document is freely available. I am not affiliated with any of the products or services I recommend in this document. I don't use affiliate links.
+
+also, while i've made significant progress on overcoming shortness of breath, as of this writing i _still experience it daily_. so i think there's still insights i need to discover. but i think i am on the right track in a way that i was _not_ before mid-2023, so i think at this point it makes sense to start writing things up and collecting it all in one place, so that as i keep learning i can edit this document.  ultimate goal of this document: hopefully in a few months my breathing will be fixed forever and this document will also completely reflect my understanding of how i fixed it.
+
+## Ruling out more serious medical problems
 
 I think as a first step, it's a good idea to rule out any standard problems with the lungs or other body organs, by e.g.\ doing a chest x-ray, pulmonary function test, blood test, etc. I will say more about what tests I got done and why. The breathing stuff I describe later in the document _might_ help with your breathing anyway, even if you have a problem with your lungs, but you definitely want to know if you do have problems and to get proper treatment for those before progressing to any breathing modification.
 
@@ -307,6 +309,8 @@ One might naively expect that capnometers would be useless, since they don't act
 My model of why capnometers are so "unreasonably effective" is basically that with Buteyko breathing, part of the problem is that even if you make progress, you can never know if you're pushing so hard that you've overshot your CO~2~ and are now having too much CO2. You can't really avoid this problem because both too low CO~2~ and too high CO~2~ feel pretty much exactly the same -- air hunger. So a capnometer is what actually lets you know for sure whether you are undershooting, just right, or overshooting.
 
 It's just super helpful to _see_ what your breath looks like. Buteyko breathing can feel _scary_ because you don't know if you're going too hard and might be harming yourself. Hooking yourself up to a capnometer tells you whether your CO~2~ levels are normal.
+
+one of the things i'm still trying to figure out is, supposedly Konstantin Buteyko originally had various machines to measure CO~2~ or whatever, but then they were destroyed, so then he was forced to come up with the Control Pause as the sort of replacement metric. but what i'm wondering is, what did his machines measure? was it just end-tidal CO~2~? and if so, then what did he do after people reached a normal 40\ mmHg of pCO~2~? was that the end of treatment? or did he try to push the CO~2~ even higher?
 
 # Capnometry biofeedback
 
