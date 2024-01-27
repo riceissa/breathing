@@ -2,7 +2,7 @@
 title: '[draft] My thoughts on breathing, with an emphasis on dealing with chronic shortness of breath'
 author: Issa Rice
 created: 2024-01-24
-date: 2024-01-26
+date: 2024-01-27
 ---
 
 # Introduction
@@ -35,11 +35,15 @@ As for disclosures, I have nothing to disclose: I am not selling anything. This 
 
 also, while i've made significant progress on overcoming shortness of breath, as of this writing i _still experience it daily_. so i think there's still insights i need to discover. but i think i am on the right track in a way that i was _not_ before mid-2023, so i think at this point it makes sense to start writing things up and collecting it all in one place, so that as i keep learning i can edit this document.  ultimate goal of this document: hopefully in a few months my breathing will be fixed forever and this document will also completely reflect my understanding of how i fixed it.
 
+so yeah, i want to be honest that i haven't figured it all out; i won't pretend i've figured it all out while leaving readers in the dark feeling confused whether they're missing something.
+
 ## Ruling out more serious medical problems
 
 I think as a first step, it's a good idea to rule out any standard problems with the lungs or other body organs, by e.g.\ doing a chest x-ray, pulmonary function test, blood test, etc. I will say more about what tests I got done and why. The breathing stuff I describe later in the document _might_ help with your breathing anyway, even if you have a problem with your lungs, but you definitely want to know if you do have problems and to get proper treatment for those before progressing to any breathing modification.
 
 <https://youtu.be/G3YHBYVxxmI?t=1049> -- Chris Gilbert lists a bunch of possible reasons for hyperventilation that _aren't_ just anxiety/stress.
+
+basically, get yourself checked out by one or more doctors, go through the standard protocol, and if the doctors tell you that there's nothing wrong or that your breathing problems are just due to anxiety, _then_ come back to this document and try using the methods in it. the only exception i'm aware of so far is asthma. if you have asthma, then supposedly buteyko breathing is also effective, so you can get _both_ mainstream medical treatment (e.g., inhalers) and try the things in this document (though i don't have any first- or second-hand experience here so you should probably just go find a buteyko book and follow that instead).
 
 [TODO: add more details]
 
@@ -63,6 +67,8 @@ because i have a lot of health anxiety i am pretty nervous to try new things. i 
 @novozhilov2012 mentions cleansing reactions that can happen, in the section called "Cleansing reactions". Unfortunately it just lists a bunch of pretty nonspecific symptoms without any guidance on what to do about them...
 
 @novozhilov2012's main suggestion for dealing with problems seems to be "get an expert to coach you". i mean, sure, that's always one solution. but what i'm trying to do here is to write everything down so that one can do all the steps on one's own, as safety and effectively as possible.
+
+buteyko people also mention this, but increased sensitivity to medications can be a thing. i used to (2024-01-07 was last time i took it before breathing changed) be able to take 5--10 drops of methyl factors and it would just give me a bit of energy, but now (2024-01-27) even 1 drop of it seems to send me into irritable/uncomfortable/anxious state. i haven't noticed this kind of heightened sensitivity with any of my other meds/supplements so far though. because the methyl factors thing has only happened once so far (i'm in the middle of the episode as i write this), it _could_ be a one-time fluke, who knows.
 
 ## Accidental meditation
 
@@ -143,6 +149,23 @@ $$7.4 \approx 6.1 + \log_{10}\left(\frac{15}{0.0307 \cdot 25}\right)$$
 Now let's say both individuals do a breath hold to raise their PCO~2~ by 5\ mmHg. In the case of the healthy person, their pH goes down to 7.34, but in the chronic overbreather's case, it goes down to 7.31.
 
 
+here's the other thing vipul showed me:
+
+suppose your equation right now is:
+
+$$\mathrm{pH} \approx 6.1 + \log_{10}\left(\frac{\mathrm{[HCO_3^-]}}{0.0307 \cdot p\mathrm{CO_2}}\right) = 6.1 + \log_{10}(\mathrm{[HCO_3^-]}) - \log_{10}(0.0307) - \log_{10}(p\mathrm{CO_2})$$
+
+Now you hold your breath so that the *p*CO~2~ goes up by some amount, $\Delta p\mathrm{CO_2}$, and the pH changes by some amount, $\Delta \mathrm{pH}$ (it's a negative quantity, since your pH goes down when the blood becomes more acidic). Your equation now looks like:
+
+$$\mathrm{pH} + \Delta \mathrm{pH} \approx 6.1 + \log_{10}\left(\frac{\mathrm{[HCO_3^-]}}{0.0307 \cdot (p\mathrm{CO_2} + \Delta p\mathrm{CO_2})}\right) = 6.1 + \log_{10}(\mathrm{[HCO_3^-]}) - \log_{10}(0.0307) - \log_{10}(p\mathrm{CO_2} + \Delta p\mathrm{CO_2})$$
+
+Now let's subtract the first equation from the second; we get:
+
+
+$$\Delta \mathrm{pH} \approx \log_{10}(p\mathrm{CO_2}) - \log_{10}(p\mathrm{CO_2} + \Delta p\mathrm{CO_2}) = \log_{10}\left(\frac{p\mathrm{CO_2}}{p\mathrm{CO_2} + \Delta p\mathrm{CO_2}}\right) = - \log_{10}\left(1 + \frac{\Delta p\mathrm{CO_2}}{p\mathrm{CO_2}}\right)$$
+
+What does all of this show? Well, the quantity $\frac{\Delta p\mathrm{CO_2}}{p\mathrm{CO_2}}$ is actually the percentage change in pCO~2~. So it shows that _the change in pH is a function of the percentage change in pCO~2~_.
+
 
 for advanced buteyko practitioners however, my current guess is that their PCO~2~ levels are normal (40--45\ mmHg). so now, how do we explain how they can hold their breaths for so long? i think some other factors are at play here including:
 
@@ -164,6 +187,8 @@ So what we've established is:
 - The solution is _not_ to "take a deep breath" and get more oxygen, but rather, to breathe _less_ so that you _gradually_ raise your CO~2~ levels. The emphasis is on the word "gradually". If you just hold your breath as long as possible in the hopes of raising your CO~2~, you will just give yourself a panic attack. The kidneys take time to adjust the bicarbonate levels. So you want to sit with a slight-to-moderate amount of air hunger, over the course of days and weeks, so as to gradually raise your baseline CO~2~. How to do this? We'll discuss breathing techniques and breathing habits more elsewhere in this document.
 
 ## Analysis of Howard Cooper videos
+
+honestly this section might be _way_ too much detail for most readers, so you can skip it on a first read (or entirely) if you want. i'm only very passionate about this topic because it took me so long to understand what was going on. i might actually move out this whole section into a separate document because i don't think most people will care.
 
 What does Howard Cooper's explanation get wrong?
 
@@ -336,7 +361,15 @@ i still have a lot to learn here. apparently some posture techniques can be quit
 
 # Breathing synthesis
 
-[TODO: fill in later]
+My synthesis = "Buteyko method" + "Alexander Technique" + Capnometry biofeedback
+
+or maybe:
+
+My synthesis = Nasal breathing + Silent relaxed breathing + Posture + Habits + Capnometry biofeedback
+
+- Buteyko provides nasal breathing, silent breathing and a theory of air hunger via CO~2~ levels. I put it in quotes because this is probably a vast oversimplification of the Buteyko method -- but I only needed this much of the theory.
+- "Alexander Technique" is what I mean by just allowing the breath to happen: smooth, not jerky. "Allowing the breath to happen" rather than doing the breath. And also making the good breathing a _habit_ rather than "executing techniques" when you need them. Make it automatic/autonomic/subconscious/unconscious, rather than conscious/manual -- this one might be two separate things actually (the smooth part, and the unconscious/habit part). Some of the Buteyko people also _mention_ this, but it tends to be much more buried and not _emphasized_. I think it really needs to be thought of as one of the main components.
+- Capnometry biofeedback is discussed elsewhere in this document, e.g., see the section [The unreasonable effectiveness of capnometers].
 
 # Techniques vs habits
 
@@ -368,11 +401,22 @@ an open question for me currently is: after you do this conscious relaxed silent
 
 @tranter2022breathhold -- the actual exercise starts around 7:46.
 
+i think the main value of this exercise is at the start, to get used to very small amounts of air hunger, to be like "ok, yeah, this is uncomfortable but it won't kill me".
+
 ## Double inhale technique
 
 you take two relatively quick inhales, then exhale in a relaxed way.
 
 This one was shown to me by my breathing coach. I've found this quite useful for getting my body to relax the exhale. i have no idea why it works, but somehow it's just easier to exhale in a relaxed way from a more full inhale.
+
+## Misconceptions
+
+this section is mostly an index to stuff discussed elsewhere in the document.
+
+(might remove this section if it doesn't seem useful)
+
+- CO~2~ is bad -- see [Respiration and misconceptions about CO~2~]
+- deep breaths are good
 
 # Acknowledgments
 
