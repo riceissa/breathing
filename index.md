@@ -13,7 +13,7 @@ THIS IS A DRAFT.  THIS IS NOT PERSONALIZED MEDICAL ADVICE.  USE AT YOUR OWN RISK
 
 As for disclosures, I have nothing to disclose: I am not selling anything. This document is freely available. I am not affiliated with any of the products or services I recommend in this document. I don't use affiliate links.
 
-also, while i've made significant progress on overcoming shortness of breath, as of this writing i _still experience it daily_. so i think there's still insights i need to discover. but i think i am on the right track in a way that i was _not_ before mid-2023, so i think at this point it makes sense to start writing things up and collecting it all in one place, so that as i keep learning i can edit this document.
+also, while i've made significant progress on overcoming shortness of breath, as of this writing i _still experience it daily_. so i think there's still insights i need to discover. but i think i am on the right track in a way that i was _not_ before mid-2023, so i think at this point it makes sense to start writing things up and collecting it all in one place, so that as i keep learning i can edit this document.  ultimate goal of this document: hopefully in a few months my breathing will be fixed forever and this document will also completely reflect my understanding of how i fixed it.
 
 # Why this document?
 
@@ -60,19 +60,19 @@ because i have a lot of health anxiety i am pretty nervous to try new things. i 
 
 @novozhilov2012 mentions cleansing reactions that can happen, in the section called "Cleansing reactions". Unfortunately it just lists a bunch of pretty nonspecific symptoms without any guidance on what to do about them...
 
-@novozhilov2012's main suggestion for dealing with problems seems to be "get an expert to coach you". i mean, sure, that's always one solution. but what i'm trying to do here is to write everything down so that one can do all the steps on one's own.
+@novozhilov2012's main suggestion for dealing with problems seems to be "get an expert to coach you". i mean, sure, that's always one solution. but what i'm trying to do here is to write everything down so that one can do all the steps on one's own, as safety and effectively as possible.
 
 ## Accidental meditation
 
-as you try to normalize your breath, you're constantly paying attention to the way you breathe, and that's essentially the mental motion that meditators make (at least, when they do the kind of meditation where they focus on their breath). could you be accidentally meditating by trying to fix your air hunger? is that why the intracranial pressure happens? how can we correct the breath without risking accidentally meditating?
+as you try to normalize your breath, you're constantly paying attention to the way you breathe, and that's essentially the mental motion that meditators make (at least, when they do the kind of meditation where they focus on their breath). could you be accidentally meditating by trying to fix your air hunger? is that why the intracranial pressure happens? how can we correct the breath without risking accidentally meditating? (most people might have the sense that meditation is harmless, but my current belief is that if you do more than like a few minutes a day, then meditation requires a lot of care to do correctly, and you can really risk hurting yourself/disrupting your whole life. see stuff like "dark night of the soul". as they say about meditation, "Better not to start. Once started, better to finish." you really don't want to accidentally meditate.)
 
-i don't have any good answers yet. i'm still working through this myself. for the head pressure, it was somewhat bad for one day, but then after that it just got better on its own. i've also been just trying to do other stuff, so that even as i do inevitably bring my attention back to my breath to see if i'm still doing silent nasal breathing, i'm not just sitting there doing that the entire day.
+i don't have any good answers yet. i'm still working through this myself. for the head pressure, it was somewhat bad for one day, but then after that it just got better on its own, and now i don't notice it at all. i've also been just trying to do other stuff, so that even as i do inevitably bring my attention back to my breath to see if i'm still doing silent nasal breathing, i'm not just sitting there doing that the entire day.
 
 @novozhilov2012 even says "Exercise 1 is really another version of meditation using the focus on breathing and relaxation of the breathing muscles as the means for avoiding wandering thoughts."
 
 ## Coughing
 
-Buteyko people seem too anti-coughing to me. My uninformed guess is that it's good to cough sometimes, e.g., to clear mucus or during a viral infection. Then there are other more mysterious forms of cough (e.g., twice in my life for like a month each, I had a habit of little micro-coughs/chest itchy feeling) where I think suppressing the cough it more justified.
+Buteyko people seem too anti-coughing to me. My uninformed guess is that it's good to cough sometimes, e.g., to clear mucus or during a viral infection. Then there are other more mysterious forms of cough (e.g., twice in my life for like a month each, I had a habit of little micro-coughs/chest itchy feeling) where I think suppressing the cough is more justified (the second time it happened, doing soft breathing to make the cough not trigger is what finally made it go away).
 
 @novozhilov2012 says to cough without opening your mouth, but based on personal experience I think this is a bad idea. There can be too much air coming through your nose which can damage the nose tissue. Anyway, this was never a huge issue for me but people with actual asthma might have to adopt different strategies.
 
@@ -99,11 +99,26 @@ i'm not very attached to "high levels of CO2 are super healthy". i honestly have
 
 ## Chronic overbreathing and the bicarbonate buffer system
 
-acid--base balance, bicarbonate buffer model
+acid--base balance, bicarbonate buffer model (also called "renal compensation", e.g., see <https://en.wikipedia.org/wiki/Renal_compensation> and <https://youtu.be/G3YHBYVxxmI?t=1527>)
 
 mention how people with shortness of breath might not think they are hyperventilating. For example I don't think I've ever overtly hyperventilated in my life. And yet, I was constantly low-grade overbreathing. @breathingdisordersbookchapter4 [p. 68] says "Hyperventilation tends to persist in many people, and once a pattern of overbreathing is established it can be maintained by only a 10% increase in minute volume, which could be achieved by a combination of deeper breaths, faster breathing, or an occasional sigh".
 
 ## The Henderson--Hasselbalch equation and CO~2~ tolerance
+
+<!--
+((TODO:
+Vipul says "Regarding the Henderson-Hasselbach, I think you can maybe give a TL;DR version where you say that chemical equilibrium works multiplicatively (in proportional terms) on concentrations, which is why the sensitivity to additional CO2 is proportional to the level of CO2.
+I mean, it's not a full explanation, but for those who vaguely remember equilibrium from high school or college chemistry, that should be enough to make it click
+(You should also include the fuller explanation, but at least people have a tagline to fall back to)
+and use the word _proportional_
+Rather than just 'when it's lower it's more sensitive'
+though I think ultimately it may not be strictly proportional, at least that is the first-pass intuition we're drawing on
+(and plugging in the Henderson-Hasselbach also yields proportionality)"
+<https://en.wikipedia.org/wiki/Equilibrium_constant>
+
+also derive the -(Change in pH) = log_10(ratio of PCO_2) = log_10(1 + (change in PCO_2)/(original PCO_2)) equation that vipul came up with.
+))
+-->
 
 [argh, this is kind of hard to explain well. curse of knowledge...]
 
@@ -111,7 +126,7 @@ Okay, so CO~2~ levels (partial pressure?) in the blood regulate breathing. Now l
 
 [... some more stuff here ...]
 
-The important point is that because of the form of the Henderson--Hasselbalch equation, the more CO~2~ you have, the less sensitive pH is to slight increases in CO~2~. So breath holding for a few seconds does not cause air hunger/panic. Whereas if your CO~2~ is already too low (hypocapnia), then your pH is still normal (thanks to the bicarbonate levels being adjusted by your kidneys), but because of the low CO~2~, even slight changes in CO~2~ can cause large shifts in pH. I think it's this increase in pH that triggers a strong sense of air hunger. If you give in to this urge and breathe, then your pH will be restored, so _temporarily_ you will feel better. But if you keep giving into this urge and breathing more and more, then over time you're shifting down your bicarbonate buffer even more. Your body adjusts. But that means your baseline CO~2~ also keeps decreasing. So now you're _even more_ sensitive to slight increases in CO~2~. It's a vicious cycle. (and this isn't even talking about the negative health effects of low CO~2~.)
+The important point is that because of the form of the Henderson--Hasselbalch equation, the more CO~2~ you have, the less sensitive pH is to slight increases in CO~2~. So breath holding for a few seconds does not cause air hunger/panic/suffocation. Whereas if your CO~2~ is already too low (hypocapnia), then your pH is still normal (thanks to the bicarbonate levels being adjusted by your kidneys), but because of the low CO~2~, even slight changes in CO~2~ can cause large shifts in pH. I think it's this decrease in pH (when CO~2~ rises, blood becomes more acidic so pH goes down) that triggers a strong sense of air hunger. If you give in to this urge and breathe, then your pH will be restored, so _temporarily_ you will feel better. But if you keep giving into this urge and breathing more and more, then over time you're shifting down your bicarbonate buffer even more. Your body adjusts. But that means your baseline CO~2~ also keeps decreasing. So now you're _even more_ sensitive to slight increases in CO~2~. It's a vicious cycle. (and this isn't even talking about the negative health effects of low CO~2~.)
 
 Let's look at some numbers.
 
@@ -293,6 +308,20 @@ My model of why capnometers are so "unreasonably effective" is basically that wi
 
 It's just super helpful to _see_ what your breath looks like. Buteyko breathing can feel _scary_ because you don't know if you're going too hard and might be harming yourself. Hooking yourself up to a capnometer tells you whether your CO~2~ levels are normal.
 
+# Capnometry biofeedback
+
+<!--
+
+From Vipul: """btw I'd love for you to expand more on what capnometers measure, particularly this related cluster of ideas:
+
+(1) "end tidal CO2 is interesting only insofar as it approximates your alveolar CO2 -- it's not intended to be a reflection of the nature of that particular outbreath"
+(2) "end tidal CO2 should be measured as of the end of a normal outbreath, as 'tidal' refers to normal breathing"
+(3) "you can fake getting a high reading by forcefully breathing out more but that's just cheating, because by the time you're on your outbreath, the 'correct' reading for that outbreath is already predetermined"
+"""
+-->
+
+[TODO: fill out this section. It should be about how to use the capnometer well. maybe include my list of "things to try on the capnometer". talk about what the ideal breathing curve should look like.]
+
 # Posture
 
 I'm appreciating posture more now -- it really makes silent relaxed breathing easier when you have better posture. But "good posture" is maybe not what society thinks is good posture, but whatever feels comfortable to you and allows for good breathing.
@@ -329,7 +358,7 @@ note that i use the word "silent" rather than "quiet" because for a long time i 
 
 the goal is to eventually be breathing in this way all the time. so it's a "technique" but also it is going to become a habit.
 
-an open question for me currently is: after you do this conscious relaxed silent breathing, you will build up some mild air hunger. now, _after_ you complete the exercise, how long should you "keep" that air hunger going? should you feel free to just take a slightly deeper breath and "clear" the air hunger, or should you keep it going for some time (if so, how long?), or should you just try to keep it going as long as possible? i think trying to keep up the silent breathing with slight air hunger for long enough periods tends to cause a sudden burst of anxiety for me, like a sense of panic at not being able to breathe. so i think that's probably not the right thing to do. but it's confusing because i go from feeling totally comfortable with the slight air hunger to suddenly feeling panicky. @mark2015deep says "This process [raising CO~2~ tolerance over time] is long and finicky and can cause very unpleasant symptoms. Less is more; barely knowing whether you’re doing anything is best. You can also trigger panic attacks or asthma attacks if you’re susceptible."
+an open question for me currently is: after you do this conscious relaxed silent breathing, you will build up some mild air hunger. now, _after_ you complete the exercise, how long should you "keep" that air hunger going? should you feel free to just take a slightly deeper breath and "clear" the air hunger, or should you keep it going for some time (if so, how long?), or should you just try to keep it going as long as possible? i think trying to keep up the silent breathing with slight air hunger for long enough periods tends to cause a sudden burst of anxiety for me, like a sense of panic at not being able to breathe. so i think that's probably not the right thing to do. but it's confusing because i go from feeling totally comfortable with the slight air hunger to suddenly feeling panicky. @mark2015deep says "This process \[raising CO~2~ tolerance over time\] is long and finicky and can cause very unpleasant symptoms. Less is more; barely knowing whether you’re doing anything is best. You can also trigger panic attacks or asthma attacks if you’re susceptible." Another thought is to, whenever possible when taking deeper breaths, to do so in more Buteyko-aligned ways, e.g., through the nose and as gently as possible. So don't satisfy the urge for a deeper breath by inhaling with your mouth or yawning or being super forceful about it, just try to gently incline towards a deeper breath, a slight force with your nose. NOTE: this may not be possible at first, e.g., i had to get to silent nasal breathing in order to take "good" breaths with little force through my nose. when i was still mouth breathing some of the time, i always had to take a good breath through my mouth. then when i started nose breathing (but loudly), i could take good breaths occasionally through my nose, but only by loudly sniffing in. so there's a gradual "handoff" where the old normal becomes the new "rescue breath" method.
 
 ## Many small breath holds
 
@@ -340,5 +369,17 @@ an open question for me currently is: after you do this conscious relaxed silent
 you take two relatively quick inhales, then exhale in a relaxed way.
 
 This one was shown to me by my breathing coach. I've found this quite useful for getting my body to relax the exhale. i have no idea why it works, but somehow it's just easier to exhale in a relaxed way from a more full inhale.
+
+# Acknowledgments
+
+i've benefited from interacting with a lot of people, in the course of figuring out my breathing. (people who i haven't checked with to see if they want to be mentioned are listed as initials, unless i'm only relying on public sources and no private interactions, which applies to Howard Cooper.)
+
+- ML: kept mentioning buteyko breathing to me saying i should try it.
+- Howard Cooper: While I've benefitted from all the sources I'm citing in the [References], I want to call out especially @cooper2021 as the thing that finally made the CO~2~ stuff click for me (though my understanding was still very incomplete) and got me to actually start playing around with buteyko techniques.
+- CM: told me about the capnotrainer and got me excited about capnometry biofeedback.
+- Vipul Naik helped me understand some key things about the biology of respiration. In particular, he was the one who figured out that having a low CO~2~ means pH is more sensitive to slight fluctuations in CO~2~ levels.
+- DD: introduced me to JA. he was also a catalyst for me figuring out my circadian rhythm, but that's a whole separate topic.
+- JA: my breathing coach; helped me
+- PL: was generous enough to spend an hour talking to me about capnometer stuff.
 
 # References {.unnumbered}
