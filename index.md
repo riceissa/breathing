@@ -5,6 +5,8 @@ created: 2024-01-24
 date: 2024-01-26
 ---
 
+maybe a better title is: overcoming chronic shortness of breath by fixing your breathing
+
 # Warning/disclaimer and disclosures
 
 THIS IS A DRAFT.  THIS IS NOT PERSONALIZED MEDICAL ADVICE.  USE AT YOUR OWN RISK. See the section [Safety] below for more details. (At the same time, I _am_ interested in improving this document, so if you think I am recommending something unsafe or I am making some other sort of error, I'd like to know about it. Email me at <riceissa@gmail.com>.)
@@ -56,11 +58,23 @@ i also don't want to just put a big safety warning at the start, and then not me
 
 because i have a lot of health anxiety i am pretty nervous to try new things. i think a lot of buteyko people don't have this same orientation. like, they are in it to get superpowers or something (like sleeping only 2 hours a day) and not out of a sense of desperation to breathe like a normal person. so in some sense this document is like a maximally cautious, "only in it for the health improvements" version.
 
+@novozhilov2012 mentions cleansing reactions that can happen, in the section called "Cleansing reactions". Unfortunately it just lists a bunch of pretty nonspecific symptoms without any guidance on what to do about them...
+
+@novozhilov2012's main suggestion for dealing with problems seems to be "get an expert to coach you". i mean, sure, that's always one solution. but what i'm trying to do here is to write everything down so that one can do all the steps on one's own.
+
 ## Accidental meditation
 
 as you try to normalize your breath, you're constantly paying attention to the way you breathe, and that's essentially the mental motion that meditators make (at least, when they do the kind of meditation where they focus on their breath). could you be accidentally meditating by trying to fix your air hunger? is that why the intracranial pressure happens? how can we correct the breath without risking accidentally meditating?
 
 i don't have any good answers yet. i'm still working through this myself. for the head pressure, it was somewhat bad for one day, but then after that it just got better on its own. i've also been just trying to do other stuff, so that even as i do inevitably bring my attention back to my breath to see if i'm still doing silent nasal breathing, i'm not just sitting there doing that the entire day.
+
+@novozhilov2012 even says "Exercise 1 is really another version of meditation using the focus on breathing and relaxation of the breathing muscles as the means for avoiding wandering thoughts."
+
+## Coughing
+
+Buteyko people seem too anti-coughing to me. My uninformed guess is that it's good to cough sometimes, e.g., to clear mucus or during a viral infection. Then there are other more mysterious forms of cough (e.g., twice in my life for like a month each, I had a habit of little micro-coughs/chest itchy feeling) where I think suppressing the cough it more justified.
+
+@novozhilov2012 says to cough without opening your mouth, but based on personal experience I think this is a bad idea. There can be too much air coming through your nose which can damage the nose tissue. Anyway, this was never a huge issue for me but people with actual asthma might have to adopt different strategies.
 
 
 # The biological basis of shortness of breath
@@ -230,7 +244,7 @@ Here is the sequence I am thinking of:
     - This one is tricky because I notice that as I try to do it my diaphragm can get sore if I do it wrong. In particular, it can sometimes help to break the "silent" rule in order to get the breath smoother. There's a distinction between breathing in a way so that you aren't hypocapnic, and breathing in a way that is comfortable and not painful to your body. Every combination is possible.
 2. Next stage: slow down your breath.
     - Your breath should already be slower if it's more quiet and smooth. But when you're trying to make it quiet or smooth, you don't want to focus on slowing it down … that just makes you uncomfortable because you're not used to that much air hunger. But once your breath is silent and smooth, it's time to focus on slowing it down. I still haven't gotten to this stage so I don't know how slow is optimal. I suspect this is the point where an HRV monitor or such would be handy: there might be individual variation in the optimal rate. Notice how it's much harder to say what "slow breath" is compared to "nasal breath" or "silent breath" or "smooth breath", and it is much harder to track without an instrument like a capnometer (counting in your head all the time seems annoying!).
-    - UPDATE (2024-01-26): i am thinking more and more that slowing your breath is unnecessary; it's like the diaphragm thing and it automatically happens. i think some of the buteyko people also say the same thing.
+    - UPDATE (2024-01-26): i am thinking more and more that slowing your breath is unnecessary; it's like the diaphragm thing and it automatically happens. i think some of the buteyko people also say the same thing. e.g. see @novozhilov2012; in the section "Approach 3 -- Just hint at reduction of airflow" there is an illustration of a snake where slowing down the breath is a sign of doing the exercise wrong. Under mistakes, he lists "Increasing the frequency of your breathing or changing the length of inhalation or exhalation."
 
 Note that the above is essentially (some of the particular techniques taught in) Buteyko breathing. The differences are: (1) pedagogical, in that I think focusing on each step in sequence works a lot better, and (2) whether to use a CapnoTrainer to help with some of the steps.
 
@@ -295,6 +309,8 @@ i still have a lot to learn here. apparently some posture techniques can be quit
 
 One of the disagreements I've seen in the breathing world is the emphasis between techniques vs habits. Those on the techniques side (such as anxiety specialists and Buteyko practitioners) present various techniques you can use when you are stressed, anxious, or have breathing difficulty. Those on the habits side (such as Peter Litchfield) say that techniques are mere bandage covering up a dysfunctional breathing habit, and that the solution is to unlearn the old habits and introduce new habits.
 
+(actually i think _some_ buteyko people have basically the same views as me.)
+
 I find myself somewhere in between these two views. In a sense, I think both sides are right, and it's actually quite important to understand what's going on here. Techniques are a way of _learning_ a thing. Once you've learned it, you don't need to "follow a technique" anymore, it's just a part of you. But having it verbally, explicitly, legibly, outlined is a useful step in actually learning the thing initially. You follow the technique, you get anxious about whether you're doing it right, you get obsessed about it, you get good at it, and then finally you get bored of it. It's all part of the _overlearning_ process. Once your bodymind digests it, it poops out the scaffolding of the technique and you can just Do The Thing. See also the four stages of competence [@fourstageswikipedia].
 
 So yes, do the techniques. Learn them so well that you get bored of them and forget about them.
@@ -312,6 +328,8 @@ sit upright in a comfortable way. breathe silently through your nose. then just 
 note that i use the word "silent" rather than "quiet" because for a long time i thought my breathing was quiet, but it turned out my breathing was still making quite a bit of noise compared to what i _could_ do. i don't want others to make the same mistake i did. if your hearing is normal, you should not be able to hear your breathing. if you are hard of hearing, then maybe get someone else to check for you.
 
 the goal is to eventually be breathing in this way all the time. so it's a "technique" but also it is going to become a habit.
+
+an open question for me currently is: after you do this conscious relaxed silent breathing, you will build up some mild air hunger. now, _after_ you complete the exercise, how long should you "keep" that air hunger going? should you feel free to just take a slightly deeper breath and "clear" the air hunger, or should you keep it going for some time (if so, how long?), or should you just try to keep it going as long as possible? i think trying to keep up the silent breathing with slight air hunger for long enough periods tends to cause a sudden burst of anxiety for me, like a sense of panic at not being able to breathe. so i think that's probably not the right thing to do. but it's confusing because i go from feeling totally comfortable with the slight air hunger to suddenly feeling panicky. @mark2015deep says "This process [raising CO~2~ tolerance over time] is long and finicky and can cause very unpleasant symptoms. Less is more; barely knowing whether you’re doing anything is best. You can also trigger panic attacks or asthma attacks if you’re susceptible."
 
 ## Many small breath holds
 
