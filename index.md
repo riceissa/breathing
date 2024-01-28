@@ -326,29 +326,13 @@ Now, here are the main strategies I recommend for clearing your nose so you can 
 - Antihistamine spray (e.g., azelastine): my guess is azelastine did nothing for me. but maybe it helped a bit with reducing mucus producing during the night. i never tried olopatadine (the more famous antihistamine nasal spray) because my insurance doesn't cover it.
 - Steroid spray (e.g. Flonase): i would stay away from these, unless you already know they work well for you. definitely try all the other ones in the list first. note that there are different kinds of steroid sprays and some of them are _very_ bad to keep using long-term. Flonase is supposed to be one of the safer kinds, but i only used it once so i can't speak to any longer-term effects.
 
-Important note: as you start breathing through your nose more, you should find that your nose becomes less blocked even without doing these things. I used to need the nose strips _a lot_ when I first started nasal breathing. But now I hardly need them. So these techniques should be thought of as temporary crutches -- or like training wheels on a bicycle. They are there to help jump start your nasal breathing until your nose is strong enough, but you shouldn't need them forever. I had a clear shift when I first switched to nasal breathing, and then a second shift when I switched to _silent_ nasal breathing. It seems odd that my nose would clear up with _less_ air moving through the nose. My hypothesis is that either my health in general got better, or maybe less air means less irritation.
+Important note: as you start breathing through your nose more, you should find that your nose becomes less blocked even without doing these things. I used to need the nose strips _a lot_ when I first started nasal breathing. But now I hardly need them. So these techniques should be thought of as temporary crutches -- or like training wheels on a bicycle. They are there to help jump start your nasal breathing until your nose is strong enough, but you shouldn't need them forever. I had a clear shift when I first switched to nasal breathing, and then a second shift when I switched to _silent_ nasal breathing. It seems odd that my nose would clear up with _less_ air moving through the nose. My hypothesis is that either my health in general got better, or maybe less air means less irritation. @mark2015deep mentions that "the thickness or thinness or real-time mucous production, as well as nasal turbinate size are regulated by CO2 levels", so that's another possible thing that maybe happened to me.
 
-Definitely don't get surgery, unless you've tried all the safe options and nothing works. I think the mainstream medical world understates the risks here, e.g., you should read about empty nose syndrome. @nestor2020 has a bit about this. See also @sager2024 for a random encouraging anecdote that I came across on Twitter.
+Definitely don't get surgery, unless you've tried all the safe options and nothing works. I think the mainstream medical world understates the risks here, e.g., you should read about empty nose syndrome. @nestor2020 [chapter 7] has a bit about this. See also @sager2024 for a random encouraging anecdote that I came across on Twitter.
 
-i should say something about mouth taping as well. i don't have any _strong_ argument again it, but i have personally not done it. as you improve your breathing, you mouth should automatically close. so mouth taping is, in my view, unnecessary in the long-term. what about the short term? after all, all the other nose-unblocking stuff i'm recommending are short-term crutches as well. i think in the short term maybe it's completely fine? i was just personally scared of using it, and never needed it.
+i should say something about mouth taping as well. i don't have any _strong_ argument again it, but i have personally not done it. as you improve your breathing, you mouth should automatically close. so mouth taping is, in my view, unnecessary in the long-term. what about the short term? after all, all the other nose-unblocking stuff i'm recommending are short-term crutches as well. i think in the short term maybe it's completely fine? i was just personally scared of using it, and never needed it. waking up in the middle of the night gasping for air is pretty horrible (i've had it happen in the past even without mouth taping).
 
 my nose still sometimes feels unblocked in the morning. not sure what's going on there.
-
-
-# The unreasonable effectiveness of capnometers
-
-One might naively expect that capnometers would be useless, since they don't actually _do_ anything to your breathing. All of the breathing changes you make are ones you make yourself, and the capnometer just tells you what your CO~2~ levels are without affecting them. One might thus conclude that capnometers are useless. I don't have a great reply to this -- in fact, some people seem to get better just by doing Buteyko breathing "blind" (i.e., without seeing their breathing curve using a capnometer). So clearly it _is_ possible to do the same things without a capnometer. (Even Peter Litchfield admits this to some extent.[^capnocourse]) But in my case, it was only after I got a capnometer that I saw rapid progress. Here I will try to build a model of _why_ having a capnometer is so useful.
-
-[^capnocourse]: From @capnolearningcourse:
-
-    > You may be wondering, "can I benefit from the course without using technology?"  The answer, of course, is a resounding YES.  The ultimate objective of breathing behavior analysis work is NOT about learning to use technology for manipulating breathing with physical techniques, i.e., an outside-in paradigm, but rather it is about learning new breathing habits that automatically optimize respiration, that is, aligning breathing with respiration based on the principles of self-regulation, an inside-out paradigm.  The CapnoTrainer GO technology is a powerful tool for making this transition from an outside-in to an inside-out paradigm, that is, for identifying existing habits and learning new ones.
-
-
-My model of why capnometers are so "unreasonably effective" is basically that with Buteyko breathing, part of the problem is that even if you make progress, you can never know if you're pushing so hard that you've overshot your CO~2~ and are now having too much CO2. You can't really avoid this problem because both too low CO~2~ and too high CO~2~ feel pretty much exactly the same -- air hunger. So a capnometer is what actually lets you know for sure whether you are undershooting, just right, or overshooting.
-
-It's just super helpful to _see_ what your breath looks like. Buteyko breathing can feel _scary_ because you don't know if you're going too hard and might be harming yourself. Hooking yourself up to a capnometer tells you whether your CO~2~ levels are normal.
-
-one of the things i'm still trying to figure out is, supposedly Konstantin Buteyko originally had various machines to measure CO~2~ or whatever, but then they were destroyed, so then he was forced to come up with the Control Pause as the sort of replacement metric. but what i'm wondering is, what did his machines measure? was it just end-tidal CO~2~? and if so, then what did he do after people reached a normal 40\ mmHg of pCO~2~? was that the end of treatment? or did he try to push the CO~2~ even higher?
 
 # Capnometry biofeedback
 
@@ -363,6 +347,23 @@ From Vipul: """btw I'd love for you to expand more on what capnometers measure, 
 -->
 
 [TODO: fill out this section. It should be about how to use the capnometer well. maybe include my list of "things to try on the capnometer". talk about what the ideal breathing curve should look like.]
+
+Given how expensive capnometers are (and potentially difficult to access as well, if you don't happen to have anyone near you who can rent them out), you might think they are not worth it. I think it's fine to be skeptical of them. I personally made _some_ substantial progress without a capnometer, but then 1--2 months after switching to nasal breathing I hit a plateau where I was still having significant shortness of breath while talking (and okay levels of shortness of breath while just sitting quietly). It was only after getting access to a capnometer that I had a second big shift in my breathing. See the section [The unreasonable effectiveness of capnometers] for more about why I think they are useful. But also, definitely try fixing your breathing without a capnometer first, and just see how far you can get! (reminder that i don't sell or rent out capnometers, so i don't benefit either way from your decision.)
+
+## The unreasonable effectiveness of capnometers
+
+One might naively expect that capnometers would be useless, since they don't actually _do_ anything to your breathing. All of the breathing changes you make are ones you make yourself, and the capnometer just tells you what your CO~2~ levels are without affecting them. One might thus conclude that capnometers are useless. I don't have a great reply to this -- in fact, some people seem to get better just by doing Buteyko breathing "blind" (i.e., without seeing their breathing curve using a capnometer). So clearly it _is_ possible to do the same things without a capnometer. (Even Peter Litchfield admits this to some extent.[^capnocourse]) But in my case, it was only after I got a capnometer that I saw rapid progress. Here I will try to build a model of _why_ having a capnometer is so useful.
+
+[^capnocourse]: From @capnolearningcourse:
+
+    > You may be wondering, "can I benefit from the course without using technology?"  The answer, of course, is a resounding YES.  The ultimate objective of breathing behavior analysis work is NOT about learning to use technology for manipulating breathing with physical techniques, i.e., an outside-in paradigm, but rather it is about learning new breathing habits that automatically optimize respiration, that is, aligning breathing with respiration based on the principles of self-regulation, an inside-out paradigm.  The CapnoTrainer GO technology is a powerful tool for making this transition from an outside-in to an inside-out paradigm, that is, for identifying existing habits and learning new ones.
+
+
+My model of why capnometers are so "unreasonably effective" is basically that with Buteyko breathing, part of the problem is that even if you make progress, you can never know if you're pushing so hard that you've overshot your CO~2~ and are now having too much CO2. You can't really avoid this problem because both too low CO~2~ and too high CO~2~ feel pretty much exactly the same -- air hunger. So a capnometer is what actually lets you know for sure whether you are undershooting, just right, or overshooting.
+
+It's just super helpful to _see_ what your breath looks like. Buteyko breathing can feel _scary_ because you don't know if you're going too hard and might be harming yourself. Hooking yourself up to a capnometer tells you whether your CO~2~ levels are normal.
+
+one of the things i'm still trying to figure out is, supposedly Konstantin Buteyko originally had various machines to measure CO~2~ or whatever, but then they were destroyed, so then he was forced to come up with the Control Pause as the sort of replacement metric. but what i'm wondering is, what did his machines measure? was it just end-tidal CO~2~? and if so, then what did he do after people reached a normal 40\ mmHg of pCO~2~? was that the end of treatment? or did he try to push the CO~2~ even higher?
 
 # Posture
 
@@ -394,9 +395,9 @@ I find myself somewhere in between these two views. In a sense, I think both sid
 
 So yes, do the techniques. Learn them so well that you get bored of them and forget about them.
 
-# Breathing techniques
+# Breathing exercises
 
-Reminder that none of these techniques will work if you can't breathe through your nose comfortably. See the section [Clearing your nose] for how to unblock your nose.
+Reminder that none of these exercises will work if you can't breathe through your nose comfortably. See the section [Clearing your nose] for how to unblock your nose.
 
 ## Relaxed silent breathing
 
@@ -420,7 +421,7 @@ an open question for me currently is: after you do this conscious relaxed silent
 
 Try slouching too as you do this exercise, and in general experiment with your posture. Your diaphragm will give you feedback on which postures work best. For example, when I slouch as I do this exercise, I notice my diaphragm can't move as well (both for inhale and exhale). Being too upright also makes it seem like my whole torso is too "stiff". So some intermediate posture seems to work best for me, but idk yet if this is optimal.
 
-I think this exercise might be "breathing-complete" in the sense that it's the only thing you need to cure shortness of breath -- but I am still actively testing out this hypothesis.
+I think this exercise might be "breathing-complete" in the sense that it's the only thing you need to cure shortness of breath -- but I am still actively testing out this hypothesis. i also suspect this exercise is "universal" in the sense that it is particularly easy to stumble onto. i sort of (with a bit of help) stumbled onto it while using the capnometer. the buteyko people also recommend this (or slight variant) exercise for beginners.
 
 ## Many small breath holds
 
