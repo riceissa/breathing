@@ -157,18 +157,27 @@ here's the other thing vipul showed me:
 
 suppose your equation right now is:
 
-$$\begin{aligned}\mathrm{pH} &\approx 6.1 + \log_{10}\left(\frac{\mathrm{[HCO_3^-]}}{0.0307 \cdot p\mathrm{CO_2}}\right) \\ &= 6.1 + \log_{10}(\mathrm{[HCO_3^-]}) - \log_{10}(0.0307) - \log_{10}(p\mathrm{CO_2})\end{aligned}$$
+$$\begin{aligned}
+  \mathrm{pH} &\approx 6.1 + \log_{10}\left(\frac{\mathrm{[HCO_3^-]}}{0.0307 \cdot p\mathrm{CO_2}}\right) \\
+              &= 6.1 + \log_{10}(\mathrm{[HCO_3^-]}) - \log_{10}(0.0307) - \log_{10}(p\mathrm{CO_2})
+\end{aligned}$$
 
 Now you hold your breath so that the *p*CO~2~ goes up by some amount, $\Delta p\mathrm{CO_2}$, and the pH changes by some amount, $\Delta \mathrm{pH}$ (it's a negative quantity, since your pH goes down when the blood becomes more acidic). Your equation now looks like:
 
-$$\begin{aligned}\mathrm{pH} + \Delta \mathrm{pH} &\approx 6.1 + \log_{10}\left(\frac{\mathrm{[HCO_3^-]}}{0.0307 \cdot (p\mathrm{CO_2} + \Delta p\mathrm{CO_2})}\right) \\ &= 6.1 + \log_{10}(\mathrm{[HCO_3^-]}) - \log_{10}(0.0307) - \log_{10}(p\mathrm{CO_2} + \Delta p\mathrm{CO_2})\end{aligned}$$
+$$\begin{aligned}
+  \mathrm{pH} + \Delta \mathrm{pH} &\approx 6.1 + \log_{10}\left(\frac{\mathrm{[HCO_3^-]}}{0.0307 \cdot (p\mathrm{CO_2} + \Delta p\mathrm{CO_2})}\right) \\
+                                   &= 6.1 + \log_{10}(\mathrm{[HCO_3^-]}) - \log_{10}(0.0307) - \log_{10}(p\mathrm{CO_2} + \Delta p\mathrm{CO_2})
+\end{aligned}$$
 
 Now let's subtract the first equation from the second; we get:
 
+$$\begin{aligned}
+  \Delta \mathrm{pH} &= \log_{10}(p\mathrm{CO_2}) - \log_{10}(p\mathrm{CO_2} + \Delta p\mathrm{CO_2}) \\
+                     &= \log_{10}\left(\frac{p\mathrm{CO_2}}{p\mathrm{CO_2} + \Delta p\mathrm{CO_2}}\right) \\
+                     &= - \log_{10}\left(1 + \frac{\Delta p\mathrm{CO_2}}{p\mathrm{CO_2}}\right)
+\end{aligned}$$
 
-$$\begin{aligned}\Delta \mathrm{pH} &\approx \log_{10}(p\mathrm{CO_2}) - \log_{10}(p\mathrm{CO_2} + \Delta p\mathrm{CO_2}) \\ &= \log_{10}\left(\frac{p\mathrm{CO_2}}{p\mathrm{CO_2} + \Delta p\mathrm{CO_2}}\right) \\ &= - \log_{10}\left(1 + \frac{\Delta p\mathrm{CO_2}}{p\mathrm{CO_2}}\right)\end{aligned}$$
-
-What does all of this show? Well, the quantity $\frac{\Delta p\mathrm{CO_2}}{p\mathrm{CO_2}}$ is actually the percentage change in pCO~2~. So it shows that _the change in pH is a function of the percentage change in pCO~2~_.
+What does all of this show? Well, the quantity $\frac{\Delta p\mathrm{CO_2}}{p\mathrm{CO_2}}$ is actually the percentage change in pCO~2~. So it shows that _the change in pH is a function of the percentage change in pCO~2~_. This is one way to understand why having low CO~2~ means your pH changes more easily: the same amount of absolute CO~2~ change results in a greater percentage change in CO~2~.
 
 
 for advanced buteyko practitioners however, my current guess is that their PCO~2~ levels are normal (40--45\ mmHg). so now, how do we explain how they can hold their breaths for so long? i think some other factors are at play here including:
@@ -176,7 +185,7 @@ for advanced buteyko practitioners however, my current guess is that their PCO~2
 - less sensitive chemoreceptors
 - hemoglobin count or efficiency
 - myoglobin count or efficiency
-- reduced or more efficient cellular metabolish (slower rate of generation of CO2)
+- reduced or more efficient cellular metabolism (slower rate of generation of CO2)
 - higher lung capacity
 
 some of the above may also be happening in going from chronic overbreather to normal breather, but it's not obviously necessary to explain the differences in CO~2~ tolerance between overbreather and normal.
@@ -393,13 +402,25 @@ Reminder that none of these techniques will work if you can't breathe through yo
 
 This one is most similar to @rakhimov2013advanced [section 4.6, "Relaxing the diaphragm (Buteyko relaxed breathing exercise)"], but Neil Tranter also has a similar video [@tranter2023relaxed]. @novozhilov2012 has similar exercises too (e.g., Exercise 1).
 
-sit upright in a comfortable way. breathe silently through your nose. then just try to make sure the exhale is done in a completely relaxed way, where your whole body (but esp diaphragm) relaxes. you are NOT pushing the air out. just a whole-body relaxation on every exhale. on each exhale scan ONE body part for tenseness. shoulders? torso? legs? etc. just focus on one body part at a time, and try to relax it on the exhale, and keep it relaxed. The idea of this exercise is that just by relaxing the exhale, your breathing should slow down and so it actually IS a (mild) reduced breathing exercise even though it just seems like a relaxation one. Do this for like 15 mins. Attention drifting during the exercise is a GOOD thing. here's why. you want to make sure this style of breathing becomes a HABIT, so you want your mind to drift away from your breath. the important part is that whenever you realize you have drifted and you're aware of your breathing again, to just gently check to make sure you're still doing the completely relaxed exhale, and that your body isn't tense.
+Exercise instructions: sit upright in a comfortable way. Breathe silently through your nose. Then just try to make sure the exhale is done in a completely relaxed way, where your whole body (but esp diaphragm) relaxes. You are _not_ pushing the air out. Just a whole-body relaxation on every exhale. On each exhale scan _one_ body part for tenseness: shoulders? torso? legs? etc. Just focus on one body part at a time, and try to relax it on the exhale, and keep it relaxed. The idea of this exercise is that just by relaxing the exhale, your breathing should slow down (but don't try to artificially slow down your breathing) and so it actually _is_ a (mild) reduced breathing exercise even though it just seems like a relaxation one. Do this for 15 minutes or so.
+
+Attention drifting during the exercise is a _good_ thing because you want to make sure this style of breathing becomes a _habit_ (rather than only occurring when you are consciously executing the instructions). You want your mind to drift away from your breath, as a way of giving yourself small opportunities to see if you can maintain the same breathing pattern even when you are not paying attention. The important point is that whenever you realize you have drifted and you're aware of your breathing again, you want to gently check to make sure you're still doing the completely relaxed exhale, and that your body isn't tense. You can even try to intentially pay attention to something else, to distract yourself, so that you can check back on your breath to see what it has been doing.
+
+The whole exercise is basically juggling your attention in this way: Is my inhale silent or as quiet as I can manage without tensing up? Is my exhale completely relaxed? Are all of my body parts relaxed (except spine, to keep an upright posture)?
+
+If you have trouble relaxing your exhale or knowing whether you are relaxing your exhale, try the [Double inhale technique] or try artificially slowing down just the first part of your exhale. These two techniques should give you an easier time relaxing the exhale so you will know what relaxation feels like.
+
+Your hands may warm up a bit, and this seems like evidence that the exercise is working.
 
 note that i use the word "silent" rather than "quiet" because for a long time i thought my breathing was quiet, but it turned out my breathing was still making quite a bit of noise compared to what i _could_ do. i don't want others to make the same mistake i did. if your hearing is normal, you should not be able to hear your breathing. if you are hard of hearing, then maybe get someone else to check for you.
 
 the goal is to eventually be breathing in this way all the time. so it's a "technique" but also it is going to become a habit.
 
 an open question for me currently is: after you do this conscious relaxed silent breathing, you will build up some mild air hunger. now, _after_ you complete the exercise, how long should you "keep" that air hunger going? should you feel free to just take a slightly deeper breath and "clear" the air hunger, or should you keep it going for some time (if so, how long?), or should you just try to keep it going as long as possible? i think trying to keep up the silent breathing with slight air hunger for long enough periods tends to cause a sudden burst of anxiety for me, like a sense of panic at not being able to breathe. so i think that's probably not the right thing to do. but it's confusing because i go from feeling totally comfortable with the slight air hunger to suddenly feeling panicky. @mark2015deep says "This process \[raising CO~2~ tolerance over time\] is long and finicky and can cause very unpleasant symptoms. Less is more; barely knowing whether you’re doing anything is best. You can also trigger panic attacks or asthma attacks if you’re susceptible." Another thought is to, whenever possible when taking deeper breaths, to do so in more Buteyko-aligned ways, e.g., through the nose and as gently as possible. So don't satisfy the urge for a deeper breath by inhaling with your mouth or yawning or being super forceful about it, just try to gently incline towards a deeper breath, a slight force with your nose. NOTE: this may not be possible at first, e.g., i had to get to silent nasal breathing in order to take "good" breaths with little force through my nose. when i was still mouth breathing some of the time, i always had to take a good breath through my mouth. then when i started nose breathing (but loudly), i could take good breaths occasionally through my nose, but only by loudly sniffing in. so there's a gradual "handoff" where the old normal becomes the new "rescue breath" method.
+
+Try slouching too as you do this exercise, and in general experiment with your posture. Your diaphragm will give you feedback on which postures work best. For example, when I slouch as I do this exercise, I notice my diaphragm can't move as well (both for inhale and exhale). Being too upright also makes it seem like my whole torso is too "stiff". So some intermediate posture seems to work best for me, but idk yet if this is optimal.
+
+I think this exercise might be "breathing-complete" in the sense that it's the only thing you need to cure shortness of breath -- but I am still actively testing out this hypothesis.
 
 ## Many small breath holds
 
