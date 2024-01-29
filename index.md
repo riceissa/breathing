@@ -5,7 +5,7 @@ created: 2024-01-24
 date: 2024-01-27
 ---
 
-# Introduction
+# Preliminaries
 
 maybe a better title is: overcoming chronic shortness of breath by fixing your breathing
 
@@ -44,6 +44,8 @@ I think as a first step, it's a good idea to rule out any standard problems with
 <https://youtu.be/G3YHBYVxxmI?t=1049> -- Chris Gilbert lists a bunch of possible reasons for hyperventilation that _aren't_ just anxiety/stress.
 
 basically, get yourself checked out by one or more doctors, go through the standard protocol, and if the doctors tell you that there's nothing wrong or that your breathing problems are just due to anxiety, _then_ come back to this document and try using the methods in it. the only exception i'm aware of so far is asthma. if you have asthma, then supposedly buteyko breathing is also effective, so you can get _both_ mainstream medical treatment (e.g., inhalers) and try the things in this document (though i don't have any first- or second-hand experience here so you should probably just go find a buteyko book and follow that instead).
+
+some other possible things that could be going on, where your CO~2~ _is_ low but it's not because of a dysfunctional breathing habit: COPD (alveolar and arterial CO~2~ mismatch), metabolic acidosis (ketoacidosis, lactic acidosis) [@capnolearningbook, p. 29].
 
 [TODO: add more details]
 
@@ -191,7 +193,7 @@ for advanced buteyko practitioners however, my current guess is that their PCO~2
 some of the above may also be happening in going from chronic overbreather to normal breather, but it's not obviously necessary to explain the differences in CO~2~ tolerance between overbreather and normal.
 
 
-## Summary
+## Upshot
 
 So what we've established is:
 
@@ -256,7 +258,7 @@ sequence/flow of the video:
 
 One of the weird things I discovered while using the CapnoTrainer is that the breathing style that brought CO~2~ levels up to normal in the most effortless way turned out to be what the Buteyko people have been saying all along: silent nasal breathing. This raises the question of whether there is some universally "optimal" breathing style that everyone should have, or if it's more of a preference (different people can have different breathing styles, but what matters is that your CO~2~ levels are normal and you don't have air hunger or other breathing issues).
 
-Peter Litchfield on the other hand says that it doesn't matter how you breathe -- you could even mouth breathe -- as long as your breathing habits are "functional" (by which I think he means your CO~2~ levels are at like 40\ mmHg).
+Peter Litchfield on the other hand says that it doesn't matter how you breathe -- you could even mouth breathe -- as long as your breathing habits are "functional" (by which I think he means your CO~2~ levels are at like 40\ mmHg). For example see @capnolearningbook [p. 21], where "There is an ideal breathing pattern that each of us needs to learn" is listed as a misconception.
 
 # Can you overshoot your CO~2~ levels by doing too much reduced breathing?
 
@@ -350,6 +352,8 @@ From Vipul: """btw I'd love for you to expand more on what capnometers measure, 
 
 Given how expensive capnometers are (and potentially difficult to access as well, if you don't happen to have anyone near you who can rent them out), you might think they are not worth it. I think it's fine to be skeptical of them. I personally made _some_ substantial progress without a capnometer, but then 1--2 months after switching to nasal breathing I hit a plateau where I was still having significant shortness of breath while talking (and okay levels of shortness of breath while just sitting quietly). It was only after getting access to a capnometer that I had a second big shift in my breathing. See the section [The unreasonable effectiveness of capnometers] for more about why I think they are useful. But also, definitely try fixing your breathing without a capnometer first, and just see how far you can get! (reminder that i don't sell or rent out capnometers, so i don't benefit either way from your decision.)
 
+the other important thing about capnometers: taking Control Pauses is frankly scary to me, and _some_ people also seem to get unpleasant side effects when they do it (even when they're doing it correctly). so a capnometer is a way to measure progress in a completely safe way.
+
 ## The unreasonable effectiveness of capnometers
 
 One might naively expect that capnometers would be useless, since they don't actually _do_ anything to your breathing. All of the breathing changes you make are ones you make yourself, and the capnometer just tells you what your CO~2~ levels are without affecting them. One might thus conclude that capnometers are useless. I don't have a great reply to this -- in fact, some people seem to get better just by doing Buteyko breathing "blind" (i.e., without seeing their breathing curve using a capnometer). So clearly it _is_ possible to do the same things without a capnometer. (Even Peter Litchfield admits this to some extent.[^capnocourse]) But in my case, it was only after I got a capnometer that I saw rapid progress. Here I will try to build a model of _why_ having a capnometer is so useful.
@@ -399,7 +403,7 @@ So yes, do the techniques. Learn them so well that you get bored of them and for
 
 Reminder that none of these exercises will work if you can't breathe through your nose comfortably. See the section [Clearing your nose] for how to unblock your nose.
 
-## Relaxed silent breathing
+## Main exercise: relaxed silent breathing
 
 This one is most similar to @rakhimov2013advanced [section 4.6, "Relaxing the diaphragm (Buteyko relaxed breathing exercise)"], but Neil Tranter also has a similar video [@tranter2023relaxed]. @novozhilov2012 has similar exercises too (e.g., Exercise 1).
 
@@ -417,11 +421,13 @@ note that i use the word "silent" rather than "quiet" because for a long time i 
 
 the goal is to eventually be breathing in this way all the time. so it's a "technique" but also it is going to become a habit.
 
-an open question for me currently is: after you do this conscious relaxed silent breathing, you will build up some mild air hunger. now, _after_ you complete the exercise, how long should you "keep" that air hunger going? should you feel free to just take a slightly deeper breath and "clear" the air hunger, or should you keep it going for some time (if so, how long?), or should you just try to keep it going as long as possible? i think trying to keep up the silent breathing with slight air hunger for long enough periods tends to cause a sudden burst of anxiety for me, like a sense of panic at not being able to breathe. so i think that's probably not the right thing to do. but it's confusing because i go from feeling totally comfortable with the slight air hunger to suddenly feeling panicky. @mark2015deep says "This process \[raising CO~2~ tolerance over time\] is long and finicky and can cause very unpleasant symptoms. Less is more; barely knowing whether you’re doing anything is best. You can also trigger panic attacks or asthma attacks if you’re susceptible." Another thought is to, whenever possible when taking deeper breaths, to do so in more Buteyko-aligned ways, e.g., through the nose and as gently as possible. So don't satisfy the urge for a deeper breath by inhaling with your mouth or yawning or being super forceful about it, just try to gently incline towards a deeper breath, a slight force with your nose. NOTE: this may not be possible at first, e.g., i had to get to silent nasal breathing in order to take "good" breaths with little force through my nose. when i was still mouth breathing some of the time, i always had to take a good breath through my mouth. then when i started nose breathing (but loudly), i could take good breaths occasionally through my nose, but only by loudly sniffing in. so there's a gradual "handoff" where the old normal becomes the new "rescue breath" method.
+an open question for me currently is: after you do this conscious relaxed silent breathing, you will build up some mild air hunger. now, _after_ you complete the exercise, how long should you "keep" that air hunger going? should you feel free to just take a slightly deeper breath and "clear" the air hunger, or should you keep it going for some time (if so, how long?), or should you just try to keep it going as long as possible? i think trying to keep up the silent breathing with slight air hunger for long enough periods tends to cause a sudden burst of anxiety for me, like a sense of panic at not being able to breathe. so i think that's probably not the right thing to do. but it's confusing because i go from feeling totally comfortable with the slight air hunger to suddenly feeling panicky. @mark2015deep says "This process \[raising CO~2~ tolerance over time\] is long and finicky and can cause very unpleasant symptoms. Less is more; barely knowing whether you're doing anything is best. You can also trigger panic attacks or asthma attacks if you’re susceptible." Another thought is to, whenever possible when taking deeper breaths, to do so in more Buteyko-aligned ways, e.g., through the nose and as gently as possible. So don't satisfy the urge for a deeper breath by inhaling with your mouth or yawning or being super forceful about it, just try to gently incline towards a deeper breath, a slight force with your nose. NOTE: this may not be possible at first, e.g., i had to get to silent nasal breathing in order to take "good" breaths with little force through my nose. when i was still mouth breathing some of the time, i always had to take a good breath through my mouth. then when i started nose breathing (but loudly), i could take good breaths occasionally through my nose, but only by loudly sniffing in. so there's a gradual "handoff" where the old normal becomes the new "rescue breath" method.
 
 Try slouching too as you do this exercise, and in general experiment with your posture. Your diaphragm will give you feedback on which postures work best. For example, when I slouch as I do this exercise, I notice my diaphragm can't move as well (both for inhale and exhale). Being too upright also makes it seem like my whole torso is too "stiff". So some intermediate posture seems to work best for me, but idk yet if this is optimal.
 
 I think this exercise might be "breathing-complete" in the sense that it's the only thing you need to cure shortness of breath -- but I am still actively testing out this hypothesis. i also suspect this exercise is "universal" in the sense that it is particularly easy to stumble onto. i sort of (with a bit of help) stumbled onto it while using the capnometer. the buteyko people also recommend this (or slight variant) exercise for beginners.
+
+relaxing completely is harder than it seems. I have a tendency to "relax" by like forcing my body to collapse, and that is not actually relaxation -- on the capnometer i can actually see i am failing, because my CO~2~ will go from like 38 to 34. you should not feel any strain or "tug" at all in your abdomen. i don't know how to convey the actual precise instructions necessary to do this; i personally am just getting feedback from the capnometer. when the capnometer tells me my CO~2~ just went down from the new thing i tried, i'm like "ok, i guess that's not the right way to do it", and go back to my baseline breathing style, and then try another thing.
 
 ## Many small breath holds
 
