@@ -25,7 +25,7 @@ note to self: this document should have a tightly focused scope. it's to explain
 
 a note for breathing experts: if you're wondering what the philosophy of this document is in a few words, check out the [Breathing synthesis] section. In short, my philosophy is the "Buteyko method" + the "Alexander Technique" + capnometry biofeedback, with the first two terms in quotes because I'm sort of doing my own bastardized versions of them, and wouldn't want to claim I am propagating the "real thing". If you don't know what any of the three terms mean, don't worry! They will all be explained in the course of this document.
 
-i think a lot of resources are needlessly general, to the point where the reader has to do a lot of work to figure out which parts to ignore and which parts to follow. trying to satisfy everyone by writing super generally means everyone gets a decent but not great experience. so i'm solving this problem by writing for an extremely specific audience: people like my past self. this will make the document useless or only tangentially relevant to a lot of people, but for the intended audience, it will be _exactly_ what they need. i'll try to make this document a self-contained do-it-yourself guide on how to overcome shortness of breath.
+i think a lot of resources are needlessly general, to the point where the reader has to do a lot of work to figure out which parts to ignore and which parts to follow. trying to satisfy everyone by writing super generally means everyone gets a decent but not great experience. so i'm solving this problem by writing for an extremely specific audience: people like my past self. this will make the document useless or only tangentially relevant to a lot of people, but for the intended audience, it will be _exactly_ what they need. i'll try to make this document a self-contained do-it-yourself guide on how to overcome shortness of breath. many other guides don't try to be self-contained; they link out to other things that you can try, or otherwise make you hunt down references or jump through hoops to get them. a printed version of this document, without any internet connection, hopefully with access to a capnometer, and about 2 months (half that if you can already breathe through your nose) should suffice to fix air hunger.
 
 ## Warning/disclaimer and disclosures
 
@@ -46,6 +46,8 @@ I think as a first step, it's a good idea to rule out any standard problems with
 basically, get yourself checked out by one or more doctors, go through the standard protocol, and if the doctors tell you that there's nothing wrong or that your breathing problems are just due to anxiety, _then_ come back to this document and try using the methods in it. the only exception i'm aware of so far is asthma. if you have asthma, then supposedly buteyko breathing is also effective, so you can get _both_ mainstream medical treatment (e.g., inhalers) and try the things in this document (though i don't have any first- or second-hand experience here so you should probably just go find a buteyko book and follow that instead).
 
 some other possible things that could be going on, where your CO~2~ _is_ low but it's not because of a dysfunctional breathing habit: COPD (alveolar and arterial CO~2~ mismatch), metabolic acidosis (ketoacidosis, lactic acidosis) [@capnolearningbook, p. 29].
+
+see also Box 1.1 ("When is overbreathing acceptable?") in @breathingdisordersbookchapter1 [p. 6]
 
 [TODO: add more details]
 
@@ -76,6 +78,8 @@ i tentatively recommend going pretty slowly (need a better descriptor here...) s
 
 if you are already ill in various ways like i am, then maybe it's not a big deal to suffer for a while and make rapid progress. the problem is if it's not _just_ being uncomfortable for a while, but if it becomes permanent or if it's a sign of actually dangerous stuff happening. i don't know how to distinguish what each symptom means. hence the recommendation to go slowly.
 
+if done correctly, i think the buteyko relaxed breathing stuff is a lot safer than relying on your own broken instincts about how hard you should breathe. it's only been 2 weeks now since my "breakthrough" on january 15, but i'm noticing a lot less struggle with my breathing, like even the couple of suffocation-like episodes seem milder than some of the stuff i was already experiencing before.
+
 ## Accidental meditation
 
 as you try to normalize your breath, you're constantly paying attention to the way you breathe, and that's essentially the mental motion that meditators make (at least, when they do the kind of meditation where they focus on their breath). could you be accidentally meditating by trying to fix your air hunger? is that why the intracranial pressure happens? how can we correct the breath without risking accidentally meditating? (most people might have the sense that meditation is harmless, but my current belief is that if you do more than like a few minutes a day, then meditation requires a lot of care to do correctly, and you can really risk hurting yourself/disrupting your whole life. see stuff like "dark night of the soul". as they say about meditation, "Better not to start. Once started, better to finish." you really don't want to accidentally meditate.)
@@ -89,6 +93,12 @@ i don't have any good answers yet. i'm still working through this myself. for th
 Buteyko people seem too anti-coughing to me. My uninformed guess is that it's good to cough sometimes, e.g., to clear mucus or during a viral infection. Then there are other more mysterious forms of cough (e.g., twice in my life for like a month each, I had a habit of little micro-coughs/chest itchy feeling) where I think suppressing the cough is more justified (the second time it happened, doing soft breathing to make the cough not trigger is what finally made it go away).
 
 @novozhilov2012 says to cough without opening your mouth, but based on personal experience I think this is a bad idea. There can be too much air coming through your nose which can damage the nose tissue. Anyway, this was never a huge issue for me but people with actual asthma might have to adopt different strategies.
+
+## Breath holds
+
+breath holds in general scare me, and i think it's fine if you don't want to do them. really tiny ones (like 1--5\ seconds) might be good, just to get yourself used to the idea that not breathing for a few seconds isn't going to kill you (you can even have a pulse oximeter on your finger as you do breath holds, to prove to yourself that your oxygen saturation doesn't drop or only drops an insignificant amount, like 1\ percentage point); so i still do include [Many small breath holds] in my suggested exercises. some buteyko books like artour's have more safety information about breath holds.
+
+this is also one of the reasons i prefer [Capnometry biofeedback], because it gives you a way to measure progress without taking Control Pauses.
 
 
 # The biological basis of shortness of breath
@@ -179,7 +189,7 @@ $$\begin{aligned}
                      &= - \log_{10}\left(1 + \frac{\Delta p\mathrm{CO_2}}{p\mathrm{CO_2}}\right)
 \end{aligned}$$
 
-What does all of this show? Well, the quantity $\frac{\Delta p\mathrm{CO_2}}{p\mathrm{CO_2}}$ is actually the percentage change in pCO~2~. So it shows that _the change in pH is a function of the percentage change in pCO~2~_. This is one way to understand why having low CO~2~ means your pH changes more easily: the same amount of absolute CO~2~ change results in a greater percentage change in CO~2~.
+What does all of this show? Well, the quantity $\frac{\Delta p\mathrm{CO_2}}{p\mathrm{CO_2}}$ is actually the fractional change in pCO~2~. So it shows that _the change in pH is a function of the fractional change in pCO~2~_. This is one way to understand why having low CO~2~ means your pH changes more easily: the same amount of absolute CO~2~ change results in a greater fractional change in CO~2~. (Note: fractional change is almost the same thing as percentage change, just divided by 100.)
 
 
 for advanced buteyko practitioners however, my current guess is that their PCO~2~ levels are normal (40--45\ mmHg). so now, how do we explain how they can hold their breaths for so long? i think some other factors are at play here including:
@@ -354,6 +364,8 @@ Given how expensive capnometers are (and potentially difficult to access as well
 
 the other important thing about capnometers: taking Control Pauses is frankly scary to me, and _some_ people also seem to get unpleasant side effects when they do it (even when they're doing it correctly). so a capnometer is a way to measure progress in a completely safe way.
 
+TODO: what the heck do you do when your baseline CO~2~ is normal according to the capnometer, but you still have that slight air hunger at all times (like, it's subtle enough that i wouldn't have even logged it in my symptom tracker before), and it's been over a week since you've been in this state (so bicarbonate levels should have adjusted by now)? that's the place i am in now (2024-01-29), and i'm not quite sure where to go from here. maybe trying to have this same breathing as i'm doing light exercise? or practice maintaining good breathing while i'm talking (my CO~2~ goes down and i feel more out of breath when i talk, although it's gotten better as my baseline CO~2~ has gone up)? or do i need to go into more advanced buteyko exercises like reduced breathing and breath holds? there was that thing in @breathingdisordersbookchapter1 [p. 6] Box 1.1 which says "General levels of deconditioning (the opposite of aerobic fitness) lead to altered forms of energy production (anaerobic glycolysis) that encourages acidosis -- hence a greater tendency to hyperventilation" so it's possible i am also just deconditioned, and if i can just exercise more each day, everything will sort itself out. (as i write this i've only been going on walks of like 10--35\ minutes in length and some stretches throughout the day. i used to run more but that routine keeps getting disrupted.)
+
 ## The unreasonable effectiveness of capnometers
 
 One might naively expect that capnometers would be useless, since they don't actually _do_ anything to your breathing. All of the breathing changes you make are ones you make yourself, and the capnometer just tells you what your CO~2~ levels are without affecting them. One might thus conclude that capnometers are useless. I don't have a great reply to this -- in fact, some people seem to get better just by doing Buteyko breathing "blind" (i.e., without seeing their breathing curve using a capnometer). So clearly it _is_ possible to do the same things without a capnometer. (Even Peter Litchfield admits this to some extent.[^capnocourse]) But in my case, it was only after I got a capnometer that I saw rapid progress. Here I will try to build a model of _why_ having a capnometer is so useful.
@@ -402,6 +414,8 @@ So yes, do the techniques. Learn them so well that you get bored of them and for
 # Breathing exercises
 
 Reminder that none of these exercises will work if you can't breathe through your nose comfortably. See the section [Clearing your nose] for how to unblock your nose.
+
+one of the things i've personally found frustrating is when people say "just do buteyko" or they link to a video with super vague instructions. so, at the risk of overfitting to my own experience, i'm going to give pretty precise instructions for exercises and aspirationally try to make them be difficult to misinterpret.
 
 ## Main exercise: relaxed silent breathing
 
@@ -457,9 +471,9 @@ i've benefited from interacting with a lot of people, in the course of figuring 
 - ML: kept mentioning buteyko breathing to me saying i should try it.
 - Howard Cooper: While I've benefitted from all the sources I'm citing in the [References], I want to call out especially @cooper2021 as the thing that finally made the CO~2~ stuff click for me (though my understanding was still very incomplete) and got me to actually start playing around with buteyko techniques.
 - CM: told me about the capnotrainer and got me excited about capnometry biofeedback.
-- Vipul Naik helped me understand some key things about the biology of respiration. In particular, he was the one who figured out that having a low CO~2~ means pH is more sensitive to slight fluctuations in CO~2~ levels.
+- Vipul Naik helped me understand some key things about the biology of respiration. In particular, he was the one who figured out that having a low CO~2~ means pH is more sensitive to slight fluctuations in CO~2~ levels. also for reading drafts of this document and giving me feedback.
 - DD: introduced me to JA. he was also a catalyst for me figuring out my circadian rhythm, but that's a whole separate topic.
-- JA: my breathing coach; helped me
+- JA: my breathing coach; helped me get set up on the capnotrainer, and helped me through the whole biofeedback process.
 - PL: was generous enough to spend an hour talking to me about capnometer stuff.
 
 # References {.unnumbered}
