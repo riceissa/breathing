@@ -2,12 +2,19 @@
 title: '[DRAFT] My thoughts on breathing, with an emphasis on dealing with chronic shortness of breath'
 author: Issa Rice
 created: 2024-01-24
-date: 2024-01-29
+date: 2024-01-30
 ---
 
 # Preliminaries
 
 maybe a better title is: overcoming chronic shortness of breath by fixing your breathing
+
+## What kind of shortness of breath/air hunger am I talking about?
+
+- feeling like you can get a good breath in
+- trying to take forceful breath by e.g. yawning
+- some breaths "feel good", other ones (even forceful ones) "feel bad" -- there's a binary classification
+- no obvious cause: not tied to exercise, seasons, allergen sources, etc.
 
 ## Why this document?
 
@@ -82,6 +89,13 @@ if you are already ill in various ways like i am, then maybe it's not a big deal
 
 if done correctly, i think the buteyko relaxed breathing stuff is a lot safer than relying on your own broken instincts about how hard you should breathe. it's only been 2 weeks now since my "breakthrough" on january 15, but i'm noticing a lot less struggle with my breathing, like even the couple of suffocation-like episodes seem milder than some of the stuff i was already experiencing before.
 
+notes from roam:
+
+- one of the things i don't like about buteyko ppl and also litchfield is that they don't emphasize safety enough... and like what do you _do_ if you start to get intracranial pressure or throat tightening or other weird symptoms?
+- this is esp a problem in my case b/c i have other health conditions, and buteyko ppl just do a blanket "if you have health problems, don't do buteyko". that's not helpful.
+- and this is esp a problem if like me, you start to just automatically make better breathing a habit -- then it's hard to STOP doing it. so what do you do then?
+
+
 ## Accidental meditation
 
 as you try to normalize your breath, you're constantly paying attention to the way you breathe, and that's essentially the mental motion that meditators make (at least, when they do the kind of meditation where they focus on their breath). could you be accidentally meditating by trying to fix your air hunger? is that why the intracranial pressure happens? how can we correct the breath without risking accidentally meditating? (most people might have the sense that meditation is harmless, but my current belief is that if you do more than like a few minutes a day, then meditation requires a lot of care to do correctly, and you can really risk hurting yourself/disrupting your whole life. see stuff like "dark night of the soul". as they say about meditation, "Better not to start. Once started, better to finish." you really don't want to accidentally meditate.)
@@ -105,7 +119,9 @@ this is also one of the reasons i prefer [Capnometry biofeedback], because it gi
 
 # The biological basis of shortness of breath
 
-If you followed my advice and ruled out serious medical problems with a doctor, you may be thinking there is no biological cause of your shortness of breath, that it is just all "in your head". Certainly this is what doctors kept telling _me_, that it was all due to anxiety or some other hard-to-verify physical cause like mast cell activation (primary care physician, two pulmonologists, allergist).
+I _could_ just tell you the exercises you need to do to fix your breathing, but personally I find it unsatisfying when people tell me to do a thing without telling me why. So in this section, I will give a simplified but (as far as I know) accurate biological explanation of why you have shortness of breath. This will help you understand _why_ you should do the particular types of exercises I recommend later on (in [Breathing exercises]).
+
+If you followed my advice and ruled out serious medical problems with a doctor, you may be thinking there is no biological cause of your shortness of breath, that it is more or less "in your head". Certainly this is what doctors kept telling _me_, that it was all due to anxiety or some other hard-to-verify physical cause like mast cell activation (primary care physician, two pulmonologists, allergist).
 
 It turns out that there is a pretty well-understood cause of air hunger! But to understand it, we need to have a decent understanding of the chemistry of respiration; in particular we'll need to correct some misconceptions about breathing. So that's what this section is about.
 
@@ -113,13 +129,25 @@ The aim of this section is to give you a useful mechanistic model of how respira
 
 The central thing we're trying to explain here is: why is it that if you have shortness of breath, the right thing to do is the breathe _less_, even though your body is telling you to breathe _more_? What is going on at the chemical level when people have shortness of breath?
 
-(This is sort of like @cooper2021 on air hunger, but there are a few things I don't like about his explanation, so I'm going to be writing my own ideal version. But if you prefer a video explanation, then you can start with the video and then come back here.)
+(If you prefer a video instead of text, @cooper2021 is the best explanation I have found. However there are a few things I don't like about the explanation in that video, so I've written my own version here. But if you prefer a video explanation, then you can start with the video and then come back here.)
 
-## Respiration and misconceptions about CO~2~
+## Respiration
 
-The chemistry of respiration
+(writing this section from memory; i think if i get anything wrong here, it will be a good thing to point out in the final version!)
 
-What causes the urge to breathe? Humans have what are called chemoreceptors in their brain (and some other places) that tell the body to breathe. How do chemoreceptors know _when_ to breathe? They watch out for signals from the body, in the form of carbon dioxide levels, oxygen levels, and blood pH. Most of the time, when people breathe, it is because the carbon dioxide level increased above some threshold. Oxygen only triggers breathing when it gets really low (so low that I don't think most humans experience it except on very rare occasions). I think blood pH also matters, but maybe only during exercise? (but it might matter more for air hunger; see below).
+How does breathing happen? here is a very simplified sketch:
+
+**The mechanical:** to inhale, your muscles cause the lungs to expand in volume. this causes a drop in air pressure inside the lungs, causing air in the atmosphere to enter your lungs. to exhale, your muscles cause the lungs to contract; this decrease in volume causes an increase in air pressure (relative to the atmosphere) so the air in your lungs leave.
+
+**The chemical:** at the very edges of your lungs are tiny sacs called alveoli. the alveoli are surrounded by capillaries, and this is where gas exchange takes place. when air from the atmosphere arrives at the alveoli during inhalation, there is more oxygen in the atmosphere air, so the oxygen diffuses into the capillaries. At the same time, there is more carbon dioxide in the capillaries, so that diffuses back into the alveoli and then out into the atmosphere. this two-way diffusion is just happening all the time continuously, and inhalation and exhalation just bring or pump out the air so that more diffusion can take place. There is a subpart called **cellular respiration** where the oxygenated blood goes out to the tissues and carbon dioxide is produced by the tissues.
+
+**The neural:** What causes the urge to breathe? Humans have what are called chemoreceptors in their brain (and some other places) that tell the body to breathe. How do chemoreceptors know _when_ to send the signal to breathe? Do they just have a timer in them and send a signal every few seconds? It turns out that they watch out for signals from the body, in the form of carbon dioxide levels, oxygen levels, and blood pH. Most of the time, when people breathe, it is because the carbon dioxide level increased above some threshold. Oxygen only triggers breathing when it gets really low (so low that I don't think most humans experience it except on very rare occasions). I think blood pH also matters, but maybe only during exercise? (but it might matter more for people with air hunger; see below).
+
+Notice how the three aspects interact: the mechanical action allows the chemical exchange to take place (without just being stagnant at some dynamic equilibrium). The chemical process is what stimulates the nervous system. And the nervous system sends a signal to the mechanical part to make the motions.
+
+## Misconceptions about CO~2~
+
+From the above description, and based on your pre-existing knowledge, you might have the impression that CO~2~ is just a waste product. but actually, both too-low and too-high CO~2~ cause problems for the body. [TODO: say more]
 
 i'm not very attached to "high levels of CO2 are super healthy". i honestly haven't vetted the claims. but basically everyone (including mainstream western medicine) agrees that 35--45\ mmHg is the healthy range for partial pressure of CO~2~.
 
@@ -318,6 +346,8 @@ Here is the sequence I am thinking of:
 Note that the above is essentially (some of the particular techniques taught in) Buteyko breathing. The differences are: (1) pedagogical, in that I think focusing on each step in sequence works a lot better, and (2) whether to use a CapnoTrainer to help with some of the steps.
 
 ## Any more stages?
+
+i have a feeling that the final stage (beyond the ones i listed in the previous section) is "exercise while doing all of the previous ones". this is explicitly part of some buteyko guides. vipul also (i think independently) recommended i do this.
 
 upper chest (intercostals) vs diaphragm? i feel like this one happens automatically by doing the ones above. But for some reason this is like the focus of many breathing gurus/meditation experts. but it's not necessary! in fact, i think it can be harmful to focus on your diaphragm too much -- it leads to exaggerated/forceful movement of it which can cause overbreathing/sore muscles. like, sure, it's fine to check your abdomen to see that you are generally breathing with your diaphragm more than upper chest, but it shouldn't be a target.
 
