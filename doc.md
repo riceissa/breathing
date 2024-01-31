@@ -1,8 +1,8 @@
 ---
-title: '[draft] My thoughts on breathing, with an emphasis on dealing with chronic shortness of breath'
+title: '[DRAFT] My thoughts on breathing, with an emphasis on dealing with chronic shortness of breath'
 author: Issa Rice
 created: 2024-01-24
-date: 2024-01-27
+date: 2024-01-29
 ---
 
 # Preliminaries
@@ -26,6 +26,8 @@ note to self: this document should have a tightly focused scope. it's to explain
 a note for breathing experts: if you're wondering what the philosophy of this document is in a few words, check out the [Breathing synthesis] section. In short, my philosophy is the "Buteyko method" + the "Alexander Technique" + capnometry biofeedback, with the first two terms in quotes because I'm sort of doing my own bastardized versions of them, and wouldn't want to claim I am propagating the "real thing". If you don't know what any of the three terms mean, don't worry! They will all be explained in the course of this document.
 
 i think a lot of resources are needlessly general, to the point where the reader has to do a lot of work to figure out which parts to ignore and which parts to follow. trying to satisfy everyone by writing super generally means everyone gets a decent but not great experience. so i'm solving this problem by writing for an extremely specific audience: people like my past self. this will make the document useless or only tangentially relevant to a lot of people, but for the intended audience, it will be _exactly_ what they need. i'll try to make this document a self-contained do-it-yourself guide on how to overcome shortness of breath. many other guides don't try to be self-contained; they link out to other things that you can try, or otherwise make you hunt down references or jump through hoops to get them. a printed version of this document, without any internet connection, hopefully with access to a capnometer, and about 2 months (half that if you can already breathe through your nose) should suffice to fix air hunger.
+
+my intention is also not to turn you into some sort of superhuman breathing guru, or cure all your health problems, or whatever. there's only one goal, and it's to completely eliminate air hunger. i think, if you feel inspired by this document and want to go beyond by practicing more advanced buteyko exercises using other sources, that's a fine thing to do! but this document is limited in scope. it only has the modest goal of fixing the air hunger/shortness of breath and doing so in the safest manner possible.
 
 ## Warning/disclaimer and disclosures
 
@@ -443,6 +445,8 @@ I think this exercise might be "breathing-complete" in the sense that it's the o
 
 relaxing completely is harder than it seems. I have a tendency to "relax" by like forcing my body to collapse, and that is not actually relaxation -- on the capnometer i can actually see i am failing, because my CO~2~ will go from like 38 to 34. you should not feel any strain or "tug" at all in your abdomen. i don't know how to convey the actual precise instructions necessary to do this; i personally am just getting feedback from the capnometer. when the capnometer tells me my CO~2~ just went down from the new thing i tried, i'm like "ok, i guess that's not the right way to do it", and go back to my baseline breathing style, and then try another thing.
 
+for me, even on 2024-01-29, doing this exercise for 10 mins caused a mild suffocation-like reaction after about 5 mins, where i freaked out and stood up and had to take a few (unsuccessful/unsatisfying) mouth breaths, and then had to like just let my body do whatever for a few breaths, and then try to get in some good nasal breaths. after that, i was able to return to the exercise again, but i had to keep indulging good breaths. idk, this exercise is a lot harder than it seems! it's weird though because i _feel_ like i'm just doing this throughout the day, but i never get this suffocation reaction. so i wonder if it's just that i'm indulging good breaths throughout the day, but during this exercise i don't, and that's the crucial difference? i think i should start lower, like do this for 2 mins without indulging, then next day go up to 3 mins, etc?
+
 ## Many small breath holds
 
 @tranter2022breathhold -- the actual exercise starts around 7:46.
@@ -455,7 +459,7 @@ you take two relatively quick inhales, then exhale in a relaxed way.
 
 This one was shown to me by my breathing coach. I've found this quite useful for getting my body to relax the exhale. i have no idea why it works, but somehow it's just easier to exhale in a relaxed way from a more full inhale.
 
-## Misconceptions
+# Misconceptions
 
 this section is mostly an index to stuff discussed elsewhere in the document.
 
