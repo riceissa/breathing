@@ -129,7 +129,7 @@ The aim of this section is to give you a useful mechanistic model of how respira
 
 The central thing we're trying to explain here is: why is it that if you have shortness of breath, the right thing to do is the breathe _less_, even though your body is telling you to breathe _more_? What is going on at the chemical level when people have shortness of breath?
 
-(If you prefer a video instead of text, @cooper2021 is the best explanation I have found. However there are a few things I don't like about the explanation in that video, so I've written my own version here. But if you prefer a video explanation, then you can start with the video and then come back here.)
+(If you prefer a video instead of text, @cooper2021 is the best explanation I have found. However there are a few things I don't like about the explanation in that video, so I've written my own version here. But if you prefer a video explanation, then you can start with the video and then come back here. If you do rely on the video, please at least skim @issarice2024analysis where I explain what I think Cooper gets wrong in his videos.)
 
 ## Respiration
 
