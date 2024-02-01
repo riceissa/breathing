@@ -2,7 +2,7 @@
 title: '[DRAFT] My thoughts on breathing, with an emphasis on dealing with chronic shortness of breath'
 author: Issa Rice
 created: 2024-01-24
-date: 2024-01-30
+date: 2024-01-31
 ---
 
 # Preliminaries
@@ -35,6 +35,8 @@ a note for breathing experts: if you're wondering what the philosophy of this do
 i think a lot of resources are needlessly general, to the point where the reader has to do a lot of work to figure out which parts to ignore and which parts to follow. trying to satisfy everyone by writing super generally means everyone gets a decent but not great experience. so i'm solving this problem by writing for an extremely specific audience: people like my past self. this will make the document useless or only tangentially relevant to a lot of people, but for the intended audience, it will be _exactly_ what they need. i'll try to make this document a self-contained do-it-yourself guide on how to overcome shortness of breath. many other guides don't try to be self-contained; they link out to other things that you can try, or otherwise make you hunt down references or jump through hoops to get them. a printed version of this document, without any internet connection, hopefully with access to a capnometer, and about 2 months (half that if you can already breathe through your nose) should suffice to fix air hunger.
 
 my intention is also not to turn you into some sort of superhuman breathing guru, or cure all your health problems, or whatever. there's only one goal, and it's to completely eliminate air hunger. i think, if you feel inspired by this document and want to go beyond by practicing more advanced buteyko exercises using other sources, that's a fine thing to do! but this document is limited in scope. it only has the modest goal of fixing the air hunger/shortness of breath and doing so in the safest manner possible.
+
+a lot of works are also very wordy and repetitive. this document respects the intelligence of the reader. it emphasizes certain parts to guide the reader, but it will not keep repeating the same things in different words over and over. it will point out common misunderstandings or common misinterpretations, but it will not spend pages upon pages belaboring the point.
 
 ## Warning/disclaimer and disclosures
 
@@ -157,6 +159,14 @@ acid--base balance, bicarbonate buffer model (also called "renal compensation", 
 
 mention how people with shortness of breath might not think they are hyperventilating. For example I don't think I've ever overtly hyperventilated in my life. And yet, I was constantly low-grade overbreathing. @breathingdisordersbookchapter4 [p. 68] says "Hyperventilation tends to persist in many people, and once a pattern of overbreathing is established it can be maintained by only a 10% increase in minute volume, which could be achieved by a combination of deeper breaths, faster breathing, or an occasional sigh".
 
+kidneys are supposed to adjust within 5 days. BUT mine seem to be taking a lot longer (it's been about 2 weeks now as of 2024-01-31, and i'm still having air hunger daily). why could this be?
+
+- it's possible that with my dysautonomia (and/or whatever else is wrong with me) my kidneys are just not NORMAL kidneys, but sluggish broken kidneys
+- i also have an inkling that the studies they did on this was for ppl who overbreathed during the experiment, not ppl who have been overbreathin for literally over 10 years. it's possible (just like with SSRIs or various other medications or w/e) that if you've been overbreathing for much longer, then your kidneys are just "more stuck", "more set in their ways", than the standard experimentally verified number. if true, now that i am at a normal CO~2~ baseline, i should just be able to literally keep going, keep doing the same thing, and the air hunger should just gradually disappear.
+- maybe my bicarbonate levels take 3--5 days to adjust to one additional "rung", and there are like several rungs? i am not quite sure how that would be, but this could be why it's taking way longer than 5 days. (and experiments maybe only tested a "one-rung change".) It would make sense that making a greater change takes a longer time.
+- the literature could just straight up be _wrong_ about this, like, on what experimental or theoretical basis are they even claiming the kidneys take 5 days? i have not looked into the actual experiments so i can't tell whether people are just parroting flawed studies or the experiments were replicated.
+
+
 ## The Henderson--Hasselbalch equation and CO~2~ tolerance
 
 <!--
@@ -253,7 +263,7 @@ so you combat air hunger by breathing less, which raises CO~2~. what if you just
 
 Here's a heuristic argument for why this shouldn't happen: even people who overbreathe don't overbreathe so much that their CO~2~ just keeps dropping indefinitely. Each style of breathing seems to asymptote at a certain point. So I think Buteyko-style reduced breathing also asymptotes in terms of CO~2~ levels.
 
-But also, I think there must be some other effect going on, because I don't think the Buteyko people have abnormally high CO~2~ (that's just my current guess).
+But also, I think there must be some other effect going on, because I don't think the Buteyko people have abnormally high CO~2~ (that's just my current guess). the only source i've found so far is the graphs in @altukhovcharts where the highest tier (tier V) under "Super Endurance" has an alveolar CO~2~ of 54\ mmHg. But they also list "normal" as being 46\ mmHg which seems too high...
 
 the main lesson here is that having a capnometer is quite useful, to give the assurance that your CO~2~ levels are normal.
 
