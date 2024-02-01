@@ -23,8 +23,8 @@ h1, h2 { font-family: 'Source Sans Pro', 'Segoe UI', Helvetica, sans-serif; }
 h1 { font-size: 150%; }
 h2 { font-size: 120%; }
 
-a:link { color: #1287e0; }
-a:visited { color: #a972b5; }
+a:link { color: #1a1a1a; }
+a:visited { color: #1a1a1a; }
 
 a.heading-marker {
   font-size: 60%;
@@ -68,4 +68,26 @@ sup a, sub a {
 
 a.footnote-arrow {
   text-decoration: none;
+}
+
+/* CSS for citations -- taken from Pandoc template */
+div.csl-bib-body { }
+div.csl-entry {
+  clear: both;
+  margin-bottom: 0em;
+}
+.hanging-indent div.csl-entry {
+  margin-left:2em;
+  text-indent:-2em;
+}
+div.csl-left-margin {
+  min-width:2em;
+  float:left;
+}
+div.csl-right-inline {
+  margin-left:2em;
+  padding-left:1em;
+}
+div.csl-indent {
+  margin-left: 2em;
 }
