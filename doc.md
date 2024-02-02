@@ -2,7 +2,7 @@
 title: '[DRAFT] My thoughts on breathing, with an emphasis on dealing with chronic shortness of breath'
 author: Issa Rice
 created: 2024-01-24
-date: 2024-02-01
+date: 2024-02-02
 ---
 
 # Preliminaries
@@ -168,6 +168,8 @@ kidneys are supposed to adjust within 5 days. BUT mine seem to be taking a lot l
 - maybe my bicarbonate levels take 3--5 days to adjust to one additional "rung", and there are like several rungs? i am not quite sure how that would be, but this could be why it's taking way longer than 5 days. (and experiments maybe only tested a "one-rung change".) It would make sense that making a greater change takes a longer time.
 - the literature could just straight up be _wrong_ about this, like, on what experimental or theoretical basis are they even claiming the kidneys take 5 days? i have not looked into the actual experiments so i can't tell whether people are just parroting flawed studies or the experiments were replicated.
 - the other idea is that my CO~2~ is totally normal now when I measure during the day, but somehow, somewhere, I'm still overbreathing. Maybe in my sleep, maybe in small pockets of time when I'm stressed, maybe whenever I talk. And that little bit of overbreathing is preventing the bicarbonate levels from fully adjusting. Hence why I still feel subtle air hunger.
+
+I don't know why no one seems to ever talk about this, but there are literal blood and urine tests to measure bicarbonate levels. In the US at least, if you have a good insurance or Medicaid or something, then (assuming you can convince a doctor to order the test) this seems like a _way_ cheaper way to see if you have hypocapnia, although it won't really allow you to do real-time biofeedback like with a capnometer. I think these blood/urine tests might also be very helpful in intermediate stages of recovery (like where I am at now as of 2024-02-02) where my CO~2~ levels are normal according to the capnometer but I still have that subtle feeling of air hunger.
 
 
 ## The Henderson--Hasselbalch equation and CO~2~ tolerance
