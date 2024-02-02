@@ -2,7 +2,7 @@
 title: '[DRAFT] My thoughts on breathing, with an emphasis on dealing with chronic shortness of breath'
 author: Issa Rice
 created: 2024-01-24
-date: 2024-01-31
+date: 2024-02-01
 ---
 
 # Preliminaries
@@ -167,6 +167,7 @@ kidneys are supposed to adjust within 5 days. BUT mine seem to be taking a lot l
 - i also have an inkling that the studies they did on this was for ppl who overbreathed during the experiment, not ppl who have been overbreathin for literally over 10 years. it's possible (just like with SSRIs or various other medications or w/e) that if you've been overbreathing for much longer, then your kidneys are just "more stuck", "more set in their ways", than the standard experimentally verified number. if true, now that i am at a normal CO~2~ baseline, i should just be able to literally keep going, keep doing the same thing, and the air hunger should just gradually disappear.
 - maybe my bicarbonate levels take 3--5 days to adjust to one additional "rung", and there are like several rungs? i am not quite sure how that would be, but this could be why it's taking way longer than 5 days. (and experiments maybe only tested a "one-rung change".) It would make sense that making a greater change takes a longer time.
 - the literature could just straight up be _wrong_ about this, like, on what experimental or theoretical basis are they even claiming the kidneys take 5 days? i have not looked into the actual experiments so i can't tell whether people are just parroting flawed studies or the experiments were replicated.
+- the other idea is that my CO~2~ is totally normal now when I measure during the day, but somehow, somewhere, I'm still overbreathing. Maybe in my sleep, maybe in small pockets of time when I'm stressed, maybe whenever I talk. And that little bit of overbreathing is preventing the bicarbonate levels from fully adjusting. Hence why I still feel subtle air hunger.
 
 
 ## The Henderson--Hasselbalch equation and CO~2~ tolerance
@@ -295,6 +296,7 @@ Here is the sequence I am thinking of:
 2. Next stage: silence your breath.
     - Same two stages here (conscious/manual techniques, then unconscious/automatic habit). Silent breath is the next constraint because it's also easy to detect: it means you can't hear your own breath at all (neither inhale nor exhale). Silent breath. At least when you're just sitting or standing. I'm not sure how feasible it is yet to have a silent breath while exercising. (This stage took about a week once I got the CapnoTrainer, though arguably it's still ongoing. In particular, there was a 24 hour period where I had a kind of epiphany and figured out how to do this right.)
     - As with the nose breathing stage, you don't have to get it to be perfect. Sometimes, breathing in a silent way can make your diaphragm or your throat hurt. I think this happens because you're manually trying to control those muscles too hard by tensing them up in the wrong ways. If that's the case, you can try for a while to just make a bit of noise when breathing, just like you might still have "rescue breaths" through your mouth sometimes.
+    - Eventually, given a choice between silent vs natural, you want to pick natural, but still silent is the initial target because it's so much easier to tell when something is silent vs natural.
 1. Next stage: smooth your breath.
     - Even when your breath is through the nose and silent, it can be "jagged" on the CapnoTrainer. It can even *feel* jagged to you, like you're manually forcing air out in little bursts, instead of it just flowing out like it should. I don't know how to fix this one yet, but it seems harder to notice and harder to fix, so that's why it comes later. But the idea, at least for the exhale, is to just try to let go of the breath and naturally let your diaphragm relax. It should feel like your body is just relaxing, instead of exhaling (even though of course you are also exhaling). As I said, I'm still experimenting with this one.
     - This one is tricky because I notice that as I try to do it my diaphragm can get sore if I do it wrong. In particular, it can sometimes help to break the "silent" rule in order to get the breath smoother. There's a distinction between breathing in a way so that you aren't hypocapnic, and breathing in a way that is comfortable and not painful to your body. Every combination is possible.
@@ -390,7 +392,7 @@ My synthesis = Nasal breathing + Silent relaxed breathing + Posture + Habits + C
 
 - Buteyko provides nasal breathing, silent breathing and a theory of air hunger via CO~2~ levels. I put it in quotes because this is probably a vast oversimplification of the Buteyko method -- but I only needed this much of the theory.
 - "Alexander Technique" is what I mean by just allowing the breath to happen: smooth, not jerky. "Allowing the breath to happen" rather than doing the breath. And also making the good breathing a _habit_ rather than "executing techniques" when you need them. Make it automatic/autonomic/subconscious/unconscious, rather than conscious/manual -- this one might be two separate things actually (the smooth part, and the unconscious/habit part). Some of the Buteyko people also _mention_ this, but it tends to be much more buried and not _emphasized_. I think it really needs to be thought of as one of the main components.
-- Capnometry biofeedback is discussed elsewhere in this document, e.g., see the section [The unreasonable effectiveness of capnometers].
+- Capnometry biofeedback is discussed elsewhere in this document, e.g., see the section [The unreasonable effectiveness of capnometers]. In some sense this one is _also_ part of the Buteyko method, except that the Buteyko community moved away from capnometry after their equipment was destroyed/confiscated. So in some sense I am picking and choosing the specific parts of Buteyko that I like, so it's turning out to be less a synthesis and more a distillation.
 
 # Techniques vs habits
 
@@ -437,6 +439,8 @@ I think this exercise might be "breathing-complete" in the sense that it's the o
 relaxing completely is harder than it seems. I have a tendency to "relax" by like forcing my body to collapse, and that is not actually relaxation -- on the capnometer i can actually see i am failing, because my CO~2~ will go from like 38 to 34. you should not feel any strain or "tug" at all in your abdomen. i don't know how to convey the actual precise instructions necessary to do this; i personally am just getting feedback from the capnometer. when the capnometer tells me my CO~2~ just went down from the new thing i tried, i'm like "ok, i guess that's not the right way to do it", and go back to my baseline breathing style, and then try another thing.
 
 for me, even on 2024-01-29, doing this exercise for 10 mins caused a mild suffocation-like reaction after about 5 mins, where i freaked out and stood up and had to take a few (unsuccessful/unsatisfying) mouth breaths, and then had to like just let my body do whatever for a few breaths, and then try to get in some good nasal breaths. after that, i was able to return to the exercise again, but i had to keep indulging good breaths. idk, this exercise is a lot harder than it seems! it's weird though because i _feel_ like i'm just doing this throughout the day, but i never get this suffocation reaction. so i wonder if it's just that i'm indulging good breaths throughout the day, but during this exercise i don't, and that's the crucial difference? i think i should start lower, like do this for 2 mins without indulging, then next day go up to 3 mins, etc?
+
+@capnolearningbook [p. 57] has an interesting prompt, "Do you feel air hunger before the end of the exhale?" It made me pause because I always thought I continuously have air hunger, but actually, paying attention, I don't have it on the inhale, even if it's soft. Then as the exhale progresses it slowly mounts, in a subtle way.
 
 ## Many small breath holds
 
