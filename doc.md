@@ -161,15 +161,18 @@ acid--base balance, bicarbonate buffer model (also called "renal compensation", 
 
 mention how people with shortness of breath might not think they are hyperventilating. For example I don't think I've ever overtly hyperventilated in my life. And yet, I was constantly low-grade overbreathing. @breathingdisordersbookchapter4 [p. 68] says "Hyperventilation tends to persist in many people, and once a pattern of overbreathing is established it can be maintained by only a 10% increase in minute volume, which could be achieved by a combination of deeper breaths, faster breathing, or an occasional sigh". @breathingdisorders1stedchapter10 [p. 246] is also great and I wish someone had pointed me to it because I kept thinking "there's no way I'm hyperventilating, I sure am not acting like how it is portrayed in media"; I have no idea why they removed it in the second edition of the book. However, I think their list of criteria for detecting overbreathing are not great. In particular, if you're nose breathing but your breathing is clearly audible, then I think that's a sign of overbreathing.
 
-kidneys are supposed to adjust within 5 days. BUT mine seem to be taking a lot longer (it's been about 2 weeks now as of 2024-01-31, and i'm still having air hunger daily). why could this be?
+kidneys are supposed to adjust within 5 days. BUT mine seem to be taking a lot longer (it's been about 2 weeks of normal baseline CO~2~ according to capnometer now as of 2024-01-31, and i'm still having air hunger daily). why could this be?
 
 - it's possible that with my dysautonomia (and/or whatever else is wrong with me) my kidneys are just not NORMAL kidneys, but sluggish broken kidneys
-- i also have an inkling that the studies they did on this was for ppl who overbreathed during the experiment, not ppl who have been overbreathin for literally over 10 years. it's possible (just like with SSRIs or various other medications or w/e) that if you've been overbreathing for much longer, then your kidneys are just "more stuck", "more set in their ways", than the standard experimentally verified number. if true, now that i am at a normal CO~2~ baseline, i should just be able to literally keep going, keep doing the same thing, and the air hunger should just gradually disappear.
+- i also have an inkling that the studies they did on this was for ppl who overbreathed during the experiment, not ppl who have been overbreathing for literally over 10 years. it's possible (just like with SSRIs or various other medications or w/e) that if you've been overbreathing for much longer, then your kidneys are just "more stuck", "more set in their ways", than the standard experimentally verified number. if true, now that i am at a normal CO~2~ baseline, i should just be able to literally keep going, keep doing the same thing, and the air hunger should just gradually disappear.
 - maybe my bicarbonate levels take 3--5 days to adjust to one additional "rung", and there are like several rungs? i am not quite sure how that would be, but this could be why it's taking way longer than 5 days. (and experiments maybe only tested a "one-rung change".) It would make sense that making a greater change takes a longer time.
 - the literature could just straight up be _wrong_ about this, like, on what experimental or theoretical basis are they even claiming the kidneys take 5 days? i have not looked into the actual experiments so i can't tell whether people are just parroting flawed studies or the experiments were replicated.
 - the other idea is that my CO~2~ is totally normal now when I measure during the day, but somehow, somewhere, I'm still overbreathing. Maybe in my sleep, maybe in small pockets of time when I'm stressed, maybe whenever I talk. And that little bit of overbreathing is preventing the bicarbonate levels from fully adjusting. Hence why I still feel subtle air hunger.
+- Vipul notes that the literature may be basing kidney adjustments partly on mountain climbers ("altitude acclimatization") who are adjusting to low CO~2~ so are shedding more bicarbonate rather than in the case of overbreathers who are trying to gain back their bicarbonate. Mountain climbers are also adjusting to lower O~2~, not just CO~2~. So it's possible that what happens to them is just quite different from what happens to chronic overbreathers.
 
 I don't know why no one seems to ever talk about this, but there are literal blood and urine tests to measure bicarbonate levels. In the US at least, if you have a good insurance or Medicaid or something, then (assuming you can convince a doctor to order the test) this seems like a _way_ cheaper way to see if you have hypocapnia, although it won't really allow you to do real-time biofeedback like with a capnometer. I think these blood/urine tests might also be very helpful in intermediate stages of recovery (like where I am at now as of 2024-02-02) where my CO~2~ levels are normal according to the capnometer but I still have that subtle feeling of air hunger.
+
+I have not tried this, but it is possible to _supplement_ bicarbonate in addition to changing breathing habits, which might speed up progress: "Long-distance runners, sprinters and horse trainers have experimented successfully with doses of sodium bicarbonate, which supplements the natural bicarbonate buffer and opposes the lactic acid load created by exercis- ing muscles" [@breathingdisordersbookchapter4, p. 66]
 
 
 ## The Henderson--Hasselbalch equation and CO~2~ tolerance
@@ -235,6 +238,22 @@ $$\begin{aligned}
 \end{aligned}$$
 
 What does all of this show? Well, the quantity $\frac{\Delta p\mathrm{CO_2}}{p\mathrm{CO_2}}$ is actually the fractional change in pCO~2~. So it shows that _the change in pH is a function of the fractional change in pCO~2~_. This is one way to understand why having low CO~2~ means your pH changes more easily: the same amount of absolute CO~2~ change results in a greater fractional change in CO~2~. (Note: fractional change is almost the same thing as percentage change, just divided by 100.)
+
+
+This seems wrong to me, but I should look at the cited works by Ley:
+"Ley (1988a, 1988b) has offered a plausible explanation
+for this phenomenon based on the body’s adaptation to
+chronic hyperventilation. The long-term reduction in
+bicarbonate buffer concentration, offsetting lowered
+PaCO2, returns pH to normal, but the equilibrium is an
+uneasy one, dependent on the hyperventilation continu-
+ing. This situation makes the individual more susceptible
+than ever to a rise in CO2 (more acidity) because the alka-
+line buffer has been reduced. Consequently a change in
+breathing toward normal, away from hyperventilation,
+would feel closer to suffocation than if the person pos-
+sessed normal bicarbonate buffering capacity." [@breathingdisordersbookchapter4, p. 68-69]
+Specifically, i don't think it's the lower bicarbonate that is the problem, it's the lowered CO~2~. i think the literature is very misleading about this point and they all keep repeating the same mistaken thing, and none of them actually provide a mathematical model of this.
 
 
 for advanced buteyko practitioners however, my current guess is that their PCO~2~ levels are normal (40--45\ mmHg). so now, how do we explain how they can hold their breaths for so long? i think some other factors are at play here including:
@@ -467,12 +486,12 @@ this section is mostly an index to stuff discussed elsewhere in the document.
 
 # Acknowledgments
 
-i've benefited from interacting with a lot of people, in the course of figuring out my breathing. (people who i haven't checked with to see if they want to be mentioned are listed as initials, unless i'm only relying on public sources and no private interactions, which applies to Howard Cooper.)
+i've benefited from interacting with a lot of people, in the course of figuring out my breathing. (people who i haven't checked with to see if they want to be mentioned are listed as initials, unless i'm only relying on public sources and no private interactions, which applies to Howard Cooper.) Being acknowledged does not mean that the person agrees with anything I wrote in the document.
 
 - ML: kept mentioning buteyko breathing to me saying i should try it.
 - Howard Cooper: While I've benefitted from all the sources I'm citing in the [References], I want to call out especially @cooper2021 as the thing that finally made the CO~2~ stuff click for me (though my understanding was still very incomplete) and got me to actually start playing around with buteyko techniques.
 - CM: told me about the capnotrainer and got me excited about capnometry biofeedback.
-- Vipul Naik helped me understand some key things about the biology of respiration. In particular, he was the one who figured out that having a low CO~2~ means pH is more sensitive to slight fluctuations in CO~2~ levels. also for reading drafts of this document and giving me feedback.
+- Vipul Naik helped me understand some key things about the biology of respiration. In particular, he was the one who figured out that having a low CO~2~ means pH is more sensitive to slight fluctuations in CO~2~ levels. also for reading drafts of this document and giving me feedback. most of the things in this document i wrote up while discussing it with vipul.
 - DD: introduced me to JA. he was also a catalyst for me figuring out my circadian rhythm, but that's a whole separate topic.
 - JA: my breathing coach; helped me get set up on the capnotrainer, and helped me through the whole biofeedback process.
 - PL: was generous enough to spend an hour talking to me about capnometer stuff.
