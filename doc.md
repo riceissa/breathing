@@ -172,7 +172,8 @@ kidneys are supposed to adjust within 5 days. BUT mine seem to be taking a lot l
 
 I don't know why no one seems to ever talk about this, but there are literal blood and urine tests to measure bicarbonate levels. In the US at least, if you have a good insurance or Medicaid or something, then (assuming you can convince a doctor to order the test) this seems like a _way_ cheaper way to see if you have hypocapnia, although it won't really allow you to do real-time biofeedback like with a capnometer. I think these blood/urine tests might also be very helpful in intermediate stages of recovery (like where I am at now as of 2024-02-02) where my CO~2~ levels are normal according to the capnometer but I still have that subtle feeling of air hunger.
 
-I have not tried this, but it is possible to _supplement_ bicarbonate in addition to changing breathing habits, which might speed up progress: "Long-distance runners, sprinters and horse trainers have experimented successfully with doses of sodium bicarbonate, which supplements the natural bicarbonate buffer and opposes the lactic acid load created by exercis- ing muscles" [@breathingdisordersbookchapter4, p. 66]
+I have not tried this, but it is possible to _supplement_ bicarbonate in addition to changing breathing habits, which might speed up progress: "Long-distance runners, sprinters and horse trainers have experimented successfully with doses of sodium bicarbonate, which supplements the natural bicarbonate buffer and opposes the lactic acid load created by exercising muscles" [@breathingdisordersbookchapter4, p. 66] <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC435634/pdf/jcinvest00601-0100.pdf> ("STUDIES ON HYPERVENTILATION. II. ELECTROCARDIOGRAPHIC CHANGES
+IN NORMAL MAN DURING VOLUNTARY HYPERVENTILATION" by B. CHR. CHRISTENSEN) also mentions an experiment to give large doses of sodium bicarbonate to subjects to generate (?!) a feeling of air hunger. more bicarbonate mimics the effects of less CO~2~. so maybe supplementing bicarbonate isn't the solution.
 
 
 ## The Henderson--Hasselbalch equation and CO~2~ tolerance
@@ -254,6 +255,17 @@ breathing toward normal, away from hyperventilation,
 would feel closer to suffocation than if the person pos-
 sessed normal bicarbonate buffering capacity." [@breathingdisordersbookchapter4, p. 68-69]
 Specifically, i don't think it's the lower bicarbonate that is the problem, it's the lowered CO~2~. i think the literature is very misleading about this point and they all keep repeating the same mistaken thing, and none of them actually provide a mathematical model of this.
+
+"Thus the chronic hyperventilator's
+pH regulation is finely balanced: diminished acid (the
+consequence of hyperventilation) is balanced against
+the low level ofblood bicarbonate maintained by renal
+excretion. In this equilibrium small amounts of over-
+breathing induced by emotion can cause large falls
+of carbon dioxide (PC2o) and, consequently, more
+severe symptoms. In other words, the chronic hyper-
+ventilator lives closer to the threshold for hypocapnia
+than the normal person." <https://web.archive.org/web/20230127113032/https://buteykoclinic.com/docs/hyperventilation%2Ba%2Btherapists%2Bpoint%2Bof%2Bview_1401456256.pdf> -- another example of a paper seemingly getting this wrong.
 
 
 for advanced buteyko practitioners however, my current guess is that their PCO~2~ levels are normal (40--45\ mmHg). so now, how do we explain how they can hold their breaths for so long? i think some other factors are at play here including:
@@ -395,6 +407,10 @@ It's just super helpful to _see_ what your breath looks like. Buteyko breathing 
 
 one of the things i'm still trying to figure out is, supposedly Konstantin Buteyko originally had various machines to measure CO~2~ or whatever, but then they were destroyed, so then he was forced to come up with the Control Pause as the sort of replacement metric. but what i'm wondering is, what did his machines measure? was it just end-tidal CO~2~? and if so, then what did he do after people reached a normal 40\ mmHg of pCO~2~? was that the end of treatment? or did he try to push the CO~2~ even higher?
 
+## Buteyko community
+
+TODO: talk about buteyko's combine-complexator and my learned helplessness idea.
+
 # Posture
 
 I'm appreciating posture more now -- it really makes silent relaxed breathing easier when you have better posture. But "good posture" is maybe not what society thinks is good posture, but whatever feels comfortable to you and allows for good breathing.
@@ -461,7 +477,7 @@ relaxing completely is harder than it seems. I have a tendency to "relax" by lik
 
 for me, even on 2024-01-29, doing this exercise for 10 mins caused a mild suffocation-like reaction after about 5 mins, where i freaked out and stood up and had to take a few (unsuccessful/unsatisfying) mouth breaths, and then had to like just let my body do whatever for a few breaths, and then try to get in some good nasal breaths. after that, i was able to return to the exercise again, but i had to keep indulging good breaths. idk, this exercise is a lot harder than it seems! it's weird though because i _feel_ like i'm just doing this throughout the day, but i never get this suffocation reaction. so i wonder if it's just that i'm indulging good breaths throughout the day, but during this exercise i don't, and that's the crucial difference? i think i should start lower, like do this for 2 mins without indulging, then next day go up to 3 mins, etc?
 
-@capnolearningbook [p. 57] has an interesting prompt, "Do you feel air hunger before the end of the exhale?" It made me pause because I always thought I continuously have air hunger, but actually, paying attention, I don't have it on the inhale, even if it's soft. Then as the exhale progresses it slowly mounts, in a subtle way.
+@capnolearningbook [p. 57] has an interesting prompt, "Do you feel air hunger before the end of the exhale?" It made me pause because I always thought I continuously have air hunger, but actually, paying attention, I don't have it on the inhale, even if it's soft. Then as the exhale progresses it slowly mounts, in a subtle way. I've noticed that paying precise attention to when the air hunger comes one actually diminishes the air hunger.
 
 ## Many small breath holds
 
@@ -484,7 +500,7 @@ this section is mostly an index to stuff discussed elsewhere in the document.
 - CO~2~ is bad -- see [Respiration and misconceptions about CO~2~]
 - deep breaths are good
 
-# Acknowledgments
+# Acknowledgments {.unnumbered}
 
 i've benefited from interacting with a lot of people, in the course of figuring out my breathing. (people who i haven't checked with to see if they want to be mentioned are listed as initials, unless i'm only relying on public sources and no private interactions, which applies to Howard Cooper.) Being acknowledged does not mean that the person agrees with anything I wrote in the document.
 
