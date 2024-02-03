@@ -21,7 +21,8 @@ article {
   max-width: 45rem;
   margin: 12px auto;
   padding: 50px;
-  background-color: #ffffff;
+  color: #333333;
+  background-color: #fdf6e3;
 }
 
 h1, h2 { font-family: 'Source Sans Pro', 'Segoe UI', Helvetica, sans-serif; }
