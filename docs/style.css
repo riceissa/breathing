@@ -94,6 +94,14 @@ span.toc-section-number {
   padding-right: 10px;
 }
 
+#TOC > ul > li {
+  font-weight: bold;
+}
+
+#TOC > ul > li li {
+    font-weight: normal;
+}
+
 /* CSS for citations -- taken from Pandoc template */
 div.csl-bib-body { }
 div.csl-entry {
