@@ -2,7 +2,7 @@
 title: '[DRAFT] My thoughts on breathing, with an emphasis on dealing with chronic shortness of breath'
 author: Issa Rice
 created: 2024-01-24
-date: 2024-02-02
+date: 2024-02-03
 ---
 
 # Preliminaries
@@ -418,6 +418,8 @@ I'm appreciating posture more now -- it really makes silent relaxed breathing ea
 The Buteyko people also emphasize posture, but I have not read much about what they say.
 
 i still have a lot to learn here. apparently some posture techniques can be quite dangerous (can even cause die-off reactions??)
+
+what can sometimes _feel_ like air hunger might just be your abdomen being compressed due to slouching. sitting up a bit straighter can reduce the air hunger feeling. (this doesn't work most of the time)
 
 # Breathing synthesis
 
