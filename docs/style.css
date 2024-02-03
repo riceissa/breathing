@@ -90,6 +90,10 @@ a.footnote-arrow {
   text-decoration: none;
 }
 
+span.toc-section-number {
+  padding-right: 10px;
+}
+
 /* CSS for citations -- taken from Pandoc template */
 div.csl-bib-body { }
 div.csl-entry {
