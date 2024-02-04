@@ -59,6 +59,13 @@ sub {
 h1 {
   margin: 3em 0 0 0;
   font-size: 2em;
+  /* The epub readers I've tested so far (SumatraPDF, Calibre, Aldiko) seem to
+   * do pagebreaks on their own already, and in the case of SumatraPDF, it
+   * faithfully follows the CSS rather than ignoring it so there's just an
+   * unnecessary extra blank page before every single chapter, which also just
+   * happens to mess up the bookmark jumping (the bookmarks jump to the blank
+   * page before a chapter, rather than the chapter heading itself). */
+  /* page-break-before: always; */
   line-height: 150%;
 }
 h2 {
