@@ -17,7 +17,7 @@ docs/breathing.epub: doc.md references.bib stylesheet1.css
 #  just an unnecessary extra blank page before every single chapter, which also
 #  just happens to mess up the bookmark jumping (the bookmarks jump to the
 #  blank page before a chapter, rather than the chapter heading itself).
-	pandoc -f markdown -t epub --webtex --toc --number-sections --toc-depth=1 --citeproc --bibliography references.bib --css stylesheet1.css -o "$@" "$<"
+	pandoc -f markdown -t epub2  --toc --number-sections --citeproc --bibliography references.bib --css stylesheet1.css -o "$@" "$<"
 
 .PHONY: clean
 clean:
