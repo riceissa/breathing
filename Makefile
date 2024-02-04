@@ -16,7 +16,7 @@ docs/breathing.epub: doc.md references.bib epub.css
 #  chapter, which also just happens to mess up the bookmark jumping (the
 #  bookmarks jump to the blank page before a chapter, rather than the chapter
 #  heading itself).
-	pandoc -f markdown -t epub2  --toc --number-sections --citeproc --bibliography references.bib --css epub.css -o "$@" "$<"
+	pandoc -f markdown -t epub2 --webtex --toc --number-sections --citeproc --bibliography references.bib --css epub.css -o "$@" "$<"
 
 .PHONY: clean
 clean:
