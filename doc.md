@@ -316,6 +316,8 @@ i don't know how representative the speed of my improvements is, but it's the on
 
 # Sequence of cumulative constraints of breathing practice
 
+We are not transitioning to the more practical sections of this document. But before we get to the actual exercises, I want to say a few things about the mindset/global structure of the practice.
+
 I think it may be helpful to conceptualize breathing practice[^kind] not as a set of "breathing techniques" that you practice over time to help calm you down or whatever (such as: "when you're feeling anxious, do square breathing; once you feel comfortable with that, you can move onto different patterns like 4-7-8"), but instead as a *sequence of cumulative constraints*. The reason for having a _sequence_ is that it's too hard to pay attention to the more subtle stuff and get it right all on the first try before you get the basics down; each stage might take a month or more. (The other reason for this particular sequence: if you follow the sequence, then by doing the previous steps, you automatically almost do the next stage, so that at each stage you only need to put in a *little* bit of effort, not invent a whole new thing.) The reason for having *constraints* rather than practices is that it mostly doesn't matter *how* you achieve good breathing, you just want the outcome.
 
 This page used to use the phrase "sequence of moving targets" rather than "sequence of cumulative constraints", but I renamed this page because I thought the new version is a more accurate phrasing. Like the Gram--Schmidt process in linear algebra the constraints are cumulative (at each step $n$, you want to make sure that the new vector you create is orthogonal not just to the $(n-1)$th vector, but to *all* the vectors $1, \dots, n-1$. This kind of mechanic also happens a lot in puzzle games where if you get one thing in a "good" state, and then try to get another thing in a "good" state, the first one will turn back into a "bad" state, and the difficulty of the puzzle is to make sure you can get all the good states cumulatively). Also "constraint" feels more accurate than "target" because you're not trying to hit some new breathing pattern some of the time, but rather you're trying to *only* do the "good" kind of breathing *all* of the time.
@@ -453,6 +455,8 @@ Reminder that none of these exercises will work if you can't breathe through you
 
 one of the things i've personally found frustrating is when people say "just do buteyko" or they link to a video with super vague instructions. so, at the risk of overfitting to my own experience, i'm going to give pretty precise instructions for exercises and aspirationally try to make them be difficult to misinterpret.
 
+it's probably overwhelming to see all these exercises and giant walls of text. one of the nice things about working with a breathing coach is that they will guide you by only introducing one technique/exercise each week or so, so that at any given moment, you have _one_ new thing to work with that you are trying to integrate into your practice. so a challenge for me is: if the reader isn't going to be working with a coach (which is presumably why they are interested in this document), then how can i make the exercise sequence friendly to them? i really need some sort of timeline or flowchart that can be followed, so that as little thought as possible needs to go into making decisions. it's all laid out, you just follow a recipe.
+
 ## Main exercise: relaxed silent breathing
 
 This one is most similar to @rakhimov2013advanced [section 4.6, "Relaxing the diaphragm (Buteyko relaxed breathing exercise)"], but Neil Tranter also has a similar video [@tranter2023relaxed]. @novozhilov2012 has similar exercises too (e.g., Exercise 1).
@@ -485,17 +489,37 @@ for me, even on 2024-01-29, doing this exercise for 10 mins caused a mild suffoc
 
 @capnolearningbook [p. 57] has an interesting prompt, "Do you feel air hunger before the end of the exhale?" It made me pause because I always thought I continuously have air hunger, but actually, paying attention, I don't have it on the inhale, even if it's soft. Then as the exhale progresses it slowly mounts, in a subtle way. I've noticed that paying precise attention to when the air hunger comes one actually diminishes the air hunger.
 
-## Many small breath holds
+## Introductory exercise: Many small breath holds
 
 @tranter2022breathhold -- the actual exercise starts around 7:46.
 
 i think the main value of this exercise is at the start, to get used to very small amounts of air hunger, to be like "ok, yeah, this is uncomfortable but it won't kill me".
 
-## Double inhale technique
+you can try doing this both when you're feeling mostly ok and when you're having more trouble breathing. for me it was very easy when i was feeling ok, but quite challenging when i was having trouble breathing (so much so that i'd have to take "rescue" mouth breaths every few breath holds). you don't want to follow the video so literally that you feel like you're suffocating; the idea again, is to just get used to doing breath holds and intentionally building up mild air hunger. so this is more of a _psychological_ exercise than a physiological exercise.
+
+## Intermittent technique: Double inhale technique
 
 you take two relatively quick inhales, then exhale in a relaxed way.
 
 This one was shown to me by my breathing coach. I've found this quite useful for getting my body to relax the exhale. i have no idea why it works, but somehow it's just easier to exhale in a relaxed way from a more full inhale.
+
+
+## Intermittent technique: Slowing the first part of the exhale
+
+TODO: fill out. this one is similar in intent to the previous technique.
+
+## Temporary exercise: soft smooth slow long inhales
+
+TODO: explain this exercise. it's transitory because eventually (within like a week or two) you want to switch to the relaxed silent breathing. this exercise is a crutch for when relaxed silent breathing is too hard.
+
+## Temporary exercise: soft long exhales
+
+this is the counterpart to the previous exercise.
+
+i think the idea with these two exercises is that you're focused on just _one_ half of the breath, and trying to do that half correctly. but the other half you can just do whatever. eventually, you will be able to just do the main exercise (i.e., both halves). in fact, you should eventually notice that slowing one half of the breath (esp inhale?) will lead to slowing the other half too.
+
+one you start doing the main exercise, these transitory ones will feel extremely unnatural.
+
 
 # Misconceptions
 
