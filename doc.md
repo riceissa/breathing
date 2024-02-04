@@ -123,7 +123,7 @@ this is also one of the reasons i prefer [Capnometry biofeedback], because it gi
 
 # The biological basis of shortness of breath
 
-I _could_ just tell you the exercises you need to do to fix your breathing, but personally I find it unsatisfying when people tell me to do a thing without telling me why. So in this section, I will give a simplified but (as far as I know) accurate biological explanation of why you have shortness of breath. This will help you understand _why_ you should do the particular types of exercises I recommend later on (in [Breathing exercises]).
+I _could_ just tell you the exercises you need to do to fix your breathing, but personally I find it unsatisfying when people tell me to do a thing without also telling me why. So in this section, I will give a simplified but (as far as I know) accurate biological explanation of why you have shortness of breath. This will help you understand _why_ you should do the particular types of exercises I recommend later on (in [Breathing exercises]).
 
 If you followed my advice and ruled out serious medical problems with a doctor, you may be thinking there is no biological cause of your shortness of breath, that it is more or less "in your head". Certainly this is what doctors kept telling _me_, that it was all due to anxiety or some other hard-to-verify physical cause like mast cell activation (primary care physician, two pulmonologists, allergist).
 
@@ -175,6 +175,10 @@ I don't know why no one seems to ever talk about this, but there are literal blo
 I have not tried this, but it is possible to _supplement_ bicarbonate in addition to changing breathing habits, which might speed up progress: "Long-distance runners, sprinters and horse trainers have experimented successfully with doses of sodium bicarbonate, which supplements the natural bicarbonate buffer and opposes the lactic acid load created by exercising muscles" [@breathingdisordersbookchapter4, p. 66] <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC435634/pdf/jcinvest00601-0100.pdf> ("STUDIES ON HYPERVENTILATION. II. ELECTROCARDIOGRAPHIC CHANGES
 IN NORMAL MAN DURING VOLUNTARY HYPERVENTILATION" by B. CHR. CHRISTENSEN) also mentions an experiment to give large doses of sodium bicarbonate to subjects to generate (?!) a feeling of air hunger. more bicarbonate mimics the effects of less CO~2~. so maybe supplementing bicarbonate isn't the solution.
 
+<!--
+maybe look at this: https://web.archive.org/web/20210125202105/https://buteykoclinic.com/docs/Bicarbonate%2Bof%2BSoda_1401456135.pdf
+-->
+
 
 ## The Henderson--Hasselbalch equation and CO~2~ tolerance
 
@@ -207,7 +211,7 @@ $$7.4 \approx 6.1 + \log_{10}\left(\frac{24}{0.0307 \cdot 40}\right)$$
 
 above are the values for a normal person.
 
-When I first used a capnometer, my CO~2~ was around 25\ mmHg. So to get the same pH, my bicarbonate level must have been around 15 (here I'm basically solving for the equation $24/40 = x/25$):
+When I first used a capnometer, my CO~2~ was around 25\ mmHg. So to get the same pH, my bicarbonate level must have been around 15 (here I'm just solving for $x$ in the equation $24/40 = x/25$ in order to make the input to $\log_{10}$ the same):
 
 $$7.4 \approx 6.1 + \log_{10}\left(\frac{15}{0.0307 \cdot 25}\right)$$
 
@@ -285,7 +289,7 @@ So what we've established is:
 
 - If you have shortness of breath with no clear medical cause, it is likely that your CO~2~ level (and thus bicarbonate level) is too low.
 - Low CO~2~ means you are more sensitive to changes in CO~2~, in particular to increases in it. This is why you always feel short of breath.
-- The solution is _not_ to "take a deep breath" and get more oxygen, but rather, to breathe _less_ so that you _gradually_ raise your CO~2~ levels. The emphasis is on the word "gradually". If you just hold your breath as long as possible in the hopes of raising your CO~2~, you will just give yourself a panic attack. The kidneys take time to adjust the bicarbonate levels. So you want to sit with a slight-to-moderate amount of air hunger, over the course of days and weeks, so as to gradually raise your baseline CO~2~. How to do this? We'll discuss breathing techniques and breathing habits more elsewhere in this document.
+- The solution is _not_ to "take a deep breath" and get more oxygen (you already have plenty of oxygen, probably too much, as can be verified easily with a pulse oximeter), but rather, to breathe _less_ so that you _gradually_ raise your CO~2~ levels. The emphasis is on the word "gradually". If you just hold your breath as long as possible in the hopes of raising your CO~2~, you will just give yourself a panic attack. The kidneys take time to adjust the bicarbonate levels. So you want to sit with a slight-to-moderate amount of air hunger, over the course of days and weeks, so as to gradually raise your baseline CO~2~. How to do this? We'll discuss breathing techniques and breathing habits more elsewhere in this document (see the sections [Techniques vs habits] and [Breathing exercises]).
 
 # Is healthy breathing the same for everyone?/Is normal breathing universal?
 
