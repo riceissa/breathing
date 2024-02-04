@@ -16,7 +16,9 @@ docs/breathing.epub: doc.md references.bib epub.css
 #  chapter, which also just happens to mess up the bookmark jumping (the
 #  bookmarks jump to the blank page before a chapter, rather than the chapter
 #  heading itself).
-	pandoc -f markdown -t epub2 --webtex --toc --number-sections --citeproc --bibliography references.bib --css epub.css -o "$@" "$<"
+#  Some epub readers (like Aldiko) have trouble with HTML comments, so we need
+#  to strip those out.
+	pandoc -f markdown -t epub2 --webtex --toc --number-sections --citeproc --bibliography references.bib --css epub.css --strip-comments=true -o "$@" "$<"
 
 .PHONY: clean
 clean:
