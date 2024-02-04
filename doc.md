@@ -527,8 +527,10 @@ this section is mostly an index to stuff discussed elsewhere in the document.
 
 (might remove this section if it doesn't seem useful)
 
-- CO~2~ is bad -- see [Respiration and misconceptions about CO~2~]
+- CO~2~ is bad -- see [Misconceptions about CO~2~]
 - deep breaths are good
+- diaphragmatic breathing is good
+- you want to slow down your breath/breathe to a certain rhythm
 
 # Acknowledgments {.unnumbered}
 
