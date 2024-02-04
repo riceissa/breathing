@@ -378,6 +378,16 @@ i should say something about mouth taping as well. i don't have any _strong_ arg
 
 my nose still sometimes feels unblocked in the morning. not sure what's going on there.
 
+# Techniques vs habits
+
+One of the disagreements I've seen in the breathing world is the emphasis between techniques vs habits. Those on the techniques side (such as anxiety specialists and Buteyko practitioners) present various techniques you can use when you are stressed, anxious, or have breathing difficulty. Those on the habits side (such as Peter Litchfield) say that techniques are mere bandage covering up a dysfunctional breathing habit, and that the solution is to unlearn the old habits and introduce new habits.
+
+(actually i think _some_ buteyko people have basically the same views as me.)
+
+I find myself somewhere in between these two views. In a sense, I think both sides are right, and it's actually quite important to understand what's going on here. Techniques are a way of _learning_ a thing. Once you've learned it, you don't need to "follow a technique" anymore, it's just a part of you. But having it verbally, explicitly, legibly, outlined is a useful step in actually learning the thing initially. You follow the technique, you get anxious about whether you're doing it right, you get obsessed about it, you get good at it, and then finally you get bored of it. It's all part of the _overlearning_ process. Once your bodymind digests it, it poops out the scaffolding of the technique and you can just Do The Thing. See also the four stages of competence [@fourstageswikipedia].
+
+So yes, do the techniques. Learn them so well that you get bored of them and forget about them.
+
 # Capnometry biofeedback
 
 <!--
@@ -438,16 +448,6 @@ My synthesis = Nasal breathing + Silent relaxed breathing + Posture + Habits + C
 - Buteyko provides nasal breathing, silent breathing and a theory of air hunger via CO~2~ levels. I put it in quotes because this is probably a vast oversimplification of the Buteyko method -- but I only needed this much of the theory.
 - "Alexander Technique" is what I mean by just allowing the breath to happen: smooth, not jerky. "Allowing the breath to happen" rather than doing the breath. And also making the good breathing a _habit_ rather than "executing techniques" when you need them. Make it automatic/autonomic/subconscious/unconscious, rather than conscious/manual -- this one might be two separate things actually (the smooth part, and the unconscious/habit part). Some of the Buteyko people also _mention_ this, but it tends to be much more buried and not _emphasized_. I think it really needs to be thought of as one of the main components.
 - Capnometry biofeedback is discussed elsewhere in this document, e.g., see the section [The unreasonable effectiveness of capnometers]. In some sense this one is _also_ part of the Buteyko method, except that the Buteyko community moved away from capnometry after their equipment was destroyed/confiscated. So in some sense I am picking and choosing the specific parts of Buteyko that I like, so it's turning out to be less a synthesis and more a distillation.
-
-# Techniques vs habits
-
-One of the disagreements I've seen in the breathing world is the emphasis between techniques vs habits. Those on the techniques side (such as anxiety specialists and Buteyko practitioners) present various techniques you can use when you are stressed, anxious, or have breathing difficulty. Those on the habits side (such as Peter Litchfield) say that techniques are mere bandage covering up a dysfunctional breathing habit, and that the solution is to unlearn the old habits and introduce new habits.
-
-(actually i think _some_ buteyko people have basically the same views as me.)
-
-I find myself somewhere in between these two views. In a sense, I think both sides are right, and it's actually quite important to understand what's going on here. Techniques are a way of _learning_ a thing. Once you've learned it, you don't need to "follow a technique" anymore, it's just a part of you. But having it verbally, explicitly, legibly, outlined is a useful step in actually learning the thing initially. You follow the technique, you get anxious about whether you're doing it right, you get obsessed about it, you get good at it, and then finally you get bored of it. It's all part of the _overlearning_ process. Once your bodymind digests it, it poops out the scaffolding of the technique and you can just Do The Thing. See also the four stages of competence [@fourstageswikipedia].
-
-So yes, do the techniques. Learn them so well that you get bored of them and forget about them.
 
 # Breathing exercises
 
