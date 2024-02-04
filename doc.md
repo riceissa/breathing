@@ -427,16 +427,6 @@ one of the things i'm still trying to figure out is, supposedly Konstantin Butey
 
 TODO: talk about buteyko's combine-complexator and my learned helplessness idea.
 
-# Posture
-
-I'm appreciating posture more now -- it really makes silent relaxed breathing easier when you have better posture. But "good posture" is maybe not what society thinks is good posture, but whatever feels comfortable to you and allows for good breathing.
-
-The Buteyko people also emphasize posture, but I have not read much about what they say.
-
-i still have a lot to learn here. apparently some posture techniques can be quite dangerous (can even cause die-off reactions??)
-
-what can sometimes _feel_ like air hunger might just be your abdomen being compressed due to slouching. sitting up a bit straighter can reduce the air hunger feeling. (this doesn't work most of the time)
-
 # Breathing synthesis
 
 My synthesis = "Buteyko method" + "Alexander Technique" + Capnometry biofeedback
@@ -520,6 +510,16 @@ i think the idea with these two exercises is that you're focused on just _one_ h
 
 one you start doing the main exercise, these transitory ones will feel extremely unnatural.
 
+
+# Posture
+
+I'm appreciating posture more now -- it really makes silent relaxed breathing easier when you have better posture. But "good posture" is maybe not what society thinks is good posture, but whatever feels comfortable to you and allows for good breathing.
+
+The Buteyko people also emphasize posture, but I have not read much about what they say.
+
+i still have a lot to learn here. apparently some posture techniques can be quite dangerous (can even cause die-off reactions??)
+
+what can sometimes _feel_ like air hunger might just be your abdomen being compressed due to slouching. sitting up a bit straighter can reduce the air hunger feeling. (this doesn't work most of the time)
 
 # Misconceptions
 
