@@ -427,18 +427,6 @@ one of the things i'm still trying to figure out is, supposedly Konstantin Butey
 
 TODO: talk about buteyko's combine-complexator and my learned helplessness idea.
 
-# Breathing synthesis
-
-My synthesis = "Buteyko method" + "Alexander Technique" + Capnometry biofeedback
-
-or maybe:
-
-My synthesis = Nasal breathing + Silent relaxed breathing + Posture + Habits + Capnometry biofeedback
-
-- Buteyko provides nasal breathing, silent breathing and a theory of air hunger via CO~2~ levels. I put it in quotes because this is probably a vast oversimplification of the Buteyko method -- but I only needed this much of the theory.
-- "Alexander Technique" is what I mean by just allowing the breath to happen: smooth, not jerky. "Allowing the breath to happen" rather than doing the breath. And also making the good breathing a _habit_ rather than "executing techniques" when you need them. Make it automatic/autonomic/subconscious/unconscious, rather than conscious/manual -- this one might be two separate things actually (the smooth part, and the unconscious/habit part). Some of the Buteyko people also _mention_ this, but it tends to be much more buried and not _emphasized_. I think it really needs to be thought of as one of the main components.
-- Capnometry biofeedback is discussed elsewhere in this document, e.g., see the section [The unreasonable effectiveness of capnometers]. In some sense this one is _also_ part of the Buteyko method, except that the Buteyko community moved away from capnometry after their equipment was destroyed/confiscated. So in some sense I am picking and choosing the specific parts of Buteyko that I like, so it's turning out to be less a synthesis and more a distillation.
-
 # Breathing exercises
 
 Reminder that none of these exercises will work if you can't breathe through your nose comfortably. See the section [Clearing your nose] for how to unblock your nose.
@@ -520,6 +508,18 @@ The Buteyko people also emphasize posture, but I have not read much about what t
 i still have a lot to learn here. apparently some posture techniques can be quite dangerous (can even cause die-off reactions??)
 
 what can sometimes _feel_ like air hunger might just be your abdomen being compressed due to slouching. sitting up a bit straighter can reduce the air hunger feeling. (this doesn't work most of the time)
+
+# Breathing synthesis
+
+My synthesis = "Buteyko method" + "Alexander Technique" + Capnometry biofeedback
+
+or maybe:
+
+My synthesis = Nasal breathing + Silent relaxed breathing + Posture + Habits + Capnometry biofeedback
+
+- Buteyko provides nasal breathing, silent breathing and a theory of air hunger via CO~2~ levels. I put it in quotes because this is probably a vast oversimplification of the Buteyko method -- but I only needed this much of the theory.
+- "Alexander Technique" is what I mean by just allowing the breath to happen: smooth, not jerky. "Allowing the breath to happen" rather than doing the breath. And also making the good breathing a _habit_ rather than "executing techniques" when you need them. Make it automatic/autonomic/subconscious/unconscious, rather than conscious/manual -- this one might be two separate things actually (the smooth part, and the unconscious/habit part). Some of the Buteyko people also _mention_ this, but it tends to be much more buried and not _emphasized_. I think it really needs to be thought of as one of the main components.
+- Capnometry biofeedback is discussed elsewhere in this document, e.g., see the section [The unreasonable effectiveness of capnometers]. In some sense this one is _also_ part of the Buteyko method, except that the Buteyko community moved away from capnometry after their equipment was destroyed/confiscated. So in some sense I am picking and choosing the specific parts of Buteyko that I like, so it's turning out to be less a synthesis and more a distillation.
 
 # Misconceptions
 
