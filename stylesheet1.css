@@ -1,6 +1,6 @@
 /* This defines styles and classes used in the book */
 @page {
-  margin: 10px;
+  margin: 35px;
 }
 html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p,
 blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, img,
@@ -16,13 +16,11 @@ ul, li, dl, dt, dd {
   vertical-align: baseline;
 }
 html {
-  /* line-height: 1.3; */
   font-family: Georgia, serif;
   color: #1a1a1a;
   background-color: #fdfdfd;
 }
 body {
-  margin: 35px;
   line-height: 1.3;
 }
 p {
