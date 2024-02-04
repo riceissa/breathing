@@ -15,7 +15,7 @@ docs/breathing.epub: doc.md references.bib epub.css
 # mode the math just appears as black boxes).
 #  Some epub readers (like Aldiko) have trouble with HTML comments, so we need
 #  to strip those out.
-	pandoc -f markdown -t epub2 --webtex="https://s0.wp.com/latex.php?bg=ffffff&fg=000000&latex=" --toc --number-sections --citeproc --bibliography references.bib --css epub.css --strip-comments=true -o "$@" "$<"
+	pandoc -f markdown -t epub2 --webtex="https://s0.wp.com/latex.php?bg=ffffff&fg=000000&zoom=1.3&latex=" --toc --number-sections --citeproc --bibliography references.bib --css epub.css --strip-comments=true -o "$@" "$<"
 
 .PHONY: clean
 clean:
