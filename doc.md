@@ -11,7 +11,7 @@ maybe a better title is: overcoming chronic shortness of breath by fixing your b
 
 ## What kind of shortness of breath/air hunger am I talking about?
 
-- feeling like you can get a good breath in
+- feeling like you can't get a good breath in
 - trying to take forceful breath by e.g. yawning
 - some breaths "feel good", other ones (even forceful ones) "feel bad" -- there's a binary classification
 - no obvious cause: not tied to exercise, seasons, allergen sources, etc.
@@ -99,7 +99,7 @@ notes from roam:
 - this is esp a problem in my case b/c i have other health conditions, and buteyko ppl just do a blanket "if you have health problems, don't do buteyko". that's not helpful.
 - and this is esp a problem if like me, you start to just automatically make better breathing a habit -- then it's hard to STOP doing it. so what do you do then?
 
-update (2024-02-04): 3 weeks into mostly silent breathing, i am having prolonged (what seems like) electrolyte issues. i can't say for sure that this is from the breathing, as i did eat a quite salty takeout meal (and i've always been sensitive to salty foods).
+update (2024-02-04): 3 weeks into mostly silent breathing, i am having prolonged (what seems like) electrolyte issues. i can't say for sure that this is from the breathing, as i did eat a quite salty takeout meal (and i've always been sensitive to salty foods), but this is the first time it's lasted 72 hours now (in the past similar things would last at most a few hours).
 
 
 ## Accidental meditation
@@ -261,6 +261,8 @@ breathing toward normal, away from hyperventilation,
 would feel closer to suffocation than if the person pos-
 sessed normal bicarbonate buffering capacity." [@breathingdisordersbookchapter4, p. 68-69]
 Specifically, i don't think it's the lower bicarbonate that is the problem, it's the lowered CO~2~. i think the literature is very misleading about this point and they all keep repeating the same mistaken thing, and none of them actually provide a mathematical model of this.
+In more detail: The specific sentence I am critiquing is: "This situation makes the individual more susceptible than ever to a rise in CO2 (more acidity) because the alkaline buffer has been reduced." In the HH equation, the bicarb concentration is a constant because the rise in CO2 being mentioned here is an acute one. The things that are changing are the CO2 and pH, and the reason the pH changes more is because the CO2 is already low. The reason the CO2 is low is because the person chronically overbreathed. The reason the CO2 _remains_ low is because the bicarbonate level also changed. But you see how that's like, several levels of indirection until we even get to the bicarb. Saying the word "because" followed by the bicarb/alkaline buffer makes it seem like that's the direct/primary reason, but in reality it's instead just this thing in the background that is keeping up the equilibrium. However, I do admit the author here may have had the correct model and was just wording it poorly.
+
 
 "Thus the chronic hyperventilator's
 pH regulation is finely balanced: diminished acid (the
@@ -318,7 +320,7 @@ i don't know how representative the speed of my improvements is, but it's the on
 
 # Sequence of cumulative constraints of breathing practice
 
-We are not transitioning to the more practical sections of this document. But before we get to the actual exercises, I want to say a few things about the mindset/global structure of the practice.
+We are now transitioning to the more practical sections of this document. But before we get to the actual exercises, I want to say a few things about the mindset/global structure of the practice.
 
 I think it may be helpful to conceptualize breathing practice[^kind] not as a set of "breathing techniques" that you practice over time to help calm you down or whatever (such as: "when you're feeling anxious, do square breathing; once you feel comfortable with that, you can move onto different patterns like 4-7-8"), but instead as a *sequence of cumulative constraints*. The reason for having a _sequence_ is that it's too hard to pay attention to the more subtle stuff and get it right all on the first try before you get the basics down; each stage might take a month or more. (The other reason for this particular sequence: if you follow the sequence, then by doing the previous steps, you automatically almost do the next stage, so that at each stage you only need to put in a *little* bit of effort, not invent a whole new thing.) The reason for having *constraints* rather than practices is that it mostly doesn't matter *how* you achieve good breathing, you just want the outcome.
 
