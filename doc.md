@@ -2,7 +2,7 @@
 title: '[DRAFT] My thoughts on breathing, with an emphasis on dealing with chronic shortness of breath'
 author: Issa Rice
 created: 2024-01-24
-date: 2024-02-03
+date: 2024-02-04
 ---
 
 # Preliminaries
@@ -98,6 +98,8 @@ notes from roam:
 - one of the things i don't like about buteyko ppl and also litchfield is that they don't emphasize safety enough... and like what do you _do_ if you start to get intracranial pressure or throat tightening or other weird symptoms?
 - this is esp a problem in my case b/c i have other health conditions, and buteyko ppl just do a blanket "if you have health problems, don't do buteyko". that's not helpful.
 - and this is esp a problem if like me, you start to just automatically make better breathing a habit -- then it's hard to STOP doing it. so what do you do then?
+
+update (2024-02-04): 3 weeks into mostly silent breathing, i am having prolonged (what seems like) electrolyte issues. i can't say for sure that this is from the breathing, as i did eat a quite salty takeout meal (and i've always been sensitive to salty foods).
 
 
 ## Accidental meditation
