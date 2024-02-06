@@ -5,7 +5,7 @@
   <meta name="generator" content="pandoc" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
   <meta name="author" content="Issa Rice" />
-  <meta name="dcterms.date" content="2024-02-04" />
+  <meta name="dcterms.date" content="2024-02-06" />
   <title>[DRAFT] My thoughts on breathing, with an emphasis on dealing with chronic shortness of breath</title>
   <link rel="stylesheet" href="style.css">
 
@@ -24,7 +24,7 @@
 <h1 class="title">[DRAFT] My thoughts on breathing, with an emphasis on
 dealing with chronic shortness of breath</h1>
 <p class="author">Issa Rice</p>
-<p class="date">2024-02-04</p>
+<p class="date">2024-02-06</p>
 </header>
 <nav id="TOC" role="doc-toc">
 <ul>
@@ -168,7 +168,7 @@ id="what-kind-of-shortness-of-breathair-hunger-am-i-talking-about"><span
 class="header-section-number">1.1</span> What kind of shortness of
 breath/air hunger am I talking about?</h2>
 <ul>
-<li>feeling like you can get a good breath in</li>
+<li>feeling like you can’t get a good breath in</li>
 <li>trying to take forceful breath by e.g. yawning</li>
 <li>some breaths “feel good”, other ones (even forceful ones) “feel bad”
 – there’s a binary classification</li>
@@ -403,7 +403,9 @@ doing it. so what do you do then?</li>
 <p>update (2024-02-04): 3 weeks into mostly silent breathing, i am
 having prolonged (what seems like) electrolyte issues. i can’t say for
 sure that this is from the breathing, as i did eat a quite salty takeout
-meal (and i’ve always been sensitive to salty foods).</p>
+meal (and i’ve always been sensitive to salty foods), but this is the
+first time it’s lasted 72 hours now (in the past similar things would
+last at most a few hours).</p>
 <h2 data-number="2.1" id="accidental-meditation"><span
 class="header-section-number">2.1</span> Accidental meditation</h2>
 <p>as you try to normalize your breath, you’re constantly paying
@@ -506,10 +508,27 @@ here, it will be a good thing to point out in the final version!)</p>
 <p>How does breathing happen? here is a very simplified sketch:</p>
 <p><strong>The mechanical:</strong> to inhale, your muscles cause the
 lungs to expand in volume. this causes a drop in air pressure inside the
-lungs, causing air in the atmosphere to enter your lungs. to exhale,
-your muscles cause the lungs to contract; this decrease in volume causes
-an increase in air pressure (relative to the atmosphere) so the air in
-your lungs leave.</p>
+lungs, causing air in the atmosphere to enter your lungs. To exhale,
+your muscles <em>relax</em> which causes the lungs to contract (the
+lungs are elastic so they naturally contract); this decrease in volume
+causes an increase in air pressure (relative to the atmosphere) so some
+of the air in your lungs leaves. It is also possible to do a forced
+exhale where the muscles actively contract the lungs in order to push
+out even more air, but this does not happen in a normal exhale.<a
+href="#fn1" class="footnote-ref" id="fnref1"
+role="doc-noteref"><sup>1</sup></a></p>
+<p>If we try to model the lungs naively based on this equation, we run
+into trouble. Let’s see how that happens. During the exhale, the lungs
+contract by let’s say 20%, i.e., its volume changes by a factor of <span
+class="math inline">\(1 - 0.2 = 4/5\)</span>. To make up for this
+decrease in volume, now pressure must increase by a factor of <span
+class="math inline">\(5/4\)</span>, i.e, the pressure increases by <span
+class="math inline">\(5/4 - 1 = 25\%\)</span>. The increased pressure
+then expels the air, so <span class="math inline">\(n\)</span> goes
+down, which then makes <span class="math inline">\(P\)</span> go down
+again.</p>
+<p>The problem is, when actually measured, the pressure in the lungs
+changes by only</p>
 <p><strong>The chemical:</strong> at the very edges of your lungs are
 tiny sacs called alveoli. the alveoli are surrounded by capillaries, and
 this is where gas exchange takes place. when air from the atmosphere
@@ -778,7 +797,21 @@ Specifically, i don’t think it’s the lower bicarbonate that is the
 problem, it’s the lowered CO<sub>2</sub>. i think the literature is very
 misleading about this point and they all keep repeating the same
 mistaken thing, and none of them actually provide a mathematical model
-of this.</p>
+of this. In more detail: The specific sentence I am critiquing is: “This
+situation makes the individual more susceptible than ever to a rise in
+CO2 (more acidity) because the alkaline buffer has been reduced.” In the
+HH equation, the bicarb concentration is a constant because the rise in
+CO2 being mentioned here is an acute one. The things that are changing
+are the CO2 and pH, and the reason the pH changes more is because the
+CO2 is already low. The reason the CO2 is low is because the person
+chronically overbreathed. The reason the CO2 <em>remains</em> low is
+because the bicarbonate level also changed. But you see how that’s like,
+several levels of indirection until we even get to the bicarb. Saying
+the word “because” followed by the bicarb/alkaline buffer makes it seem
+like that’s the direct/primary reason, but in reality it’s instead just
+this thing in the background that is keeping up the equilibrium.
+However, I do admit the author here may have had the correct model and
+was just wording it poorly.</p>
 <p>“Thus the chronic hyperventilator’s pH regulation is finely balanced:
 diminished acid (the consequence of hyperventilation) is balanced
 against the low level ofblood bicarbonate maintained by renal excretion.
@@ -882,12 +915,12 @@ an idea of what to expect.</p>
 id="sequence-of-cumulative-constraints-of-breathing-practice"><span
 class="header-section-number">7</span> Sequence of cumulative
 constraints of breathing practice</h1>
-<p>We are not transitioning to the more practical sections of this
+<p>We are now transitioning to the more practical sections of this
 document. But before we get to the actual exercises, I want to say a few
 things about the mindset/global structure of the practice.</p>
 <p>I think it may be helpful to conceptualize breathing practice<a
-href="#fn1" class="footnote-ref" id="fnref1"
-role="doc-noteref"><sup>1</sup></a> not as a set of “breathing
+href="#fn2" class="footnote-ref" id="fnref2"
+role="doc-noteref"><sup>2</sup></a> not as a set of “breathing
 techniques” that you practice over time to help calm you down or
 whatever (such as: “when you’re feeling anxious, do square breathing;
 once you feel comfortable with that, you can move onto different
@@ -1239,8 +1272,8 @@ don’t have a great reply to this – in fact, some people seem to get
 better just by doing Buteyko breathing “blind” (i.e., without seeing
 their breathing curve using a capnometer). So clearly it <em>is</em>
 possible to do the same things without a capnometer. (Even Peter
-Litchfield admits this to some extent.<a href="#fn2"
-class="footnote-ref" id="fnref2" role="doc-noteref"><sup>2</sup></a>)
+Litchfield admits this to some extent.<a href="#fn3"
+class="footnote-ref" id="fnref3" role="doc-noteref"><sup>3</sup></a>)
 But in my case, it was only after I got a capnometer that I saw rapid
 progress. Here I will try to build a model of <em>why</em> having a
 capnometer is so useful.</p>
@@ -1423,6 +1456,8 @@ I don’t have it on the inhale, even if it’s soft. Then as the exhale
 progresses it slowly mounts, in a subtle way. I’ve noticed that paying
 precise attention to when the air hunger comes one actually diminishes
 the air hunger.</p>
+<p>eventually, i think the goal is to do this exercise while walking,
+then while joigging, biking, etc.</p>
 <h2 data-number="11.2"
 id="introductory-exercise-many-small-breath-holds"><span
 class="header-section-number">11.2</span> Introductory exercise: Many
@@ -1662,11 +1697,23 @@ href="https://en.wikipedia.org/wiki/Four_stages_of_competence">https://en.wikipe
 role="doc-endnotes">
 <hr />
 <ol>
-<li id="fn1"><p>By “breathing practice”, here I specifically mean
+<li id="fn1"><p>This footnote is intended to prevent a potential
+misconception. However, the actual details in this footnote are not
+important for understanding the rest of the document, so I’ve decided to
+not include it in the main text. Those with knowledge of chemistry will
+remember the ideal gas law, <span class="math inline">\(PV =
+nRT\)</span>, which relates the pressure <span
+class="math inline">\(P\)</span>, volume <span
+class="math inline">\(V\)</span>, amount of substance <span
+class="math inline">\(n\)</span>, and temperature <span
+class="math inline">\(T\)</span> of a gas, with some constant <span
+class="math inline">\(R\)</span> that varies depending on the units.<a
+href="#fnref1" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+<li id="fn2"><p>By “breathing practice”, here I specifically mean
 breathing practice to cure shortness of breath from over-breathing, but
 it may also apply to meditative practices as well, I don’t know.<a
-href="#fnref1" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
-<li id="fn2"><p>From <span class="citation"
+href="#fnref2" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+<li id="fn3"><p>From <span class="citation"
 data-cites="capnolearningcourse">Litchfield and Reamer
 (2024)</span>:</p>
 <blockquote>
@@ -1682,7 +1729,7 @@ is a powerful tool for making this transition from an outside-in to an
 inside-out paradigm, that is, for identifying existing habits and
 learning new ones.</p>
 </blockquote>
-<a href="#fnref2" class="footnote-back" role="doc-backlink">↩︎</a></li>
+<a href="#fnref3" class="footnote-back" role="doc-backlink">↩︎</a></li>
 </ol>
 </section>
 </article>
