@@ -2,7 +2,7 @@
 title: '[DRAFT] My thoughts on breathing, with an emphasis on dealing with chronic shortness of breath'
 author: Issa Rice
 created: 2024-01-24
-date: 2024-02-04
+date: 2024-02-06
 ---
 
 # Preliminaries
@@ -143,7 +143,13 @@ The central thing we're trying to explain here is: why is it that if you have sh
 
 How does breathing happen? here is a very simplified sketch:
 
-**The mechanical:** to inhale, your muscles cause the lungs to expand in volume. this causes a drop in air pressure inside the lungs, causing air in the atmosphere to enter your lungs. to exhale, your muscles cause the lungs to contract; this decrease in volume causes an increase in air pressure (relative to the atmosphere) so the air in your lungs leave.
+**The mechanical:** to inhale, your muscles cause the lungs to expand in volume. this causes a drop in air pressure inside the lungs, causing air in the atmosphere to enter your lungs. To exhale, your muscles _relax_ which causes the lungs to contract (the lungs are elastic so they naturally contract); this decrease in volume causes an increase in air pressure (relative to the atmosphere) so some of the air in your lungs leaves. It is also possible to do a forced exhale where the muscles actively contract the lungs in order to push out even more air, but this does not happen in a normal exhale.[^idealgas]
+
+[^idealgas]: This footnote is intended to prevent a potential misconception. However, the actual details in this footnote are not important for understanding the rest of the document, so I've decided to not include it in the main text. Those with knowledge of chemistry will remember the ideal gas law, $PV = nRT$, which relates the pressure $P$, volume $V$, amount of substance $n$, and temperature $T$ of a gas, with some constant $R$ that varies depending on the units.
+
+  If we try to model the lungs naively based on this equation, we run into trouble. Let's see how that happens. During the exhale, the lungs contract by let's say 20%, i.e., its volume changes by a factor of $1 - 0.2 = 4/5$. To make up for this decrease in volume, now pressure must increase by a factor of $5/4$, i.e, the pressure increases by $5/4 - 1 = 25\%$. The increased pressure then expels the air, so $n$ goes down, which then makes $P$ go down again.
+
+  The problem is, when actually measured, the pressure in the lungs changes by only 
 
 **The chemical:** at the very edges of your lungs are tiny sacs called alveoli. the alveoli are surrounded by capillaries, and this is where gas exchange takes place. when air from the atmosphere arrives at the alveoli during inhalation, there is more oxygen in the atmosphere air, so the oxygen diffuses into the capillaries. At the same time, there is more carbon dioxide in the capillaries, so that diffuses back into the alveoli and then out into the atmosphere. this two-way diffusion is just happening all the time continuously, and inhalation and exhalation just bring or pump out the air so that more diffusion can take place. There is a subpart called **cellular respiration** where the oxygenated blood goes out to the tissues and carbon dioxide is produced by the tissues.
 
@@ -470,6 +476,8 @@ relaxing completely is harder than it seems. I have a tendency to "relax" by lik
 for me, even on 2024-01-29, doing this exercise for 10 mins caused a mild suffocation-like reaction after about 5 mins, where i freaked out and stood up and had to take a few (unsuccessful/unsatisfying) mouth breaths, and then had to like just let my body do whatever for a few breaths, and then try to get in some good nasal breaths. after that, i was able to return to the exercise again, but i had to keep indulging good breaths. idk, this exercise is a lot harder than it seems! it's weird though because i _feel_ like i'm just doing this throughout the day, but i never get this suffocation reaction. so i wonder if it's just that i'm indulging good breaths throughout the day, but during this exercise i don't, and that's the crucial difference? i think i should start lower, like do this for 2 mins without indulging, then next day go up to 3 mins, etc?
 
 @capnolearningbook [p. 57] has an interesting prompt, "Do you feel air hunger before the end of the exhale?" It made me pause because I always thought I continuously have air hunger, but actually, paying attention, I don't have it on the inhale, even if it's soft. Then as the exhale progresses it slowly mounts, in a subtle way. I've noticed that paying precise attention to when the air hunger comes one actually diminishes the air hunger.
+
+eventually, i think the goal is to do this exercise while walking, then while joigging, biking, etc.
 
 ## Introductory exercise: Many small breath holds
 
