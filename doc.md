@@ -445,6 +445,8 @@ one of the things i've personally found frustrating is when people say "just do 
 
 it's probably overwhelming to see all these exercises and giant walls of text. one of the nice things about working with a breathing coach is that they will guide you by only introducing one technique/exercise each week or so, so that at any given moment, you have _one_ new thing to work with that you are trying to integrate into your practice. so a challenge for me is: if the reader isn't going to be working with a coach (which is presumably why they are interested in this document), then how can i make the exercise sequence friendly to them? i really need some sort of timeline or flowchart that can be followed, so that as little thought as possible needs to go into making decisions. it's all laid out, you just follow a recipe.
 
+unfortunately the theory given in the section [The biological basis of shortness of breath] only says _that_ you should breathe less to build back the CO~2~ levels over time, but not _how_. The exercises given here are much more an art than a science. I'm most just writing from personal experience about what worked best for me. The only way you will know for sure if you are raising your CO~2~ levels is to get a capnometer and measure your own levels.
+
 ## Main exercise: relaxed silent breathing
 
 This one is most similar to @rakhimov2013advanced [section 4.6, "Relaxing the diaphragm (Buteyko relaxed breathing exercise)"], but Neil Tranter also has a similar video [@tranter2023relaxed]. @novozhilov2012 has similar exercises too (e.g., Exercise 1).
