@@ -253,6 +253,31 @@ $$\begin{aligned}
 What does all of this show? Well, the quantity $\frac{\Delta p\mathrm{CO_2}}{p\mathrm{CO_2}}$ is actually the fractional change in pCO~2~. So it shows that _the change in pH is a function of the fractional change in pCO~2~_. This is one way to understand why having low CO~2~ means your pH changes more easily: the same amount of absolute CO~2~ change results in a greater fractional change in CO~2~. (Note: fractional change is almost the same thing as percentage change, just divided by 100.)
 
 
+```python
+from math import log10
+
+# These two values are obtained from measurements
+etco2 = 35  # This comes from the capnometer
+total_co2 = 24  # This comes from the "total carbon dioxide" blood test
+
+# Arterial pCO2 is typically a little bit higher than the
+# end-tidal pCO2. Here we just guess it to be 5 mmHg higher.
+paco2 = etco2 + 5
+
+carbonic_acid = 0.0307 * paco2
+
+# total CO2 = bicarbonate +
+#             CO2 as carbonic acid +
+#             CO2 in hemoglobin (estimated to be 10% of the total CO2)
+bicarb = 0.9 * total_co2 - carbonic_acid
+
+# This is the Henderson-Hasselbach equation for pH
+pH = 6.1 + log10(bicarb / carbonic_acid)
+
+print(pH)
+```
+
+
 This seems wrong to me, but I should look at the cited works by Ley:
 "Ley (1988a, 1988b) has offered a plausible explanation
 for this phenomenon based on the body’s adaptation to
