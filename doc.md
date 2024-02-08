@@ -2,7 +2,7 @@
 title: '[DRAFT] My thoughts on breathing, with an emphasis on dealing with chronic shortness of breath'
 author: Issa Rice
 created: 2024-01-24
-date: 2024-02-06
+date: 2024-02-07
 ---
 
 # Preliminaries
@@ -178,7 +178,7 @@ kidneys are supposed to adjust within 5 days. BUT mine seem to be taking a lot l
 - the other idea is that my CO~2~ is totally normal now when I measure during the day, but somehow, somewhere, I'm still overbreathing. Maybe in my sleep, maybe in small pockets of time when I'm stressed, maybe whenever I talk. And that little bit of overbreathing is preventing the bicarbonate levels from fully adjusting. Hence why I still feel subtle air hunger.
 - Vipul notes that the literature may be basing kidney adjustments partly on mountain climbers ("altitude acclimatization") who are adjusting to low CO~2~ so are shedding more bicarbonate rather than in the case of overbreathers who are trying to gain back their bicarbonate. Mountain climbers are also adjusting to lower O~2~, not just CO~2~. So it's possible that what happens to them is just quite different from what happens to chronic overbreathers.
 
-I don't know why no one seems to ever talk about this, but there are literal blood and urine tests to measure bicarbonate levels. In the US at least, if you have a good insurance or Medicaid or something, then (assuming you can convince a doctor to order the test) this seems like a _way_ cheaper way to see if you have hypocapnia, although it won't really allow you to do real-time biofeedback like with a capnometer. I think these blood/urine tests might also be very helpful in intermediate stages of recovery (like where I am at now as of 2024-02-02) where my CO~2~ levels are normal according to the capnometer but I still have that subtle feeling of air hunger.
+I don't know why no one seems to ever talk about this, but there are literal blood and urine tests to measure bicarbonate levels (it's called "total carbon dioxide", and is included in the comprehensive metabolic panel, which is a pretty common test. Total CO~2~ includes not just bicarbonate but also the dissolved CO~2~ in blood and the CO~2~ carried by hemoglobin or something, but the bicarbonate makes up most of the total carbon dioxide. However, I am still confused about how to interpret the results of this test). In the US at least, if you have a good insurance or Medicaid or something, then (assuming you can convince a doctor to order the test) this seems like a _way_ cheaper way to see if you have hypocapnia, although it won't really allow you to do real-time biofeedback like with a capnometer. (Update(2024-02-07): this turned out to be WRONG. My total CO~2~ has been normal this whole time despite my end-tidal CO~2~ being low. So getting a normal level on the total CO~2~ test does not actually rule out hypocapnia.) I think these blood/urine tests might also be very helpful in intermediate stages of recovery (like where I am at now as of 2024-02-02) where my CO~2~ levels are normal according to the capnometer but I still have that subtle feeling of air hunger. (Update(2024-02-07): I am no longer so sure about this... I think the total carbon dioxide test might be useless.)
 
 I have not tried this, but it is possible to _supplement_ bicarbonate in addition to changing breathing habits, which might speed up progress: "Long-distance runners, sprinters and horse trainers have experimented successfully with doses of sodium bicarbonate, which supplements the natural bicarbonate buffer and opposes the lactic acid load created by exercising muscles" [@breathingdisordersbookchapter4, p. 66] <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC435634/pdf/jcinvest00601-0100.pdf> ("STUDIES ON HYPERVENTILATION. II. ELECTROCARDIOGRAPHIC CHANGES
 IN NORMAL MAN DURING VOLUNTARY HYPERVENTILATION" by B. CHR. CHRISTENSEN) also mentions an experiment to give large doses of sodium bicarbonate to subjects to generate (?!) a feeling of air hunger. more bicarbonate mimics the effects of less CO~2~. so maybe supplementing bicarbonate isn't the solution.
@@ -479,7 +479,7 @@ for me, even on 2024-01-29, doing this exercise for 10 mins caused a mild suffoc
 
 @capnolearningbook [p. 57] has an interesting prompt, "Do you feel air hunger before the end of the exhale?" It made me pause because I always thought I continuously have air hunger, but actually, paying attention, I don't have it on the inhale, even if it's soft. Then as the exhale progresses it slowly mounts, in a subtle way. I've noticed that paying precise attention to when the air hunger comes one actually diminishes the air hunger.
 
-eventually, i think the goal is to do this exercise while walking, then while joigging, biking, etc.
+eventually, i think the goal is to do this exercise while walking, then while jogging, biking, etc.
 
 ## Introductory exercise: Many small breath holds
 
