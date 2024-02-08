@@ -5,7 +5,7 @@
   <meta name="generator" content="pandoc" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
   <meta name="author" content="Issa Rice" />
-  <meta name="dcterms.date" content="2024-02-07" />
+  <meta name="dcterms.date" content="2024-02-08" />
   <title>[DRAFT] My thoughts on breathing, with an emphasis on dealing with chronic shortness of breath</title>
   <link rel="stylesheet" href="style.css">
 
@@ -24,7 +24,7 @@
 <h1 class="title">[DRAFT] My thoughts on breathing, with an emphasis on
 dealing with chronic shortness of breath</h1>
 <p class="author">Issa Rice</p>
-<p class="date">2024-02-07</p>
+<p class="date">2024-02-08</p>
 </header>
 <nav id="TOC" role="doc-toc">
 <ul>
@@ -139,13 +139,17 @@ href="#intermittent-technique-slowing-the-first-part-of-the-exhale"
 id="toc-intermittent-technique-slowing-the-first-part-of-the-exhale"><span
 class="toc-section-number">11.4</span> Intermittent technique: Slowing
 the first part of the exhale</a></li>
+<li><a href="#intermittent-technique-watching-automatic-breaths"
+id="toc-intermittent-technique-watching-automatic-breaths"><span
+class="toc-section-number">11.5</span> Intermittent technique: watching
+automatic breaths</a></li>
 <li><a href="#temporary-exercise-soft-smooth-slow-long-inhales"
 id="toc-temporary-exercise-soft-smooth-slow-long-inhales"><span
-class="toc-section-number">11.5</span> Temporary exercise: soft smooth
+class="toc-section-number">11.6</span> Temporary exercise: soft smooth
 slow long inhales</a></li>
 <li><a href="#temporary-exercise-soft-long-exhales"
 id="toc-temporary-exercise-soft-long-exhales"><span
-class="toc-section-number">11.6</span> Temporary exercise: soft long
+class="toc-section-number">11.7</span> Temporary exercise: soft long
 exhales</a></li>
 </ul></li>
 <li><a href="#posture" id="toc-posture"><span
@@ -792,23 +796,25 @@ class="sourceCode python"><code class="sourceCode python"><span id="cb1-1"><a hr
 <span id="cb1-2"><a href="#cb1-2" aria-hidden="true" tabindex="-1"></a></span>
 <span id="cb1-3"><a href="#cb1-3" aria-hidden="true" tabindex="-1"></a><span class="co"># These two values are obtained from measurements</span></span>
 <span id="cb1-4"><a href="#cb1-4" aria-hidden="true" tabindex="-1"></a>etco2 <span class="op">=</span> <span class="dv">35</span>  <span class="co"># This comes from the capnometer</span></span>
-<span id="cb1-5"><a href="#cb1-5" aria-hidden="true" tabindex="-1"></a>total_co2 <span class="op">=</span> <span class="dv">24</span>  <span class="co"># This comes from the &quot;total carbon dioxide&quot; blood test</span></span>
-<span id="cb1-6"><a href="#cb1-6" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-7"><a href="#cb1-7" aria-hidden="true" tabindex="-1"></a><span class="co"># Arterial pCO2 is typically a little bit higher than the</span></span>
-<span id="cb1-8"><a href="#cb1-8" aria-hidden="true" tabindex="-1"></a><span class="co"># end-tidal pCO2. Here we just guess it to be 5 mmHg higher.</span></span>
-<span id="cb1-9"><a href="#cb1-9" aria-hidden="true" tabindex="-1"></a>paco2 <span class="op">=</span> etco2 <span class="op">+</span> <span class="dv">5</span></span>
-<span id="cb1-10"><a href="#cb1-10" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-11"><a href="#cb1-11" aria-hidden="true" tabindex="-1"></a>carbonic_acid <span class="op">=</span> <span class="fl">0.0307</span> <span class="op">*</span> paco2</span>
-<span id="cb1-12"><a href="#cb1-12" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-13"><a href="#cb1-13" aria-hidden="true" tabindex="-1"></a><span class="co"># total CO2 = bicarbonate +</span></span>
-<span id="cb1-14"><a href="#cb1-14" aria-hidden="true" tabindex="-1"></a><span class="co">#             CO2 as carbonic acid +</span></span>
-<span id="cb1-15"><a href="#cb1-15" aria-hidden="true" tabindex="-1"></a><span class="co">#             CO2 in hemoglobin (estimated to be 10% of the total CO2)</span></span>
-<span id="cb1-16"><a href="#cb1-16" aria-hidden="true" tabindex="-1"></a>bicarb <span class="op">=</span> <span class="fl">0.9</span> <span class="op">*</span> total_co2 <span class="op">-</span> carbonic_acid</span>
-<span id="cb1-17"><a href="#cb1-17" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-18"><a href="#cb1-18" aria-hidden="true" tabindex="-1"></a><span class="co"># This is the Henderson-Hasselbach equation for pH</span></span>
-<span id="cb1-19"><a href="#cb1-19" aria-hidden="true" tabindex="-1"></a>pH <span class="op">=</span> <span class="fl">6.1</span> <span class="op">+</span> log10(bicarb <span class="op">/</span> carbonic_acid)</span>
-<span id="cb1-20"><a href="#cb1-20" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-21"><a href="#cb1-21" aria-hidden="true" tabindex="-1"></a><span class="bu">print</span>(pH)</span></code></pre></div>
+<span id="cb1-5"><a href="#cb1-5" aria-hidden="true" tabindex="-1"></a>total_co2 <span class="op">=</span> <span class="dv">28</span>  <span class="co"># This comes from the &quot;total carbon dioxide&quot;</span></span>
+<span id="cb1-6"><a href="#cb1-6" aria-hidden="true" tabindex="-1"></a>                <span class="co"># blood test</span></span>
+<span id="cb1-7"><a href="#cb1-7" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-8"><a href="#cb1-8" aria-hidden="true" tabindex="-1"></a><span class="co"># Arterial pCO2 is typically a little bit higher than the</span></span>
+<span id="cb1-9"><a href="#cb1-9" aria-hidden="true" tabindex="-1"></a><span class="co"># end-tidal pCO2. Here we just guess it to be 5 mmHg higher.</span></span>
+<span id="cb1-10"><a href="#cb1-10" aria-hidden="true" tabindex="-1"></a>paco2 <span class="op">=</span> etco2 <span class="op">+</span> <span class="dv">5</span></span>
+<span id="cb1-11"><a href="#cb1-11" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-12"><a href="#cb1-12" aria-hidden="true" tabindex="-1"></a>carbonic_acid <span class="op">=</span> <span class="fl">0.0307</span> <span class="op">*</span> paco2</span>
+<span id="cb1-13"><a href="#cb1-13" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-14"><a href="#cb1-14" aria-hidden="true" tabindex="-1"></a><span class="co"># total CO2 = bicarbonate +</span></span>
+<span id="cb1-15"><a href="#cb1-15" aria-hidden="true" tabindex="-1"></a><span class="co">#             CO2 as carbonic acid +</span></span>
+<span id="cb1-16"><a href="#cb1-16" aria-hidden="true" tabindex="-1"></a><span class="co">#             CO2 in hemoglobin (estimated to be 10% of the</span></span>
+<span id="cb1-17"><a href="#cb1-17" aria-hidden="true" tabindex="-1"></a><span class="co">#                                total CO2)</span></span>
+<span id="cb1-18"><a href="#cb1-18" aria-hidden="true" tabindex="-1"></a>bicarb <span class="op">=</span> <span class="fl">0.9</span> <span class="op">*</span> total_co2 <span class="op">-</span> carbonic_acid</span>
+<span id="cb1-19"><a href="#cb1-19" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-20"><a href="#cb1-20" aria-hidden="true" tabindex="-1"></a><span class="co"># This is the Henderson-Hasselbach equation for pH</span></span>
+<span id="cb1-21"><a href="#cb1-21" aria-hidden="true" tabindex="-1"></a>pH <span class="op">=</span> <span class="fl">6.1</span> <span class="op">+</span> log10(bicarb <span class="op">/</span> carbonic_acid)</span>
+<span id="cb1-22"><a href="#cb1-22" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-23"><a href="#cb1-23" aria-hidden="true" tabindex="-1"></a><span class="bu">print</span>(pH)</span></code></pre></div>
 <p>This seems wrong to me, but I should look at the cited works by Ley:
 “Ley (1988a, 1988b) has offered a plausible explanation for this
 phenomenon based on the body’s adaptation to chronic hyperventilation.
@@ -1530,15 +1536,50 @@ Slowing the first part of the exhale</h2>
 <p>TODO: fill out. this one is similar in intent to the previous
 technique.</p>
 <h2 data-number="11.5"
+id="intermittent-technique-watching-automatic-breaths"><span
+class="header-section-number">11.5</span> Intermittent technique:
+watching automatic breaths</h2>
+<p>Usually I have found that if I start paying attention to my breaths,
+my breaths become consciously controlled ones, i.e., non-automatic. This
+brings up a question of whether it is possible to “study” your own
+automatic breaths without controlling them (e.g., to find what your
+natural breathing rhythm is, or because your automatic breaths are
+better).</p>
+<p>One natural idea is to just record yourself all the time, or to have
+someone watch you all the time, so that they can catch you when you’re
+not focused on your breaths. But this requires a lot of setup and I am
+not even sure that your breaths will be the same when hooked up to a
+machine.</p>
+<p>If you feel like even when you are trying to just let the breath
+naturally happen (when doing the main exercise) that you are somehow
+controlling or manipulating your breath (which expresses itself as
+discomfort/air hunger, pain in your diaphragm, a feeling that your
+throat is subtly being choked, etc.), then this exercise might help.</p>
+<p>Exercise instructions: lightly tap your teeth kind of as if you are
+chattering from being cold. You can tap along to some song you like.
+What I’ve noticed is that since I have to tap along to the song, I can’t
+control my breath as well, <em>but</em> I can still “watch” the breaths
+without controlling them.</p>
+<p>By tapping in a simple rhythm lightly with my teeth, like
+<code>. ... .. . . ..</code> or something repeatedly, if I focus on the
+tapping, then my breathing becomes automatic. But because the teeth are
+close enough to the nose, you can kind of “watch” your nose
+automatically breathing.</p>
+<p>One tricky thing is that when I tried this while walking, I found
+myself wanting to breathe at the same rhythm I was tapping with my
+teeth, which is not what we want.</p>
+<p>I have found better luck when lying down on my back and just tapping
+with my teeth lightly, and watching my breaths.</p>
+<h2 data-number="11.6"
 id="temporary-exercise-soft-smooth-slow-long-inhales"><span
-class="header-section-number">11.5</span> Temporary exercise: soft
+class="header-section-number">11.6</span> Temporary exercise: soft
 smooth slow long inhales</h2>
 <p>TODO: explain this exercise. it’s transitory because eventually
 (within like a week or two) you want to switch to the relaxed silent
 breathing. this exercise is a crutch for when relaxed silent breathing
 is too hard.</p>
-<h2 data-number="11.6" id="temporary-exercise-soft-long-exhales"><span
-class="header-section-number">11.6</span> Temporary exercise: soft long
+<h2 data-number="11.7" id="temporary-exercise-soft-long-exhales"><span
+class="header-section-number">11.7</span> Temporary exercise: soft long
 exhales</h2>
 <p>this is the counterpart to the previous exercise.</p>
 <p>i think the idea with these two exercises is that you’re focused on
