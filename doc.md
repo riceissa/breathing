@@ -2,7 +2,7 @@
 title: '[DRAFT] My thoughts on breathing, with an emphasis on dealing with chronic shortness of breath'
 author: Issa Rice
 created: 2024-01-24
-date: 2024-02-07
+date: 2024-02-08
 ---
 
 # Preliminaries
@@ -258,7 +258,7 @@ from math import log10
 
 # These two values are obtained from measurements
 etco2 = 35  # This comes from the capnometer
-total_co2 = 24  # This comes from the "total carbon dioxide"
+total_co2 = 28  # This comes from the "total carbon dioxide"
                 # blood test
 
 # Arterial pCO2 is typically a little bit higher than the
@@ -526,6 +526,22 @@ This one was shown to me by my breathing coach. I've found this quite useful for
 ## Intermittent technique: Slowing the first part of the exhale
 
 TODO: fill out. this one is similar in intent to the previous technique.
+
+## Intermittent technique: watching automatic breaths
+
+Usually I have found that if I start paying attention to my breaths, my breaths become consciously controlled ones, i.e., non-automatic. This brings up a question of whether it is possible to "study" your own automatic breaths without controlling them (e.g., to find what your natural breathing rhythm is, or because your automatic breaths are better).
+
+One natural idea is to just record yourself all the time, or to have someone watch you all the time, so that they can catch you when you're not focused on your breaths. But this requires a lot of setup and I am not even sure that your breaths will be the same when hooked up to a machine.
+
+If you feel like even when you are trying to just let the breath naturally happen (when doing the main exercise) that you are somehow controlling or manipulating your breath (which expresses itself as discomfort/air hunger, pain in your diaphragm, a feeling that your throat is subtly being choked, etc.), then this exercise might help.
+
+Exercise instructions: lightly tap your teeth kind of as if you are chattering from being cold. You can tap along to some song you like. What I've noticed is that since I have to tap along to the song, I can't control my breath as well, _but_ I can still "watch" the breaths without controlling them.
+
+By tapping in a simple rhythm lightly with my teeth, like `. ... .. . . ..` or something repeatedly, if I focus on the tapping, then my breathing becomes automatic. But because the teeth are close enough to the nose, you can kind of "watch" your nose automatically breathing.
+
+One tricky thing is that when I tried this while walking, I found myself wanting to breathe at the same rhythm I was tapping with my teeth, which is not what we want.
+
+I have found better luck when lying down on my back and just tapping with my teeth lightly, and watching my breaths.
 
 ## Temporary exercise: soft smooth slow long inhales
 
