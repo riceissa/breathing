@@ -258,7 +258,8 @@ from math import log10
 
 # These two values are obtained from measurements
 etco2 = 35  # This comes from the capnometer
-total_co2 = 24  # This comes from the "total carbon dioxide" blood test
+total_co2 = 24  # This comes from the "total carbon dioxide"
+                # blood test
 
 # Arterial pCO2 is typically a little bit higher than the
 # end-tidal pCO2. Here we just guess it to be 5 mmHg higher.
@@ -268,7 +269,8 @@ carbonic_acid = 0.0307 * paco2
 
 # total CO2 = bicarbonate +
 #             CO2 as carbonic acid +
-#             CO2 in hemoglobin (estimated to be 10% of the total CO2)
+#             CO2 in hemoglobin (estimated to be 10% of the
+#                                total CO2)
 bicarb = 0.9 * total_co2 - carbonic_acid
 
 # This is the Henderson-Hasselbach equation for pH
