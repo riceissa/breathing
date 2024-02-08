@@ -5,7 +5,7 @@
   <meta name="generator" content="pandoc" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
   <meta name="author" content="Issa Rice" />
-  <meta name="dcterms.date" content="2024-02-06" />
+  <meta name="dcterms.date" content="2024-02-07" />
   <title>[DRAFT] My thoughts on breathing, with an emphasis on dealing with chronic shortness of breath</title>
   <link rel="stylesheet" href="style.css">
 
@@ -24,7 +24,7 @@
 <h1 class="title">[DRAFT] My thoughts on breathing, with an emphasis on
 dealing with chronic shortness of breath</h1>
 <p class="author">Issa Rice</p>
-<p class="date">2024-02-06</p>
+<p class="date">2024-02-07</p>
 </header>
 <nav id="TOC" role="doc-toc">
 <ul>
@@ -635,15 +635,27 @@ happens to them is just quite different from what happens to chronic
 overbreathers.</li>
 </ul>
 <p>I don’t know why no one seems to ever talk about this, but there are
-literal blood and urine tests to measure bicarbonate levels. In the US
-at least, if you have a good insurance or Medicaid or something, then
-(assuming you can convince a doctor to order the test) this seems like a
-<em>way</em> cheaper way to see if you have hypocapnia, although it
-won’t really allow you to do real-time biofeedback like with a
-capnometer. I think these blood/urine tests might also be very helpful
-in intermediate stages of recovery (like where I am at now as of
-2024-02-02) where my CO<sub>2</sub> levels are normal according to the
-capnometer but I still have that subtle feeling of air hunger.</p>
+literal blood and urine tests to measure bicarbonate levels (it’s called
+“total carbon dioxide”, and is included in the comprehensive metabolic
+panel, which is a pretty common test. Total CO<sub>2</sub> includes not
+just bicarbonate but also the dissolved CO<sub>2</sub> in blood and the
+CO<sub>2</sub> carried by hemoglobin or something, but the bicarbonate
+makes up most of the total carbon dioxide. However, I am still confused
+about how to interpret the results of this test). In the US at least, if
+you have a good insurance or Medicaid or something, then (assuming you
+can convince a doctor to order the test) this seems like a <em>way</em>
+cheaper way to see if you have hypocapnia, although it won’t really
+allow you to do real-time biofeedback like with a capnometer.
+(Update(2024-02-07): this turned out to be WRONG. My total
+CO<sub>2</sub> has been normal this whole time despite my end-tidal
+CO<sub>2</sub> being low. So getting a normal level on the total
+CO<sub>2</sub> test does not actually rule out hypocapnia.) I think
+these blood/urine tests might also be very helpful in intermediate
+stages of recovery (like where I am at now as of 2024-02-02) where my
+CO<sub>2</sub> levels are normal according to the capnometer but I still
+have that subtle feeling of air hunger. (Update(2024-02-07): I am no
+longer so sure about this… I think the total carbon dioxide test might
+be useless.)</p>
 <p>I have not tried this, but it is possible to <em>supplement</em>
 bicarbonate in addition to changing breathing habits, which might speed
 up progress: “Long-distance runners, sprinters and horse trainers have
@@ -775,6 +787,28 @@ more easily: the same amount of absolute CO<sub>2</sub> change results
 in a greater fractional change in CO<sub>2</sub>. (Note: fractional
 change is almost the same thing as percentage change, just divided by
 100.)</p>
+<div class="sourceCode" id="cb1"><pre
+class="sourceCode python"><code class="sourceCode python"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a><span class="im">from</span> math <span class="im">import</span> log10</span>
+<span id="cb1-2"><a href="#cb1-2" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-3"><a href="#cb1-3" aria-hidden="true" tabindex="-1"></a><span class="co"># These two values are obtained from measurements</span></span>
+<span id="cb1-4"><a href="#cb1-4" aria-hidden="true" tabindex="-1"></a>etco2 <span class="op">=</span> <span class="dv">35</span>  <span class="co"># This comes from the capnometer</span></span>
+<span id="cb1-5"><a href="#cb1-5" aria-hidden="true" tabindex="-1"></a>total_co2 <span class="op">=</span> <span class="dv">24</span>  <span class="co"># This comes from the &quot;total carbon dioxide&quot; blood test</span></span>
+<span id="cb1-6"><a href="#cb1-6" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-7"><a href="#cb1-7" aria-hidden="true" tabindex="-1"></a><span class="co"># Arterial pCO2 is typically a little bit higher than the</span></span>
+<span id="cb1-8"><a href="#cb1-8" aria-hidden="true" tabindex="-1"></a><span class="co"># end-tidal pCO2. Here we just guess it to be 5 mmHg higher.</span></span>
+<span id="cb1-9"><a href="#cb1-9" aria-hidden="true" tabindex="-1"></a>paco2 <span class="op">=</span> etco2 <span class="op">+</span> <span class="dv">5</span></span>
+<span id="cb1-10"><a href="#cb1-10" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-11"><a href="#cb1-11" aria-hidden="true" tabindex="-1"></a>carbonic_acid <span class="op">=</span> <span class="fl">0.0307</span> <span class="op">*</span> paco2</span>
+<span id="cb1-12"><a href="#cb1-12" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-13"><a href="#cb1-13" aria-hidden="true" tabindex="-1"></a><span class="co"># total CO2 = bicarbonate +</span></span>
+<span id="cb1-14"><a href="#cb1-14" aria-hidden="true" tabindex="-1"></a><span class="co">#             CO2 as carbonic acid +</span></span>
+<span id="cb1-15"><a href="#cb1-15" aria-hidden="true" tabindex="-1"></a><span class="co">#             CO2 in hemoglobin (estimated to be 10% of the total CO2)</span></span>
+<span id="cb1-16"><a href="#cb1-16" aria-hidden="true" tabindex="-1"></a>bicarb <span class="op">=</span> <span class="fl">0.9</span> <span class="op">*</span> total_co2 <span class="op">-</span> carbonic_acid</span>
+<span id="cb1-17"><a href="#cb1-17" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-18"><a href="#cb1-18" aria-hidden="true" tabindex="-1"></a><span class="co"># This is the Henderson-Hasselbach equation for pH</span></span>
+<span id="cb1-19"><a href="#cb1-19" aria-hidden="true" tabindex="-1"></a>pH <span class="op">=</span> <span class="fl">6.1</span> <span class="op">+</span> log10(bicarb <span class="op">/</span> carbonic_acid)</span>
+<span id="cb1-20"><a href="#cb1-20" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-21"><a href="#cb1-21" aria-hidden="true" tabindex="-1"></a><span class="bu">print</span>(pH)</span></code></pre></div>
 <p>This seems wrong to me, but I should look at the cited works by Ley:
 “Ley (1988a, 1988b) has offered a plausible explanation for this
 phenomenon based on the body’s adaptation to chronic hyperventilation.
@@ -1318,6 +1352,15 @@ then how can i make the exercise sequence friendly to them? i really
 need some sort of timeline or flowchart that can be followed, so that as
 little thought as possible needs to go into making decisions. it’s all
 laid out, you just follow a recipe.</p>
+<p>unfortunately the theory given in the section <a
+href="#the-biological-basis-of-shortness-of-breath">The biological basis
+of shortness of breath</a> only says <em>that</em> you should breathe
+less to build back the CO<sub>2</sub> levels over time, but not
+<em>how</em>. The exercises given here are much more an art than a
+science. I’m most just writing from personal experience about what
+worked best for me. The only way you will know for sure if you are
+raising your CO<sub>2</sub> levels is to get a capnometer and measure
+your own levels.</p>
 <h2 data-number="11.1" id="main-exercise-relaxed-silent-breathing"><span
 class="header-section-number">11.1</span> Main exercise: relaxed silent
 breathing</h2>
@@ -1451,7 +1494,7 @@ progresses it slowly mounts, in a subtle way. I’ve noticed that paying
 precise attention to when the air hunger comes one actually diminishes
 the air hunger.</p>
 <p>eventually, i think the goal is to do this exercise while walking,
-then while joigging, biking, etc.</p>
+then while jogging, biking, etc.</p>
 <h2 data-number="11.2"
 id="introductory-exercise-many-small-breath-holds"><span
 class="header-section-number">11.2</span> Introductory exercise: Many
