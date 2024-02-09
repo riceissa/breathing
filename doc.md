@@ -253,6 +253,8 @@ $$\begin{aligned}
 What does all of this show? Well, the quantity $\frac{\Delta p\mathrm{CO_2}}{p\mathrm{CO_2}}$ is actually the fractional change in pCO~2~. So it shows that _the change in pH is a function of the fractional change in pCO~2~_. This is one way to understand why having low CO~2~ means your pH changes more easily: the same amount of absolute CO~2~ change results in a greater fractional change in CO~2~. (Note: fractional change is almost the same thing as percentage change, just divided by 100.)
 
 
+Here's a model you can play around with in Python:
+
 ```python
 from math import log10
 
@@ -271,6 +273,7 @@ carbonic_acid = 0.0307 * paco2
 #             CO2 as carbonic acid +
 #             CO2 in hemoglobin (estimated to be 10% of the
 #                                total CO2)
+# So we are just solving for the bicarbonate term:
 bicarb = 0.9 * total_co2 - carbonic_acid
 
 # This is the Henderson-Hasselbach equation for pH
@@ -510,7 +513,7 @@ eventually, i think the goal is to do this exercise while walking, then while jo
 
 ## Introductory exercise: Many small breath holds
 
-@tranter2022breathhold -- the actual exercise starts around 7:46.
+@tranter2022breathhold -- the actual exercise starts around 7:46. also note that he counts kind of fast. i think his "5 second" count is actually more like 3.5--4 seconds (i should verify). 5 seconds is actually quite a long time to hold your breath, if you have air hunger! don't be discouraged if you can't do an actual 5 seconds. even tranter's count down is enough to get you used to the idea that deliberately holding your breath a bit isn't going to kill you.
 
 i think the main value of this exercise is at the start, to get used to very small amounts of air hunger, to be like "ok, yeah, this is uncomfortable but it won't kill me".
 
@@ -535,7 +538,7 @@ One natural idea is to just record yourself all the time, or to have someone wat
 
 If you feel like even when you are trying to just let the breath naturally happen (when doing the main exercise) that you are somehow controlling or manipulating your breath (which expresses itself as discomfort/air hunger, pain in your diaphragm, a feeling that your throat is subtly being choked, etc.), then this exercise might help.
 
-Exercise instructions: lightly tap your teeth kind of as if you are chattering from being cold. You can tap along to some song you like. What I've noticed is that since I have to tap along to the song, I can't control my breath as well, _but_ I can still "watch" the breaths without controlling them.
+Exercise instructions: lightly tap your teeth kind of as if you are chattering from being cold. You can tap along to some song you like. What I've noticed is that since I have to tap along to the song, I can't control my breath as well, _but_ I can still "watch" the breaths without controlling them. If you have more musical talent or experience then it may require a more complex pattern to distract you away enough from controlling your breath.
 
 By tapping in a simple rhythm lightly with my teeth, like `. ... .. . . ..` or something repeatedly, if I focus on the tapping, then my breathing becomes automatic. But because the teeth are close enough to the nose, you can kind of "watch" your nose automatically breathing.
 
