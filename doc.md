@@ -2,7 +2,7 @@
 title: '[DRAFT] My thoughts on breathing, with an emphasis on dealing with chronic shortness of breath'
 author: Issa Rice
 created: 2024-01-24
-date: 2024-02-08
+date: 2024-02-10
 ---
 
 # Preliminaries
@@ -558,6 +558,21 @@ i think the idea with these two exercises is that you're focused on just _one_ h
 
 one you start doing the main exercise, these transitory ones will feel extremely unnatural.
 
+
+## Intermittent technique: distraction
+
+when you feel out of breath (e.g., after talking) and just sitting there quietly isn't helping, this is a sign that you're still somehow, on some level, interfering with your breath and trying to control it. one way out of this, at least as a temporary measure, is to just totally distract yourself in some way so that you're not paying attention to your breathing at all. this will tend to "reset" your unconscious breathing pattern, back into a "good" state. you can try any of the following, or even anything else that you can think of:
+
+- pacing around the room (note: you probably don't want to go on a _walk_, which might make you exert too much and then you might feel a bit out of breath for a different reason)
+- go make some tea
+- go prepare some food to eat
+- read something
+- watch something, like a youtube video or movie
+- play a video game
+- pet an animal (assuming you don't have allergies)
+- taking a nap
+
+you can even combine any of the above, like pacing around _while_ listening to a podcast.
 
 # Posture
 
