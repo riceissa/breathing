@@ -461,7 +461,9 @@ My model of why capnometers are so "unreasonably effective" is basically that wi
 
 It's just super helpful to _see_ what your breath looks like. Buteyko breathing can feel _scary_ because you don't know if you're going too hard and might be harming yourself. Hooking yourself up to a capnometer tells you whether your CO~2~ levels are normal.
 
-one of the things i'm still trying to figure out is, supposedly Konstantin Buteyko originally had various machines to measure CO~2~ or whatever, but then they were destroyed, so then he was forced to come up with the Control Pause as the sort of replacement metric. but what i'm wondering is, what did his machines measure? was it just end-tidal CO~2~? and if so, then what did he do after people reached a normal 40\ mmHg of pCO~2~? was that the end of treatment? or did he try to push the CO~2~ even higher?
+one of the things i'm still trying to figure out is, supposedly Konstantin Buteyko originally had various machines to measure CO~2~ or whatever, but then they were destroyed, so then he was forced to come up with the Control Pause as the sort of replacement metric (update(2024-02-10): actually, after reading the "destruction of the laboratory" book, i think this isn't quite right. buteyko already had CP as a tool when he still had access to the combine-complexator, which is why he could make charts showing how certain pCO~2~ levels correspond to certain CP lengths). but what i'm wondering is, what did his machines measure? was it just end-tidal CO~2~? and if so, then what did he do after people reached a normal 40\ mmHg of pCO~2~? was that the end of treatment? or did he try to push the CO~2~ even higher? Update(2024-02-10): See @altukhovcharts. for some reason, the CO~2~ measurements are super high, and so apparently he just kept going until people reached the high CPs and high CO~2~s.
+
+all of the above being said, one of my goals with this document is to be able to write down instructions that are so precise that i could hand it to my past self who has no access to a capnometer and still completely cure air hunger. there will be a lot more guesswork/"feeling around blind" going on, but if the instructions are good enough then they should still work.
 
 ## Buteyko community
 
@@ -561,18 +563,26 @@ one you start doing the main exercise, these transitory ones will feel extremely
 
 ## Intermittent technique: distraction
 
-when you feel out of breath (e.g., after talking) and just sitting there quietly isn't helping, this is a sign that you're still somehow, on some level, interfering with your breath and trying to control it. one way out of this, at least as a temporary measure, is to just totally distract yourself in some way so that you're not paying attention to your breathing at all. this will tend to "reset" your unconscious breathing pattern, back into a "good" state. you can try any of the following, or even anything else that you can think of:
+when you feel out of breath (e.g., after talking) and just sitting there quietly isn't helping, this is a sign that you're still somehow, on some level, interfering with your breath and trying to control it. one way out of this, at least as a temporary measure,[^tempdistraction] is to just totally distract yourself in some way so that you're not paying attention to your breathing at all. this will tend to "reset" your unconscious breathing pattern, back into a "good" state. you can try any of the following, or even anything else that you can think of:
 
-- pacing around the room (note: you probably don't want to go on a _walk_, which might make you exert too much and then you might feel a bit out of breath for a different reason)
+- pace around the room (note: you probably don't want to go on a _walk_, which might make you exert too much and then you might feel a bit out of breath for a different reason, at least, if you happen to be deconditioned like I am)
 - go make some tea
 - go prepare some food to eat
+- go pee
 - read something
 - watch something, like a youtube video or movie
 - play a video game
 - pet an animal (assuming you don't have allergies)
-- taking a nap
+- take a nap
+- brushing your teeth/flossing (personally I tend to notice my breathing is better after I brush my teeth and floss at night)
 
 you can even combine any of the above, like pacing around _while_ listening to a podcast.
+
+you probably don't want to do something that requires a lot of mental exertion (like reading a difficult book) or that induces stress (like watching a thriller film). you want something that is distracting enough that you're not thinking about your breath, but also something that is "ordinary" enough that you're not unconsciously manipulating your breath in weird ways. a mild distraction, not an engrossing activity.
+
+also possibly just for me, but eating/drinking is kind of stressful because i don't know how to coordinate the moments when i need to hold my breath when i swallow. so for me, eating food would not be a good distraction.
+
+[^tempdistraction]: Hopefully at some point I will figure out a better way out of such situations. I've found that like 80% of the time just sitting quietly and with decent posture and breathing silently through the nose will dissolve the air hunger feeling to a small enough level that I don't even think about it. So this distraction technique is helpful in the remaining 20% of times. But I'm hoping that I can figure out some better, less artificial, solution for what to do in those 20% of times.
 
 # Posture
 
