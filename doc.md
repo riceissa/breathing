@@ -2,7 +2,7 @@
 title: '[DRAFT] My thoughts on breathing, with an emphasis on dealing with chronic shortness of breath'
 author: Issa Rice
 created: 2024-01-24
-date: 2024-02-10
+date: 2024-02-12
 ---
 
 # Preliminaries
@@ -479,11 +479,11 @@ it's probably overwhelming to see all these exercises and giant walls of text. o
 
 unfortunately the theory given in the section [The biological basis of shortness of breath] only says _that_ you should breathe less to build back the CO~2~ levels over time, but not _how_. The exercises given here are much more an art than a science. I'm most just writing from personal experience about what worked best for me. The only way you will know for sure if you are raising your CO~2~ levels is to get a capnometer and measure your own levels.
 
-## Main exercise: relaxed silent breathing
+## Main practice: relaxed silent nasal breathing
 
 This one is most similar to @rakhimov2013advanced [section 4.6, "Relaxing the diaphragm (Buteyko relaxed breathing exercise)"], but Neil Tranter also has a similar video [@tranter2023relaxed]. @novozhilov2012 has similar exercises too (e.g., Exercise 1).
 
-Exercise instructions: sit upright in a comfortable way. Breathe silently through your nose. Then just try to make sure the exhale is done in a completely relaxed way, where your whole body (but esp diaphragm) relaxes. You are _not_ pushing the air out. Just a whole-body relaxation on every exhale. On each exhale scan _one_ body part for tenseness: shoulders? torso? legs? etc. Just focus on one body part at a time, and try to relax it on the exhale, and keep it relaxed. The idea of this exercise is that just by relaxing the exhale, your breathing should slow down (but don't try to artificially slow down your breathing) and so it actually _is_ a (mild) reduced breathing exercise even though it just seems like a relaxation one. Do this for 15 minutes or so.
+Exercise instructions: sit upright in a comfortable way. Breathe silently through your nose. Then just try to make sure the exhale is done in a completely relaxed way, where your whole body (but esp diaphragm) relaxes. You are _not_ pushing the air out. Just a whole-body relaxation on every exhale. On each exhale scan _one_ body part for tenseness: shoulders? torso? legs? etc. Just focus on one body part at a time, and try to relax it on the exhale, and keep it relaxed. The idea of this exercise is that just by relaxing the exhale, your breathing should slow down (but don't try to artificially slow down your breathing) and so it actually _is_ a (mild) reduced breathing exercise even though it just seems like a relaxation one. Do this for 15 minutes or so. As you're doing this exercise, you don't want to be forcefully inhaling, trying to take in "good" breaths -- your inhales are silent, after all. (If your air hunger gets so extreme that you feel like you're suffocating, then of course it's okay to take a forceful emergency rescue breath, but this also means your silent breathing was too shallow, possibly artificially restricted, or maybe you are not ready for this exercise yet and need to do one of the intermediate/temporary exercises.)
 
 Attention drifting during the exercise is a _good_ thing because you want to make sure this style of breathing becomes a _habit_ (rather than only occurring when you are consciously executing the instructions). You want your mind to drift away from your breath, as a way of giving yourself small opportunities to see if you can maintain the same breathing pattern even when you are not paying attention. The important point is that whenever you realize you have drifted and you're aware of your breathing again, you want to gently check to make sure you're still doing the completely relaxed exhale, and that your body isn't tense. You can even try to intentially pay attention to something else, to distract yourself, so that you can check back on your breath to see what it has been doing.
 
@@ -513,6 +513,8 @@ for me, even on 2024-01-29, doing this exercise for 10 mins caused a mild suffoc
 
 eventually, i think the goal is to do this exercise while walking, then while jogging, biking, etc.
 
+another point: you don't want to just move your diaphragm. natural breathing actually involves movement of the whole torso, from upper chest to ribs to back to diaphragm. if you find that you are only moving your diaphragm, then this is a sign that one or both of two things are happening: (1) you're exaggerating the movement of the diaphragm; and/or (2) you're artificially suppressing movement of the rest of your body, tightening it up.
+
 ## Introductory exercise: Many small breath holds
 
 @tranter2022breathhold -- the actual exercise starts around 7:46. also note that he counts kind of fast. i think his "5 second" count is actually more like 3.5--4 seconds (i should verify). 5 seconds is actually quite a long time to hold your breath, if you have air hunger! don't be discouraged if you can't do an actual 5 seconds. even tranter's count down is enough to get you used to the idea that deliberately holding your breath a bit isn't going to kill you.
@@ -520,6 +522,8 @@ eventually, i think the goal is to do this exercise while walking, then while jo
 i think the main value of this exercise is at the start, to get used to very small amounts of air hunger, to be like "ok, yeah, this is uncomfortable but it won't kill me".
 
 you can try doing this both when you're feeling mostly ok and when you're having more trouble breathing. for me it was very easy when i was feeling ok, but quite challenging when i was having trouble breathing (so much so that i'd have to take "rescue" mouth breaths every few breath holds). you don't want to follow the video so literally that you feel like you're suffocating; the idea again, is to just get used to doing breath holds and intentionally building up mild air hunger. so this is more of a _psychological_ exercise than a physiological exercise.
+
+i currently don't recommend doing longer breath holds. i think it helps for some people, but i think there is more risk, and i am pretty sure it's not required for fixing air hunger.
 
 ## Intermittent technique: Double inhale technique
 
