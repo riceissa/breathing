@@ -123,3 +123,16 @@ div.csl-right-inline {
 div.csl-indent {
   margin-left: 2em;
 }
+
+@media (prefers-color-scheme: dark) {
+  body {
+    background-color: #303742;
+  }
+
+  article {
+    color: #93a1a1;
+    background-color: #073642;
+  }
+  a:link { color: #93a1a1; }
+  a:visited { color: #93a1a1; }
+}
