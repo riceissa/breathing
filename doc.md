@@ -2,7 +2,7 @@
 title: '[DRAFT] My thoughts on breathing, with an emphasis on dealing with chronic shortness of breath'
 author: Issa Rice
 created: 2024-01-24
-date: 2024-02-12
+date: 2024-02-13
 ---
 
 # Preliminaries
@@ -514,6 +514,8 @@ for me, even on 2024-01-29, doing this exercise for 10 mins caused a mild suffoc
 eventually, i think the goal is to do this exercise while walking, then while jogging, biking, etc.
 
 another point: you don't want to just move your diaphragm. natural breathing actually involves movement of the whole torso, from upper chest to ribs to back to diaphragm. if you find that you are only moving your diaphragm, then this is a sign that one or both of two things are happening: (1) you're exaggerating the movement of the diaphragm; and/or (2) you're artificially suppressing movement of the rest of your body, tightening it up.
+
+it might be helpful to do this exercise with a naked upper body and staring at a mirror, so that you can see exactly which parts of your torso are moving in what ways (you can also try it in the shower but your neck will be bent if you want to look down at your torso). alternatively you could put your hands on various parts of your chest and feel the movement.
 
 ## Introductory exercise: Many small breath holds
 
