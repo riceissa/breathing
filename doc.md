@@ -2,7 +2,7 @@
 title: '[DRAFT] My thoughts on breathing, with an emphasis on dealing with chronic shortness of breath'
 author: Issa Rice
 created: 2024-01-24
-date: 2024-02-13
+date: 2024-02-17
 ---
 
 # Preliminaries
@@ -110,6 +110,8 @@ i don't have any good answers yet. i'm still working through this myself. for th
 
 @novozhilov2012 even says "Exercise 1 is really another version of meditation using the focus on breathing and relaxation of the breathing muscles as the means for avoiding wandering thoughts."
 
+as of 2024-02-17, i am less concerned about this. i basically don't notice any changes in my psychological state after focus on my breathing so much. i think as long as you're doing other stuff in the day, and not just sitting there and thinking about breathing the whole day for hours at a time, you should be fine.
+
 ## Coughing
 
 Buteyko people seem too anti-coughing to me. My uninformed guess is that it's good to cough sometimes, e.g., to clear mucus or during a viral infection. Then there are other more mysterious forms of cough (e.g., twice in my life for like a month each, I had a habit of little micro-coughs/chest itchy feeling) where I think suppressing the cough is more justified (the second time it happened, doing soft breathing to make the cough not trigger is what finally made it go away).
@@ -156,6 +158,12 @@ How does breathing happen? here is a very simplified sketch:
 **The neural:** What causes the urge to breathe? Humans have what are called chemoreceptors in their brain (and some other places) that tell the body to breathe. How do chemoreceptors know _when_ to send the signal to breathe? Do they just have a timer in them and send a signal every few seconds? It turns out that they watch out for signals from the body, in the form of carbon dioxide levels, oxygen levels, and blood pH. Most of the time, when people breathe, it is because the carbon dioxide level increased above some threshold. Oxygen only triggers breathing when it gets really low (so low that I don't think most humans experience it except on very rare occasions). I think blood pH also matters, but maybe only during exercise? (but it might matter more for people with air hunger; see below).
 
 Notice how the three aspects interact: the mechanical action allows the chemical exchange to take place (without just being stagnant at some dynamic equilibrium). The chemical process is what stimulates the nervous system. And the nervous system sends a signal to the mechanical part to make the motions.
+
+<!--
+Another thing to look at maybe: https://openstax.org/books/anatomy-and-physiology-2e/pages/22-3-the-process-of-breathing
+
+also https://www.khanacademy.org/science/health-and-medicine/advanced-hematologic-system/x6e556f83:hemoglobin/v/bohr-effect-vs-haldane-effect -- i've never quite looked at the bohr and haldane effects but i probably should.
+-->
 
 ## Misconceptions about CO~2~
 
@@ -400,7 +408,7 @@ I won't say much about _why_ it's better to breathe through your nose, as I thin
 
 I think there are two broad ways you can react to "you need to clear your nose". One of them will be to say "Yeah, I hardly ever breathe through my nose; I know I need to work on it but I don't know how". The other is to say "I already breathe through my nose; I don't think I need any advice". For this second type of person I want to mention my own anecdote. Before I started really focusing on my breath, I used to think I was already a nasal breather, but when I started paying attention I realized that I was actually taking quite a few mouth breaths throughout the day. A sure way to find out is to tape your mouth during the day (even for just 15 minutes or so) and see how easy it is for you. I think I probably went from around 80% nose breaths to 99.9% nose breaths by following the strategies listed below (just a wild guess unfortunately because I didn't keep good records); during breathing attacks, I probably went from 10--50% nose breaths to 95% nose breaths. So if you already think you are a nasal breather, I would still try paying attention.
 
-Now, here are the main strategies I recommend for clearing your nose so you can nose breathe more:
+Here are the main strategies I recommend for clearing your nose so you can nose breathe more:
 
 - Saline spray: works less well than the saline wash, but it's a lot less unpleasant. it doesn't go "deep" enough, which is why it is both less painful and doesn't work as well. i went through about 1.5 bottles of the NeilMed one (lime green color bottle) before my nose improved enough that I didn't need to use it anymore.
 - Saline wash/netipot: tried this once. it works really well for clearing your nose, but it was also quite unpleasant. make sure to never use tap water for this.
@@ -412,11 +420,11 @@ Now, here are the main strategies I recommend for clearing your nose so you can 
 
 Important note: as you start breathing through your nose more, you should find that your nose becomes less blocked even without doing these things. I used to need the nose strips _a lot_ when I first started nasal breathing. But now I hardly need them. So these techniques should be thought of as temporary crutches -- or like training wheels on a bicycle. They are there to help jump start your nasal breathing until your nose is strong enough, but you shouldn't need them forever. I had a clear shift when I first switched to nasal breathing, and then a second shift when I switched to _silent_ nasal breathing. It seems odd that my nose would clear up with _less_ air moving through the nose. My hypothesis is that either my health in general got better, or maybe less air means less irritation. @mark2015deep mentions that "the thickness or thinness or real-time mucous production, as well as nasal turbinate size are regulated by CO2 levels", so that's another possible thing that maybe happened to me.
 
-Definitely don't get surgery, unless you've tried all the safe options and nothing works. I think the mainstream medical world understates the risks here, e.g., you should read about empty nose syndrome. @nestor2020 [chapter 7] has a bit about this. See also @sager2024 for a random encouraging anecdote that I came across on Twitter.
+Definitely don't get surgery, unless you've tried all the safe options and nothing works. I think the mainstream medical world understates the risks here, e.g., you should at bare minimum know about empty nose syndrome. @nestor2020 [chapter 7] has a bit about this. See also @sager2024 for a random encouraging anecdote that I came across on Twitter.
 
-i should say something about mouth taping as well. i don't have any _strong_ argument again it, but i have personally not done it. as you improve your breathing, you mouth should automatically close. so mouth taping is, in my view, unnecessary in the long-term. what about the short term? after all, all the other nose-unblocking stuff i'm recommending are short-term crutches as well. i think in the short term maybe it's completely fine? i was just personally scared of using it, and never needed it. waking up in the middle of the night gasping for air is pretty horrible (i've had it happen in the past even without mouth taping).
+i should say something about mouth taping as well. i don't have any _strong_ argument again it, but i have personally not done it (except for briefly during the day). as you improve your breathing, your mouth should automatically close. so mouth taping is, in my view, unnecessary in the long-term. what about the short term? after all, all the other nose-unblocking stuff i'm recommending are short-term crutches as well. i think in the short term maybe it's completely fine? i was just personally scared of using it, and never needed it. waking up in the middle of the night gasping for air is pretty horrible (i've had it happen in the past even without mouth taping).
 
-my nose still sometimes feels unblocked in the morning. not sure what's going on there.
+my nose still sometimes feels unblocked in the morning. not sure what's going on there, but i have a guess that the reason my one nostril plugs up during the night is actually functional. breathing needs are reduced during sleep because you're just lying there and using no muscles. so even the quiet gentle breathing style i have going during the day would be too _much_ air. so my body figures out a way to reduce the air flow, which is to block out the one nostril. this is why my nostril is plugged up, but i seem to be breathing solely through the nose the whole night, even if things are blocked! _and_ it's also why as soon as i wake up, the mucus clears up, because my body realizes "wait, now i'm awake and upright and active, and this is too _little_ air now, we must unblock the nostril!" So for a few moments in the morning i feel a little uncomfortable and might have to take a few forceful nose breaths or even sometimes mouth breaths, but then my body adjusts within 30 minutes to an hour and i'm ok again.
 
 # Techniques vs habits
 
