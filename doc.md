@@ -2,7 +2,7 @@
 title: '[DRAFT] My thoughts on breathing, with an emphasis on dealing with chronic shortness of breath'
 author: Issa Rice
 created: 2024-01-24
-date: 2024-02-24
+date: 2024-02-25
 ---
 
 # Preliminaries
@@ -126,7 +126,7 @@ I've seen quite often the advice to suppress yawns, but interestingly even the b
 
 breath holds in general scare me, and i think it's fine if you don't want to do them. really tiny ones (like 1--5\ seconds) might be good, just to get yourself used to the idea that not breathing for a few seconds isn't going to kill you (you can even have a pulse oximeter on your finger as you do breath holds, to prove to yourself that your oxygen saturation doesn't drop or only drops an insignificant amount, like 1\ percentage point); so i still do include [Many small breath holds] in my suggested exercises. some buteyko books like artour's have more safety information about breath holds.
 
-this is also one of the reasons i prefer [Capnometry biofeedback], because it gives you a way to measure progress without taking Control Pauses.
+this is also one of the reasons i prefer [Capnometry biofeedback], because it gives you a way to measure progress without taking Control Pauses. (at least initially, until your baseline CO~2~ levels reach a normal 40\ mmHg.)
 
 
 # The biological basis of shortness of breath
@@ -456,7 +456,7 @@ From Vipul: """btw I'd love for you to expand more on what capnometers measure, 
 
 Given how expensive capnometers are (and potentially difficult to access as well, if you don't happen to have anyone near you who can rent them out), you might think they are not worth it. I think it's fine to be skeptical of them. I personally made _some_ substantial progress without a capnometer, but then 1--2 months after switching to nasal breathing I hit a plateau where I was still having significant shortness of breath while talking (and okay levels of shortness of breath while just sitting quietly). It was only after getting access to a capnometer that I had a second big shift in my breathing. See the section [The unreasonable effectiveness of capnometers] for more about why I think they are useful. But also, definitely try fixing your breathing without a capnometer first, and just see how far you can get! (reminder that i don't sell or rent out capnometers, so i don't benefit either way from your decision.)
 
-the other important thing about capnometers: taking Control Pauses is frankly scary to me, and _some_ people also seem to get unpleasant side effects when they do it (even when they're doing it correctly). so a capnometer is a way to measure progress in a completely safe way.
+the other important thing about capnometers: taking Control Pauses is frankly scary to me, and _some_ people also seem to get unpleasant side effects when they do it (even when they're doing it correctly -- artour rakhimov talks the most about this, of the people i've read). so a capnometer is a way to measure progress in a completely safe way. (update (2024-02-25): i think i've warmed up to taking CP measurements a bit more now. the key is that if you're doing is correctly, then you let go of your nose on the moment of the first inkling that you need a breath, way way way before any discomfort. people have a tendency to hold on too long, as a way of impressing themselves or others, because they want to feel like they are healthy. if your CP is half a second, then so be it. the important thing is that over time, no matter how small your initial measurements are, they will improve. i do still think some people get weird negative symptoms even if they correctly implement the CP, and this probably includes me, so even though i'm warming up to the idea a bit more, i am not planning to start _daily_ measurements of my CP, although i will probably check it once every few weeks maybe, just to see if it's still causing problems.)
 
 TODO: what the heck do you do when your baseline CO~2~ is normal according to the capnometer, but you still have that slight air hunger at all times (like, it's subtle enough that i wouldn't have even logged it in my symptom tracker before), and it's been over a week since you've been in this state (so bicarbonate levels should have adjusted by now)? that's the place i am in now (2024-01-29), and i'm not quite sure where to go from here. maybe trying to have this same breathing as i'm doing light exercise? or practice maintaining good breathing while i'm talking (my CO~2~ goes down and i feel more out of breath when i talk, although it's gotten better as my baseline CO~2~ has gone up)? or do i need to go into more advanced buteyko exercises like reduced breathing and breath holds? there was that thing in @breathingdisordersbookchapter1 [p. 6] Box 1.1 which says "General levels of deconditioning (the opposite of aerobic fitness) lead to altered forms of energy production (anaerobic glycolysis) that encourages acidosis -- hence a greater tendency to hyperventilation" so it's possible i am also just deconditioned, and if i can just exercise more each day, everything will sort itself out. (as i write this i've only been going on walks of like 10--35\ minutes in length and some stretches throughout the day. i used to run more but that routine keeps getting disrupted.)
 
