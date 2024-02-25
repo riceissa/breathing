@@ -2,7 +2,7 @@
 title: '[DRAFT] My thoughts on breathing, with an emphasis on dealing with chronic shortness of breath'
 author: Issa Rice
 created: 2024-01-24
-date: 2024-02-17
+date: 2024-02-24
 ---
 
 # Preliminaries
@@ -117,6 +117,10 @@ as of 2024-02-17, i am less concerned about this. i basically don't notice any c
 Buteyko people seem too anti-coughing to me. My uninformed guess is that it's good to cough sometimes, e.g., to clear mucus or during a viral infection. Then there are other more mysterious forms of cough (e.g., twice in my life for like a month each, I had a habit of little micro-coughs/chest itchy feeling) where I think suppressing the cough is more justified (the second time it happened, doing soft breathing to make the cough not trigger is what finally made it go away).
 
 @novozhilov2012 says to cough without opening your mouth, but based on personal experience I think this is a bad idea. There can be too much air coming through your nose which can damage the nose tissue. Anyway, this was never a huge issue for me but people with actual asthma might have to adopt different strategies.
+
+## Yawning
+
+I've seen quite often the advice to suppress yawns, but interestingly even the buteyko people say (naturally-occurring) yawning is ok. [@breathetoheal, p. 254] I actually agree with this.
 
 ## Breath holds
 
@@ -424,7 +428,7 @@ Definitely don't get surgery, unless you've tried all the safe options and nothi
 
 i should say something about mouth taping as well. i don't have any _strong_ argument again it, but i have personally not done it (except for briefly during the day). as you improve your breathing, your mouth should automatically close. so mouth taping is, in my view, unnecessary in the long-term. what about the short term? after all, all the other nose-unblocking stuff i'm recommending are short-term crutches as well. i think in the short term maybe it's completely fine? i was just personally scared of using it, and never needed it. waking up in the middle of the night gasping for air is pretty horrible (i've had it happen in the past even without mouth taping).
 
-my nose still sometimes feels unblocked in the morning. not sure what's going on there, but i have a guess that the reason my one nostril plugs up during the night is actually functional. breathing needs are reduced during sleep because you're just lying there and using no muscles. so even the quiet gentle breathing style i have going during the day would be too _much_ air. so my body figures out a way to reduce the air flow, which is to block out the one nostril. this is why my nostril is plugged up, but i seem to be breathing solely through the nose the whole night, even if things are blocked! _and_ it's also why as soon as i wake up, the mucus clears up, because my body realizes "wait, now i'm awake and upright and active, and this is too _little_ air now, we must unblock the nostril!" So for a few moments in the morning i feel a little uncomfortable and might have to take a few forceful nose breaths or even sometimes mouth breaths, but then my body adjusts within 30 minutes to an hour and i'm ok again.
+my nose still sometimes feels blocked in the morning. not sure what's going on there, but i have a guess that the reason my one nostril plugs up during the night is actually functional. breathing needs are reduced during sleep because you're just lying there and using no muscles. so even the quiet gentle breathing style i have going during the day would be too _much_ air. so my body figures out a way to reduce the air flow, which is to block out the one nostril. this is why my nostril is plugged up, but i seem to be breathing solely through the nose the whole night, even if things are blocked! _and_ it's also why as soon as i wake up, the mucus clears up, because my body realizes "wait, now i'm awake and upright and active, and this is too _little_ air now, we must unblock the nostril!" So for a few moments in the morning i feel a little uncomfortable and might have to take a few forceful nose breaths or even sometimes mouth breaths, but then my body adjusts within 30 minutes to an hour and i'm ok again.
 
 # Techniques vs habits
 
@@ -602,11 +606,15 @@ also possibly just for me, but eating/drinking is kind of stressful because i do
 
 I'm appreciating posture more now -- it really makes silent relaxed breathing easier when you have better posture. But "good posture" is maybe not what society thinks is good posture, but whatever feels comfortable to you and allows for good breathing.
 
-The Buteyko people also emphasize posture, but I have not read much about what they say.
+The Buteyko people also emphasize posture, but I have not read much about what they say. what i've seen is basically "sit at the edge of a hard surface with back straight".
 
 i still have a lot to learn here. apparently some posture techniques can be quite dangerous (can even cause die-off reactions??)
 
 what can sometimes _feel_ like air hunger might just be your abdomen being compressed due to slouching. sitting up a bit straighter can reduce the air hunger feeling. (this doesn't work most of the time)
+
+i think posture matters more the lighter your breathing becomes. during reduced breathing exercises i think it's especially important. i notice if i'm slouched my breathing is more forceful. the problem is that i get back pain if i am sitting upright for too long (in supposedly "good" posture). so i need to figure what's optimal in the long run. there's got to be a way to get both good breathing and good posture and no back pain; i just don't know how yet.
+
+i've been kind of going through a loop of {feeling tired -> slouch -> feeling like i can't breathe as well -> sit up straight}. and then also sitting in different ways (cross-legged, seiza, normal, against back rest, not against back rest, which gives you like 6 combinations, and if you add slouch/straight then that's 12 configurations on the chair). and i think this is probably good, to just be changing posture and sitting style all the time, like every few minutes.
 
 # Breathing synthesis
 
