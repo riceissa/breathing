@@ -646,7 +646,7 @@ this section is mostly an index to stuff discussed elsewhere in the document.
 
 (note: this section won't really be useful if you have not read the rest of this document already. it really is just a "cheat sheet" to jog your memory and give you a concrete list of prompts to run through, _not_ intended as a magical cure for breathing distress. if you really are struggling and it's a lot worse than usual, then please seek medical help!)
 
-things to ask yourself:
+things to ask yourself, or rather, here are some things i tend to ask myself, in no particular order, whenever i'm having more-than-my-usual breathing difficulty:
 
 - can i distract myself using one of the suggestions listed in [Intermittent technique: distraction]?
 - is the breathing difficulty coming from my nostrils being clogged or my turbinates swelling? if so, can i use a nasal rinse or one of the other strategies listed in [Clearing your nose]?
@@ -662,6 +662,8 @@ things to ask yourself:
 - can i get "fresher" air (even if imaginary) by going inside or outside or to a different room or by moving away from a pollutant source? is there a smell that's bothering me? a lot of times, if you also have anxiety about your breathing, it is helpful to do things that might just seem like placebo, just to help your brain calm down so that it doesn't keep looping on and on about "what if i'm breathing in polluted air" or whatever.
 - is my breathing _pattern_ irregular? (e.g., pauses, or breathing fast for a few breaths and then slow, or differently sized breaths, like audible for a few breaths, then silent for a few breaths.) can i try to make it more regular? or does it really want to be irregular?
 - does it feel more like i'm forgetting how to breathe (and so i should gently try to guide my body into breathing better), or like i am controlling my breathing too much (and i should instead just let my breathing happen on its own)? (i've felt both at different times and it's quite confusing. i suspect the first one is some sort of autonomic dysfunction thing that i have because of my generic illness, and the second one is a more typical air hunger thing that i have due to overbreathing. but really, i don't know.)
+- can i relax some part of my body, or more parts of my body?
+- is my heart rate also high? (for me, this tends to indicate i am having POTS and so lying down often helps me calm down a lot.)
 
 # Acknowledgments {.unnumbered}
 
@@ -673,6 +675,6 @@ i've benefited from interacting with a lot of people, in the course of figuring 
 - Vipul Naik helped me understand some key things about the biology of respiration. In particular, he was the one who figured out that having a low CO~2~ means pH is more sensitive to slight fluctuations in CO~2~ levels. also for reading drafts of this document and giving me feedback. most of the things in this document i wrote up while discussing it with vipul.
 - DD: introduced me to JA. he was also a catalyst for me figuring out my circadian rhythm, but that's a whole separate topic.
 - JA: my breathing coach; helped me get set up on the capnotrainer, and helped me through the whole biofeedback process.
-- PL: was generous enough to spend an hour talking to me about capnometer stuff.
+- PL: was generous enough to spend an hour talking to me about capnometer stuff and responding to an email.
 
 # References {.unnumbered}
