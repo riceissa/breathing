@@ -653,14 +653,14 @@ things to ask yourself:
 - am i exhaling enough air? am i trying to just take in the next breathe before exhaling the current breath?
 - can i soften my inhale? can i make it silent, even just for a few breaths?
 - does my brain feel like it's suffocating? if so, i can try to let myself take an occasional mouth breath.
-- can i check my oxygen reading using a pule oximeter? is it like 99-100% (indicating overbreathing)?
+- can i check my oxygen reading using a pulse oximeter? is it 99--100% (indicating overbreathing)?
 - am i talking too much, or exerting myself too much in some way? if so, i can just try to drop everything, and sit or stand or lie down and just not do anything for a while.
-- which part of my body is moving as i breathe? can i try to make my body move less, or distribute the movement more evenly across my body, so that i'm not just exaggerating movement in one part of my body?
+- which part of my body is moving as i breathe? can i try to make my body move less, or distribute the movement more evenly across my body, so that i'm not just exaggerating movement in any one part of my body?
 - am i slouched? can i be more upright so that my torso is free to expand?
 - when do i feel the air hunger? is it all the time? is it only on the exhale? is it at the end of the exhale? (peter litchfield's question.) This one tends to help me pay attention to subtle qualities of my breathing, not just being like "I CAN'T BREATHE!!!"
 - can i listen to one of my favorite relaxation guided audio recordings? (if you don't have one, make it a priority and find some to have on hand.)
-- can i get "fresher" air (even if imaginary) by going inside or outside or to a different room or by moving away from a pollutant source?
-- is my breathing _pattern_ irregular? can i try to make it more regular? or does it really want to be irregular?
+- can i get "fresher" air (even if imaginary) by going inside or outside or to a different room or by moving away from a pollutant source? is there a smell that's bothering me? a lot of times, if you also have anxiety about your breathing, it is helpful to do things that might just seem like placebo, just to help your brain calm down so that it doesn't keep looping on and on about "what if i'm breathing in polluted air" or whatever.
+- is my breathing _pattern_ irregular? (e.g., pauses, or breathing fast for a few breaths and then slow, or differently sized breaths, like audible for a few breaths, then silent for a few breaths.) can i try to make it more regular? or does it really want to be irregular?
 - does it feel more like i'm forgetting how to breathe (and so i should gently try to guide my body into breathing better), or like i am controlling my breathing too much (and i should instead just let my breathing happen on its own)? (i've felt both at different times and it's quite confusing. i suspect the first one is some sort of autonomic dysfunction thing that i have because of my generic illness, and the second one is a more typical air hunger thing that i have due to overbreathing. but really, i don't know.)
 
 # Acknowledgments {.unnumbered}
