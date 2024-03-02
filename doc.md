@@ -592,6 +592,7 @@ when you feel out of breath (e.g., after talking) and just sitting there quietly
 - read something
 - watch something, like a youtube video or movie
 - play a video game
+- talk to someone (maybe using body language, sign language, gestures, or writing), hug someone, ask someone to hug you
 - pet an animal (assuming you don't have allergies)
 - take a nap
 - brushing your teeth/flossing (personally I tend to notice my breathing is better after I brush my teeth and floss at night)
@@ -640,6 +641,27 @@ this section is mostly an index to stuff discussed elsewhere in the document.
 - deep breaths are good
 - diaphragmatic breathing is good
 - you want to slow down your breath/breathe to a certain rhythm
+
+# Cheat sheet: emergency things to do if you're really having trouble breathing
+
+(note: this section won't really be useful if you have not read the rest of this document already. it really is just a "cheat sheet" to jog your memory and give you a concrete list of prompts to run through, _not_ intended as a magical cure for breathing distress. if you really are struggling and it's a lot worse than usual, then please seek medical help!)
+
+things to ask yourself:
+
+- can i distract myself using one of the suggestions listed in [Intermittent technique: distraction]?
+- is the breathing difficulty coming from my nostrils being clogged or my turbinates swelling? if so, can i use a nasal rinse or one of the other strategies listed in [Clearing your nose]?
+- am i exhaling enough air? am i trying to just take in the next breathe before exhaling the current breath?
+- can i soften my inhale? can i make it silent, even just for a few breaths?
+- does my brain feel like it's suffocating? if so, i can try to let myself take an occasional mouth breath.
+- can i check my oxygen reading using a pule oximeter? is it like 99-100% (indicating overbreathing)?
+- am i talking too much, or exerting myself too much in some way? if so, i can just try to drop everything, and sit or stand or lie down and just not do anything for a while.
+- which part of my body is moving as i breathe? can i try to make my body move less, or distribute the movement more evenly across my body, so that i'm not just exaggerating movement in one part of my body?
+- am i slouched? can i be more upright so that my torso is free to expand?
+- when do i feel the air hunger? is it all the time? is it only on the exhale? is it at the end of the exhale? (peter litchfield's question.) This one tends to help me pay attention to subtle qualities of my breathing, not just being like "I CAN'T BREATHE!!!"
+- can i listen to one of my favorite relaxation guided audio recordings? (if you don't have one, make it a priority and find some to have on hand.)
+- can i get "fresher" air (even if imaginary) by going inside or outside or to a different room or by moving away from a pollutant source?
+- is my breathing _pattern_ irregular? can i try to make it more regular? or does it really want to be irregular?
+- does it feel more like i'm forgetting how to breathe (and so i should gently try to guide my body into breathing better), or like i am controlling my breathing too much (and i should instead just let my breathing happen on its own)? (i've felt both at different times and it's quite confusing. i suspect the first one is some sort of autonomic dysfunction thing that i have because of my generic illness, and the second one is a more typical air hunger thing that i have due to overbreathing. but really, i don't know.)
 
 # Acknowledgments {.unnumbered}
 
