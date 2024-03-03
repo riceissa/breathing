@@ -5,7 +5,7 @@ out.tex: doc.md template.tex references.bib
 	pandoc -f markdown -t latex --template template.tex --biblatex --bibliography references.bib -o "$@" "$<"
 
 docs/index.html: doc.md references.bib template.html docs/style.css
-	pandoc -f markdown -t html5 --mathjax --toc --number-sections --citeproc --bibliography references.bib --template template.html -o "$@" "$<"
+	pandoc -f markdown -t html5 --mathjax --toc --number-sections --citeproc --bibliography references.bib --template template.html -M date:$(shell git log -1 --format="%cs") -o "$@" "$<"
 
 docs/breathing.epub: doc.md references.bib epub.css
 # The webtex URL uses \bg{white} to set the background color to be white; this
