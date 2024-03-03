@@ -2,7 +2,7 @@
 title: '[DRAFT] My thoughts on breathing, with an emphasis on dealing with chronic shortness of breath'
 author: Issa Rice
 created: 2024-01-24
-date: 2024-03-01
+date: 2024-03-02
 ---
 
 # Preliminaries
@@ -363,7 +363,14 @@ the main lesson here is that having a capnometer is quite useful, to give the as
 
 i don't know how representative the speed of my improvements is, but it's the only case i am deeply familiar with, and it might give people an idea of what to expect.
 
-[TODO: add this]
+- sometime in 2010--2015: i go to my primary care doctor several times complaining about shortness of breath. each time he gives me an albuterol inhaler and i try it and it does nothing. then the problem just randomly goes away and i give up trying to figure out what's going on.
+- 2019: the breathing problem is more persistent starting around this year, which is also the year when most of my other symptoms started showing up.
+- 2021--2023: a lot of going to doctors to try to figure out what's wrong with my breathing. multiple chest x-rays, methacholine challenge, pulmonary function exam, exhaled nitric oxide test, a bunch of doctors (including pulmonologists) listening to my breathing with a stethoscope.
+- July 2023: emergency room visit due to severe difficulty breathing. this happened after like a 2--3 hour doctor appointment where i had to talk a lot. i had to cut the meeting short because i was unable to talk by the end.
+- July/August 2023: i learn a basic version of the CO~2~ theory via howard cooper videos. i start playing around with breath holds and other gentle buteyko exercises using neil tranter videos. in end of august i also started reading @nestor2020 and trying to switch nasal-only breathing. i also probably tried nasal strips for the first time this month.
+- (not much new happens in this period in terms of my understanding, but once i make the adjustment to nasal breathing around august--september, my breathing problem is generally like 60--80% better, except when i speak, at which point it goes back to being moderately bad.)
+- January 2024: capnotrainer.
+- February 2024: simon spire course; no progress.
 
 
 # Sequence of cumulative constraints of breathing practice
@@ -530,6 +537,8 @@ another point: you don't want to just move your diaphragm. natural breathing act
 it might be helpful to do this exercise with a naked upper body and staring at a mirror, so that you can see exactly which parts of your torso are moving in what ways (you can also try it in the shower but your neck will be bent if you want to look down at your torso). alternatively you could put your hands on various parts of your chest and feel the movement.
 
 any reduction in breathing _must_ come from relaxation, _not_ from tension/control. this is a good video <https://inv.tux.pizza/watch?v=uvWSwxKUKlA> (that i totally did not appreciate in the beginning, because i wasn't even trying to do any reduced breathing. but what i've realized is that relaxation=reduced, at least if your breathing is awful like mine. and sometimes you consciously or unconsciously try to make your breathing more silent, and you really don't want to do that by tensing up.)
+
+it helps to have a guided meditation audio type thing to periodically listen along to as you do this practice. i've been using the breathing normalization meditations from <https://buteykobreathingcenter.com/products/breathing-normalization-meditations-mp3> but i don't think there's anything super special about these. visualization seems to help, e.g. imagining the air as having a pleasant but strong aroma, so i would try to find one that incorporates such visualizations. but different things might work for different people here...
 
 ## Introductory exercise: Many small breath holds
 
