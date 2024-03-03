@@ -2,7 +2,6 @@
 title: '[DRAFT] My thoughts on breathing, with an emphasis on dealing with chronic shortness of breath'
 author: Issa Rice
 created: 2024-01-24
-date: 2024-03-02
 ---
 
 # Preliminaries
@@ -343,11 +342,19 @@ So what we've established is:
 - Low CO~2~ means you are more sensitive to changes in CO~2~, in particular to increases in it. This is why you always feel short of breath.
 - The solution is _not_ to "take a deep breath" and get more oxygen (you already have plenty of oxygen, probably too much, as can be verified easily with a pulse oximeter), but rather, to breathe _less_ so that you _gradually_ raise your CO~2~ levels. The emphasis is on the word "gradually". If you just hold your breath as long as possible in the hopes of raising your CO~2~, you will just give yourself a panic attack. The kidneys take time to adjust the bicarbonate levels. So you want to sit with a slight-to-moderate amount of air hunger, over the course of days and weeks, so as to gradually raise your baseline CO~2~. How to do this? We'll discuss breathing techniques and breathing habits more elsewhere in this document (see the sections [Techniques vs habits] and [Breathing exercises]).
 
-# Is healthy breathing the same for everyone?/Is normal breathing universal?
+# What does normal breathing feel like? Is healthy breathing the same for everyone?/Is normal breathing universal?
 
 One of the weird things I discovered while using the CapnoTrainer is that the breathing style that brought CO~2~ levels up to normal in the most effortless way turned out to be what the Buteyko people have been saying all along: silent nasal breathing. This raises the question of whether there is some universally "optimal" breathing style that everyone should have, or if it's more of a preference (different people can have different breathing styles, but what matters is that your CO~2~ levels are normal and you don't have air hunger or other breathing issues).
 
 Peter Litchfield on the other hand says that it doesn't matter how you breathe -- you could even mouth breathe -- as long as your breathing habits are "functional" (by which I think he means your CO~2~ levels are at like 40\ mmHg). For example see @capnolearningbook [p. 21], where "There is an ideal breathing pattern that each of us needs to learn" is listed as a misconception.
+
+unfortunately it's hard to get descriptions of what normal breathing feels like from normal people because those are the people for whom nothing about their breathing has ever been wrong. so they don't think about their breathing. they don't know how to contrast normal breathing to what abnormal or overbreathing feel like. here i will try my best to share glimpses of what normal breathing feel like, although caveat as usual that i have not fully fixed my breathing problem yet.
+
+in normal breathing:
+
+- there is no urge to take a deep breath if one is just quietly sitting. this is indefinite, in contrast to air hunger where one might be able to take a few quiet breaths in a row but then the urge to take a deep one builds up over time. in normal breathing, there is no buildup.
+- silent nasal breathing is sufficient (at least when seated or lying down)
+- it is still possible to take a deep breath. these feel better than normal breaths, but there is no compulsion to keep achieving that deep breath. it's currently not clear to me why normal people don't develop an addition to taking deep breaths...
 
 # Can you overshoot your CO~2~ levels by doing too much reduced breathing?
 
@@ -673,7 +680,7 @@ things to ask yourself, or rather, here are some things i tend to ask myself, in
 - can i get "fresher" air (even if imaginary) by going inside or outside or to a different room or by moving away from a pollutant source? is there a smell that's bothering me? a lot of times, if you also have anxiety about your breathing, it is helpful to do things that might just seem like placebo, just to help your brain calm down so that it doesn't keep looping on and on about "what if i'm breathing in polluted air" or whatever.
 - is my breathing _pattern_ irregular? (e.g., pauses, or breathing fast for a few breaths and then slow, or differently sized breaths, like audible for a few breaths, then silent for a few breaths.) can i try to make it more regular? or does it really want to be irregular?
 - does it feel more like i'm forgetting how to breathe (and so i should gently try to guide my body into breathing better), or like i am controlling my breathing too much (and i should instead just let my breathing happen on its own)? (i've felt both at different times and it's quite confusing. i suspect the first one is some sort of autonomic dysfunction thing that i have because of my generic illness, and the second one is a more typical air hunger thing that i have due to overbreathing. but really, i don't know.)
-- can i relax some part of my body, or more parts of my body?
+- can i relax some part of my body, or (if some parts of my body are already relaxed) _more_ parts of my body?
 - is my heart rate also high? (for me, this tends to indicate i am having POTS and so lying down often helps me calm down a lot.)
 
 # Acknowledgments {.unnumbered}
