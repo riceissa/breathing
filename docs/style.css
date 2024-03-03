@@ -94,6 +94,10 @@ span.toc-section-number {
   padding-right: 10px;
 }
 
+span.header-section-number {
+  padding-right: 15px;
+}
+
 #TOC > ul > li {
   font-weight: bold;
 }
