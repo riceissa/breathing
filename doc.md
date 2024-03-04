@@ -354,7 +354,7 @@ in normal breathing:
 
 - there is no urge to take a deep breath if one is just quietly sitting. this is indefinite, in contrast to air hunger where one might be able to take a few quiet breaths in a row but then the urge to take a deep one builds up over time. in normal breathing, there is no buildup.
 - silent nasal breathing is sufficient (at least when seated or lying down)
-- it is still possible to take a deep breath. these feel better than normal breaths, but there is no compulsion to keep achieving that deep breath. it's currently not clear to me why normal people don't develop an addition to taking deep breaths...
+- it is still possible to take a deep breath. these feel better than normal breaths, but there is no compulsion to keep achieving that deep breath. it's currently not clear to me why normal people don't develop an addiction to taking deep breaths...
 
 # Can you overshoot your CO~2~ levels by doing too much reduced breathing?
 
@@ -548,6 +548,8 @@ it might be helpful to do this exercise with a naked upper body and staring at a
 any reduction in breathing _must_ come from relaxation, _not_ from tension/control. this is a good video <https://inv.tux.pizza/watch?v=uvWSwxKUKlA> (that i totally did not appreciate in the beginning, because i wasn't even trying to do any reduced breathing. but what i've realized is that relaxation=reduced, at least if your breathing is awful like mine. and sometimes you consciously or unconsciously try to make your breathing more silent, and you really don't want to do that by tensing up.)
 
 it helps to have a guided meditation audio type thing to periodically listen along to as you do this practice. i've been using the breathing normalization meditations from <https://buteykobreathingcenter.com/products/breathing-normalization-meditations-mp3> but i don't think there's anything super special about these. visualization seems to help, e.g. imagining the air as having a pleasant but strong aroma, so i would try to find one that incorporates such visualizations. but different things might work for different people here...
+
+i think formally scheduled sessions (where you actually sit down with a timer and focus on just your breathing, while following audio or video instructions, and then recording in a spreadsheet) is actually very important. i think this might be why i didn't see any progress in my breathing symptoms during all of february 2024. it's very easy to convince yourself that you're "doing buteyko all the time". but if you actually sit down and do a real session, you will notice your SpO2 readings go down (from like 99--100% to 97--98%) and your hands get warmer. and this is a sign that the session did something real, over and above what you thought you were already doing. my working theory right now is that it's easy to miss those slightly bigger breaths you occasionally take, and think that you didn't take them, or to be breathing with just a bit of sound rather than complete silence. but when you're doing a formal session, you're more careful and prevent those from happening.
 
 ## Introductory exercise: Many small breath holds
 
