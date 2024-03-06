@@ -51,7 +51,7 @@ so yeah, i want to be honest that i haven't figured it all out; i won't pretend 
 
 If you have the same kind of shortness of breath that I have, then you _do_ have a medical problem (this is defended at length in the section [The biological basis of shortness of breath]), but first, it's good to rule out other more serious medical problems, or medical problems that mainstream medicine knows how to treat.
 
-I think as a first step, it's a good idea to rule out any standard problems with the lungs or other body organs, by e.g., doing a chest x-ray, pulmonary function test, blood test, etc. I will say more about what tests I got done and why. The breathing stuff I describe later in the document _might_ help with your breathing anyway, even if you have a problem with your lungs, but you definitely want to know if you do have problems and to get proper treatment for those before progressing to any breathing modification.
+I think as a first step, it's a good idea to rule out any standard problems with the lungs or other body organs, by e.g., doing a chest x-ray, pulmonary function test, blood test, laryngoscopy to rule out vocal cord dysfunction, etc. I will say more about what tests I got done and why. The breathing stuff I describe later in the document _might_ help with your breathing anyway, even if you have a problem with your lungs, but you definitely want to know if you do have problems and to get proper treatment for those before progressing to any breathing modification.
 
 <https://youtu.be/G3YHBYVxxmI?t=1049> -- Chris Gilbert lists a bunch of possible reasons for hyperventilation that _aren't_ just anxiety/stress.
 
@@ -497,9 +497,7 @@ one of the things i'm still trying to figure out is, supposedly Konstantin Butey
 
 all of the above being said, one of my goals with this document is to be able to write down instructions that are so precise that i could hand it to my past self who has no access to a capnometer and still completely cure air hunger. there will be a lot more guesswork/"feeling around blind" going on, but if the instructions are good enough then they should still work.
 
-## Buteyko community
-
-TODO: talk about buteyko's combine-complexator and my learned helplessness idea.
+cf. also @issarice2024learned.
 
 # Breathing exercises
 
