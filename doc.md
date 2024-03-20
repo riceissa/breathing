@@ -100,6 +100,8 @@ notes from roam:
 
 update (2024-02-04): 3 weeks into mostly silent breathing, i am having prolonged (what seems like) electrolyte issues. i can't say for sure that this is from the breathing, as i did eat a quite salty takeout meal (and i've always been sensitive to salty foods), but this is the first time it's lasted 72 hours now (in the past similar things would last at most a few hours).
 
+2024-03-14: the throat choking and tense diaphragm thing has been coming back, especially strongly when i talk for a long time (about an hour). but often even when i haven't been talking much. it's the side of the throat, not the center. i haven't been very successful yet figuring out what to do to fix this. i think for me the problem is the inhale, since exhalation is just relaxing all the muscles to let air out.i'm trying to "breathe in" to different parts of the body, like diaphragm, back of throat, nostrils, etc. also trying to more artificially move diaphragm instead of trying to breathe in with my throat muscles, and then gradually toning down the amount of force i use with the diaphragm while still keeping the throat inactive.
+
 
 ## Accidental meditation
 
