@@ -606,6 +606,9 @@ i think the idea with these two exercises is that you're focused on just _one_ h
 
 one you start doing the main exercise, these transitory ones will feel extremely unnatural.
 
+## Intermittent exercise: observe your breathing after waking up
+
+breathing during sleep is purely automatic. many people with air hunger report that their breathing is unusually okay during sleep and when they first wake up, but then becomes dysregulated soon after waking up. so the idea here is: as soon as you wake up, try to watch your breathing _without trying to change it_. how are you breathing when it's completely automatic? which muscles are you using to expand the chest area? are you "sucking in" the air mentally to a particular part of your body? what's the pace of breathing? how do you feel? do you feel air hunger?
 
 ## Intermittent technique: distraction
 
