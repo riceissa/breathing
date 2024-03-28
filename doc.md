@@ -368,6 +368,8 @@ But also, I think there must be some other effect going on, because I don't thin
 
 the main lesson here is that having a capnometer is quite useful, to give the assurance that your CO~2~ levels are normal.
 
+another reason to not worry: if you are doing buteyko _correctly_, then any reduction in breathing must come from relaxation. you should only just barely have any air hunger. if you are overshooting and making yourself actually uncomfortable, then you will start to feel a lot of air hunger and tense up, and that will be a signal to ease off. so basically your body has a corrective mechanism built in.
+
 # A short timeline of my improvements
 
 i don't know how representative the speed of my improvements is, but it's the only case i am deeply familiar with, and it might give people an idea of what to expect.
