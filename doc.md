@@ -452,6 +452,24 @@ my nose still sometimes feels blocked in the morning. not sure what's going on t
 
 i should eventually say something about nose cleaning -- whether to pick, blow, etc. i tend to have a habit of blowing my nose when i feel too much watery mucus build up, and then i pat the insides with tissue paper. but this is probably not good. i've heard the inside lining of the nose is quite delicate and you should never pick or clean with a tissue. it's just kind of annoying to feel the sensation of the stuck mucus (how do you remove the blobs without picking them?) Even with a nasal spray i still have wet blobs sticking around.
 
+## What to do when you have a cold (or your body is otherwise producing a lot of mucus)
+
+starting 2024-03-16 i've been taking nystatin to treat a candida overgrowth. this has caused a lot of classic die-off reactions in me, the most relevant of which here is a lot of mucus production in my sinuses. this makes it impossible for me to nasal breathe sometimes. so i've been thinking, "what can you do, if you get a cold or similar where your nose is just clogged up semi-acutely (i.e. over the course of days or a few weeks)?"
+
+one response is something like "don't worry about it, anything you do in such a short span of time is meaningless compared to all the rest of your life". but this is unsatisfying since it's pretty unpleasant to not be able to breathe (and in my case, it was so bad for about ~3 nights that i had trouble sleeping as well).
+
+some solutions i've used:
+
+- neilmed spray -- this is working well when the mucus is only kind of annoying. but at my peak, i would use it and then would breathe well for 3 minutes, then the mucus would come back.
+- blowing my nose a lot -- this was my main strategy, but i think i overdid it at times because i started seeing some blood mixed in my mucus.
+- lying down on my sides instead of back (this was useful on the worst nights).
+- learn to breathe through your mouth in the least disruptive way possible. rather than gulping or straining for air, just try to breathe softly, as if you are breathing through your nose.
+
+other ideas i haven't tried yet:
+
+- NAC
+- raised pillow/slanted bed -- i think this would have been useful on the nights when i had trouble sleeping.
+
 # Techniques vs habits
 
 One of the disagreements I've seen in the breathing world is the emphasis between techniques vs habits. Those on the techniques side (such as anxiety specialists and Buteyko practitioners) present various techniques you can use when you are stressed, anxious, or have breathing difficulty. Those on the habits side (such as Peter Litchfield) say that techniques are mere bandage covering up a dysfunctional breathing habit, and that the solution is to unlearn the old habits and introduce new habits.
@@ -609,6 +627,10 @@ one you start doing the main exercise, these transitory ones will feel extremely
 ## Intermittent exercise: observe your breathing after waking up
 
 breathing during sleep is purely automatic. many people with air hunger report that their breathing is unusually okay during sleep and when they first wake up, but then becomes dysregulated soon after waking up. so the idea here is: as soon as you wake up, try to watch your breathing _without trying to change it_. how are you breathing when it's completely automatic? which muscles are you using to expand the chest area? are you "sucking in" the air mentally to a particular part of your body? what's the pace of breathing? how do you feel? do you feel air hunger?
+
+it's ok if you can only do this for a few seconds before you take control of your breathing and it gets worse. each morning is a new chance.
+
+"automatic" does not necessarily mean "perfect" -- a lot of what we do automatically is carried over from our conscious breathing patterns. (e.g. i've noticed that as I consciously altered my breathing to be better, it carried over into my unconscious/automatic breathing and that got better too.) BUT i think for a lot of people, their automatic breathing is sort of "one step ahead" of their conscious breathing. so the point of this exercise is to figure out what that next step is.
 
 ## Intermittent technique: distraction
 
