@@ -168,6 +168,9 @@ Notice how the three aspects interact: the mechanical action allows the chemical
 Another thing to look at maybe: https://openstax.org/books/anatomy-and-physiology-2e/pages/22-3-the-process-of-breathing
 
 also https://www.khanacademy.org/science/health-and-medicine/advanced-hematologic-system/x6e556f83:hemoglobin/v/bohr-effect-vs-haldane-effect -- i've never quite looked at the bohr and haldane effects but i probably should.
+
+TODO: in the "neural" part: blood takes about 1 minute to circulate throughout the body. so it's not that the _same_ oxygenated blood went to the tissues, became deoxygenated, then came back, which is causing the urge to breathe. rather, it must be that the continual barrage of deoxygenated blood to the chemoreceptors is causing the urge to breathe.
+does this mean that people with lower heart rate will have slower circulation so a slower breathing rate too?
 -->
 
 ## Misconceptions about CO~2~
