@@ -204,6 +204,9 @@ maybe look at this: https://web.archive.org/web/20210125202105/https://buteykocl
 -->
 
 
+2024-05-07: so something interesting has happened: on sunday, all day long, my parents and i did a lot of cleaning and moving furniture around the house, which created a LOT of dust, and because i didn't seem to be reacting at the time (e.g. i wasn't sneezing) i didn't think to wear a mask. but yesterday i had some more classic allergy symptoms, like sneezing, breathing difficulty, and itchy-feeling insides. and today i am having breathing difficulty again. but what's interesting is that this breathing difficulty feels EXACTLY like the breathing difficulty i had in 2023, before the capnotrainer stuff. and specifically, i'm noticing that using the nasal strip is helping a lot but the saline spray did nothing. but i don't think i was mysteriously exposed to a lot of allergens in 2023 that somehow went away in 2024. so instead i am thinking that allergies have caused my turbinates to become swollen, and the completely via a different mechanism, overbreathing also causes my turbinates to become swollen. which is why the nasal strips worked so well even in 2023. so, what's the point of all of this? i think one takeaway i have is that it's NOT just the henderson-hasselbalch stuff and increased CO2 sensitivity in overbreathers that causes the shortness of breath feeling, but also, there's a pathway like overbreathing $\to$ body tries to prevent you from breathing so much $\to$ inflates turbinates to compensate $\to$ now your nostrils are super tight $\to$ feel like you can't breathe.
+
+
 ## The Henderson--Hasselbalch equation and CO~2~ tolerance
 
 <!--
