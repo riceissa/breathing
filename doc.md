@@ -208,6 +208,8 @@ maybe look at this: https://web.archive.org/web/20210125202105/https://buteykocl
 
 maybe the turbinates get puffed up during allergies to prevent more allergens from coming in?
 
+also it's interesting that the breathing difficulty came on only 1--2 days _after_ probably most of the dust exposure. this actually also happened in 2023, i had a breathing attack in the early morning of 2023-02-15 while i was asleep, and had to go to urgent care later that day. but the actual exposure (and at the time i didn't know it was from this, although it was one of the ideas i had) was on 2023-02-13 when in the evening i cleaned my window blinds (which hadn't been cleaned in a very long time and had a lot of dust).
+
 
 ## The Henderson--Hasselbalch equation and CO~2~ tolerance
 
