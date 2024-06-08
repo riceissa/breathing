@@ -131,6 +131,11 @@ breath holds in general scare me, and i think it's fine if you don't want to do 
 
 this is also one of the reasons i prefer [Capnometry biofeedback], because it gives you a way to measure progress without taking Control Pauses. (at least initially, until your baseline CO~2~ levels reach a normal 40\ mmHg.)
 
+## Tension ping pong/tennis/whackamole
+
+2024-06-05: i seem to be running into a problem where when i try to do buteyko style breathing, or even just silent nasal breathing, i get tension in my diaphragm and/or throat, and if i try really hard to make the tension disappear from one of them (by relaxing that part), the tension moves to the other part. in this way, the tension just keeps bouncing back and forth, never really entering a state where i have no tension. maybe i need to also start humming or something, not just doing relaxed/reduced breathing.
+
+with the throat tension, this may also have something to do with my dysphagia.
 
 # The biological basis of shortness of breath
 
@@ -600,6 +605,8 @@ i should note however that i don't regret avoiding formal sessions for so long -
 2024-06-03: this practice is so simple but so difficult. it can feel like there's barely anything to it, and you might deceive yourself that you are always doing it. i kind of had the mistaken impression that i'm "always doing relaxed silent nasal breathing". but then i actually sat down yesterday and listened to "you just landed on this planet" again, and kept going for like an hour (the recording itself is only 9 minutes long). i felt so relaxed afterwards, hands warm, salivating, and like my breathing cleared up. then today my diaphragm wasn't tensing up like normal, and i was able to talk for a lot longer! same thing happened this evening, my hands are warm (pulse oximeter recorded a perfusion index of 3.2%, when usually I am at like 0.5%), I'm salivating, feeling so relaxed that i'm kind of sleepy. this buteyko stuff is so real, it's crazy. but it's also difficult to get right -- while listening to "you just landed on this planet", my core/chest/diaphragm area felt tight, and i couldn't get it to relax until well after the recording ended, by distracting myself by doing other than paying attention to my breathing. i keep shifting my posture around, and trying different sitting styles, to see which postures/sitting styles will lead to relaxation in which parts of my body. "belly soft like jelly" is hard. also, i am getting the thing again where even as i reduce my breathing, i can get "good" breaths in by like, "stretching" my insides somehow? normally i'd have to strain with my muscles or open my mouth to get such "good" breaths in, but i'm doing it almost accidentally, as the good breaths are "offered" to me. this also shows how it's ok to leave breathing stuff on the table for several months (i think last time i really focused much on it was like february? march?) and come back to it. it'll still be here, waiting.
 
 also many buteyko places will tell you to do like 3 shorter sessions per day, but i am finding it easier to just do one longer one at night, like 1-2 hours before i want to go to sleep. i think it will help with going to sleep on time too. another benefit of doing it before bed is that you are more likely to carry good habits of breathing into your sleep (and hopefully have it still going when you wake up).
+
+2024-06-05: apparently i haven't mentioned this anywhere in this document yet, but i think perfusion index on a pulse oximeter (only some pulse oximeters have perfusion index as a measurement, so if you want to try this, make sure to buy one that does have it) gives a fairly good indication of how warm your hands are/how much bloodflow there is to your finger tips, which is one of the ways you can tell whether the exercise is working. I like to take before and after measurements on the pulse oximeter.
 
 ## Introductory exercise: Many small breath holds
 
