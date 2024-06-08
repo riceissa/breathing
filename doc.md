@@ -137,6 +137,26 @@ this is also one of the reasons i prefer [Capnometry biofeedback], because it gi
 
 with the throat tension, this may also have something to do with my dysphagia.
 
+## Suffocation feeling
+
+Scary experience on the night of 2024-06-07/morning of 2024-06-08: On this night I was not able to do my new Buteyko routine around 9:30pm, as things were hectic, so I thought I was being smart by trying to do Buteyko (unguided by a recording) while trying to fall asleep in bed. It's supposed to regulate my breathing, and relax my body, so why not, right? But as I did that I started to get the suffocation feeling (that I sometimes get as I'm falling asleep; see @salamanderz12023 for a report of what this feels like) and actually had to sit up and gasp for air. So at that point I gave up on doing Buteyko and just went to sleep. I fell asleep fine. But about 1.5 hours later, I woke up feeling short of breath and noticed I was really straining multiple times to get a good breath of air, and failing to get a good one. (Some of the straining was mostly unconscious, not the conscious kind that I normally do while awake, while others were consciously executed.) I checked on my pulse oximeter and it was 98% (pulse was like 65bpm). It's a very specific kind of air hunger, different from turbinate swelling/mucus cloggage and also different from the diaphragm tension stuff I've been having recently.
+
+As I was lying on my belly trying to figure out what to do, watery mucus ran down my nose so I blew my nose, and I just naturally yawned a few times, which made the air hunger better. I then tried going back to sleep, but failed as the air hunger came back.
+
+So at this point, I tried watching the experience more to see what was going on. I noticed that the suffocation feeling happens on the inhale (rather than on the exhale or during the pause after the exhale, which is when a lot of other shortnesses of breath tend to happen). It was as if somehow I was accidentally pre-empting the inhale rather than letting the reflex do the work, and when that's the case it somehow feels bad. Sometimes even during the inhale I started to feel the panic of suffocation. It felt like I had "forgotten how to breathe", but in a very specific way.
+
+I also noticed that as I was lying in the dark, if I was tapping on my arm during the inhale I could breathe fine. But if I stopped, my brain would freak out when the inhale was about to happen. And even more oddly, it felt like different lying positions would affect my breathing differently: if I lay down in this weird diagonal way on my back (where mostly the right side of my back is on the mattress, while the left side is more in the air), my breathing seemed to normalize, whereas if I tried curling up on my left side, it seemed to worsen. While curled up on my left side, it felt like I need to tap to make the inhale happen. (Which is actually very similar to how when I need to swallow, tapping helps. See @issarice2023swallow.) Could this be a CCI/AAI/spine problem?
+
+I was able to breathe fine while typing out my symptoms on my phone, but as soon as I tried to fall back asleep, my body freaked out like it didn't know how to breathe.
+
+I felt very unconfident about my breathing, in a way I hadn't felt since maybe January or February 2024.
+
+After about a total of an hour struggling in this way, I fell back asleep. A few times during the night afterwards, I woke up briefly to change my sleeping position, but my breathing was completely normal then. In the morning when I woke up, it was also completely normal. But as I sit up at my desk to type this up right now, I do feel a bit breathless, maybe from being shaken up by the experience.
+
+It's not clear if (1) my breathing was already a bit dysregulated, which made my Buteyko attempt fail, or (2) if I botched the Buteyko practice by just trying to do it on my own, and that failure dysregulated my instinctual breathing leading to worse breathing during the night. I would guess probably (2) is most likely. So from now on, I should only do Buteyko while I'm awake and guided by a recording. I've been having success with the Sasha Yakovleva's "You Just Landed On This Planet" one and Neil Tranter videos (specifically @tranter2024deeprelaxation), and hadn't been experiencing any shortness of breath lately, so this was a scary surprise, and I learned how fragile my improvements were and how rigid my practice should be.
+
+Another idea: my CP was critically low such that as I was inhaling I was already suffocating.
+
 # The biological basis of shortness of breath
 
 I _could_ just tell you the exercises you need to do to fix your breathing, but personally I find it unsatisfying when people tell me to do a thing without also telling me why. So in this section, I will give a simplified but (as far as I know) accurate biological explanation of why you have shortness of breath. This will help you understand _why_ you should do the particular types of exercises I recommend later on (in [Breathing exercises]).
