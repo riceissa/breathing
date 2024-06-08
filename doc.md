@@ -757,10 +757,11 @@ things to ask yourself, or rather, here are some things i tend to ask myself, in
 - am i exhaling enough air? am i trying to just take in the next breathe before exhaling the current breath?
 - can i soften my inhale? can i make it silent, even just for a few breaths?
 - does my brain feel like it's suffocating? if so, i can try to let myself take an occasional mouth breath.
-- can i check my oxygen reading using a pulse oximeter? is it 99--100% (indicating overbreathing)?
-- am i talking too much, or exerting myself too much in some way? if so, i can just try to drop everything, and sit or stand or lie down and just not do anything for a while.
+- how does it feel to sit upright, place one hand on my upper chest and one hand on my belly, and to just tactilely feel my breathing?
 - which part of my body is moving as i breathe? can i try to make my body move less, or distribute the movement more evenly across my body, so that i'm not just exaggerating movement in any one part of my body?
 - am i slouched? can i be more upright so that the whole length of my torso is free to expand?
+- can i check my oxygen reading using a pulse oximeter? is it 99--100% (indicating overbreathing)?
+- am i talking too much, or exerting myself too much in some way? if so, i can just try to drop everything, and sit or stand or lie down and just not do anything for a while.
 - when do i feel the air hunger? is it all the time? is it only on the exhale? is it at the end of the exhale? (peter litchfield's question.) This one tends to help me pay attention to subtle qualities of my breathing, not just being like "I CAN'T BREATHE!!!"
 - can i listen to one of my favorite relaxation guided audio recordings? (if you don't have one, make it a priority and find some to have on hand.)
 - can i get "fresher" air (even if imaginary) by going inside or outside or to a different room or by moving away from a pollutant source? is there a smell that's bothering me? a lot of times, if you also have anxiety about your breathing, it is helpful to do things that might just seem like placebo, just to help your brain calm down so that it doesn't keep looping on and on about "what if i'm breathing in polluted air" or whatever.
