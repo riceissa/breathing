@@ -757,7 +757,7 @@ things to ask yourself, or rather, here are some things i tend to ask myself, in
 - am i exhaling enough air? am i trying to just take in the next breathe before exhaling the current breath?
 - can i soften my inhale? can i make it silent, even just for a few breaths?
 - does my brain feel like it's suffocating? if so, i can try to let myself take an occasional mouth breath.
-- how does it feel to sit upright, place one hand on my upper chest and one hand on my belly, and to just tactilely feel my breathing?
+- how does it feel to sit upright, place one hand on my upper chest and one hand on my belly, and to just tactilely feel my breathing? (I suspect this one has a slight calming effect from some deep part of you _knowing_ that you are still breathing because you can feel that you breathing muscles are causing movement.)
 - which part of my body is moving as i breathe? can i try to make my body move less, or distribute the movement more evenly across my body, so that i'm not just exaggerating movement in any one part of my body?
 - am i slouched? can i be more upright so that the whole length of my torso is free to expand?
 - can i change my posture? can i stand up? if i'm lying down, can i lie on my side vs back vs belly?
