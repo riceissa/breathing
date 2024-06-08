@@ -1,10 +1,10 @@
 body {
   /* font-family: 'Source Serif Pro', Charter, "Bitstream Charter", Georgia, serif; */
   /* font-size: 21px; */
-  font-family: 'Segoe UI', Arial, sans-serif;
-  font-size: 16px;
+  font-family: Arial, sans-serif;
+  font-size: 15px;
   margin: 10px 10px;
-  background-color: #a0a0a0;
+  /* background-color: #a0a0a0; */
   line-height: 1.40;
   text-rendering: optimizeLegibility;
 
@@ -23,7 +23,8 @@ article {
   max-width: 45rem;
   margin: 12px auto;
   padding: 50px;
-  color: #333333;
+  padding-left: 150px;
+  /* color: #333333; */
   /* background-color: #fdf6e3; */
 }
 
@@ -31,8 +32,8 @@ h1, h2 { font-family: 'Source Sans Pro', 'Segoe UI', Helvetica, sans-serif; }
 h1 { font-size: 150%; }
 h2 { font-size: 120%; }
 
-a:link { color: #1a1a1a; }
-a:visited { color: #1a1a1a; }
+/* a:link { color: #1a1a1a; } */
+/* a:visited { color: #1a1a1a; } */
 
 a.heading-marker {
   font-size: 60%;
@@ -130,6 +131,7 @@ div.csl-indent {
   margin-left: 2em;
 }
 
+/*
 @media (prefers-color-scheme: dark) {
   body {
     background-color: #303742;
@@ -142,3 +144,4 @@ div.csl-indent {
   a:link { color: #93a1a1; }
   a:visited { color: #93a1a1; }
 }
+*/
