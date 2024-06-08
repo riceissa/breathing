@@ -1,6 +1,8 @@
 body {
-  font-family: 'Source Serif Pro', Charter, "Bitstream Charter", Georgia, serif;
-  font-size: 21px;
+  /* font-family: 'Source Serif Pro', Charter, "Bitstream Charter", Georgia, serif; */
+  /* font-size: 21px; */
+  font-family: 'Segoe UI', Arial, sans-serif;
+  font-size: 16px;
   margin: 10px 10px;
   background-color: #a0a0a0;
   line-height: 1.40;
@@ -22,7 +24,7 @@ article {
   margin: 12px auto;
   padding: 50px;
   color: #333333;
-  background-color: #fdf6e3;
+  /* background-color: #fdf6e3; */
 }
 
 h1, h2 { font-family: 'Source Sans Pro', 'Segoe UI', Helvetica, sans-serif; }
