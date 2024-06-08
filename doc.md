@@ -127,7 +127,7 @@ I've seen quite often the advice to suppress yawns, but interestingly even the b
 
 ## Breath holds
 
-breath holds in general scare me, and i think it's fine if you don't want to do them. really tiny ones (like 1--5\ seconds) might be good, just to get yourself used to the idea that not breathing for a few seconds isn't going to kill you (you can even have a pulse oximeter on your finger as you do breath holds, to prove to yourself that your oxygen saturation doesn't drop or only drops an insignificant amount, like 1\ percentage point); so i still do include [Many small breath holds] in my suggested exercises. some buteyko books like artour's have more safety information about breath holds.
+breath holds in general scare me, and i think it's fine if you don't want to do them. really tiny ones (like 1--5\ seconds) might be good, just to get yourself used to the idea that not breathing for a few seconds isn't going to kill you (you can even have a pulse oximeter on your finger as you do breath holds, to prove to yourself that your oxygen saturation doesn't drop or only drops an insignificant amount, like 1\ percentage point); so i still do include [Introductory exercise: Many small breath holds] in my suggested exercises. some buteyko books like artour's have more safety information about breath holds.
 
 this is also one of the reasons i prefer [Capnometry biofeedback], because it gives you a way to measure progress without taking Control Pauses. (at least initially, until your baseline CO~2~ levels reach a normal 40\ mmHg.)
 
@@ -586,7 +586,7 @@ Attention drifting during the exercise is a _good_ thing because you want to mak
 
 The whole exercise is basically juggling your attention in this way: Is my inhale silent or as quiet as I can manage without tensing up? Is my exhale completely relaxed? Are all of my body parts relaxed (except spine, to keep an upright posture)?
 
-If you have trouble relaxing your exhale or knowing whether you are relaxing your exhale, try the [Double inhale technique] or try artificially slowing down just the first part of your exhale. These two techniques should give you an easier time relaxing the exhale so you will know what relaxation feels like.
+If you have trouble relaxing your exhale or knowing whether you are relaxing your exhale, try the [Intermittent technique: Double inhale technique] or try artificially slowing down just the first part of your exhale. These two techniques should give you an easier time relaxing the exhale so you will know what relaxation feels like.
 
 Your hands may warm up a bit, and this seems like evidence that the exercise is working.
 
@@ -753,7 +753,7 @@ this section is mostly an index to stuff discussed elsewhere in the document.
 things to ask yourself, or rather, here are some things i tend to ask myself, in no particular order, whenever i'm having more-than-my-usual breathing difficulty:
 
 - can i distract myself using one of the suggestions listed in [Intermittent technique: distraction]?
-- is the breathing difficulty coming from my nostrils being clogged or my turbinates swelling? if so, can i use a nasal rinse or one of the other strategies listed in [Clearing your nose]?
+- is the breathing difficulty coming from my nostrils being clogged or my turbinates swelling? do i feel resistance in my nose as i breathe (especially on the inhale, in my experience)? if so, can i use a nasal rinse or one of the other strategies listed in [Clearing your nose]?
 - am i exhaling enough air? am i trying to just take in the next breathe before exhaling the current breath?
 - can i soften my inhale? can i make it silent, even just for a few breaths?
 - does my brain feel like it's suffocating? if so, i can try to let myself take an occasional mouth breath.
