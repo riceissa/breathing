@@ -9,6 +9,7 @@
 % \usepackage[T1]{fontenc}
 
 % \usepackage[a5paper]{geometry}
+\usepackage[paperheight=5.5in,paperwidth=4.0in,right=1cm,left=1cm,bottom=0.6in,top=0.8cm,heightrounded]{geometry}
 
 \usepackage[backend=biber,style=authoryear]{biblatex}
 \addbibresource{$bibliography$}
@@ -39,6 +40,7 @@ $endif$
 \date{$date$}
 
 \begin{document}
+\frenchspacing
 \maketitle
 
 % Not sure why, but using 0 or no optional argument makes all the
@@ -47,7 +49,7 @@ $endif$
 \pdfbookmark[1]{\contentsname}{toc}
 \tableofcontents
 
-\setstretch{1.1}
+% \setstretch{1.1}
 
 $body$
 
