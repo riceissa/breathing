@@ -137,6 +137,14 @@ this is also one of the reasons i prefer [Capnometry biofeedback], because it gi
 
 with the throat tension, this may also have something to do with my dysphagia.
 
+post I made on a forum:
+
+> I've had what seems like a related issue, where as I have tried to soften/regulate my breathing, my diaphragm region as well as throat get very tense. Sometimes, when I try to work on tension in one part (e.g. the diaphragm), I can get it to loosen but then the tension moves to another part (e.g. the throat) instead! I've been calling this "tension whackamole" in my head.
+>
+> What I've been trying is to "relax even better" by playing around with posture (I find it hard to do constructive rest so I play around by sitting up at varying levels of straightness, by standing, pacing around, etc.), focusing on the tense part and trying to relax it (e.g. one thing you could do is to artificially try to tense it up and then relax it, so that you can feel the difference; this is a technique from a common anxiety exercise called progressive muscle relaxation), trying to "redistribute" the effort of breathing to other parts of the body to make sure I'm not artificially restricting any part of my body (e.g. asking if I can move more of the effort to my diaphragm, or upper chest, or throat), visualizing by imagining my inhale going to various parts of the body (e.g. back of throat, upper chest, diaphragm), and trying to really let my body breathe according to the timing it wants rather than trying to pre-empt the inhale. I've found it helpful to follow breathing relaxation-focused audio recordings.
+>
+> So my guess (although it's just a guess! -- it's hard to tell what's going on without being there, more back-and-forth, etc.) would be that you are letting go of your usual tension, but then you are tensing up in a different way (which is noticeable to you possibly because you're using new muscle groups that you don't normally use much when breathing), so as to "get enough air" or because you are artificially restricting the flow of air.
+
 ## Suffocation feeling
 
 If your breathing/nervous system/whatever is sufficiently compromised, and you don't know what you're doing as you practice breathing exercises, scary things can happen to you. The following is an example of this happening to me. (I am only motivated to keep pushing ahead despite such scary experiences because for me the alternative is to experience shortness of breath every day as well as similar scary experiences from talking too much. And because I see _clear, immediate_ benefits from doing the exercises in the right ways.)
