@@ -593,6 +593,7 @@ unfortunately the theory given in the section [The biological basis of shortness
 
 This one is most similar to @rakhimov2013advanced [section 4.6, "Relaxing the diaphragm (Buteyko relaxed breathing exercise)"], but Neil Tranter also has a similar video [@tranter2023relaxed]. @novozhilov2012 has similar exercises too (e.g., Exercise 1). I recommend reading/watching these other sources to get these other people's takes on the material; they are, in my opinion, all pointing to the same thing, gesturing at that thing in different words.
 
+However, in my experience, all the other buteyko resources are pretty much "you just sit there and relax your body and breathe lighter", and people will just go like "ok...... so you just sit there and relax and breathe? how hard can that be?" And I think this style of pedagogy will tend to disappoint people when they find out how tricky the practice actually is. Or people will just sit there and try to relax and breathe, and they won't make any progress because they do the exercise wrong?
 
 If you have trouble relaxing your exhale or knowing whether you are relaxing your exhale, try the [Intermittent technique: Double inhale technique] or try artificially slowing down just the first part of your exhale. These two techniques should give you an easier time relaxing the exhale so you will know what relaxation feels like.
 
