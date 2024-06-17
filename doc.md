@@ -512,6 +512,12 @@ i should eventually say something about nose cleaning -- whether to pick, blow, 
 
 Sometimes, blowing your nose _is_ the right answer. e.g. on the morning of 2024-06-15, I felt the presence of both wetter mucus and dried up mucus deeper down, and I could feel it was blocking out my nostrils some. I decided to blow my nose, and the big chunk of mucus came out pretty easily, without blowing hard at all. And I felt _so_ much better in my nose afterward. This has to be a sign that it was the right decision. Longterm goal is still the same, to breathe so lightly that your nose just doesn't produce excess mucus and it's self-cleaning so you never really have to do anything to your nose. But in the beginning stages, I think blowing your nose is still sometimes the right choice.
 
+## Differential diagnosis ideas
+
+In early May 2024, I did some house cleaning that created a lot of dust. My nose wasn't blocked, but there was a lot more resistance. And I noticed that nasal strips were helping, whereas NeilMed saline spray didn't. So in this case, I believe it was not _mucus_ that's blocking the air, it's the actual turbinates. I think the allergies must have activated turbinates.
+
+2024-05-07: this type of SOB feels _very_ similar to the one I was getting all the time before the CapnoTrainer. So I wonder if allergic reactions can somehow like tank your CO~2~. Or mess with your bicarbonate buffers? because the alternative is that I was exposing myself to allergens a _lot_ back then for some reason, which just doesn't seem likely? since like, I wasn't dusting all the time. Or maybe I'm just having more turbinate activating, and that's leading to SOB feeling. And turbinates can be activated by both allergies _and_ by overbreathing? (This last one was the theory I eventually settled on.)
+
 ## What to do when you have a cold (or your body is otherwise producing a lot of mucus)
 
 starting 2024-03-16 i've been taking nystatin to treat a candida overgrowth. this has caused a lot of classic die-off reactions in me, the most relevant of which here is a lot of mucus production in my sinuses. this makes it impossible for me to nasal breathe sometimes. so i've been thinking, "what can you do, if you get a cold or similar where your nose is just clogged up semi-acutely (i.e. over the course of days or a few weeks)?"
