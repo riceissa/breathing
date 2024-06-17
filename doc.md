@@ -644,7 +644,9 @@ it helps to have a guided meditation audio type thing to periodically listen alo
 
 ### Signs you are doing the main practice correctly
 
-Your hands may warm up a bit, and this seems like evidence that the exercise is working.
+according to the buteyko community, the main sign you did the main practice correctly is that you CP will be higher after the exercise, compared to right before the exercise. If you are one of the lucky people who can take CP measurements, then you can probably just skip the rest of this sub-section. In the rest of this sub-section, I will be assuming that you cannot take CP (e.g. you have some health condition that makes it bad to hold your breath, or holding your breath causes a suffocating/panicky sensation even when you are doing the CP measurements correctly).
+
+Your hands may warm up a bit, and this seems like evidence that the exercise is working. However, hands can get warm even if you're not in the Good State. In fact, my hands tend to get warm out of anxiety/the slight panic that I'm feeling air hunger, sort of like how your face can get flushed when you are embarrassed. So in my experience at least, it's not the best sign.
 
 other possible signs: feeling relaxed, sleepy, calmer, euphoric, extra saliva
 
