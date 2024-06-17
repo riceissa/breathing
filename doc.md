@@ -423,6 +423,10 @@ the main lesson here is that having a capnometer is quite useful, to give the as
 
 another reason to not worry: if you are doing buteyko _correctly_, then any reduction in breathing must come from relaxation. you should only just barely have any air hunger. if you are overshooting and making yourself actually uncomfortable, then you will start to feel a lot of air hunger and tense up, and that will be a signal to ease off. so basically your body has a corrective mechanism built in.
 
+# Is Buteyko breathing a cure or does it just mask the root cause?
+
+I think Buteyko style breath holds may be harmful in that it's compensating for your poor breathing by increasing your CO~2~ tolerance. But that's _not_ what's actually wrong with your body (unless you just have low CO~2~, in which case Buteyko breathing can be a cure; in my case I think there may be something neurological, or something with the vagus nerve, or something with oxygen not getting delivered to cells, or something like that, while my ET CO~2~ is now normal after doing capnometry biofeedback). So you can do Buteyko if you're already healthy, and get some benefits, but doing it when you're ill may mask your symptoms without treating the root cause.
+
 # A short timeline of my improvements
 
 i don't know how representative the speed of my improvements is, but it's the only case i am deeply familiar with, and it might give people an idea of what to expect.
