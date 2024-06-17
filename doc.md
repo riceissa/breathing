@@ -641,9 +641,21 @@ i should note however that i don't regret avoiding formal sessions for so long -
 
 also many buteyko places will tell you to do like 3 shorter sessions per day, but i am finding it easier to just do one longer one at night, like 1-2 hours before i want to go to sleep. i think it will help with going to sleep on time too. another benefit of doing it before bed is that you are more likely to carry good habits of breathing into your sleep (and hopefully have it still going when you wake up).
 
-2024-06-05: apparently i haven't mentioned this anywhere in this document yet, but i think perfusion index on a pulse oximeter (only some pulse oximeters have perfusion index as a measurement, so if you want to try this, make sure to buy one that does have it) gives a fairly good indication of how warm your hands are/how much bloodflow there is to your finger tips, which is one of the ways you can tell whether the exercise is working. I like to take before and after measurements on the pulse oximeter.
+2024-06-05: apparently i haven't mentioned this anywhere in this document yet, but i think perfusion index on a pulse oximeter (only some pulse oximeters have perfusion index as a measurement, so if you want to try this, make sure to buy one that does have it) gives a fairly good indication of how warm your hands are/how much bloodflow there is to your finger tips, which is one of the ways you can tell whether the exercise is working. I like to take before and after measurements on the pulse oximeter. (2024-06-16: This matters way more if you (like me) can't or don't want to take Control Pause measurements. It's nice to have _some_ way to measure progress/get some sign that the exercise worked, although with experience I think it becomes pretty obvious when it's working vs not? (I tend to feel a kind of euphoric calm contentment when I manage to do it right.))
 
 2024-06-13: I think one of the important things here is to have a good guided audio track. I'd like to produce one at some point. One of the problems I am seeing with both my document here, and e.g. Artour's writings, Simon Spire's LNB Reference Guide, is that they are all written words, so it's hard to sync it up with realtime. Instead of saying "just loop through these instructions", it's nice to have that work offloaded to the audio track creator, and just be focusing on the present moment, having the instructions do the cognitive work of figuring out what to do when, so that you can just focus on fixing your breathing.
+
+some sections that i want to fill in eventually:
+
+### Signs you are doing the main practice correctly
+
+### The goal of the main practice is to enter the Good State
+
+### The goal post-main practice is to maintain the Good State for as long as possible
+
+### The main practice is surprisingly tricky to do
+
+### The main practice is distinct from everyday silent nasal breathing
 
 ## Introductory exercise: Many small breath holds
 
