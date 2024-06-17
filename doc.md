@@ -772,6 +772,12 @@ i think posture matters more the lighter your breathing becomes. during reduced 
 
 i've been kind of going through a loop of {feeling tired &rarr; slouch &rarr; feeling like i can't breathe as well &rarr; sit up straight}. and then also sitting in different ways (cross-legged, seiza, normal, against back rest, not against back rest, which gives you like 6 combinations, and if you add slouch/straight then that's 12 configurations on the chair). and i think this is probably good, to just be changing posture and sitting style all the time, like every few minutes.
 
+# Muscle tension
+
+(Will have to write a lot more here as I figure things out. So far I haven't figured out very much...)
+
+A hypothesis I have is that chewing, breathing, talking, swallowing, all make use of a lot of overlapping muscles, and they use these same muscles in _different_ ways, so if you try to do multiple thing at once (like breathing while chewing), then your body can get confused, or like, it can lead to suboptimal patterns of both?
+
 # Breathing synthesis
 
 My synthesis = "Buteyko method" + "Alexander Technique" + Capnometry biofeedback
