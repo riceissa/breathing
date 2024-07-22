@@ -673,6 +673,8 @@ other possible signs: feeling relaxed, sleepy, calmer, euphoric, extra saliva
 
 the goal is to eventually be breathing in this way all the time. so it's a "technique" but also it is going to become a habit.
 
+A consistent observation from my own practice is that it takes a good amount of concentrated effort for me to first _enter_ the Good State, but it doesn't seem to require almost any effort to stay in the good state once I am in it. I can just be sitting, I can be typing stuff, I can even go around and get tea from the kitchen or whatever. I haven't tried talking. But basically, you can just sit and calmly do simple activities, and that doesn't seem to cause any negative effects once you're in this state. In other words, you _don't_ need to expend so much meditative concentration except for the first ~15 minutes (with practice, I think the time it takes to enter the Good State can be lowered). My hands are _still_ warm, and it's been like an hour. Pulse ox says 97--98%, which is a good indication I am doing something right, because during the day it kept saying 99--100%.
+
 ### The main practice is surprisingly tricky to do
 
 ### Scheduled practice is necessary: the main practice is distinct from everyday silent nasal breathing
