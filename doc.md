@@ -658,6 +658,8 @@ Another recording I really like is @tranter2024deeprelaxation.
 
 2024-06-13: I think one of the important things here is to have a good guided audio track. I'd like to produce one at some point. One of the problems I am seeing with both my document here, and e.g. Artour's writings, Simon Spire's LNB Reference Guide, is that they are all written words, so it's hard to sync it up with realtime. Instead of saying "just loop through these instructions", it's nice to have that work offloaded to the audio track creator, and just be focusing on the present moment, having the instructions do the cognitive work of figuring out what to do when, so that you can just focus on fixing your breathing.
 
+2024-06-22: doing buteyko without a recording today. It worked, and in fact it only took like 3--5ish minutes to reach the desired state. Hands are very toasty now. PI went from 3 to 6. So I don't think a recording is necessary, though helpful in the early stages. The problem is when you do it while falling asleep; I think that is where danger lies.
+
 ### Signs you are doing the main practice correctly
 
 according to the buteyko community, the main sign you did the main practice correctly is that you CP will be higher after the exercise, compared to right before the exercise. If you are one of the lucky people who can take CP measurements, then you can probably just skip the rest of this sub-section. In the rest of this sub-section, I will be assuming that you cannot take CP (e.g. you have some health condition that makes it bad to hold your breath, or holding your breath causes a suffocating/panicky sensation even when you are doing the CP measurements correctly).
