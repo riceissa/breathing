@@ -688,6 +688,12 @@ i think formally scheduled sessions (where you actually sit down with a timer an
 
 i should note however that i don't regret avoiding formal sessions for so long -- i have a preference for just doing what my body and mind want to do and not forcing myself to do anything. formal sessions seemed aversive because there's so much audio/video to choose from and no one ever explained why i should do formal sessions rather than just trying to change my habits. but at this point i think i'm still missing something and so i feel more motivated to try formal sessions.
 
+### Dangers with the main practice (what can go wrong)
+
+Don't do it while trying to fall asleep. See [Suffocation feeling] for what can go wrong.
+
+Don't try to go for a lot of air hunger. You only need/want a little bit.
+
 ### Tools to help with the main practice
 
 Open question for me (2024-07-04): how useful is it to use things like neilmed saline spray and drinking hot liquid before/during the main practice, so that your hands get warmer (higher perfusion index)? I've noticed that if I do these things, it's much easier/faster to achieve a higher perfusion index and a lower SpO~2~ (e.g. 97--98%, whereas usually I am 99--100%), and I do feel calmer and better. But does that translate into better breathing health? It probably doesn't hurt, but I might just be deceiving myself about feeling better. So I hope my breathing health will improve to the point where I can do control pauses without issues...
