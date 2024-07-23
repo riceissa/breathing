@@ -785,6 +785,10 @@ i think posture matters more the lighter your breathing becomes. during reduced 
 
 i've been kind of going through a loop of {feeling tired &rarr; slouch &rarr; feeling like i can't breathe as well &rarr; sit up straight}. and then also sitting in different ways (cross-legged, seiza, normal, against back rest, not against back rest, which gives you like 6 combinations, and if you add slouch/straight then that's 12 configurations on the chair). and i think this is probably good, to just be changing posture and sitting style all the time, like every few minutes.
 
+# Breathing and sleep
+
+One of the problems with going to sleep is that when you're lying in a dark room with literally no stimuli, it's very hard _not_ to think about your breath and overly focus on it. And focusing on it too much leads to trying to control your breathing which often means worse breathing. This is a pattern I keep falling into, but I'm not sure how to get _out_ of it. I mostly just try to get in bed only when I'm sleepy and also to think about random things while I'm trying to fall asleep so that I don't think about my breath.
+
 # Muscle tension
 
 (Will have to write a lot more here as I figure things out. So far I haven't figured out very much...)
