@@ -791,6 +791,10 @@ i've been kind of going through a loop of {feeling tired &rarr; slouch &rarr; fe
 
 One of the problems with going to sleep is that when you're lying in a dark room with literally no stimuli, it's very hard _not_ to think about your breath and overly focus on it. And focusing on it too much leads to trying to control your breathing which often means worse breathing. This is a pattern I keep falling into, but I'm not sure how to get _out_ of it. I mostly just try to get in bed only when I'm sleepy and also to think about random things while I'm trying to fall asleep so that I don't think about my breath.
 
+# Talking out loud
+
+So the optimistic line of reasoning is: because I've noticed a pattern where if I push over my talking limit multiple times in a day, each "pushover" feels worse and comes with less and less warning/comes with less and less talking, _maybe this pattern can be reversed, too_. If I can go, say, a full week without taking _any_ forceful breaths or mouth breaths, will that "charge up my diaphragm battery" to "full capacity", such that I'll be like a normal person? Or does it only go up so far, and that amount is still way less than a normal person's (so that even at full capacity, I can only talk for 30 minutes or so now)? As of 2024-07-22, my experience has been that just resting my diaphragm/"talking muscles" by not talking does seem to restore some function -- I've been able to say a few sentences at a time multiple times a day now with only slight tension. I still need to type a lot to communicate though.
+
 # Muscle tension
 
 (Will have to write a lot more here as I figure things out. So far I haven't figured out very much...)
