@@ -694,6 +694,10 @@ Don't do it while trying to fall asleep. See [Suffocation feeling] for what can 
 
 Don't try to go for a lot of air hunger. You only need/want a little bit.
 
+### Results of the main practice depend on both skill and initial state before the session
+
+### It is possible to spontaneously enter the Good State
+
 ### Tools to help with the main practice
 
 Open question for me (2024-07-04): how useful is it to use things like neilmed saline spray and drinking hot liquid before/during the main practice, so that your hands get warmer (higher perfusion index)? I've noticed that if I do these things, it's much easier/faster to achieve a higher perfusion index and a lower SpO~2~ (e.g. 97--98%, whereas usually I am 99--100%), and I do feel calmer and better. But does that translate into better breathing health? It probably doesn't hurt, but I might just be deceiving myself about feeling better. So I hope my breathing health will improve to the point where I can do control pauses without issues...
