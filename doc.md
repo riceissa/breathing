@@ -171,6 +171,8 @@ This experience seemed to wipe out all the progress I had made with Buteyko styl
 
 # Different types of shortness of breath
 
+The following is a typology of the _phenomenology_ of shortness of breath (at least the ones i've experienced).  In other words, I am distinguishing how shortness of breath can _feel_ different to me, rather than trying to distinguish different _causes_ of shortness of breath. Different causes can produce the same feeling (e.g. blocking your nostrils by mucus or by your fingers will produce the same shortage of air). And plausibly, the same cause can produce different feelings (maybe hypocapnia can feel like jittery anxiety on one day, but like brain fog on another day, depending on what else is going on with my body on a particular day). But here, I am just focused on the feelings, not the causes.
+
 - CO~2~ intolerance/overbreathing/hypocapnia: see [The biological basis of shortness of breath]
 - psychological air hunger: where you are hyperfixated on your breath, and any even slight feeling of needing to take a breath (such as is natural right before you take a breath!) feels way too much air hunger.
 - "central apnea": the one where i wake up gasping for breath, and where i feel like i stop breathing, and then my breathing rhythm is off where if i don't jiggle myself after the exhale it feels bad. (This is one of those rare cases where my unconscious breathing is off, so i have to consciously fix it, whereas the classical type of air hunger is where you consciously try to take control of your breath and this messes things up.)
