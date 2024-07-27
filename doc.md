@@ -169,6 +169,15 @@ Another idea: my CP was critically low such that as I was inhaling I was already
 
 This experience seemed to wipe out all the progress I had made with Buteyko style exercises in the last several days. On the evening of 2024-06-08 I had a scary experience where I talked too much and my diaphragm/chest became very tense, and I felt like I couldn't breathe. I started to go into a sort of shock, was shaking and felt very weak (couldn't stand). I thought I might die or have to go to the ER. But after maybe 30 minutes or an hour of just trying to take soft breaths through my nose, I calmed down. It's hard to say if my one misstep with Buteyko last night caused all of this stuff to happen (clearly, talking too much multiple times in the day also played a role), but I think it's important to explain what happened to me in detail to give some flavor of what can happen.
 
+# Different types of shortness of breath
+
+- CO~2~ intolerance/overbreathing/hypocapnia: see [The biological basis of shortness of breath]
+- psychological air hunger: where you are hyperfixated on your breath, and any even slight feeling of needing to take a breath (such as is natural right before you take a breath!) feels way too much air hunger.
+- "central apnea": the one where i wake up gasping for breath, and where i feel like i stop breathing, and then my breathing rhythm is off where if i don't jiggle myself after the exhale it feels bad.
+- "suffocation": where i feel like i'm not even breathing air, i'm breathing some other substance, so even when i take rescue breaths, it doesn't feel good. you feel the air hunger even when you're inhaling.
+- airway blockage: nose is stuffed, turbinates are enlarged, etc. See [Clearing your nose].
+- diaphragm/throat tension when talking/laughing/etc: see [Talking out loud]
+
 # The biological basis of shortness of breath
 
 I _could_ just tell you the exercises you need to do to fix your breathing, but personally I find it unsatisfying when people tell me to do a thing without also telling me why. So in this section, I will give a simplified but (as far as I know) accurate biological explanation of why you have shortness of breath. This will help you understand _why_ you should do the particular types of exercises I recommend later on (in [Breathing exercises]).
@@ -554,6 +563,7 @@ other ideas i haven't tried yet:
 
 - NAC
 - raised pillow/slanted bed -- i think this would have been useful on the nights when i had trouble sleeping.
+- humidifier
 
 # Techniques vs habits
 
