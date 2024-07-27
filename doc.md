@@ -173,7 +173,7 @@ This experience seemed to wipe out all the progress I had made with Buteyko styl
 
 - CO~2~ intolerance/overbreathing/hypocapnia: see [The biological basis of shortness of breath]
 - psychological air hunger: where you are hyperfixated on your breath, and any even slight feeling of needing to take a breath (such as is natural right before you take a breath!) feels way too much air hunger.
-- "central apnea": the one where i wake up gasping for breath, and where i feel like i stop breathing, and then my breathing rhythm is off where if i don't jiggle myself after the exhale it feels bad.
+- "central apnea": the one where i wake up gasping for breath, and where i feel like i stop breathing, and then my breathing rhythm is off where if i don't jiggle myself after the exhale it feels bad. (This is one of those rare cases where my unconscious breathing is off, so i have to consciously fix it, whereas the classical type of air hunger is where you consciously try to take control of your breath and this messes things up.)
 - "suffocation": where i feel like i'm not even breathing air, i'm breathing some other substance, so even when i take rescue breaths, it doesn't feel good. you feel the air hunger even when you're inhaling.
 - airway blockage: nose is stuffed, turbinates are enlarged, etc. See [Clearing your nose].
 - diaphragm/throat tension when talking/laughing/etc: see [Talking out loud]
