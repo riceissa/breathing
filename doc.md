@@ -838,6 +838,8 @@ One of the types of shortness of breath I experience is tension in the diaphragm
 
 So the optimistic line of reasoning is: because I've noticed a pattern where if I push over my talking limit multiple times in a day, each "pushover" feels worse and comes with less and less warning/comes with less and less talking, _maybe this pattern can be reversed, too_. If I can go, say, a full week without taking _any_ forceful breaths or mouth breaths, will that "charge up my diaphragm battery" to "full capacity", such that I'll be like a normal person? Or does it only go up so far, and that amount is still way less than a normal person's (so that even at full capacity, I can only talk for 30 minutes or so now)? As of 2024-07-22, my experience has been that just resting my diaphragm/"talking muscles" by not talking does seem to restore some function -- I've been able to say a few sentences at a time multiple times a day now with only slight tension (whereas in the past there were days where I couldn't even say a few words without feeling like my diaphragm region was going crazy with tension). I still need to type a lot to communicate though.
 
+The advice i've heard about breathing while talking in the buteyko sphere/in the chaitow book are all about how to coordinate your breathing while talking, so as not to overbreathe. but this feels different from what i'm experiencing, which is this muscular tension/soreness feeling.
+
 # Muscle tension
 
 (Will have to write a lot more here as I figure things out. So far I haven't figured out very much...)
