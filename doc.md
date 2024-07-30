@@ -421,7 +421,7 @@ in normal breathing:
 
 - there is no urge to take a deep breath if one is just quietly sitting. this is indefinite, in contrast to air hunger where one might be able to take a few quiet breaths in a row but then the urge to take a deep one builds up over time. in normal breathing, there is no buildup.
 - silent nasal breathing is sufficient (at least when seated or lying down)
-- it is still possible to take a deep breath. these feel better than normal breaths, but there is no compulsion to keep achieving that deep breath. it's currently not clear to me why normal people don't develop an addiction to taking deep breaths...
+- it is still possible to take a deep breath. these feel better than normal breaths, but there is no compulsion to keep achieving that deep breath. it's currently not clear to me why normal people don't develop an addiction to taking deep breaths... I think it may be similar to drinking water or something: imagine a world where people normally get water drop by drop; then it might feel particularly good to drink a big gulp of water; but if you keep gulping water, you just get too much of it and you reach a point of satiation.
 
 # Can you overshoot your CO~2~ levels by doing too much reduced breathing?
 
