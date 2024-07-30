@@ -37,6 +37,8 @@ my intention is also not to turn you into some sort of superhuman breathing guru
 
 a lot of works are also very wordy and repetitive. this document respects the intelligence of the reader. it emphasizes certain parts to guide the reader, but it will not keep repeating the same things in different words over and over. it will point out common misunderstandings or common misinterpretations, but it will not spend pages upon pages belaboring the point.
 
+Another feature of this document is that everything I talk about in here has been verified to work by at least one person (me); I'm not just coming up with some theory of breathing and then telling people it must work. I am figuring things out by a combination of pre-existing theory and a lot of trial-and-error to see what works best for me.
+
 ## Warning/disclaimer and disclosures
 
 THIS IS A DRAFT.  THIS IS NOT PERSONALIZED MEDICAL ADVICE.  USE AT YOUR OWN RISK. See the section [Safety] below for more details. (At the same time, I _am_ interested in improving this document, so if you think I am recommending something unsafe or I am making some other sort of error, I'd like to know about it. Email me at <riceissa@gmail.com>.)
@@ -104,6 +106,7 @@ update (2024-02-04): 3 weeks into mostly silent breathing, i am having prolonged
 
 2024-03-14: the throat choking and tense diaphragm thing has been coming back, especially strongly when i talk for a long time (about an hour). but often even when i haven't been talking much. it's the side of the throat, not the center. i haven't been very successful yet figuring out what to do to fix this. i think for me the problem is the inhale, since exhalation is just relaxing all the muscles to let air out.i'm trying to "breathe in" to different parts of the body, like diaphragm, back of throat, nostrils, etc. also trying to more artificially move diaphragm instead of trying to breathe in with my throat muscles, and then gradually toning down the amount of force i use with the diaphragm while still keeping the throat inactive.
 
+TODO: Artour Rakhimov has a page on focal infections (<https://www.normalbreathing.com/buteyko-focal-infections/>), which talks about why you shouldn't do Buteyko, or why you might not get the same progress as a healthy person. Unfortunately for me, probably some of the stuff on the page applies to me (e.g. gut dysbiosis/candida isn't specifically mentioned, but similar enough stuff _is_ mentioned that it probably applies to me). A lot of people now with long-COVID (or like me, some other post-acute infection/exposure syndromes) probably have both shortness of breath and some sort of other stuff going on, such that the focal infection stuff applies. At the moment, I'm not sure how to make sense of all of this. I know that doing _some_ light Buteyko-esque stuff seems to be helpful at least for me. I'm going very very slowly, not on any kind of schedule, just gradually doing stuff here and there, backing off whenever I have some kind of bad reaction (e.g. see [Suffocation feeling] below), and this seems like a good strategy for people in similar situations. I want to think more about this, including reading the Artour page in more detail.
 
 ## Accidental meditation
 
