@@ -700,7 +700,7 @@ according to the buteyko community, the main sign you did the main practice corr
 
 Your hands may warm up a bit, and this seems like evidence that the exercise is working. However, hands can get warm even if you're not in the Good State. In fact, my hands tend to get warm out of anxiety/the slight panic that I'm feeling air hunger, sort of like how your face can get flushed when you are embarrassed. So in my experience at least, it's not the best sign.
 
-other possible signs: feeling relaxed, sleepy, calmer, euphoric, extra saliva
+other possible signs: feeling relaxed, sleepy, calmer, euphoric, extra saliva. I've also noticed that sometimes I start yawning repeatedly, and I'm not sure if that's a good thing or not yet.
 
 2024-06-05: apparently i haven't mentioned this anywhere in this document yet, but i think perfusion index on a pulse oximeter (only some pulse oximeters have perfusion index as a measurement, so if you want to try this, make sure to buy one that does have it) gives a fairly good indication of how warm your hands are/how much bloodflow there is to your finger tips, which is one of the ways you can tell whether the exercise is working. I like to take before and after measurements on the pulse oximeter. (2024-06-16: This matters way more if you (like me) can't or don't want to take Control Pause measurements. It's nice to have _some_ way to measure progress/get some sign that the exercise worked, although with experience I think it becomes pretty obvious when it's working vs not? (I tend to feel a kind of euphoric calm contentment when I manage to do it right.))
 
