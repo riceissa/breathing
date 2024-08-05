@@ -186,6 +186,24 @@ The following is a typology of the _phenomenology_ of shortness of breath (at le
 - airway blockage: nose is stuffed, turbinates are enlarged, etc. See [Clearing your nose].
 - diaphragm/throat tension when talking/laughing/etc: see [Talking out loud]
 
+## Questionnaire
+
+- Straining for air clears air hunger? Yes/No/Helps but doesn't eliminate air hunger
+- Nose feels blocked or there is a feeling of resistance in the nose? Yes/No
+- Happens when trying to fall asleep? Yes/No
+- Started when doing a breath hold? Yes/No
+- Started when trying to exercise? Yes/No
+- Started when trying to mentally exert? Yes/No
+- Can silently breathe through nose at least a few times in a row? Yes/No
+- Diaphragm tension? Yes/No
+- Abs/core tension? Yes/No
+- Throat tension? Yes/No
+- Pulse ox O~2~ sat reading
+- Pulse ox perfusion index reading
+- Where do you feel the air hunger? Chest/head/forehead/whole body/etc.
+- Panic feeling at end of exhale? Yes/No
+- Need to jiggle at end of exhale to avoid panic? Yes/No
+
 # The biological basis of shortness of breath
 
 I _could_ just tell you the exercises you need to do to fix your breathing, but personally I find it unsatisfying when people tell me to do a thing without also telling me why. So in this section, I will give a simplified but (as far as I know) accurate biological explanation of why you have shortness of breath. This will help you understand _why_ you should do the particular types of exercises I recommend later on (in [Breathing exercises]).
@@ -901,6 +919,7 @@ things to ask yourself, or rather, here are some things i tend to ask myself, in
 - does it feel more like i'm forgetting how to breathe (and so i should gently try to guide my body into breathing better), or like i am controlling my breathing too much (and i should instead just let my breathing happen on its own)? (i've felt both at different times and it's quite confusing. i suspect the first one is some sort of autonomic dysfunction thing that i have because of my generic illness, and the second one is a more typical air hunger thing that i have due to overbreathing. but really, i don't know.)
 - can i relax some part of my body, or (if some parts of my body are already relaxed) _more_ parts of my body?
 - is my heart rate also high? (for me, this tends to indicate i am having POTS and so lying down often helps me calm down a lot.)
+- Can I take a nap or even just lie down and close my eyes? (This can feel scary and your brain may shout "No!"\ at the idea, but other times it's exactly what you need.)
 
 # Acknowledgments {.unnumbered}
 
