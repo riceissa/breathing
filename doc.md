@@ -921,7 +921,8 @@ things to ask yourself, or rather, here are some things i tend to ask myself, in
 - does it feel more like i'm forgetting how to breathe (and so i should gently try to guide my body into breathing better), or like i am controlling my breathing too much (and i should instead just let my breathing happen on its own)? (i've felt both at different times and it's quite confusing. i suspect the first one is some sort of autonomic dysfunction thing that i have because of my generic illness, and the second one is a more typical air hunger thing that i have due to overbreathing. but really, i don't know.)
 - can i relax some part of my body, or (if some parts of my body are already relaxed) _more_ parts of my body?
 - is my heart rate also high? (for me, this tends to indicate i am having POTS and so lying down often helps me calm down a lot.)
-- Can I take a nap or even just lie down and close my eyes? (This can feel scary and your brain may shout "No!"\ at the idea, but other times it's exactly what you need.)
+- Can I take a nap or even just lie down and close my eyes? (This can feel scary and your brain may shout "No!"\ at the idea, but other times it's exactly what you need.) Sometimes it specially needs to be lying down in a certain position, whether that's on your back, on one of your sides, or on your belly. On 2024-08-13 I had to lie down on my belly in order to relax my diaphragm; the other positions didn't help.
+- Place a hand on my belly and just breathe at a regular pace. I find that saying in my head "1, 2, 1, 2..." to be better than saying "in, out, in out..." because when the air goes in, the belly goes out, which is confusing for my brain. "1" and "2" are neutral labels.
 
 # Acknowledgments {.unnumbered}
 
