@@ -528,6 +528,8 @@ I won't say much about _why_ it's better to breathe through your nose, as I thin
 
 I think there are two broad ways you can react to "you need to clear your nose". One of them will be to say "Yeah, I hardly ever breathe through my nose; I know I need to work on it but I don't know how". The other is to say "I already breathe through my nose; I don't think I need any advice". For this second type of person I want to mention my own anecdote. Before I started really focusing on my breath, I used to think I was already a nasal breather, but when I started paying attention I realized that I was actually taking quite a few mouth breaths throughout the day. A sure way to find out is to tape your mouth during the day (even for just 15 minutes or so) and see how easy it is for you. I think I probably went from around 80% nose breaths to 99.9% nose breaths by following the strategies listed below (just a wild guess unfortunately because I didn't keep good records); during breathing attacks, I probably went from 10--50% nose breaths to 95% nose breaths. So if you already think you are a nasal breather, I would still try paying attention.
 
+The more I work on my breathing, the more I realize that having a good nose (opened up, not full of mucus) is key to good breathing. See also the section on [Allergies] for more thoughts.
+
 ## Strategies
 
 Here are the main strategies I recommend for clearing your nose so you can nose breathe more:
@@ -538,11 +540,13 @@ Here are the main strategies I recommend for clearing your nose so you can nose 
 - Nose cones: these didn't work for me (i got them because i was encouraged by how useful the nose strips were, and cones seemed like reusable strips). they don't go deep enough in the nose, so they really only help i think if you have a deviated septum or something...
 - Patrick McKeown's nose unblocking exercise: this is one where you pinch your nose while holding your breath, and swaying or walking around as you do that. I tried this back when my nose was stuffier, and it didn't work very well for me, but i also didn't try very hard to get it working (i just followed one of his videos). 2024-07-13: tried it again and i don't think it worked. when my nose is doing worse, i am already having breathing problems, so holding my breath is hard, and i end up gasping for air after the breath hold is done, which i think just decreases my CO~2~ further, defeating the point of the breath hold. maybe i need to do a bunch of small 1--2 second breath holds.
 - Antihistamine spray (e.g., azelastine): my guess is azelastine did nothing for me. but maybe it helped a bit with reducing mucus production during the night. i never tried olopatadine (the more famous antihistamine nasal spray) because my insurance doesn't cover it.
+- Antihistamines in general (e.g. Zyrtec, Claritin, Xyzal, Allegra, etc.): see the section on [Allergies] for more.
 - Steroid spray (e.g. Flonase): i would stay away from these, unless you already know they work well for you. definitely try all the other ones in the list first. note that there are different kinds of steroid sprays and some of them are _very_ bad to keep using long-term. Flonase is supposed to be one of the safer kinds, but i only used it once so i can't speak to any longer-term effects.
 - sometimes just sniffing out with my nose in a slightly more forceful than usual way makes something shift inside my nose and I feel less air resistance.
 - Similarly to the previous point, lying down or sitting up can make mucus flow (I had this happen on 2024-07-22, where my nose was feeling dry and it was hurting, but then lying down made mucus flow and I could swallow mucus and then my nose felt fine). Sometimes all you need to do is change posture and your nose will be happy. On 2024-08-06 I had clogged mucus and my throat was starting to get all choke-y from straining for breath, but lying down for about 10 minutes made all the mucus flow and I am fine again. I find that lying down on my side probably works best, but one can experiment. One thing that's better with lying down (compared to saline spray) is that with saline spray, you blow your nose after doing the spray, which make even more of the deeper mucus come up (but not completely out), which sometimes clogs things up even more. Lying down just pushes the mucus downward, so that you can swallow it, rather than moving the mucus to a critical narrow spot in the sinuses. I still don't know why this happens on some days but not most days (haven't found any patterns with temperature or humidity, so far). It almost always happens in the morning. Lying down also rests the neck/throat which helps it to relax.
 - Turning on AC/playing around with humidity or temperature. There might be U-shaped response with humidity. Too wet like steam and that will make your mucus loose, but too dry will also make your mucus loose to try to compensate for the dry air? In the middle is where the mucus gets thick?
 - Washing bedding (especially(?) if you have dust mites allergy). Especially if the nose restriction feeling is worst in the morning and then gets better over the course of the day.
+- Certain emotions, like embarrassment, seem to open up my nose. Also bowel movements. Maybe there's a way to recall an embarrassing memory to open up one's nose?
 
 ## The better your breathing, the better your nose
 
@@ -594,6 +598,18 @@ other ideas i haven't tried yet:
 - NAC
 - raised pillow/slanted bed -- i think this would have been useful on the nights when i had trouble sleeping.
 - humidifier
+
+# Allergies
+
+I've had an odd experience in August 2024 where I kept waking up with my nostrils feeling narrower and my throat feeling like it was choking (from straining for air). Eventually I discovered that sitting outside pretty much immediately made all of this go away (at the time, I was/still am house-bound and mostly room-bound so it's actually not a trivial thing to just sit outside, hence why it took me so long to figure this out).
+
+Washing my bedsheets alone did not seem to do much. Vacuuming the floor (I have a carpeted floor) actually seems to have maybe fixed the problem. (Due to my severe decline starting in July, the floor hadn't been vacuumed in probably over 2 months.)
+
+Taking claritin also seems to have helped on the one day that I tried that.
+
+One takeaway point here is that "allergies" can look not like very stereotypical allergies (of sneezing, itchy throat, etc.), although I did occasionally have those more classic symptoms as well.
+
+One model I have is that allergens enter your nose when you breathe in, and then they get "stuck" inside the mucus and continue to cause problems. When this is the case, NeilMed saline spray seems to work really well; by adding moisture to the mucus and loosening it, one can blow out the allergen-ridden mucus.
 
 # Techniques vs habits
 
