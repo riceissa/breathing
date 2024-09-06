@@ -951,7 +951,7 @@ i've benefited from interacting with a lot of people, in the course of figuring 
 - ML: kept mentioning buteyko breathing to me saying i should try it.
 - Howard Cooper: While I've benefitted from all the sources I'm citing in the [References], I want to call out especially @cooper2021 as the thing that finally made the CO~2~ stuff click for me (though my understanding was still very incomplete) and got me to actually start playing around with buteyko techniques.
 - CM: told me about the capnotrainer and got me excited about capnometry biofeedback.
-- Vipul Naik helped me understand some key things about the biology of respiration. In particular, he was the one who figured out that having a low CO~2~ means pH is more sensitive to slight fluctuations in CO~2~ levels. also for reading drafts of this document and giving me feedback. most of the things in this document i wrote up while discussing them with vipul.
+- Vipul Naik helped me understand some key things about the biology of respiration. In particular, he was the one who figured out that having a low CO~2~ means pH is more sensitive to slight fluctuations in CO~2~ levels, just purely by the logic of acid--base chemistry. Also for reading drafts of this document and giving me feedback. Most of the things in this document I wrote up while discussing them with Vipul.
 - DD: introduced me to JA. he was also a catalyst for me figuring out my circadian rhythm, but that's a whole separate topic.
 - JA: my former breathing coach; helped me get set up on the capnotrainer, and helped me through the whole biofeedback process.
 - PL: was generous enough to spend an hour talking to me about capnometer stuff and responding to an email.
