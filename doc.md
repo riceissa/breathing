@@ -315,36 +315,29 @@ Okay, so CO~2~ levels (partial pressure?) in the blood regulate breathing. Now l
 The important point is that because of the form of the Henderson--Hasselbalch equation, the more CO~2~ you have, the less sensitive pH is to slight increases in CO~2~. So breath holding for a few seconds does not cause air hunger/panic/suffocation. Whereas if your CO~2~ is already too low (hypocapnia), then your pH is still normal (thanks to the bicarbonate levels being adjusted by your kidneys), but because of the low CO~2~, even slight changes in CO~2~ can cause large shifts in pH. I think it's this decrease in pH (when CO~2~ rises, blood becomes more acidic so pH goes down) that triggers a strong sense of air hunger. If you give in to this urge and breathe, then your pH will be restored, so _temporarily_ you will feel better. But if you keep giving into this urge and breathing more and more, then over time you're shifting down your bicarbonate buffer even more. Your body adjusts. But that means your baseline CO~2~ also keeps decreasing. So now you're _even more_ sensitive to slight increases in CO~2~. It's a vicious cycle. (and this isn't even talking about the negative health effects of low CO~2~.)
 
 Let's look at some numbers.
-
 $$7.4 \approx 6.1 + \log_{10}\left(\frac{24}{0.0307 \cdot 40}\right)$$
-
 above are the values for a normal person.
 
 When I first used a capnometer, my CO~2~ was around 25\ mmHg. So to get the same pH, my bicarbonate level must have been around 15 (here I'm just solving for $x$ in the equation $24/40 = x/25$ in order to make the input to $\log_{10}$ the same):
-
 $$7.4 \approx 6.1 + \log_{10}\left(\frac{15}{0.0307 \cdot 25}\right)$$
 
 Now let's say both individuals do a breath hold to raise their PCO~2~ by 5\ mmHg. In the case of the healthy person, their pH goes down to 7.34, but in the chronic overbreather's case, it goes down to 7.31.
 
+Here's the other thing Vipul showed me:
 
-here's the other thing vipul showed me:
-
-suppose your equation right now is:
-
+Suppose your equation right now is:
 $$\begin{aligned}
   \mathrm{pH} &\approx 6.1 + \log_{10}\left(\frac{\mathrm{[HCO_3^-]}}{0.0307 \cdot p\mathrm{CO_2}}\right) \\
               &= 6.1 + \log_{10}(\mathrm{[HCO_3^-]}) - \log_{10}(0.0307) - \log_{10}(p\mathrm{CO_2})
 \end{aligned}$$
 
 Now you hold your breath so that the *p*CO~2~ goes up by some amount, $\Delta p\mathrm{CO_2}$, and the pH changes by some amount, $\Delta \mathrm{pH}$ (it's a negative quantity, since your pH goes down when the blood becomes more acidic). Your equation now looks like:
-
 $$\begin{aligned}
   \mathrm{pH} + \Delta \mathrm{pH} &\approx 6.1 + \log_{10}\left(\frac{\mathrm{[HCO_3^-]}}{0.0307 \cdot (p\mathrm{CO_2} + \Delta p\mathrm{CO_2})}\right) \\
                                    &= 6.1 + \log_{10}(\mathrm{[HCO_3^-]}) - \log_{10}(0.0307) - \log_{10}(p\mathrm{CO_2} + \Delta p\mathrm{CO_2})
 \end{aligned}$$
 
 Now let's subtract the first equation from the second; we get:
-
 $$\begin{aligned}
   \Delta \mathrm{pH} &= \log_{10}(p\mathrm{CO_2}) - \log_{10}(p\mathrm{CO_2} + \Delta p\mathrm{CO_2}) \\
                      &= \log_{10}\left(\frac{p\mathrm{CO_2}}{p\mathrm{CO_2} + \Delta p\mathrm{CO_2}}\right) \\
