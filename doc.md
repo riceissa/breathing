@@ -887,6 +887,8 @@ Also interestingly, it's not the kind of muscle soreness like I would in the pas
 
 The advice i've heard about breathing while talking in the buteyko sphere/in the chaitow book are all about how to coordinate your breathing while talking, so as not to overbreathe. but this feels different from what i'm experiencing, which is this muscular tension/soreness feeling.
 
+Some of the time I get some tension lower, in my gut area, from bloating. But most of the time it's a bit higher up, and not from bloating.
+
 # Muscle tension
 
 (Will have to write a lot more here as I figure things out. So far I haven't figured out very much...)
