@@ -937,7 +937,7 @@ things to ask yourself, or rather, here are some things i tend to ask myself, in
 - can i relax some part of my body, or (if some parts of my body are already relaxed) _more_ parts of my body?
 - is my heart rate also high? (for me, this tends to indicate i am having POTS and so lying down often helps me calm down a lot.)
 - Can I take a nap or even just lie down and close my eyes? (This can feel scary and your brain may shout "No!"\ at the idea, but other times it's exactly what you need.) Sometimes it specially needs to be lying down in a certain position, whether that's on your back, on one of your sides, or on your belly. On 2024-08-13 I had to lie down on my belly in order to relax my diaphragm; the other positions didn't help.
-- Place a hand on my belly and just breathe at a regular pace. I find that saying in my head "1, 2, 1, 2..." to be better than saying "in, out, in out..." because when the air goes in, the belly goes out, which is confusing for my brain. "1" and "2" are neutral labels.
+- Place a hand on my belly and just breathe at a regular pace. I find that saying in my head "1, 2, 1, 2..." to be better than saying "in, out, in out..." because when the air goes in, the belly goes out, which is confusing for my brain. "1" and "2" are neutral labels. Better yet, you can count down from 100 as you breathe in and out (I first learned the "count down from 100" trick in Neil Tranter's video <https://inv.nadeko.net/watch?v=9EFnc3k-BCI>), which should also help to remove your focus so much from your breathing/anxiety.
 
 # Acknowledgments {.unnumbered}
 
