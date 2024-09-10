@@ -7,6 +7,20 @@
 \usepackage{lmodern}
 \usepackage[T1]{fontenc}
 
+% Both Latin Modern and MLModern have the problem that on font sizes other than
+% 10pt, some mathematical symbols such as \int don't change size when the
+% document point size is changed. Latin Modern has the specific package fixcmex
+% which fixes this problem. Unfortunately, MLModern does not seem to have such
+% a package. But Latin Modern has the common Type-1 problem of appearing too
+% thin on today's printers and on screens (see
+% https://news.ycombinator.com/item?id=27923694 for details), which MLModern
+% fixes. So are we left to choose a too-thin font, be forced to use 10pt font
+% size, be stuck with poorly sized math symbols, or give up on Computer Modern
+% entirely?  Fortunately, MLModern comes with a map file that can be loaded,
+% which replaces the Latin Modern fonts with the MLModern versions, while also
+% keeping the math symbol sizes!
+\pdfmapfile{mlm-substitute.map}
+
 \usepackage[backend=biber,style=authoryear]{biblatex}
 \addbibresource{$bibliography$}
 
