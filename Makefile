@@ -1,5 +1,5 @@
 .PHONY: all
-all: out.tex docs/index.html docs/breathing.epub
+all: out.tex docs/index.html docs/breathing.epub docs/breathing.pdf
 
 out.tex: doc.md template.tex references.bib
 	pandoc -f markdown -t latex --template template.tex --biblatex --bibliography references.bib -M date:$(shell git log -1 --format="%as") --highlight-style=monochrome -o "$@" "$<"
