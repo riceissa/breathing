@@ -25,3 +25,8 @@ clean:
 	latexmk -c
 	rm -f out.tex docs/index.html docs/breathing.epub
 	rm -f out.bbl out.pdf docs/breathing.pdf
+
+.PHONY: clean_nonfinal
+clean_nonfinal:
+	latexmk -c
+	rm -f out.bbl out.pdf
