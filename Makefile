@@ -22,6 +22,6 @@ docs/breathing.epub: doc.md references.bib epub.css
 
 .PHONY: clean
 clean:
-	rm -f out.tex docs/index.html docs/breathing.epub
 	latexmk -c
-	rm -f out.bbl docs/breathing.pdf
+	rm -f out.tex docs/index.html docs/breathing.epub
+	rm -f out.bbl out.pdf docs/breathing.pdf
