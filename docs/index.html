@@ -5,7 +5,7 @@
   <meta name="generator" content="pandoc" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
   <meta name="author" content="Issa Rice" />
-  <meta name="dcterms.date" content="2024-09-07" />
+  <meta name="dcterms.date" content="2024-10-02" />
   <title>[DRAFT] My thoughts on breathing, with an emphasis on dealing with chronic shortness of breath</title>
   <link rel="stylesheet" href="style.css">
 
@@ -24,7 +24,7 @@
 <h1 class="title">[DRAFT] My thoughts on breathing, with an emphasis on
 dealing with chronic shortness of breath</h1>
 <p class="author">Issa Rice</p>
-<p class="date">2024-09-07 (<a href="https://github.com/riceissa/breathing/commits/main/doc.md">see recent changes</a>)</p>
+<p class="date">2024-10-02 (<a href="https://github.com/riceissa/breathing/commits/main/doc.md">see recent changes</a>)</p>
 </header>
 <nav id="TOC" role="doc-toc">
 <ul>
@@ -1147,7 +1147,7 @@ also derive the -(Change in pH) = log_10(ratio of PCO_2) = log_10(1 + (change in
 regulate breathing. Now let’s imagine what happens when someone
 overbreathes. You might think, okay, CO<sub>2</sub> goes down, so then
 you don’t get as much of an urge to breathe. That’s true in the short
-term. But if someone <em>chronically</em> overbreathes, then the bodies
+term. But if someone <em>chronically</em> overbreathes, then the body
 tries to correct this. You see, the body tries very hard to keep the
 blood pH at a narrow range of 7.35–7.45. If one chronically
 overbreathes, then since CO<sub>2</sub> causes the blood to become
@@ -1178,25 +1178,23 @@ means your baseline CO<sub>2</sub> also keeps decreasing. So now you’re
 <em>even more</em> sensitive to slight increases in CO<sub>2</sub>. It’s
 a vicious cycle. (and this isn’t even talking about the negative health
 effects of low CO<sub>2</sub>.)</p>
-<p>Let’s look at some numbers.</p>
-<p><span class="math display">\[7.4 \approx 6.1 +
-\log_{10}\left(\frac{24}{0.0307 \cdot 40}\right)\]</span></p>
-<p>above are the values for a normal person.</p>
+<p>Let’s look at some numbers. <span class="math display">\[7.4 \approx
+6.1 + \log_{10}\left(\frac{24}{0.0307 \cdot 40}\right)\]</span> above
+are the values for a normal person.</p>
 <p>When I first used a capnometer, my CO<sub>2</sub> was around 25 mmHg.
 So to get the same pH, my bicarbonate level must have been around 15
 (here I’m just solving for <span class="math inline">\(x\)</span> in the
 equation <span class="math inline">\(24/40 = x/25\)</span> in order to
 make the input to <span class="math inline">\(\log_{10}\)</span> the
-same):</p>
-<p><span class="math display">\[7.4 \approx 6.1 +
+same): <span class="math display">\[7.4 \approx 6.1 +
 \log_{10}\left(\frac{15}{0.0307 \cdot 25}\right)\]</span></p>
 <p>Now let’s say both individuals do a breath hold to raise their
 PCO<sub>2</sub> by 5 mmHg. In the case of the healthy person, their pH
 goes down to 7.34, but in the chronic overbreather’s case, it goes down
 to 7.31.</p>
-<p>here’s the other thing vipul showed me:</p>
-<p>suppose your equation right now is:</p>
-<p><span class="math display">\[\begin{aligned}
+<p>Here’s the other thing Vipul showed me:</p>
+<p>Suppose your equation right now is: <span
+class="math display">\[\begin{aligned}
   \mathrm{pH} &amp;\approx 6.1 +
 \log_{10}\left(\frac{\mathrm{[HCO_3^-]}}{0.0307 \cdot
 p\mathrm{CO_2}}\right) \\
@@ -1208,8 +1206,8 @@ by some amount, <span class="math inline">\(\Delta
 p\mathrm{CO_2}\)</span>, and the pH changes by some amount, <span
 class="math inline">\(\Delta \mathrm{pH}\)</span> (it’s a negative
 quantity, since your pH goes down when the blood becomes more acidic).
-Your equation now looks like:</p>
-<p><span class="math display">\[\begin{aligned}
+Your equation now looks like: <span
+class="math display">\[\begin{aligned}
   \mathrm{pH} + \Delta \mathrm{pH} &amp;\approx 6.1 +
 \log_{10}\left(\frac{\mathrm{[HCO_3^-]}}{0.0307 \cdot (p\mathrm{CO_2} +
 \Delta p\mathrm{CO_2})}\right) \\
@@ -1217,8 +1215,8 @@ Your equation now looks like:</p>
 \log_{10}(\mathrm{[HCO_3^-]}) - \log_{10}(0.0307) -
 \log_{10}(p\mathrm{CO_2} + \Delta p\mathrm{CO_2})
 \end{aligned}\]</span></p>
-<p>Now let’s subtract the first equation from the second; we get:</p>
-<p><span class="math display">\[\begin{aligned}
+<p>Now let’s subtract the first equation from the second; we get: <span
+class="math display">\[\begin{aligned}
   \Delta \mathrm{pH} &amp;= \log_{10}(p\mathrm{CO_2}) -
 \log_{10}(p\mathrm{CO_2} + \Delta p\mathrm{CO_2}) \\
                      &amp;=
@@ -1798,17 +1796,19 @@ swallow mucus and then my nose felt fine). Sometimes all you need to do
 is change posture and your nose will be happy. On 2024-08-06 I had
 clogged mucus and my throat was starting to get all choke-y from
 straining for breath, but lying down for about 10 minutes made all the
-mucus flow and I am fine again. I find that lying down on my side
-probably works best, but one can experiment. One thing that’s better
-with lying down (compared to saline spray) is that with saline spray,
-you blow your nose after doing the spray, which make even more of the
-deeper mucus come up (but not completely out), which sometimes clogs
-things up even more. Lying down just pushes the mucus downward, so that
-you can swallow it, rather than moving the mucus to a critical narrow
-spot in the sinuses. I still don’t know why this happens on some days
-but not most days (haven’t found any patterns with temperature or
-humidity, so far). It almost always happens in the morning. Lying down
-also rests the neck/throat which helps it to relax.</li>
+mucus flow and I am fine again. I find that lying down on my side (with
+the more clogged nostril toward the ceiling) probably works best, but
+one can experiment. One thing that’s better with lying down (compared to
+saline spray) is that with saline spray, you blow your nose after doing
+the spray, which make even more of the deeper mucus come up (but not
+completely out), which sometimes clogs things up even more (at least
+temporarily). Lying down just pushes the mucus downward, so that you can
+swallow it, rather than moving the mucus to a critical narrow spot in
+the sinuses. I still don’t know why this happens on some days but not
+most days (haven’t found any patterns with temperature or humidity, so
+far). It almost always happens in the morning (where I can breathe while
+I’m lying down in bed, but shortly after getting up things start to clog
+up). Lying down also rests the neck/throat which helps it to relax.</li>
 <li>Turning on AC/playing around with humidity or temperature. There
 might be U-shaped response with humidity. Too wet like steam and that
 will make your mucus loose, but too dry will also make your mucus loose
@@ -2818,11 +2818,10 @@ test, methacholine challenge test, exhaled nitric oxide test,
 laryngoscopy, and two modified barium swallow studies. They all come
 back essentially normal with no clues as to what’s going on with my
 breathing. My SpO<sub>2</sub> is consistently 97–100%. The one thing
-that was abnormal was my end-tidal CO<sub>2</sub>, which was was too
-low, but capnometry biofeedback brought that up to normal. I’ve been
-doing Buteyko breathing pretty regularly and it helps to relax the
-diaphragm area temporarily, but if I start talking then it tenses up
-again.</p>
+that was abnormal was my end-tidal CO<sub>2</sub>, which was too low,
+but capnometry biofeedback brought that up to normal. I’ve been doing
+Buteyko breathing pretty regularly and it helps to relax the diaphragm
+area temporarily, but if I start talking then it tenses up again.</p>
 </blockquote>
 <p>So the optimistic line of reasoning is: because I’ve noticed a
 pattern where if I push over my talking limit multiple times in a day,
@@ -2867,8 +2866,8 @@ at once (like breathing while chewing), then your body can get confused,
 or like, it can lead to suboptimal patterns of both?</p>
 <h1 data-number="19" id="breathing-synthesis"><span
 class="header-section-number">19</span> Breathing synthesis</h1>
-<p>My synthesis = “Buteyko method” + “Alexander Technique” + Capnometry
-biofeedback</p>
+<p>My synthesis = “Buteyko method” + “Alexander Technique” + <a
+href="#capnometry-biofeedback">Capnometry biofeedback</a></p>
 <p>or maybe:</p>
 <p>My synthesis = Nasal breathing + Silent relaxed breathing + Posture +
 Habits + Capnometry biofeedback</p>
@@ -2887,15 +2886,16 @@ smooth part, and the unconscious/habit part). Some of the Buteyko people
 also <em>mention</em> this, but it tends to be much more buried and not
 <em>emphasized</em>. I think it really needs to be thought of as one of
 the main components.</li>
-<li>Capnometry biofeedback is discussed elsewhere in this document,
-e.g., see the section <a
+<li><a href="#capnometry-biofeedback">Capnometry biofeedback</a> is
+discussed elsewhere in this document, e.g., see the section <a
 href="#the-unreasonable-effectiveness-of-capnometers">The unreasonable
 effectiveness of capnometers</a>. In some sense this one is
 <em>also</em> part of the Buteyko method, except that the Buteyko
 community moved away from capnometry after their equipment was
-destroyed/confiscated. So in some sense I am picking and choosing the
-specific parts of Buteyko that I like, so it’s turning out to be less a
-synthesis and more a distillation.</li>
+destroyed/confiscated. (See <span class="citation"
+data-cites="issarice2024learned">Rice (2024b)</span>.) So in some sense
+I am picking and choosing the specific parts of Buteyko that I like, so
+it’s turning out to be less a synthesis and more a distillation.</li>
 </ul>
 <h1 data-number="20" id="misconceptions"><span
 class="header-section-number">20</span> Misconceptions</h1>
@@ -3002,7 +3002,13 @@ order to relax my diaphragm; the other positions didn’t help.</li>
 <li>Place a hand on my belly and just breathe at a regular pace. I find
 that saying in my head “1, 2, 1, 2…” to be better than saying “in, out,
 in out…” because when the air goes in, the belly goes out, which is
-confusing for my brain. “1” and “2” are neutral labels.</li>
+confusing for my brain. “1” and “2” are neutral labels. Better yet, you
+can count down from 100 as you breathe in and out (I first learned the
+“count down from 100” trick in Neil Tranter’s video <a
+href="https://inv.nadeko.net/watch?v=9EFnc3k-BCI"
+class="uri">https://inv.nadeko.net/watch?v=9EFnc3k-BCI</a>), which
+should also help to remove your focus so much from your
+breathing/anxiety.</li>
 </ul>
 <h1 class="unnumbered" id="acknowledgments">Acknowledgments</h1>
 <p>i’ve benefited from interacting with a lot of people, in the course
