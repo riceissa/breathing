@@ -888,6 +888,10 @@ Some of the time I get some tension lower, in my gut area, from bloating. But mo
 
 A hypothesis I have is that chewing, breathing, talking, swallowing, all make use of a lot of overlapping muscles, and they use these same muscles in _different_ ways, so if you try to do multiple thing at once (like breathing while chewing), then your body can get confused, or like, it can lead to suboptimal patterns of both?
 
+## Greedy vs non-greedy relaxation
+
+When intentionally trying to relax the muscles (e.g., using Buteyko), sometimes one gets stuck in local optima of relaxation. e.g. poor posture and gradual/incremental relaxation on exhales will eventually produce a "cramped" feeling in the gut. The solution seems to be to _sometimes_ undo relaxation, to find a better global state. Progressive muscle relaxation (PMR) works by a similar principle: that by _tensing up_ one's muscles deliberately, one may be able to "find the knobs" by which to relax better.
+
 # Breathing synthesis
 
 My synthesis = "Buteyko method" + "Alexander Technique" + [Capnometry biofeedback]
