@@ -542,6 +542,7 @@ Here are the main strategies I recommend for clearing your nose so you can nose 
 - Turning on AC/playing around with humidity or temperature. There might be U-shaped response with humidity. Too wet like steam and that will make your mucus loose, but too dry will also make your mucus loose to try to compensate for the dry air? In the middle is where the mucus gets thick?
 - Washing bedding (especially(?) if you have dust mites allergy). Especially if the nose restriction feeling is worst in the morning and then gets better over the course of the day.
 - Certain emotions, like embarrassment, seem to open up my nose. Also bowel movements. Maybe there's a way to recall an embarrassing memory to open up one's nose?
+- Standing up and pacing back and forth (even without pinching the nose, as in Patrick McKeown's exercise) can sometimes open up the nostrils, for whatever reason. But doing this is not physically trivial for me given my post-viral condition.
 
 ## The better your breathing, the better your nose
 
