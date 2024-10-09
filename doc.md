@@ -4,6 +4,14 @@ author: Issa Rice
 created: 2024-01-24
 ---
 
+# Availability of this document
+
+This document is available in a few different formats:
+
+- As a webpage, at <https://riceissa.github.io/breathing/>
+- As a PDF document, at <https://riceissa.github.io/breathing/breathing.pdf>
+- As an ebook, at <https://riceissa.github.io/breathing/breathing.epub>
+
 # Preliminaries
 
 maybe a better title is: overcoming chronic shortness of breath by fixing your breathing
