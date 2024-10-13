@@ -702,7 +702,7 @@ It's okay to have mild air hunger throughout the exercise. But you don't want to
 
 an open question for me currently is: after you do this conscious relaxed silent breathing, you will build up some mild air hunger. now, _after_ you complete the exercise, how long should you "keep" that air hunger going? should you feel free to just take a slightly deeper breath and "clear" the air hunger, or should you keep it going for some time (if so, how long?), or should you just try to keep it going as long as possible? i think trying to keep up the silent breathing with slight air hunger for long enough periods tends to cause a sudden burst of anxiety for me, like a sense of panic at not being able to breathe. so i think that's probably not the right thing to do. but it's confusing because i go from feeling totally comfortable with the slight air hunger to suddenly feeling panicky. @mark2015deep says "This process \[raising CO~2~ tolerance over time\] is long and finicky and can cause very unpleasant symptoms. Less is more; barely knowing whether you're doing anything is best. You can also trigger panic attacks or asthma attacks if you’re susceptible." Another thought is to, whenever possible when taking deeper breaths, to do so in more Buteyko-aligned ways, e.g., through the nose and as gently as possible. So don't satisfy the urge for a deeper breath by inhaling with your mouth or yawning or being super forceful about it, just try to gently incline towards a deeper breath, a slight force with your nose. NOTE: this may not be possible at first, e.g., i had to get to silent nasal breathing in order to take "good" breaths with little force through my nose. when i was still mouth breathing some of the time, i always had to take a good breath through my mouth. then when i started nose breathing (but loudly), i could take good breaths occasionally through my nose, but only by loudly sniffing in. so there's a gradual "handoff" where the old normal becomes the new "rescue breath" method.
 
-(2024-06-10: my current hypothesis that I am experimenting with is that you should basically never have to take a mouth breath/forceful inhale/straining inhale. If a reduced breathing session brings on so much air hunger that you feel like you're suffocating, then you went too far. And if eating or talking or walking is causing you to take a mouth breath, then you should stop whatever you are doing, and just calm down enough that you can breathe silently through your nose without any exertion again. If you really need to take mouth breaths because it's suffocating otherwise, then of course it's okay to take mouth breaths, but any mouth breath is a warning that you should just stop whatever you are doing and fix your breathing before going back to other stuff.)
+(2024-06-10: my current hypothesis that I am experimenting with is that you should basically never have to take a mouth breath/forceful inhale/straining inhale. If a reduced breathing session brings on so much air hunger that you feel like you're suffocating, then you went too far. And if eating or talking or walking or mentally or emotionally exerting is causing you to take a mouth breath, then you should stop whatever you are doing, and just calm down enough that you can breathe silently through your nose without any exertion again. If you really need to take mouth breaths because it's suffocating otherwise, then of course it's okay to take mouth breaths, but any mouth breath is a warning that you should just stop whatever you are doing and fix your breathing before going back to other stuff.)
 
 Try slouching too as you do this exercise, and in general experiment with your posture. Your diaphragm will give you feedback on which postures work best. For example, when I slouch as I do this exercise, I notice my diaphragm can't move as well (both for inhale and exhale). Being too upright also makes it seem like my whole torso is too "stiff". So some intermediate posture seems to work best for me, but idk yet if this is optimal.
 
@@ -870,6 +870,20 @@ you probably don't want to do something that requires a lot of mental exertion (
 also possibly just for me, but eating/drinking is kind of stressful because i don't know how to coordinate the moments when i need to hold my breath when i swallow. so for me, eating food would not be a good distraction.
 
 [^tempdistraction]: Hopefully at some point I will figure out a better way out of such situations. I've found that like 80% of the time just sitting quietly and with decent posture and breathing silently through the nose will dissolve the air hunger feeling to a small enough level that I don't even think about it. So this distraction technique is helpful in the remaining 20% of times. But I'm hoping that I can figure out some better, less artificial, solution for what to do in those 20% of times.
+
+## Intermittent exercise: timing how long it takes between big breaths
+
+The exercise: sit with some kind of time-keeping device, and just try to breathe silently through your nose. Air hunger may build up. If the air hunger gets too strong, take in a big breath, then note down the time. Keep doing this until you can go about an hour without taking a big breath.
+
+For example when I did this on 2024-10-13, I got the following result:
+
+|Time (24-hour format)|Minutes since previous big breath|
+|--------------------:|--------------------------------:|
+|12:09|n.a.|
+|12:13|4|
+|12:17|4|
+|12:26|9|
+|(still ok as of 13:24)|58|
 
 # Posture
 
