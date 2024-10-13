@@ -875,7 +875,11 @@ also possibly just for me, but eating/drinking is kind of stressful because i do
 
 The exercise: sit with some kind of time-keeping device, and just try to breathe silently through your nose. Air hunger may build up. If the air hunger gets too strong, take in a big breath, then note down the time. Keep doing this until you can go about an hour without taking a big breath.
 
-For example when I did this on 2024-10-13, I got the following result: 12:09, 12:13, 12:17, 12:26, (still ok as of 13:24). In terms of minutes since the previous big breath, that's 4, 4, 9, 58.
+For example when I did this on 2024-10-13, I got the following result: 12:09, 12:13, 12:17, 12:26, (still ok as of 13:24). In terms of minutes since the previous big breath, that's 4, 4, 9, 58. By the end, I felt quite different.
+
+What counts as a big breath? For me, any mouth breath, and any nose breath where I'm really striving for air. If I accidentally get a bit more air with a nose breath such that it becomes a "good" breath and clears the air hunger, that's ok. Yawning is ok (as long as it is a natural yawn).
+
+I think it's ok to manipulate your breathing a little, not just observe your breathing. In other words, gently try to encourage your breathing to be lighter.
 
 # Posture
 
