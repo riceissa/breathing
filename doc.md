@@ -57,7 +57,7 @@ also, while i've made significant progress on overcoming shortness of breath, as
 
 so yeah, i want to be honest that i haven't figured it all out; i won't pretend i've figured it all out while leaving readers in the dark feeling confused whether they're missing something.
 
-i probably said this somewhere else in the document already, but for now this document is more of a research journal where i come to write down my new ideas about breathing. i think it _can_ be used as instructions to replicate what i did to improve my breathing, but it's not mainly intended to be that, _at least for now_. In the future, I want to turn this document more into a DIY guide to fix breathing problems, but first i need to make sure my ideas are correct and can _fully_ resolve my own breathing problems.
+i probably said this somewhere else in the document already, but for now this document is more of a research journal where i come to write down my new ideas about breathing. i think it _can_ be used as instructions to replicate what i did to improve my breathing, but it's not mainly intended to be that, _at least for now_. In the future, I want to turn this document more into a DIY guide to fix breathing problems, but first i need to make sure my ideas are correct and can _fully_ resolve my own breathing problems. and then i need to make sure the techniques are general enough to work for others with similar problems.
 
 ## Ruling out more serious medical problems
 
@@ -782,6 +782,8 @@ Don't try to go for a lot of air hunger. You only need/want a little bit.
 
 ### Results of the main practice depend on both skill and initial state before the session
 
+2024-10-12: starting at 7:35pm-ish seemed too early to enter the good state. my hands are still cold after 15 minutes. but when i start around 9pm or later it seems very easy to get my hands to be warm. during the day it's almost impossible to get my hands warm. i should try to figure out when the earliest possible time is when i can get my hands warm, and figure out what kinds of physiological processes tend to happen around that time (e.g. hormonal cycles). At 10:07pm on the same day, my hands are warm and 98% O2 sat without even trying (whereas earlier i was struggling with air hunger at 99% and couldn't reliably get it down to 98%). so yeah, something definitely shifted in the last 2.5 hours. my throat is still chokey however.
+
 ### It is possible to spontaneously enter the Good State
 
 ### Tools to help with the main practice
@@ -946,7 +948,7 @@ things to ask yourself, or rather, here are some things i tend to ask myself, in
 
 - can i distract myself using one of the suggestions listed in [Intermittent technique: distraction]?
 - is the breathing difficulty coming from my nostrils being clogged or my turbinates swelling? do i feel resistance in my nose as i breathe (especially on the inhale, in my experience)? if so, can i use a nasal rinse or one of the other strategies listed in [Clearing your nose]?
-- am i exhaling enough air? am i trying to just take in the next breathe before exhaling the current breath? can I exhale just a little bit more? breathing feels so much better when you are able to relax the exhale to its natural completion, and only then begin inhaling.
+- am i exhaling enough air? am i trying to just take in the next breathe before exhaling the current breath? can I exhale just a little bit more? breathing feels so much better when you are able to relax the exhale to its natural completion, and only then begin inhaling. When feeling air hunger, unintuitively it sometimes feels better to keep breathing _out_ more air, rather than breathing in.
 - Can I let the exhale end, and just let my natural breathing reflex start the next inhale?
 - can i soften my inhale? can i make it silent, even just for a few breaths?
 - does my brain feel like it's suffocating? if so, i can try to let myself take an occasional mouth breath.
