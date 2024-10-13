@@ -875,15 +875,7 @@ also possibly just for me, but eating/drinking is kind of stressful because i do
 
 The exercise: sit with some kind of time-keeping device, and just try to breathe silently through your nose. Air hunger may build up. If the air hunger gets too strong, take in a big breath, then note down the time. Keep doing this until you can go about an hour without taking a big breath.
 
-For example when I did this on 2024-10-13, I got the following result:
-
-|Time (24-hour format)|Minutes since previous big breath|
-|--------------------:|--------------------------------:|
-|12:09|n.a.|
-|12:13|4|
-|12:17|4|
-|12:26|9|
-|(still ok as of 13:24)|58|
+For example when I did this on 2024-10-13, I got the following result: 12:09, 12:13, 12:17, 12:26, (still ok as of 13:24). In terms of minutes since the previous big breath, that's 4, 4, 9, 58.
 
 # Posture
 
