@@ -12,6 +12,8 @@ This document is available in a few different formats:
 - As a PDF document, at <https://riceissa.github.io/breathing/breathing.pdf>
 - As an ebook, at <https://riceissa.github.io/breathing/breathing.epub>
 
+Additionally, the source markup and commands used to generate all three formats above are available at <https://github.com/riceissa/breathing/>.
+
 # Preliminaries
 
 maybe a better title is: overcoming chronic shortness of breath by fixing your breathing
