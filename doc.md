@@ -873,13 +873,21 @@ also possibly just for me, but eating/drinking is kind of stressful because i do
 
 ## Intermittent exercise: timing how long it takes between big breaths
 
+Background context: Over the summer of 2024, my general health had declined so much after tapering off nystatin that I wasn't really focused on my breathing at all. But my breathing actually seemed quite good; I wasn't getting air hunger most of the time. However, I did notice that my nose was plugging up a lot in the mornings, and so I would strain for air which would make my throat feel like it was choking me. And anytime I would get air hunger I would clear it with a forceful mouth breath. I was kind of deluding myself into thinking my CO~2~ levels were fine because I was able to silently nose-breathe most of the time. But eventually I came to suspect that perhaps my breathing wasn't alright after all, that the morning mucus was there in the deep part of my sinuses _because_ I was breathing too much at night. So this is the exercise I came up with on 2024-10-13 that really helped me over the hump, to get back into vigilantly reducing mouth breaths. By _measuring_ and noting down each mouth breath, I had something concrete to work with, a metric I could optimize.
+
 The exercise: sit with some kind of time-keeping device, and just try to breathe silently through your nose. Air hunger may build up. If the air hunger gets too strong, take in a big breath, then note down the time. Keep doing this until you can go about an hour without taking a big breath.
 
 For example when I did this on 2024-10-13, I got the following result: 12:09, 12:13, 12:17, 12:26, (still ok as of 13:24). In terms of minutes since the previous big breath, that's 4, 4, 9, 58. By the end, I felt quite different.
 
-What counts as a big breath? For me, any mouth breath, and any nose breath where I'm really striving for air. If I accidentally get a bit more air with a nose breath such that it becomes a "good" breath and clears the air hunger, that's ok. Yawning is ok (as long as it is a natural yawn).
+What counts as a big breath? For me, any mouth breath, and any nose breath where I'm really striving for air. If I accidentally get a bit more air with a nose breath such that it becomes a "good" breath and clears the air hunger, that's ok. Yawning is ok (as long as it is a natural yawn). Burp is ok. A big breath is "third person" in the sense that someone sitting in front of you would be able to observe it and agree that you took a big breath.
 
 I think it's ok to manipulate your breathing a little, not just observe your breathing. In other words, gently try to encourage your breathing to be lighter.
+
+This exercise can be combined with the main practice, especially once you start being able to go for longer without taking in a big breath (so in my example above, starting around 12:36, say, I could have put on a recording to do the main practice).
+
+The air hunger actually seems to dissolve after a while. So there's a point before which things are kind of tough, but then you get past that point and then you can just keep going forever (until some other event happens, like mental exertion or talking out loud).
+
+## Intermittent exercise: count how many times you blow your nose per day
 
 # Posture
 
