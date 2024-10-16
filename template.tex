@@ -9,6 +9,18 @@
 \usepackage{microtype}
 
 \usepackage[backend=biber,style=authoryear]{biblatex}
+
+% Prevent latexmk from getting stuck in an infinite loop due to page breaks
+% changing every time the document is compiled. Taken from
+% https://tex.stackexchange.com/a/326234/18026
+\renewcommand*{\bibsetup}{%
+  \interlinepenalty=10000\relax % default is 5000
+  \widowpenalty=10000\relax
+  \clubpenalty=10000\relax
+  \raggedbottom
+  \frenchspacing
+  \biburlsetup}
+
 \addbibresource{$bibliography$}
 
 % The following is needed for code blocks:
