@@ -578,6 +578,8 @@ Definitely don't get surgery, unless you've tried all the safe options and nothi
 
 my nose still sometimes feels blocked in the morning. not sure what's going on there, but i have a guess that the reason my one nostril plugs up during the night is actually functional. breathing needs are reduced during sleep because you're just lying there and using no muscles. so even the quiet gentle breathing style i have going during the day would be too _much_ air. so my body figures out a way to reduce the air flow, which is to block out the one nostril. this is why my nostril is plugged up, but i seem to be breathing solely through the nose the whole night, even if things are blocked! _and_ it's also why as soon as i wake up, the mucus clears up, because my body realizes "wait, now i'm awake and upright and active, and this is too _little_ air now, we must unblock the nostril!" So for a few moments in the morning i feel a little uncomfortable and might have to take a few forceful nose breaths or even sometimes mouth breaths, but then my body adjusts within 30 minutes to an hour and i'm ok again.
 
+2024-10-16: over the last 3--4 days, i just stopped taking mouth breaths (i take maybe 4 mouth breaths per day now? whereas i had been slacking on my breathing and taking more like one every few minutes for the last few months). and just doing this has basically fixed my nose plugging up in the mornings.
+
 ## Mouth taping
 
 (probably move this section to somewhere else)
