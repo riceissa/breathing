@@ -138,6 +138,8 @@ Buteyko people seem too anti-coughing to me. My uninformed guess is that it's go
 
 I've seen quite often the advice to suppress yawns, but interestingly even the buteyko people say (naturally-occurring) yawning is ok. [@breathetoheal, p. 254] I actually agree with this.
 
+As far as I can make out, one of the reasons why natural yawns are okay is that there is naturally a pause after the yawn. So even though it's technically a "mouth breath", it probably doesn't reduce CO~2~ levels as much as a normal mouth breath. (I haven't actually experimentally verified this using a capnometer.)
+
 ## Breath holds
 
 breath holds in general scare me, and i think it's fine if you don't want to do them. really tiny ones (like 1--5\ seconds) might be good, just to get yourself used to the idea that not breathing for a few seconds isn't going to kill you (you can even have a pulse oximeter on your finger as you do breath holds, to prove to yourself that your oxygen saturation doesn't drop or only drops an insignificant amount, like 1\ percentage point); so i still do include [Introductory exercise: Many small breath holds] in my suggested exercises. some buteyko books like artour's have more safety information about breath holds.
@@ -891,6 +893,8 @@ I think it's ok to manipulate your breathing a little, not just observe your bre
 This exercise can be combined with the main practice, especially once you start being able to go for longer without taking in a big breath (so in my example above, starting around 12:36, say, I could have put on a recording to do the main practice).
 
 The air hunger actually seems to dissolve after a while. So there's a point before which things are kind of tough, but then you get past that point and then you can just keep going forever (until some other event happens, like mental exertion or talking out loud).
+
+You can even just buy a mechanical counter and count the number of mouth breaths you take in a day. As of this writing, they are sold on Amazon for like \$6.
 
 ## Intermittent exercise: count how many times you blow your nose per day
 
