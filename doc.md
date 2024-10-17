@@ -527,7 +527,7 @@ deprecated: slow down your breath.
 
 # Clearing your nose
 
-In my view, nasal breathing is essential for overcoming shortness of breath (once one gets used to nasal breathing, one realizes that any breath taken through the mouth feels unnatural to some extent). It's also the very first step. There's a lot of strategies here so I'll list a bunch along with what I think of them. My guess is that different ones will work for different people, so you kind of want to try a bunch and see what works (most of these are quite cheap).
+In my view, nasal breathing is essential for overcoming shortness of breath (once one gets used to nasal breathing, one realizes that any breath taken through the mouth feels unnatural to some extent). It's also the very first step. There's a lot of strategies here so I'll list a bunch along with what I think of them. My guess is that different ones will work for different people, so you kind of want to try a bunch and see what works (most of these are quite cheap). It's very important to keep in mind that most of these strategies are _short-term hacks_. They aren't _harmful_ as far as I can tell, but you don't want to just keep relying on them long-term; your goal should be to improve your normal, unconscious breathing to the point where you're always doing silent nasal breathing.
 
 I won't say much about _why_ it's better to breathe through your nose, as I think this is already covered pretty well in other sources, in particular @nestor2020, which gives a pretty vivid description of the author's own experiment of breathing solely through his mouth (it's scattered throughout the book, so unfortunately I can't cite a specific chapter).
 
@@ -549,9 +549,10 @@ Here are the main strategies I recommend for clearing your nose so you can nose 
 - Nose strips: these were quite helpful. at first i used the RiteAid brand ones and they worked well enough, and then i got cheaper ones from Amazon and those also worked fine. so my guess is that there isn't much of a quality difference between different brands, and you can just go with whatever. the main thing to watch for is that your skin should not get irritated from using them. also, you should _immediately_ notice an improvement. if you don't immediately breathe better, then you're either not putting them on right or the thing isn't working. There is also a magnetic strip made by a company called Intake Breathing. I never used it so I don't know how well it works, but if you can't get regular nose strips to work, you can look into this.
 - Nose cones: these didn't work for me (i got them because i was encouraged by how useful the nose strips were, and cones seemed like reusable strips). they don't go deep enough in the nose, so they really only help i think if you have a deviated septum or something...
 
-### Buteyko-style nose unblocking exercises
+### Buteyko-style breathing and nose unblocking exercises
 
 - Patrick McKeown's nose unblocking exercise: this is one where you pinch your nose while holding your breath, and swaying or walking around as you do that. I tried this back when my nose was stuffier, and it didn't work very well for me, but i also didn't try very hard to get it working (i just followed one of his videos). 2024-07-13: tried it again and i don't think it worked. when my nose is doing worse, i am already having breathing problems, so holding my breath is hard, and i end up gasping for air after the breath hold is done, which i think just decreases my CO~2~ further, defeating the point of the breath hold. maybe i need to do a bunch of small 1--2 second breath holds.
+- Just breathing less and not taking mouth breaths. See [The better your breathing, the better your nose]. This don't work in the very short term (of the next few hours), but it can work surprisingly quickly. I was able to fix one of my "nose keeps getting plugged up in the mornings for the last 2 months" type issues in the course of 2--4 days. (However, this was already after I had acclimated to silent nose breathing _most_ of the time.)
 
 ### Antihistamines and steroids and allergies
 
@@ -578,7 +579,7 @@ Definitely don't get surgery, unless you've tried all the safe options and nothi
 
 my nose still sometimes feels blocked in the morning. not sure what's going on there, but i have a guess that the reason my one nostril plugs up during the night is actually functional. breathing needs are reduced during sleep because you're just lying there and using no muscles. so even the quiet gentle breathing style i have going during the day would be too _much_ air. so my body figures out a way to reduce the air flow, which is to block out the one nostril. this is why my nostril is plugged up, but i seem to be breathing solely through the nose the whole night, even if things are blocked! _and_ it's also why as soon as i wake up, the mucus clears up, because my body realizes "wait, now i'm awake and upright and active, and this is too _little_ air now, we must unblock the nostril!" So for a few moments in the morning i feel a little uncomfortable and might have to take a few forceful nose breaths or even sometimes mouth breaths, but then my body adjusts within 30 minutes to an hour and i'm ok again.
 
-2024-10-16: over the last 3--4 days, i just stopped taking mouth breaths (i take maybe 4 mouth breaths per day now? whereas i had been slacking on my breathing and taking more like one every few minutes for the last few months). and just doing this has basically fixed my nose plugging up in the mornings.
+2024-10-16: over the last 3--4 days, i just stopped taking mouth breaths (i take maybe 4 mouth breaths per day now? whereas i had been slacking on my breathing and taking more like one every few minutes for the last few months, especially in the mornings/daytime when my breathing tends to be worse). and just doing this has basically fixed my nose plugging up in the mornings.
 
 ## Mouth taping
 
