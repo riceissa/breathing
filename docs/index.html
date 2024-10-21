@@ -5,7 +5,7 @@
   <meta name="generator" content="pandoc" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
   <meta name="author" content="Issa Rice" />
-  <meta name="dcterms.date" content="2024-10-16" />
+  <meta name="dcterms.date" content="2024-10-21" />
   <title>[DRAFT] My thoughts on breathing, with an emphasis on dealing with chronic shortness of breath</title>
   <link rel="stylesheet" href="style.css">
 
@@ -24,7 +24,7 @@
 <h1 class="title">[DRAFT] My thoughts on breathing, with an emphasis on
 dealing with chronic shortness of breath</h1>
 <p class="author">Issa Rice</p>
-<p class="date">2024-10-16 (<a href="https://github.com/riceissa/breathing/commits/main/doc.md">see recent changes</a>)</p>
+<p class="date">2024-10-21 (<a href="https://github.com/riceissa/breathing/commits/main/doc.md">see recent changes</a>)</p>
 </header>
 <nav id="TOC" role="doc-toc">
 <ul>
@@ -1259,7 +1259,7 @@ to 7.31.</p>
 <p>Here’s the other thing Vipul showed me:</p>
 <p>Suppose your equation right now is: <span
 class="math display">\[\begin{aligned}
-  \mathrm{pH} &amp;\approx 6.1 +
+  \mathrm{pH}&amp;\approx 6.1 +
 \log_{10}\left(\frac{\mathrm{[HCO_3^-]}}{0.0307 \cdot
 p\mathrm{CO_2}}\right) \\
               &amp;= 6.1 + \log_{10}(\mathrm{[HCO_3^-]}) -
@@ -1272,19 +1272,19 @@ class="math inline">\(\Delta \mathrm{pH}\)</span> (it’s a negative
 quantity, since your pH goes down when the blood becomes more acidic).
 Your equation now looks like: <span
 class="math display">\[\begin{aligned}
-  \mathrm{pH} + \Delta \mathrm{pH} &amp;\approx 6.1 +
-\log_{10}\left(\frac{\mathrm{[HCO_3^-]}}{0.0307 \cdot (p\mathrm{CO_2} +
+  \mathrm{pH}+ \Delta \mathrm{pH} &amp;\approx 6.1 +
+\log_{10}\left(\frac{\mathrm{[HCO_3^-]}}{0.0307 \cdot (p\mathrm{CO_2}+
 \Delta p\mathrm{CO_2})}\right) \\
                                    &amp;= 6.1 +
 \log_{10}(\mathrm{[HCO_3^-]}) - \log_{10}(0.0307) -
-\log_{10}(p\mathrm{CO_2} + \Delta p\mathrm{CO_2})
+\log_{10}(p\mathrm{CO_2}+ \Delta p\mathrm{CO_2})
 \end{aligned}\]</span></p>
 <p>Now let’s subtract the first equation from the second; we get: <span
 class="math display">\[\begin{aligned}
-  \Delta \mathrm{pH} &amp;= \log_{10}(p\mathrm{CO_2}) -
-\log_{10}(p\mathrm{CO_2} + \Delta p\mathrm{CO_2}) \\
+  \Delta\mathrm{pH}&amp;= \log_{10}(p\mathrm{CO_2}) -
+\log_{10}(p\mathrm{CO_2}+ \Delta p\mathrm{CO_2}) \\
                      &amp;=
-\log_{10}\left(\frac{p\mathrm{CO_2}}{p\mathrm{CO_2} + \Delta
+\log_{10}\left(\frac{p\mathrm{CO_2}}{p\mathrm{CO_2}+ \Delta
 p\mathrm{CO_2}}\right) \\
                      &amp;= - \log_{10}\left(1 + \frac{\Delta
 p\mathrm{CO_2}}{p\mathrm{CO_2}}\right)
@@ -1292,8 +1292,9 @@ p\mathrm{CO_2}}{p\mathrm{CO_2}}\right)
 <p>What does all of this show? Well, the quantity <span
 class="math inline">\(\frac{\Delta
 p\mathrm{CO_2}}{p\mathrm{CO_2}}\)</span> is actually the fractional
-change in pCO<sub>2</sub>. So it shows that <em>the change in pH is a
-function of the fractional change in pCO<sub>2</sub></em>. This is one
+change in <span class="math inline">\(p\mathrm{CO_2}\)</span>. So it
+shows that <em>the change in pH is a function of the fractional change
+in <span class="math inline">\(p\mathrm{CO_2}\)</span></em>. This is one
 way to understand why having low CO<sub>2</sub> means your pH changes
 more easily: the same amount of absolute CO<sub>2</sub> change results
 in a greater fractional change in CO<sub>2</sub>. (Note: fractional
