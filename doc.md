@@ -4,7 +4,7 @@ author: Issa Rice
 created: 2024-01-24
 ---
 
-\newcommand{\pco2}{p\mathrm{CO_2}}
+\newcommand{\pcotwo}{p\mathrm{CO_2}}
 
 \newcommand{\ph}{\mathrm{pH}}
 
@@ -349,18 +349,18 @@ $$\begin{aligned}
 
 Now you hold your breath so that the *p*CO~2~ goes up by some amount, $\Delta p\mathrm{CO_2}$, and the pH changes by some amount, $\Delta \mathrm{pH}$ (it's a negative quantity, since your pH goes down when the blood becomes more acidic). Your equation now looks like:
 $$\begin{aligned}
-  \ph + \Delta \mathrm{pH} &\approx 6.1 + \log_{10}\left(\frac{\mathrm{[HCO_3^-]}}{0.0307 \cdot (\pco2 + \Delta \pco2)}\right) \\
-                                   &= 6.1 + \log_{10}(\mathrm{[HCO_3^-]}) - \log_{10}(0.0307) - \log_{10}(\pco2 + \Delta\pco2)
+  \ph + \Delta \mathrm{pH} &\approx 6.1 + \log_{10}\left(\frac{\mathrm{[HCO_3^-]}}{0.0307 \cdot (\pcotwo + \Delta \pcotwo)}\right) \\
+                                   &= 6.1 + \log_{10}(\mathrm{[HCO_3^-]}) - \log_{10}(0.0307) - \log_{10}(\pcotwo + \Delta\pcotwo)
 \end{aligned}$$
 
 Now let's subtract the first equation from the second; we get:
 $$\begin{aligned}
-  \Delta\ph &= \log_{10}(\pco2) - \log_{10}(\pco2 + \Delta\pco2) \\
-                     &= \log_{10}\left(\frac{\pco2}{\pco2 + \Delta\pco2}\right) \\
-                     &= - \log_{10}\left(1 + \frac{\Delta \pco2}{\pco2}\right)
+  \Delta\ph &= \log_{10}(\pcotwo) - \log_{10}(\pcotwo + \Delta\pcotwo) \\
+                     &= \log_{10}\left(\frac{\pcotwo}{\pcotwo + \Delta\pcotwo}\right) \\
+                     &= - \log_{10}\left(1 + \frac{\Delta \pcotwo}{\pcotwo}\right)
 \end{aligned}$$
 
-What does all of this show? Well, the quantity $\frac{\Delta\pco2}{\pco2}$ is actually the fractional change in $\pco2$. So it shows that _the change in pH is a function of the fractional change in $\pco2$_. This is one way to understand why having low CO~2~ means your pH changes more easily: the same amount of absolute CO~2~ change results in a greater fractional change in CO~2~. (Note: fractional change is almost the same thing as percentage change, just divided by 100.)
+What does all of this show? Well, the quantity $\frac{\Delta\pcotwo}{\pcotwo}$ is actually the fractional change in $\pcotwo$. So it shows that _the change in pH is a function of the fractional change in $\pcotwo$_. This is one way to understand why having low CO~2~ means your pH changes more easily: the same amount of absolute CO~2~ change results in a greater fractional change in CO~2~. (Note: fractional change is almost the same thing as percentage change, just divided by 100.)
 
 
 Here's a model you can play around with in Python:
