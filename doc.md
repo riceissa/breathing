@@ -8,6 +8,8 @@ created: 2024-01-24
 
 \newcommand{\ph}{\mathrm{pH}}
 
+\newcommand{\bicarbconc}{\mathrm{[HCO_3^-]}}
+
 # Availability of this document
 
 This document is available in a few different formats:
@@ -337,20 +339,20 @@ above are the values for a normal person.
 When I first used a capnometer, my CO~2~ was around 25\ mmHg. So to get the same pH, my bicarbonate level must have been around 15 (here I'm just solving for $x$ in the equation $24/40 = x/25$ in order to make the input to $\log_{10}$ the same):
 $$7.4 \approx 6.1 + \log_{10}\left(\frac{15}{0.0307 \cdot 25}\right)$$
 
-Now let's say both individuals do a breath hold to raise their PCO~2~ by 5\ mmHg. In the case of the healthy person, their pH goes down to 7.34, but in the chronic overbreather's case, it goes down to 7.31.
+Now let's say both individuals do a breath hold to raise their $\pcotwo$ by 5\ mmHg. In the case of the healthy person, their $\ph$ goes down to 7.34, but in the chronic overbreather's case, it goes down to 7.31.
 
 Here's the other thing Vipul showed me:
 
 Suppose your equation right now is:
 $$\begin{aligned}
-  \ph &\approx 6.1 + \log_{10}\left(\frac{\mathrm{[HCO_3^-]}}{0.0307 \cdot p\mathrm{CO_2}}\right) \\
-              &= 6.1 + \log_{10}(\mathrm{[HCO_3^-]}) - \log_{10}(0.0307) - \log_{10}(p\mathrm{CO_2})
+  \ph &\approx 6.1 + \log_{10}\left(\frac{\bicarbconc}{0.0307 \cdot p\mathrm{CO_2}}\right) \\
+              &= 6.1 + \log_{10}(\bicarbconc) - \log_{10}(0.0307) - \log_{10}(p\mathrm{CO_2})
 \end{aligned}$$
 
-Now you hold your breath so that the *p*CO~2~ goes up by some amount, $\Delta p\mathrm{CO_2}$, and the pH changes by some amount, $\Delta \mathrm{pH}$ (it's a negative quantity, since your pH goes down when the blood becomes more acidic). Your equation now looks like:
+Now you hold your breath so that the $\pcotwo$ goes up by some amount, $\Delta p\mathrm{CO_2}$, and the $\ph$ changes by some amount, $\Delta \mathrm{pH}$ (it's a negative quantity, since your $\ph$ goes down when the blood becomes more acidic). Your equation now looks like:
 $$\begin{aligned}
-  \ph + \Delta \mathrm{pH} &\approx 6.1 + \log_{10}\left(\frac{\mathrm{[HCO_3^-]}}{0.0307 \cdot (\pcotwo + \Delta \pcotwo)}\right) \\
-                                   &= 6.1 + \log_{10}(\mathrm{[HCO_3^-]}) - \log_{10}(0.0307) - \log_{10}(\pcotwo + \Delta\pcotwo)
+  \ph + \Delta\ph &\approx 6.1 + \log_{10}\left(\frac{\bicarbconc}{0.0307 \cdot (\pcotwo + \Delta \pcotwo)}\right) \\
+                                   &= 6.1 + \log_{10}(\bicarbconc) - \log_{10}(0.0307) - \log_{10}(\pcotwo + \Delta\pcotwo)
 \end{aligned}$$
 
 Now let's subtract the first equation from the second; we get:
