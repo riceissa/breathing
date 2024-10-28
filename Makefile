@@ -5,7 +5,7 @@ out.tex: doc.md template.tex references.bib
 	pandoc -f markdown -t latex --template template.tex --biblatex --bibliography references.bib -M date:$(shell git log -1 --format="%as") --highlight-style=monochrome -o "$@" "$<"
 
 docs/breathing.pdf: out.tex references.bib
-	latexmk -lualatex out.tex
+	latexmk -pdflatex out.tex
 	mv out.pdf docs/breathing.pdf
 
 docs/index.html: doc.md references.bib template.html docs/style.css
