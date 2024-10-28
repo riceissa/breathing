@@ -902,6 +902,12 @@ The air hunger actually seems to dissolve after a while. So there's a point befo
 
 You can even just buy a mechanical counter and count the number of mouth breaths you take in a day. As of this writing, they are sold on Amazon for like \$6.
 
+First stage: If get urge to mouth breathe, stop everything, sit quietly, relax, and breathe through nose. If urge builds up too strongly, take mouth breath and write down the time.
+
+After a week and urge to take mouth breath is no more frequent than $2$--$3$ times per day, second stage: If get urge to breathe in such a way as to clear air hunger (breathe more forcefully, trying to get the air in deeper, etc.), then drop everything and just sit with the air hunger and relax. If air hunger too strong, then, _with the nose_ clear the air hunger, then write down the time.
+
+Stage three: equivalent to main practice/Buteyko-style reduced breathing.
+
 ## Intermittent exercise: count how many times you blow your nose per day
 
 # Posture
