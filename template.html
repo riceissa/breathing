@@ -13,9 +13,7 @@ $endif$
   <title>$pagetitle$</title>
   <link rel="stylesheet" href="style.css">
 
-  <link rel="preconnect" href="https://fonts.googleapis.com">
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Source+Sans+Pro:ital,wght@0,400;0,600;0,700;1,400;1,600;1,700&family=Source+Serif+Pro:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
+  <script src="darkmode.js"></script>
 
 $if(math)$
 $if(mathjax)$
@@ -25,6 +23,20 @@ $endif$
 $endif$
 </head>
 <body>
+
+<div>
+  <span id="changeThemeMenu" style="display: none;">Set color scheme to:
+     <span id="auto-menu-option" style="cursor: pointer;" class="unselectable" onclick="change_theme.set_color('auto')">auto</span>,
+     <span id="light-menu-option" style="cursor: pointer;" class="unselectable" onclick="change_theme.set_color('light')">light</span>,
+     <span id="dark-menu-option" style="cursor: pointer;" class="unselectable" onclick="change_theme.set_color('dark')">dark</span>
+  </span>
+</div>
+
+<script>
+  document.getElementById('changeThemeMenu').style.display='inline';
+  change_theme.set_theme_from_local_storage();
+</script>
+
 <article>
 $if(title)$
 <header id="title-block-header">

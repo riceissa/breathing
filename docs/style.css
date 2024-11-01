@@ -79,3 +79,12 @@ div.csl-right-inline {
 div.csl-indent {
   margin-left: 2em;
 }
+
+body.dark {
+  background-color: rgb(40, 41, 42);
+}
+
+body.dark article {
+  background-color: rgb(40, 41, 42);
+  color: rgb(216, 215, 212);
+}
