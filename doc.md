@@ -208,7 +208,7 @@ The following is a typology of the _phenomenology_ of shortness of breath (at le
 
 - Straining for air clears air hunger? Yes/No/Helps but doesn't eliminate air hunger
 - Nose feels blocked or there is a feeling of resistance in the nose? Yes/No
-- Happens when trying to fall asleep? Yes/No
+- Happens as one is falling asleep? Yes, all the time/Yes, but not all the time/No
 - Started when doing a breath hold? Yes/No
 - Started when trying to exercise? Yes/No
 - Started when trying to mentally exert? Yes/No
