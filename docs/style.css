@@ -4,6 +4,7 @@ body {
     font-family: Charter, "Bitstream Charter", Georgia, serif;
     background-color: #cccccc;
     text-rendering: optimizeLegibility;
+    color: #000000;
 
     /* This prevents there being a thin gray border on the sides on narrow
      * screens. */
@@ -82,9 +83,13 @@ div.csl-indent {
 
 body.dark {
   background-color: rgb(40, 41, 42);
+  color: rgb(216, 215, 212);
 }
 
 body.dark article {
   background-color: rgb(40, 41, 42);
   color: rgb(216, 215, 212);
 }
+
+body.dark a:link { color: #f0ca35; }
+body.dark a:visited { color: #f07235; }
