@@ -906,7 +906,7 @@ First stage: If get urge to mouth breathe, stop everything, sit quietly, relax, 
 
 After a week and urge to take mouth breath is no more frequent than $2$--$3$ times per day, second stage: If get urge to breathe in such a way as to clear air hunger (breathe more forcefully, trying to get the air in deeper, etc.), then drop everything and just sit with the air hunger and relax. If air hunger too strong, then, _with the nose_ clear the air hunger, then write down the time.
 
-Stage three: equivalent to main practice/Buteyko-style reduced breathing.
+Stage three: equivalent to main practice/Buteyko-style reduced breathing. You can also instead do the same thing as stage 2, but do like a single breath hold of like 3--5 seconds, to generate the _slightest_ bit of air hunger, and then try to keep it going.
 
 ## Intermittent exercise: count how many times you blow your nose per day
 
