@@ -1,13 +1,13 @@
 // License: CC0 https://creativecommons.org/publicdomain/zero/1.0/
 
 // We use a self-executing anonymous function to create a separate namespace
-// called change_theme. This way any functions we define here won't affect
+// called darkmode. This way any functions we define here won't affect
 // other scripts. See https://stackoverflow.com/a/5947280/3422337 . (The
 // version here is a bit different because we aren't using jQuery so we don't
 // have to pass that as an argument, and modern versions of JavaScript don't
 // allow you to redefine undefined so we don't need to keep that as an argument
 // either.)
-(function(change_theme) {
+(function(darkmode) {
     // body classlist: blank (light) or "dark" (dark)
     // local storage: blank (meaning auto), "auto", "light", or "dark"
     // color argument: "auto", "light", or "dark"
@@ -56,21 +56,21 @@
 
     // This function runs every time the menu buttons (auto/light/dark) are
     // clicked.
-    change_theme.set_color = function set_color(color) {
+    darkmode.set_color = function set_color(color) {
         set_body_classlist_color(color);
         localStorage.setItem("color", color);
         set_visual_feedback_color(color);
     };
 
     // This function runs once on each page load.
-    change_theme.set_theme_from_local_storage = function set_theme_from_local_storage() {
+    darkmode.set_theme_from_local_storage = function set_theme_from_local_storage() {
         const site_specific_preferred_color = localStorage.getItem("color") || "auto";
         set_body_classlist_color(site_specific_preferred_color);
         set_visual_feedback_color(site_specific_preferred_color);
     };
 
     // This function runs whenever the OS/browser preference changes.
-    change_theme.set_theme_when_os_preference_changes = function set_theme_when_os_preference_changes() {
+    darkmode.set_theme_when_os_preference_changes = function set_theme_when_os_preference_changes() {
         const site_specific_preferred_color = localStorage.getItem("color") || "auto";
         if (site_specific_preferred_color === "auto") {
             set_body_classlist_color(site_specific_preferred_color);
@@ -86,6 +86,6 @@
     // the color scheme, so if the user has auto mode set on this particular
     // website then the color scheme would only get updated whenever the user
     // either clicks the "auto" button again or reloads the page.
-    const dark_mode_preference = window.matchMedia("(prefers-color-scheme: dark)");
-    dark_mode_preference.addEventListener("change", e => change_theme.set_theme_when_os_preference_changes());
-}(window.change_theme = window.change_theme || {}));
+    const darkmode_preference = window.matchMedia("(prefers-color-scheme: dark)");
+    darkmode_preference.addEventListener("change", e => darkmode.set_theme_when_os_preference_changes());
+}(window.darkmode = window.darkmode || {}));

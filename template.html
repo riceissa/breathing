@@ -25,16 +25,16 @@ $endif$
 <body>
 
 <div>
-  <span id="changeThemeMenu" style="display: none;">Set color scheme to:
-     <span id="auto-menu-option" style="cursor: pointer;" class="unselectable" onclick="change_theme.set_color('auto')">auto</span>,
-     <span id="light-menu-option" style="cursor: pointer;" class="unselectable" onclick="change_theme.set_color('light')">light</span>,
-     <span id="dark-menu-option" style="cursor: pointer;" class="unselectable" onclick="change_theme.set_color('dark')">dark</span>
+  <span id="darkmodeMenu" style="display: none;">Set color scheme to:
+     <span id="auto-menu-option" style="cursor: pointer;" class="unselectable" onclick="darkmode.set_color('auto')">auto</span>,
+     <span id="light-menu-option" style="cursor: pointer;" class="unselectable" onclick="darkmode.set_color('light')">light</span>,
+     <span id="dark-menu-option" style="cursor: pointer;" class="unselectable" onclick="darkmode.set_color('dark')">dark</span>
   </span>
 </div>
 
 <script>
-  document.getElementById('changeThemeMenu').style.display='inline';
-  change_theme.set_theme_from_local_storage();
+  document.getElementById('darkmodeMenu').style.display='inline';
+  darkmode.set_theme_from_local_storage();
 </script>
 
 <article>
