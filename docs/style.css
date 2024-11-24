@@ -50,9 +50,11 @@ a.footnote-ref, a.footnote-back {
   text-decoration: none;
 }
 
-/* Table of contents styling -- taken from Pandoc template. */
+/* Table of contents styling -- modified from Pandoc template. */
 #TOC li {
   list-style: none;
+  text-indent: -28px;
+  margin-left: 28px;
 }
 #TOC ul {
   padding-left: 1.3em;
