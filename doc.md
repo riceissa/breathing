@@ -946,6 +946,8 @@ The advice i've heard about breathing while talking in the buteyko sphere/in the
 
 Some of the time I get some tension lower, in my gut area, from bloating. But most of the time it's a bit higher up, and not from bloating.
 
+Update from 2024-12-09: I increasingly suspect this really is just from a hypersensitive nervous system issue, and is almost completely separate from the breathing issue. I'm currently working on the nervous system issue using brain retraining. I'm hoping this will take care of my other numerous symptoms too. This nervous system work will turn into probably a separate document, or a series of blog posts, or something like that. But my first priority is to make sure this brain retraining stuff actually works.
+
 # Muscle tension
 
 (Will have to write a lot more here as I figure things out. So far I haven't figured out very much...)
