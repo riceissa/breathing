@@ -45,7 +45,7 @@ i will be critiquing a lot of sources as i discuss them. i don't want to sound t
 
 note to self: this document should have a tightly focused scope. it's to explain what is going on biologically in air hunger, and then explain _how to get out of that state_. all my other random thoughts about breathing should be put somewhere else. ask: will this directly help someone who is suffering from shortness of breath?
 
-a note for breathing experts: if you're wondering what the philosophy of this document is in a few words, check out the [Breathing synthesis] section. In short, my philosophy is the "Buteyko method" + the "Alexander Technique" + capnometry biofeedback, with the first two terms in quotes because I'm sort of doing my own bastardized versions of them, and wouldn't want to claim I am propagating the "real thing". If you don't know what any of the three terms mean, don't worry! They will all be explained in the course of this document.
+a note for breathing experts: if you're wondering what the philosophy of this document is in a few words, check out the [Breathing synthesis] section. In short, my philosophy is the "(very gentle) Buteyko method" + the "Alexander Technique" + capnometry biofeedback, with the first two terms in quotes because I'm sort of doing my own bastardized versions of them, and wouldn't want to claim I am propagating the "real thing". If you don't know what any of the three terms mean, don't worry! They will all be explained in the course of this document.
 
 i think a lot of resources are needlessly general, to the point where the reader has to do a lot of work to figure out which parts to ignore and which parts to follow. trying to satisfy everyone by writing super generally means everyone gets a decent but not great experience. so i'm solving this problem by writing for an extremely specific audience: people like my past self. this will make the document useless or only tangentially relevant to a lot of people, but for the intended audience, it will be _exactly_ what they need. i'll try to make this document a self-contained do-it-yourself guide on how to overcome shortness of breath. many other guides don't try to be self-contained; they link out to other things that you can try, or otherwise make you hunt down references or jump through hoops to get them. a printed version of this document, without any internet connection, hopefully with access to a capnometer, and about 2 months (half that if you can already breathe through your nose) should suffice to fix air hunger.
 
@@ -707,6 +707,8 @@ This one is most similar to @rakhimov2013advanced [section 4.6, "Relaxing the di
 
 However, in my experience, all the other buteyko resources are pretty much "you just sit there and relax your body and breathe lighter", and people will just go like "ok...... so you just sit there and relax and breathe? how hard can that be?" And I think this style of pedagogy will tend to disappoint people when they find out how tricky the practice actually is. Or people will just sit there and try to relax and breathe, and they won't make any progress because they do the exercise wrong?
 
+(Further rant on Buteyko pedagogy: some buteyko-oriented teachers don't emphasize relaxation enough. You really do not want to restrict your breathing by tensing up more; that's just going to make the air hunger worse. The Russian-lineage buteyko practitioners tend to be better in this regard, as they make sure to tell you to relax as you reduce your breathing. However, the problem with buteyko pedagogy in general is that it's not really tailored to people with air hunger, so it just kind of assumes you can do the exercises or can take your CP. People with air hunger issues (including myself) can find it very hard to measure their CP. Notice that in this document, this main practice is to be done _after_ you're already nasal breathing, _after_ you've gotten comfortable with short breath holds, etc. And this is considered the most gentle of the buteyko exercises, so if this was a buteyko document, it would be the first exercise that would be taught. When you have air hunger, the gentler the better.)
+
 If you have trouble relaxing your exhale or knowing whether you are relaxing your exhale, try the [Intermittent technique: Double inhale technique] or try artificially slowing down just the first part of your exhale. These two techniques should give you an easier time relaxing the exhale so you will know what relaxation feels like.
 
 note that i use the word "silent" rather than "quiet" because for a long time i thought my breathing was quiet, but it turned out my breathing was still making quite a bit of noise compared to what i _could_ do. i don't want others to make the same mistake i did. if your hearing is normal, you should not be able to hear your breathing. if you are hard of hearing, then maybe get someone else to check for you.
@@ -926,6 +928,8 @@ i've been kind of going through a loop of {feeling tired $\to$ slouch $\to$ feel
 
 There are people with terrible posture who have normal breathing. So clearly posture isn't the full picture either.
 
+question: why is the buteyko belt considered good, but slouched posture that restricts the diaphragm considered bad?
+
 # Breathing and sleep
 
 One of the problems with going to sleep is that when you're lying in a dark room with literally no stimuli, it's very hard _not_ to think about your breath and overly focus on it. And focusing on it too much leads to trying to control your breathing which often means worse breathing. This is a pattern I keep falling into, but I'm not sure how to get _out_ of it. I mostly just try to get in bed only when I'm sleepy and also to think about random things while I'm trying to fall asleep so that I don't think about my breath.
@@ -964,7 +968,7 @@ My synthesis = "Buteyko method" + "Alexander Technique" + [Capnometry biofeedbac
 
 or maybe:
 
-My synthesis = Nasal breathing + Silent relaxed breathing + Posture + Habits + Capnometry biofeedback
+My synthesis = Nasal breathing + Silent relaxed breathing + Posture + Habits + Capnometry biofeedback + Brain retraining (anxiety and nervous system)
 
 - Buteyko provides nasal breathing, silent breathing and a theory of air hunger via CO~2~ levels. I put it in quotes because this is probably a vast oversimplification of the Buteyko method -- but I only needed this much of the theory.
 - "Alexander Technique" is what I mean by just allowing the breath to happen: smooth, not jerky. "Allowing the breath to happen" rather than doing the breath. And also making the good breathing a _habit_ rather than "executing techniques" when you need them. Make it automatic/autonomic/subconscious/unconscious, rather than conscious/manual -- this one might be two separate things actually (the smooth part, and the unconscious/habit part). Some of the Buteyko people also _mention_ this, but it tends to be much more buried and not _emphasized_. I think it really needs to be thought of as one of the main components.
