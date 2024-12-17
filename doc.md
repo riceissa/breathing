@@ -447,7 +447,7 @@ So what we've established is:
 
 One of the weird things I discovered while using the CapnoTrainer is that the breathing style that brought CO~2~ levels up to normal in the most effortless way turned out to be what the Buteyko people have been saying all along: silent nasal breathing. This raises the question of whether there is some universally "optimal" breathing style that everyone should have, or if it's more of a preference (different people can have different breathing styles, but what matters is that your CO~2~ levels are normal and you don't have air hunger or other breathing issues).
 
-As I said in the previous paragraph, the Buteyko people believe there _is_ such a thing as universal optimal breathing, namely effortless silent nasal breathing that is invisible from the outside.
+As I said in the previous paragraph, the Buteyko people believe there _is_ such a thing as universal optimal breathing, namely effortless silent nasal breathing that is invisible from the outside. However, Buteyko people don't prescribe a certain rate of breathing (e.g. they don't say you need to breathe in to a count of 4 seconds and exhale to a count of 6 seconds).
 
 Peter Litchfield on the other hand says that it doesn't matter how you breathe -- you could even mouth breathe -- as long as your breathing habits are "functional" (by which I think he means your CO~2~ levels are at like 40\ mmHg). For example see @capnolearningbook [p. 21], where "There is an ideal breathing pattern that each of us needs to learn" is listed as a misconception.
 
