@@ -453,7 +453,7 @@ unfortunately it's hard to get descriptions of what normal breathing feels like 
 
 in normal breathing:
 
-- there is no urge to take a deep breath if one is just quietly sitting. this is indefinite, in contrast to air hunger where one might be able to take a few quiet breaths in a row but then the urge to take a deep one builds up over time. in normal breathing, there is no buildup.
+- There is no urge to take a deep breath as long as one is just quietly sitting or doing some "minimal" activity such as standing, walking a few paces, or talking at a normal volume. This is indefinite, in contrast to air hunger where one might be able to take a few quiet breaths in a row but then the urge to take a deep one builds up over time. in normal breathing, there is no buildup.
 - silent nasal breathing is sufficient (at least when seated or lying down)
 - it is still possible to take a deep breath. these feel better than normal breaths, but there is no compulsion to keep achieving that deep breath. it's currently not clear to me why normal people don't develop an addiction to taking deep breaths... I think it may be similar to drinking water or something: imagine a world where people normally get water drop by drop; then it might feel particularly good to drink a big gulp of water; but if you keep gulping water, you just get too much of it and you reach a point of satiation.
 
