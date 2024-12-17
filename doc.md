@@ -447,11 +447,13 @@ So what we've established is:
 
 One of the weird things I discovered while using the CapnoTrainer is that the breathing style that brought CO~2~ levels up to normal in the most effortless way turned out to be what the Buteyko people have been saying all along: silent nasal breathing. This raises the question of whether there is some universally "optimal" breathing style that everyone should have, or if it's more of a preference (different people can have different breathing styles, but what matters is that your CO~2~ levels are normal and you don't have air hunger or other breathing issues).
 
+As I said in the previous paragraph, the Buteyko people believe there _is_ such a thing as universal optimal breathing, namely effortless silent nasal breathing that is invisible from the outside.
+
 Peter Litchfield on the other hand says that it doesn't matter how you breathe -- you could even mouth breathe -- as long as your breathing habits are "functional" (by which I think he means your CO~2~ levels are at like 40\ mmHg). For example see @capnolearningbook [p. 21], where "There is an ideal breathing pattern that each of us needs to learn" is listed as a misconception.
 
-unfortunately it's hard to get descriptions of what normal breathing feels like from normal people because those are the people for whom nothing about their breathing has ever been wrong. so they don't think about their breathing. they don't know how to contrast normal breathing to what abnormal or overbreathing feel like. here i will try my best to share glimpses of what normal breathing feel like, although caveat as usual that i have not fully fixed my breathing problem yet.
+Unfortunately it's hard to get descriptions of what normal breathing feels like from normal people because those are the people for whom nothing about their breathing has ever been wrong. so they don't think about their breathing. they don't know how to contrast normal breathing to what abnormal or overbreathing feel like. (It's sort of like how native speakers of a language are often the worst teachers of the language because to them the quirks of the language are natural and they've never known what it's like to _not_ know the language. To learn a language, you need to find the non-native speakers who have managed to achieve proficiency in the language because they are the ones who know all of the struggles you are going through.) here i will try my best to share glimpses of what normal breathing feel like, although caveat as usual that i have not fully fixed my breathing problem yet.
 
-in normal breathing:
+In normal breathing:
 
 - There is no urge to take a deep breath as long as one is just quietly sitting or doing some "minimal" activity such as standing, walking a few paces, or talking at a normal volume. This is indefinite, in contrast to air hunger where one might be able to take a few quiet breaths in a row but then the urge to take a deep one builds up over time. in normal breathing, there is no buildup.
 - silent nasal breathing is sufficient (at least when seated or lying down)
