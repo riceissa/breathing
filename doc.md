@@ -657,6 +657,12 @@ I find myself somewhere in between these two views. In a sense, I think both sid
 
 So yes, do the techniques. Learn them so well that you get bored of them and forget about them. Find the technique that you can do all day long, such that the technique _is_ the habit.
 
+## Buteyko as coping mechanism (i.e. techniques) and Buteyko as habit
+
+a new way i've been framing the above is that buteyko can be _used as_ either a coping mechanism or as a habit. in other words, it's not really that a thing "is" either a coping mechanism or a habit, but rather, it can be _used as_ either thing. it's the way you use the thing that determines it, not some inherent quality of the thing. sometimes my nose gets blocked by my turbinates (or whatever) and i use buteyko as a coping mechanism to unblock my nose. but most of the time, i try to breathe through my nose silently, and that's using buteyko as a habit. the eventual goal is to use it only has a habit; you have a new baseline and you don't run into breathing problems and can just live life. but in the short term, it's ok to also use buteyko as a coping mechanism to get yourself to that longterm state.
+
+now of course, there are some things, like nasal strips, that are _just_ a coping mechanism. but buteyko is one of those fluid things.
+
 # Capnometry biofeedback
 
 <!--
