@@ -109,7 +109,8 @@ body.dark {
 
 body.dark article {
   background-color: rgb(40, 41, 42);
-  color: rgb(216, 215, 212);
+  /* color: rgb(216, 215, 212); */
+  color: #d4be98;
 }
 
 body.dark a:link { color: #f0ca35; }
