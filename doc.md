@@ -311,13 +311,13 @@ as of 2024-05-08 my breathing is basically back to my post-capnotrainer usual ba
 
 <!--
 ((TODO:
-Vipul says "Regarding the Henderson-Hasselbach, I think you can maybe give a TL;DR version where you say that chemical equilibrium works multiplicatively (in proportional terms) on concentrations, which is why the sensitivity to additional CO2 is proportional to the level of CO2.
+Vipul says "Regarding the Henderson-Hasselbalch, I think you can maybe give a TL;DR version where you say that chemical equilibrium works multiplicatively (in proportional terms) on concentrations, which is why the sensitivity to additional CO2 is proportional to the level of CO2.
 I mean, it's not a full explanation, but for those who vaguely remember equilibrium from high school or college chemistry, that should be enough to make it click
 (You should also include the fuller explanation, but at least people have a tagline to fall back to)
 and use the word _proportional_
 Rather than just 'when it's lower it's more sensitive'
 though I think ultimately it may not be strictly proportional, at least that is the first-pass intuition we're drawing on
-(and plugging in the Henderson-Hasselbach also yields proportionality)"
+(and plugging in the Henderson-Hasselbalch also yields proportionality)"
 <https://en.wikipedia.org/wiki/Equilibrium_constant>
 
 also derive the -(Change in pH) = log_10(ratio of PCO_2) = log_10(1 + (change in PCO_2)/(original PCO_2)) equation that vipul came up with.
@@ -388,7 +388,7 @@ carbonic_acid = 0.0307 * paco2
 # So we are just solving for the bicarbonate term:
 bicarb = 0.9 * total_co2 - carbonic_acid
 
-# This is the Henderson-Hasselbach equation for pH
+# This is the Henderson-Hasselbalch equation for pH
 pH = 6.1 + log10(bicarb / carbonic_acid)
 
 print(pH)
