@@ -875,6 +875,8 @@ it's ok if you can only do this for a few seconds before you take control of you
 
 ## Intermittent technique: distraction
 
+(2025-01-24: TODO: i've come to dislike the word "distraction" and now prefer "engaging". but the distinction here is tricky and it's easy to get confused and think one is engaging when in fact one is only distracting. so i will at some point need to come back here and explain the difference. to be honest, i am still figuring out the difference myself.)
+
 when you feel out of breath (e.g., after talking) and just sitting there quietly isn't helping, this is a sign that you're still somehow, on some level, interfering with your breath and trying to control it. one way out of this, at least as a temporary measure,[^tempdistraction] is to just totally distract yourself in some way so that you're not paying attention to your breathing at all. this will tend to "reset" your unconscious breathing pattern, back into a "good" state. you can try any of the following, or even anything else that you can think of:
 
 - pace around the room (note: you probably don't want to go on a _walk_, which might make you exert too much and then you might feel a bit out of breath for a different reason, at least, if you happen to be deconditioned like I am)
