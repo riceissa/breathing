@@ -923,6 +923,14 @@ After a week and urge to take mouth breath is no more frequent than $2$--$3$ tim
 
 Stage three: equivalent to main practice/Buteyko-style reduced breathing. You can also instead do the same thing as stage 2, but do like a single breath hold of like 3--5 seconds, to generate the _slightest_ bit of air hunger, and then try to keep it going.
 
+2025-01-24: a sensitized state (e.g. ME/CFS) + small stress (e.g. for me, even reading some paragraphs of text while I'm in AP) leads to breathing more to deal with the stress (because of prediction of increased physical activity; see the breathing disorders chaitow book). This leads to overbreathing, which leads to turbinate swelling, which leads to feeling like I can't breathe. And as we all know by now, trying to take bigger breaths while you feel like you can't breathe only keeps you stuck in that state longer.
+
+All it takes to fix this is to write down the time, then keep writing the time when you take a big/forced breath. My nose opened right up after 10--13 mins, even though it was feeling closed up all day long until now. It's not a coincidence. This technique really works. I feel silly now that I came up with this exercise myself months ago, but only tried it at the end of the day. Somehow I was convinced this was caused by the AP I am in (and it is, if you consider just the "being sensitized" part; but there's more to breathing difficulty than simply being sensitized), even though I was breathing _better_ in much worse states than this over the summer/fall!
+
+Here's what I actually wrote down on paper:
+
+> 9:23 \[(pm). I only had to write down a single time!\]
+
 ## Intermittent exercise: count how many times you blow your nose per day
 
 # Posture
