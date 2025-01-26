@@ -5,7 +5,7 @@
   <meta name="generator" content="pandoc" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
   <meta name="author" content="Issa Rice" />
-  <meta name="dcterms.date" content="2025-01-24" />
+  <meta name="dcterms.date" content="2025-01-26" />
   <title>[DRAFT] My thoughts on breathing, with an emphasis on dealing with chronic shortness of breath</title>
   <link rel="stylesheet" href="style.css">
 
@@ -35,7 +35,7 @@
 <h1 class="title">[DRAFT] My thoughts on breathing, with an emphasis on
 dealing with chronic shortness of breath</h1>
 <p class="author">Issa Rice</p>
-<p class="date">2025-01-24 (<a href="https://github.com/riceissa/breathing/commits/main/doc.md">see recent changes</a>)</p>
+<p class="date">2025-01-26 (<a href="https://github.com/riceissa/breathing/commits/main/doc.md">see recent changes</a>)</p>
 </header>
 <nav id="TOC" role="doc-toc">
 <ul>
@@ -1218,13 +1218,13 @@ class="header-section-number">5.4</span> The Henderson–Hasselbalch
 equation and CO<sub>2</sub> tolerance</h2>
 <!--
 ((TODO:
-Vipul says "Regarding the Henderson-Hasselbach, I think you can maybe give a TL;DR version where you say that chemical equilibrium works multiplicatively (in proportional terms) on concentrations, which is why the sensitivity to additional CO2 is proportional to the level of CO2.
+Vipul says "Regarding the Henderson-Hasselbalch, I think you can maybe give a TL;DR version where you say that chemical equilibrium works multiplicatively (in proportional terms) on concentrations, which is why the sensitivity to additional CO2 is proportional to the level of CO2.
 I mean, it's not a full explanation, but for those who vaguely remember equilibrium from high school or college chemistry, that should be enough to make it click
 (You should also include the fuller explanation, but at least people have a tagline to fall back to)
 and use the word _proportional_
 Rather than just 'when it's lower it's more sensitive'
 though I think ultimately it may not be strictly proportional, at least that is the first-pass intuition we're drawing on
-(and plugging in the Henderson-Hasselbach also yields proportionality)"
+(and plugging in the Henderson-Hasselbalch also yields proportionality)"
 <https://en.wikipedia.org/wiki/Equilibrium_constant>
 
 also derive the -(Change in pH) = log_10(ratio of PCO_2) = log_10(1 + (change in PCO_2)/(original PCO_2)) equation that vipul came up with.
@@ -1348,7 +1348,7 @@ class="sourceCode python"><code class="sourceCode python"><span id="cb1-1"><a hr
 <span id="cb1-18"><a href="#cb1-18" aria-hidden="true" tabindex="-1"></a><span class="co"># So we are just solving for the bicarbonate term:</span></span>
 <span id="cb1-19"><a href="#cb1-19" aria-hidden="true" tabindex="-1"></a>bicarb <span class="op">=</span> <span class="fl">0.9</span> <span class="op">*</span> total_co2 <span class="op">-</span> carbonic_acid</span>
 <span id="cb1-20"><a href="#cb1-20" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-21"><a href="#cb1-21" aria-hidden="true" tabindex="-1"></a><span class="co"># This is the Henderson-Hasselbach equation for pH</span></span>
+<span id="cb1-21"><a href="#cb1-21" aria-hidden="true" tabindex="-1"></a><span class="co"># This is the Henderson-Hasselbalch equation for pH</span></span>
 <span id="cb1-22"><a href="#cb1-22" aria-hidden="true" tabindex="-1"></a>pH <span class="op">=</span> <span class="fl">6.1</span> <span class="op">+</span> log10(bicarb <span class="op">/</span> carbonic_acid)</span>
 <span id="cb1-23"><a href="#cb1-23" aria-hidden="true" tabindex="-1"></a></span>
 <span id="cb1-24"><a href="#cb1-24" aria-hidden="true" tabindex="-1"></a><span class="bu">print</span>(pH)</span></code></pre></div>
@@ -3051,6 +3051,28 @@ time.</p>
 breathing. You can also instead do the same thing as stage 2, but do
 like a single breath hold of like 3–5 seconds, to generate the
 <em>slightest</em> bit of air hunger, and then try to keep it going.</p>
+<p>2025-01-24: a sensitized state (e.g. ME/CFS) + small stress (e.g. for
+me, even reading some paragraphs of text while I’m in AP) leads to
+breathing more to deal with the stress (because of prediction of
+increased physical activity; see the breathing disorders chaitow book).
+This leads to overbreathing, which leads to turbinate swelling, which
+leads to feeling like I can’t breathe. And as we all know by now, trying
+to take bigger breaths while you feel like you can’t breathe only keeps
+you stuck in that state longer.</p>
+<p>All it takes to fix this is to write down the time, then keep writing
+the time when you take a big/forced breath. My nose opened right up
+after 10–13 mins, even though it was feeling closed up all day long
+until now. It’s not a coincidence. This technique really works. I feel
+silly now that I came up with this exercise myself months ago, but only
+tried it at the end of the day. Somehow I was convinced this was caused
+by the AP I am in (and it is, if you consider just the “being
+sensitized” part; but there’s more to breathing difficulty than simply
+being sensitized), even though I was breathing <em>better</em> in much
+worse states than this over the summer/fall!</p>
+<p>Here’s what I actually wrote down on paper:</p>
+<blockquote>
+<p>9:23 [(pm). I only had to write down a single time!]</p>
+</blockquote>
 <h2 data-number="15.11"
 id="intermittent-exercise-count-how-many-times-you-blow-your-nose-per-day"><span
 class="header-section-number">15.11</span> Intermittent exercise: count
