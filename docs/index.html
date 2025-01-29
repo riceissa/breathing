@@ -5,15 +5,12 @@
   <meta name="generator" content="pandoc" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
   <meta name="author" content="Issa Rice" />
-  <meta name="dcterms.date" content="2025-01-26" />
+  <meta name="dcterms.date" content="2025-01-29" />
   <title>[DRAFT] My thoughts on breathing, with an emphasis on dealing with chronic shortness of breath</title>
   <link rel="stylesheet" href="style.css">
 
   <script src="darkmode.js"></script>
 
-  <script
-  src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js"
-  type="text/javascript"></script>
 </head>
 <body>
 
@@ -35,7 +32,7 @@
 <h1 class="title">[DRAFT] My thoughts on breathing, with an emphasis on
 dealing with chronic shortness of breath</h1>
 <p class="author">Issa Rice</p>
-<p class="date">2025-01-26 (<a href="https://github.com/riceissa/breathing/commits/main/doc.md">see recent changes</a>)</p>
+<p class="date">2025-01-29 (<a href="https://github.com/riceissa/breathing/commits/main/doc.md">see recent changes</a>)</p>
 </header>
 <nav id="TOC" role="doc-toc">
 <ul>
@@ -1182,11 +1179,14 @@ worked so well even in 2023. so, what’s the point of all of this? i
 think one takeaway i have is that it’s <em>not</em> just the
 Henderson–Hasselbalch stuff and increased CO<sub>2</sub> sensitivity in
 overbreathers that causes the shortness of breath feeling, but also,
-there’s a pathway like overbreathing <span
-class="math inline">\(\to\)</span> body tries to prevent you from
-breathing so much <span class="math inline">\(\to\)</span> inflates
-turbinates to compensate <span class="math inline">\(\to\)</span> now
-your nostrils are super tight <span class="math inline">\(\to\)</span>
+there’s a pathway like overbreathing
+<math display="inline" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mo>→</mo><annotation encoding="application/x-tex">\to</annotation></semantics></math>
+body tries to prevent you from breathing so much
+<math display="inline" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mo>→</mo><annotation encoding="application/x-tex">\to</annotation></semantics></math>
+inflates turbinates to compensate
+<math display="inline" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mo>→</mo><annotation encoding="application/x-tex">\to</annotation></semantics></math>
+now your nostrils are super tight
+<math display="inline" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mo>→</mo><annotation encoding="application/x-tex">\to</annotation></semantics></math>
 feel like you can’t breathe.</p>
 <p>maybe the turbinates get puffed up during allergies to prevent more
 allergens from coming in?</p>
@@ -1242,11 +1242,11 @@ overbreathes, then since CO<sub>2</sub> causes the blood to become
 acidic, the <em>lack</em> of CO<sub>2</sub> (you’re overbreathing,
 remember) causes your blood to become too alkaline. So the body
 compensates by trying to make blood more acidic. How? The kidneys dump
-out more bicarbonate (<span
-class="math inline">\(\mathrm{HCO_3^-}\)</span>) into the urine. Since
-bicarbonate is alkaline, getting rid of it makes the blood more acidic.
-The kidneys don’t react immediately; all this happens over the course of
-hours to roughly 5 days.</p>
+out more bicarbonate
+(<math display="inline" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi mathvariant="normal">H</mi><mi mathvariant="normal">C</mi><msubsup><mi mathvariant="normal">O</mi><mn mathvariant="normal">3</mn><mo mathvariant="normal">−</mo></msubsup></mrow><annotation encoding="application/x-tex">\mathrm{HCO_3^-}</annotation></semantics></math>)
+into the urine. Since bicarbonate is alkaline, getting rid of it makes
+the blood more acidic. The kidneys don’t react immediately; all this
+happens over the course of hours to roughly 5 days.</p>
 <p>[… some more stuff here …]</p>
 <p>The important point is that because of the form of the
 Henderson–Hasselbalch equation, the more CO<sub>2</sub> you have, the
@@ -1266,66 +1266,65 @@ means your baseline CO<sub>2</sub> also keeps decreasing. So now you’re
 <em>even more</em> sensitive to slight increases in CO<sub>2</sub>. It’s
 a vicious cycle. (and this isn’t even talking about the negative health
 effects of low CO<sub>2</sub>.)</p>
-<p>Let’s look at some numbers. <span class="math display">\[7.4 \approx
-6.1 + \log_{10}\left(\frac{24}{0.0307 \cdot 40}\right)\]</span> above
-are the values for a normal person.</p>
+<p>Let’s look at some numbers.
+<math display="block" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mn>7.4</mn><mo>≈</mo><mn>6.1</mn><mo>+</mo><msub><mo>log</mo><mn>10</mn></msub><mrow><mo stretchy="true" form="prefix">(</mo><mfrac><mn>24</mn><mrow><mn>0.0307</mn><mo>⋅</mo><mn>40</mn></mrow></mfrac><mo stretchy="true" form="postfix">)</mo></mrow></mrow><annotation encoding="application/x-tex">7.4 \approx 6.1 + \log_{10}\left(\frac{24}{0.0307 \cdot 40}\right)</annotation></semantics></math>
+above are the values for a normal person.</p>
 <p>When I first used a capnometer, my CO<sub>2</sub> was around 25 mmHg.
 So to get the same pH, my bicarbonate level must have been around 15
-(here I’m just solving for <span class="math inline">\(x\)</span> in the
-equation <span class="math inline">\(24/40 = x/25\)</span> in order to
-make the input to <span class="math inline">\(\log_{10}\)</span> the
-same): <span class="math display">\[7.4 \approx 6.1 +
-\log_{10}\left(\frac{15}{0.0307 \cdot 25}\right)\]</span></p>
-<p>Now let’s say both individuals do a breath hold to raise their <span
-class="math inline">\(p\mathrm{CO_2}\)</span> by 5 mmHg. In the case of
-the healthy person, their <span
-class="math inline">\(\mathrm{pH}\)</span> goes down to 7.34, but in the
-chronic overbreather’s case, it goes down to 7.31.</p>
+(here I’m just solving for
+<math display="inline" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mi>x</mi><annotation encoding="application/x-tex">x</annotation></semantics></math>
+in the equation
+<math display="inline" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mn>24</mn><mi>/</mi><mn>40</mn><mo>=</mo><mi>x</mi><mi>/</mi><mn>25</mn></mrow><annotation encoding="application/x-tex">24/40 = x/25</annotation></semantics></math>
+in order to make the input to
+<math display="inline" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><msub><mo>log</mo><mn>10</mn></msub><annotation encoding="application/x-tex">\log_{10}</annotation></semantics></math>
+the same):
+<math display="block" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mn>7.4</mn><mo>≈</mo><mn>6.1</mn><mo>+</mo><msub><mo>log</mo><mn>10</mn></msub><mrow><mo stretchy="true" form="prefix">(</mo><mfrac><mn>15</mn><mrow><mn>0.0307</mn><mo>⋅</mo><mn>25</mn></mrow></mfrac><mo stretchy="true" form="postfix">)</mo></mrow></mrow><annotation encoding="application/x-tex">7.4 \approx 6.1 + \log_{10}\left(\frac{15}{0.0307 \cdot 25}\right)</annotation></semantics></math></p>
+<p>Now let’s say both individuals do a breath hold to raise their
+<math display="inline" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>p</mi><mrow><mi mathvariant="normal">C</mi><msub><mi mathvariant="normal">O</mi><mn mathvariant="normal">2</mn></msub></mrow></mrow><annotation encoding="application/x-tex">p\mathrm{CO_2}</annotation></semantics></math>
+by 5 mmHg. In the case of the healthy person, their
+<math display="inline" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi mathvariant="normal">p</mi><mi mathvariant="normal">H</mi></mrow><annotation encoding="application/x-tex">\mathrm{pH}</annotation></semantics></math>
+goes down to 7.34, but in the chronic overbreather’s case, it goes down
+to 7.31.</p>
 <p>Here’s the other thing Vipul showed me:</p>
-<p>Suppose your equation right now is: <span
-class="math display">\[\begin{aligned}
-  \mathrm{pH}&amp;\approx 6.1 +
-\log_{10}\left(\frac{\mathrm{[HCO_3^-]}}{0.0307 \cdot
-p\mathrm{CO_2}}\right) \\
-              &amp;= 6.1 + \log_{10}(\mathrm{[HCO_3^-]}) -
-\log_{10}(0.0307) - \log_{10}(p\mathrm{CO_2})
-\end{aligned}\]</span></p>
-<p>Now you hold your breath so that the <span
-class="math inline">\(p\mathrm{CO_2}\)</span> goes up by some amount,
-<span class="math inline">\(\Delta p\mathrm{CO_2}\)</span>, and the
-<span class="math inline">\(\mathrm{pH}\)</span> changes by some amount,
-<span class="math inline">\(\Delta \mathrm{pH}\)</span> (it’s a negative
-quantity, since your <span class="math inline">\(\mathrm{pH}\)</span>
+<p>Suppose your equation right now is:
+<math display="block" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mtable><mtr><mtd columnalign="right" style="text-align: right"><mrow><mi mathvariant="normal">p</mi><mi mathvariant="normal">H</mi></mrow></mtd><mtd columnalign="left" style="text-align: left"><mo>≈</mo><mn>6.1</mn><mo>+</mo><msub><mo>log</mo><mn>10</mn></msub><mrow><mo stretchy="true" form="prefix">(</mo><mfrac><mrow><mo stretchy="true" form="prefix" mathvariant="normal">[</mo><mi mathvariant="normal">H</mi><mi mathvariant="normal">C</mi><msubsup><mi mathvariant="normal">O</mi><mn mathvariant="normal">3</mn><mo mathvariant="normal">−</mo></msubsup><mo stretchy="true" form="postfix" mathvariant="normal">]</mo></mrow><mrow><mn>0.0307</mn><mo>⋅</mo><mi>p</mi><mrow><mi mathvariant="normal">C</mi><msub><mi mathvariant="normal">O</mi><mn mathvariant="normal">2</mn></msub></mrow></mrow></mfrac><mo stretchy="true" form="postfix">)</mo></mrow></mtd></mtr><mtr><mtd columnalign="right" style="text-align: right"></mtd><mtd columnalign="left" style="text-align: left"><mo>=</mo><mn>6.1</mn><mo>+</mo><msub><mo>log</mo><mn>10</mn></msub><mrow><mo stretchy="true" form="prefix">(</mo><mrow><mo stretchy="true" form="prefix" mathvariant="normal">[</mo><mi mathvariant="normal">H</mi><mi mathvariant="normal">C</mi><msubsup><mi mathvariant="normal">O</mi><mn mathvariant="normal">3</mn><mo mathvariant="normal">−</mo></msubsup><mo stretchy="true" form="postfix" mathvariant="normal">]</mo></mrow><mo stretchy="true" form="postfix">)</mo></mrow><mo>−</mo><msub><mo>log</mo><mn>10</mn></msub><mrow><mo stretchy="true" form="prefix">(</mo><mn>0.0307</mn><mo stretchy="true" form="postfix">)</mo></mrow><mo>−</mo><msub><mo>log</mo><mn>10</mn></msub><mrow><mo stretchy="true" form="prefix">(</mo><mi>p</mi><mrow><mi mathvariant="normal">C</mi><msub><mi mathvariant="normal">O</mi><mn mathvariant="normal">2</mn></msub></mrow><mo stretchy="true" form="postfix">)</mo></mrow></mtd></mtr></mtable><annotation encoding="application/x-tex">\begin{aligned}
+  \mathrm{pH}&amp;\approx 6.1 + \log_{10}\left(\frac{\mathrm{[HCO_3^-]}}{0.0307 \cdot p\mathrm{CO_2}}\right) \\
+              &amp;= 6.1 + \log_{10}(\mathrm{[HCO_3^-]}) - \log_{10}(0.0307) - \log_{10}(p\mathrm{CO_2})
+\end{aligned}</annotation></semantics></math></p>
+<p>Now you hold your breath so that the
+<math display="inline" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>p</mi><mrow><mi mathvariant="normal">C</mi><msub><mi mathvariant="normal">O</mi><mn mathvariant="normal">2</mn></msub></mrow></mrow><annotation encoding="application/x-tex">p\mathrm{CO_2}</annotation></semantics></math>
+goes up by some amount,
+<math display="inline" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>Δ</mi><mi>p</mi><mrow><mi mathvariant="normal">C</mi><msub><mi mathvariant="normal">O</mi><mn mathvariant="normal">2</mn></msub></mrow></mrow><annotation encoding="application/x-tex">\Delta p\mathrm{CO_2}</annotation></semantics></math>,
+and the
+<math display="inline" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi mathvariant="normal">p</mi><mi mathvariant="normal">H</mi></mrow><annotation encoding="application/x-tex">\mathrm{pH}</annotation></semantics></math>
+changes by some amount,
+<math display="inline" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>Δ</mi><mrow><mi mathvariant="normal">p</mi><mi mathvariant="normal">H</mi></mrow></mrow><annotation encoding="application/x-tex">\Delta \mathrm{pH}</annotation></semantics></math>
+(it’s a negative quantity, since your
+<math display="inline" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi mathvariant="normal">p</mi><mi mathvariant="normal">H</mi></mrow><annotation encoding="application/x-tex">\mathrm{pH}</annotation></semantics></math>
 goes down when the blood becomes more acidic). Your equation now looks
-like: <span class="math display">\[\begin{aligned}
-  \mathrm{pH}+ \Delta\mathrm{pH}&amp;\approx 6.1 +
-\log_{10}\left(\frac{\mathrm{[HCO_3^-]}}{0.0307 \cdot (p\mathrm{CO_2}+
-\Delta p\mathrm{CO_2})}\right) \\
-                                   &amp;= 6.1 +
-\log_{10}(\mathrm{[HCO_3^-]}) - \log_{10}(0.0307) -
-\log_{10}(p\mathrm{CO_2}+ \Delta p\mathrm{CO_2})
-\end{aligned}\]</span></p>
-<p>Now let’s subtract the first equation from the second; we get: <span
-class="math display">\[\begin{aligned}
-  \Delta\mathrm{pH}&amp;= \log_{10}(p\mathrm{CO_2}) -
-\log_{10}(p\mathrm{CO_2}+ \Delta p\mathrm{CO_2}) \\
-                     &amp;=
-\log_{10}\left(\frac{p\mathrm{CO_2}}{p\mathrm{CO_2}+ \Delta
-p\mathrm{CO_2}}\right) \\
-                     &amp;= - \log_{10}\left(1 + \frac{\Delta
-p\mathrm{CO_2}}{p\mathrm{CO_2}}\right)
-\end{aligned}\]</span></p>
-<p>What does all of this show? Well, the quantity <span
-class="math inline">\(\frac{\Delta
-p\mathrm{CO_2}}{p\mathrm{CO_2}}\)</span> is actually the fractional
-change in <span class="math inline">\(p\mathrm{CO_2}\)</span>. So it
-shows that <em>the change in pH is a function of the fractional change
-in <span class="math inline">\(p\mathrm{CO_2}\)</span></em>. This is one
-way to understand why having low CO<sub>2</sub> means your pH changes
-more easily: the same amount of absolute CO<sub>2</sub> change results
-in a greater fractional change in CO<sub>2</sub>. (Note: fractional
-change is almost the same thing as percentage change, just divided by
-100.)</p>
+like:
+<math display="block" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mtable><mtr><mtd columnalign="right" style="text-align: right"><mrow><mi mathvariant="normal">p</mi><mi mathvariant="normal">H</mi></mrow><mo>+</mo><mi>Δ</mi><mrow><mi mathvariant="normal">p</mi><mi mathvariant="normal">H</mi></mrow></mtd><mtd columnalign="left" style="text-align: left"><mo>≈</mo><mn>6.1</mn><mo>+</mo><msub><mo>log</mo><mn>10</mn></msub><mrow><mo stretchy="true" form="prefix">(</mo><mfrac><mrow><mo stretchy="true" form="prefix" mathvariant="normal">[</mo><mi mathvariant="normal">H</mi><mi mathvariant="normal">C</mi><msubsup><mi mathvariant="normal">O</mi><mn mathvariant="normal">3</mn><mo mathvariant="normal">−</mo></msubsup><mo stretchy="true" form="postfix" mathvariant="normal">]</mo></mrow><mrow><mn>0.0307</mn><mo>⋅</mo><mrow><mo stretchy="true" form="prefix">(</mo><mi>p</mi><mrow><mi mathvariant="normal">C</mi><msub><mi mathvariant="normal">O</mi><mn mathvariant="normal">2</mn></msub></mrow><mo>+</mo><mi>Δ</mi><mi>p</mi><mrow><mi mathvariant="normal">C</mi><msub><mi mathvariant="normal">O</mi><mn mathvariant="normal">2</mn></msub></mrow><mo stretchy="true" form="postfix">)</mo></mrow></mrow></mfrac><mo stretchy="true" form="postfix">)</mo></mrow></mtd></mtr><mtr><mtd columnalign="right" style="text-align: right"></mtd><mtd columnalign="left" style="text-align: left"><mo>=</mo><mn>6.1</mn><mo>+</mo><msub><mo>log</mo><mn>10</mn></msub><mrow><mo stretchy="true" form="prefix">(</mo><mrow><mo stretchy="true" form="prefix" mathvariant="normal">[</mo><mi mathvariant="normal">H</mi><mi mathvariant="normal">C</mi><msubsup><mi mathvariant="normal">O</mi><mn mathvariant="normal">3</mn><mo mathvariant="normal">−</mo></msubsup><mo stretchy="true" form="postfix" mathvariant="normal">]</mo></mrow><mo stretchy="true" form="postfix">)</mo></mrow><mo>−</mo><msub><mo>log</mo><mn>10</mn></msub><mrow><mo stretchy="true" form="prefix">(</mo><mn>0.0307</mn><mo stretchy="true" form="postfix">)</mo></mrow><mo>−</mo><msub><mo>log</mo><mn>10</mn></msub><mrow><mo stretchy="true" form="prefix">(</mo><mi>p</mi><mrow><mi mathvariant="normal">C</mi><msub><mi mathvariant="normal">O</mi><mn mathvariant="normal">2</mn></msub></mrow><mo>+</mo><mi>Δ</mi><mi>p</mi><mrow><mi mathvariant="normal">C</mi><msub><mi mathvariant="normal">O</mi><mn mathvariant="normal">2</mn></msub></mrow><mo stretchy="true" form="postfix">)</mo></mrow></mtd></mtr></mtable><annotation encoding="application/x-tex">\begin{aligned}
+  \mathrm{pH}+ \Delta\mathrm{pH}&amp;\approx 6.1 + \log_{10}\left(\frac{\mathrm{[HCO_3^-]}}{0.0307 \cdot (p\mathrm{CO_2}+ \Delta p\mathrm{CO_2})}\right) \\
+                                   &amp;= 6.1 + \log_{10}(\mathrm{[HCO_3^-]}) - \log_{10}(0.0307) - \log_{10}(p\mathrm{CO_2}+ \Delta p\mathrm{CO_2})
+\end{aligned}</annotation></semantics></math></p>
+<p>Now let’s subtract the first equation from the second; we get:
+<math display="block" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mtable><mtr><mtd columnalign="right" style="text-align: right"><mi>Δ</mi><mrow><mi mathvariant="normal">p</mi><mi mathvariant="normal">H</mi></mrow></mtd><mtd columnalign="left" style="text-align: left"><mo>=</mo><msub><mo>log</mo><mn>10</mn></msub><mrow><mo stretchy="true" form="prefix">(</mo><mi>p</mi><mrow><mi mathvariant="normal">C</mi><msub><mi mathvariant="normal">O</mi><mn mathvariant="normal">2</mn></msub></mrow><mo stretchy="true" form="postfix">)</mo></mrow><mo>−</mo><msub><mo>log</mo><mn>10</mn></msub><mrow><mo stretchy="true" form="prefix">(</mo><mi>p</mi><mrow><mi mathvariant="normal">C</mi><msub><mi mathvariant="normal">O</mi><mn mathvariant="normal">2</mn></msub></mrow><mo>+</mo><mi>Δ</mi><mi>p</mi><mrow><mi mathvariant="normal">C</mi><msub><mi mathvariant="normal">O</mi><mn mathvariant="normal">2</mn></msub></mrow><mo stretchy="true" form="postfix">)</mo></mrow></mtd></mtr><mtr><mtd columnalign="right" style="text-align: right"></mtd><mtd columnalign="left" style="text-align: left"><mo>=</mo><msub><mo>log</mo><mn>10</mn></msub><mrow><mo stretchy="true" form="prefix">(</mo><mfrac><mrow><mi>p</mi><mrow><mi mathvariant="normal">C</mi><msub><mi mathvariant="normal">O</mi><mn mathvariant="normal">2</mn></msub></mrow></mrow><mrow><mi>p</mi><mrow><mi mathvariant="normal">C</mi><msub><mi mathvariant="normal">O</mi><mn mathvariant="normal">2</mn></msub></mrow><mo>+</mo><mi>Δ</mi><mi>p</mi><mrow><mi mathvariant="normal">C</mi><msub><mi mathvariant="normal">O</mi><mn mathvariant="normal">2</mn></msub></mrow></mrow></mfrac><mo stretchy="true" form="postfix">)</mo></mrow></mtd></mtr><mtr><mtd columnalign="right" style="text-align: right"></mtd><mtd columnalign="left" style="text-align: left"><mo>=</mo><mi>−</mi><msub><mo>log</mo><mn>10</mn></msub><mrow><mo stretchy="true" form="prefix">(</mo><mn>1</mn><mo>+</mo><mfrac><mrow><mi>Δ</mi><mi>p</mi><mrow><mi mathvariant="normal">C</mi><msub><mi mathvariant="normal">O</mi><mn mathvariant="normal">2</mn></msub></mrow></mrow><mrow><mi>p</mi><mrow><mi mathvariant="normal">C</mi><msub><mi mathvariant="normal">O</mi><mn mathvariant="normal">2</mn></msub></mrow></mrow></mfrac><mo stretchy="true" form="postfix">)</mo></mrow></mtd></mtr></mtable><annotation encoding="application/x-tex">\begin{aligned}
+  \Delta\mathrm{pH}&amp;= \log_{10}(p\mathrm{CO_2}) - \log_{10}(p\mathrm{CO_2}+ \Delta p\mathrm{CO_2}) \\
+                     &amp;= \log_{10}\left(\frac{p\mathrm{CO_2}}{p\mathrm{CO_2}+ \Delta p\mathrm{CO_2}}\right) \\
+                     &amp;= - \log_{10}\left(1 + \frac{\Delta p\mathrm{CO_2}}{p\mathrm{CO_2}}\right)
+\end{aligned}</annotation></semantics></math></p>
+<p>What does all of this show? Well, the quantity
+<math display="inline" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mfrac><mrow><mi>Δ</mi><mi>p</mi><mrow><mi mathvariant="normal">C</mi><msub><mi mathvariant="normal">O</mi><mn mathvariant="normal">2</mn></msub></mrow></mrow><mrow><mi>p</mi><mrow><mi mathvariant="normal">C</mi><msub><mi mathvariant="normal">O</mi><mn mathvariant="normal">2</mn></msub></mrow></mrow></mfrac><annotation encoding="application/x-tex">\frac{\Delta p\mathrm{CO_2}}{p\mathrm{CO_2}}</annotation></semantics></math>
+is actually the fractional change in
+<math display="inline" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>p</mi><mrow><mi mathvariant="normal">C</mi><msub><mi mathvariant="normal">O</mi><mn mathvariant="normal">2</mn></msub></mrow></mrow><annotation encoding="application/x-tex">p\mathrm{CO_2}</annotation></semantics></math>.
+So it shows that <em>the change in pH is a function of the fractional
+change in
+<math display="inline" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>p</mi><mrow><mi mathvariant="normal">C</mi><msub><mi mathvariant="normal">O</mi><mn mathvariant="normal">2</mn></msub></mrow></mrow><annotation encoding="application/x-tex">p\mathrm{CO_2}</annotation></semantics></math></em>.
+This is one way to understand why having low CO<sub>2</sub> means your
+pH changes more easily: the same amount of absolute CO<sub>2</sub>
+change results in a greater fractional change in CO<sub>2</sub>. (Note:
+fractional change is almost the same thing as percentage change, just
+divided by 100.)</p>
 <p>Here’s a model you can play around with in Python:</p>
 <div class="sourceCode" id="cb1"><pre
 class="sourceCode python"><code class="sourceCode python"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a><span class="im">from</span> math <span class="im">import</span> log10</span>
@@ -1643,14 +1642,17 @@ want the outcome.</p>
 than “sequence of cumulative constraints”, but I renamed this page
 because I thought the new version is a more accurate phrasing. Like the
 Gram–Schmidt process in linear algebra the constraints are cumulative
-(at each step <span class="math inline">\(n\)</span>, you want to make
-sure that the new vector you create is orthogonal not just to the <span
-class="math inline">\((n-1)\)</span>th vector, but to <em>all</em> the
-vectors <span class="math inline">\(1, \dots, n-1\)</span>. This kind of
-mechanic also happens a lot in puzzle games where if you get one thing
-in a “good” state, and then try to get another thing in a “good” state,
-the first one will turn back into a “bad” state, and the difficulty of
-the puzzle is to make sure you can get all the good states
+(at each step
+<math display="inline" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mi>n</mi><annotation encoding="application/x-tex">n</annotation></semantics></math>,
+you want to make sure that the new vector you create is orthogonal not
+just to the
+<math display="inline" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mo stretchy="true" form="prefix">(</mo><mi>n</mi><mo>−</mo><mn>1</mn><mo stretchy="true" form="postfix">)</mo></mrow><annotation encoding="application/x-tex">(n-1)</annotation></semantics></math>th
+vector, but to <em>all</em> the vectors
+<math display="inline" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mn>1</mn><mo>,</mo><mi>…</mi><mo>,</mo><mi>n</mi><mo>−</mo><mn>1</mn></mrow><annotation encoding="application/x-tex">1, \dots, n-1</annotation></semantics></math>.
+This kind of mechanic also happens a lot in puzzle games where if you
+get one thing in a “good” state, and then try to get another thing in a
+“good” state, the first one will turn back into a “bad” state, and the
+difficulty of the puzzle is to make sure you can get all the good states
 cumulatively). Also “constraint” feels more accurate than “target”
 because you’re not trying to hit some new breathing pattern some of the
 time, but rather you’re trying to <em>only</em> do the “good” kind of
@@ -3040,13 +3042,12 @@ Amazon for like $6.</p>
 quietly, relax, and breathe through nose. If urge builds up too
 strongly, take mouth breath and write down the time.</p>
 <p>After a week and urge to take mouth breath is no more frequent than
-<span class="math inline">\(2\)</span>–<span
-class="math inline">\(3\)</span> times per day, second stage: If get
-urge to breathe in such a way as to clear air hunger (breathe more
-forcefully, trying to get the air in deeper, etc.), then drop everything
-and just sit with the air hunger and relax. If air hunger too strong,
-then, <em>with the nose</em> clear the air hunger, then write down the
-time.</p>
+<math display="inline" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mn>2</mn><annotation encoding="application/x-tex">2</annotation></semantics></math>–<math display="inline" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mn>3</mn><annotation encoding="application/x-tex">3</annotation></semantics></math>
+times per day, second stage: If get urge to breathe in such a way as to
+clear air hunger (breathe more forcefully, trying to get the air in
+deeper, etc.), then drop everything and just sit with the air hunger and
+relax. If air hunger too strong, then, <em>with the nose</em> clear the
+air hunger, then write down the time.</p>
 <p>Stage three: equivalent to main practice/Buteyko-style reduced
 breathing. You can also instead do the same thing as stage 2, but do
 like a single breath hold of like 3–5 seconds, to generate the
@@ -3099,15 +3100,18 @@ that i get back pain if i am sitting upright for too long (in supposedly
 “good” posture). so i need to figure what’s optimal in the long run.
 there’s got to be a way to get both good breathing and good posture and
 no back pain; i just don’t know how yet.</p>
-<p>i’ve been kind of going through a loop of {feeling tired <span
-class="math inline">\(\to\)</span> slouch <span
-class="math inline">\(\to\)</span> feeling like i can’t breathe as well
-<span class="math inline">\(\to\)</span> sit up straight}. and then also
-sitting in different ways (cross-legged, seiza, normal, against back
-rest, not against back rest, which gives you like 6 combinations, and if
-you add slouch/straight then that’s 12 configurations on the chair). and
-i think this is probably good, to just be changing posture and sitting
-style all the time, like every few minutes.</p>
+<p>i’ve been kind of going through a loop of {feeling tired
+<math display="inline" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mo>→</mo><annotation encoding="application/x-tex">\to</annotation></semantics></math>
+slouch
+<math display="inline" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mo>→</mo><annotation encoding="application/x-tex">\to</annotation></semantics></math>
+feeling like i can’t breathe as well
+<math display="inline" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mo>→</mo><annotation encoding="application/x-tex">\to</annotation></semantics></math>
+sit up straight}. and then also sitting in different ways (cross-legged,
+seiza, normal, against back rest, not against back rest, which gives you
+like 6 combinations, and if you add slouch/straight then that’s 12
+configurations on the chair). and i think this is probably good, to just
+be changing posture and sitting style all the time, like every few
+minutes.</p>
 <p>There are people with terrible posture who have normal breathing. So
 clearly posture isn’t the full picture either.</p>
 <p>question: why is the buteyko belt considered good, but slouched
@@ -3520,27 +3524,38 @@ role="doc-endnotes">
 misconception. However, the actual details in this footnote are not
 important for understanding the rest of the document, so I’ve decided to
 not include it in the main text. Those with knowledge of chemistry will
-remember the ideal gas law, <span class="math inline">\(PV =
-nRT\)</span>, which relates the pressure <span
-class="math inline">\(P\)</span>, volume <span
-class="math inline">\(V\)</span>, amount of substance <span
-class="math inline">\(n\)</span>, and temperature <span
-class="math inline">\(T\)</span> of a gas, with some constant <span
-class="math inline">\(R\)</span> that varies depending on the units.</p>
+remember the ideal gas law,
+<math display="inline" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>P</mi><mi>V</mi><mo>=</mo><mi>n</mi><mi>R</mi><mi>T</mi></mrow><annotation encoding="application/x-tex">PV = nRT</annotation></semantics></math>,
+which relates the pressure
+<math display="inline" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mi>P</mi><annotation encoding="application/x-tex">P</annotation></semantics></math>,
+volume
+<math display="inline" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mi>V</mi><annotation encoding="application/x-tex">V</annotation></semantics></math>,
+amount of substance
+<math display="inline" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mi>n</mi><annotation encoding="application/x-tex">n</annotation></semantics></math>,
+and temperature
+<math display="inline" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mi>T</mi><annotation encoding="application/x-tex">T</annotation></semantics></math>
+of a gas, with some constant
+<math display="inline" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mi>R</mi><annotation encoding="application/x-tex">R</annotation></semantics></math>
+that varies depending on the units.</p>
 <p>If we try to model the lungs naively based on this equation, we run
 into trouble. Let’s see how that happens. During the exhale, the lungs
-contract by let’s say 20%, i.e., its volume changes by a factor of <span
-class="math inline">\(1 - 0.2 = 4/5\)</span>. To make up for this
-decrease in volume, now pressure must increase by a factor of <span
-class="math inline">\(5/4\)</span>, i.e., the pressure increases by
-<span class="math inline">\(5/4 - 1 = 25\%\)</span>. The increased
-pressure then expels the air, so <span class="math inline">\(n\)</span>
-goes down, which then makes <span class="math inline">\(P\)</span> go
-down again.</p>
+contract by let’s say 20%, i.e., its volume changes by a factor of
+<math display="inline" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mn>1</mn><mo>−</mo><mn>0.2</mn><mo>=</mo><mn>4</mn><mi>/</mi><mn>5</mn></mrow><annotation encoding="application/x-tex">1 - 0.2 = 4/5</annotation></semantics></math>.
+To make up for this decrease in volume, now pressure must increase by a
+factor of
+<math display="inline" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mn>5</mn><mi>/</mi><mn>4</mn></mrow><annotation encoding="application/x-tex">5/4</annotation></semantics></math>,
+i.e., the pressure increases by
+<math display="inline" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mn>5</mn><mi>/</mi><mn>4</mn><mo>−</mo><mn>1</mn><mo>=</mo><mn>25</mn><mi>%</mi></mrow><annotation encoding="application/x-tex">5/4 - 1 = 25\%</annotation></semantics></math>.
+The increased pressure then expels the air, so
+<math display="inline" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mi>n</mi><annotation encoding="application/x-tex">n</annotation></semantics></math>
+goes down, which then makes
+<math display="inline" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mi>P</mi><annotation encoding="application/x-tex">P</annotation></semantics></math>
+go down again.</p>
 <p>The problem is, when actually measured, the pressure in the lungs
 increases by only about 1 mmHg from a baseline of 760 mmHg (the
 atmospheric pressure), so the pressure in reality only increases by
-about <span class="math inline">\(761/760 - 1 \approx 0.13\%\)</span>,
+about
+<math display="inline" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mn>761</mn><mi>/</mi><mn>760</mn><mo>−</mo><mn>1</mn><mo>≈</mo><mn>0.13</mn><mi>%</mi></mrow><annotation encoding="application/x-tex">761/760 - 1 \approx 0.13\%</annotation></semantics></math>,
 not 25%. Why the huge discrepancy? It is because the exhalation does not
 happen in a rigid sequence like “the lungs contract all at once; the air
 pressure is raised; the air flows out to neutralize the pressure
