@@ -32,13 +32,13 @@ h3 { font-size: 1.00rem; }
 h1.title { font-size: 1.5rem; }
 
 math {
-  font-family: "XCharter Math";
+    font-family: "XCharter Math";
 }
 
 @media screen and (max-width: 650px) {
-  article {
-    padding: 10px;
-  }
+    article {
+        padding: 10px;
+    }
 }
 
 /* Don't change line height when there are subscripts and superscripts. */
@@ -51,32 +51,32 @@ sup, sub {
  * rather at the base of the normal text's line, and the footnote arrow isn't
  * even text so it doesn't need an underline either). */
 a.footnote-ref, a.footnote-back {
-  text-decoration: none;
+    text-decoration: none;
 }
 
 /* Table of contents styling -- modified from Pandoc template. */
 #TOC li {
-  list-style: none;
-  text-indent: -28px;
-  margin-left: 28px;
+    list-style: none;
+    text-indent: -28px;
+    margin-left: 28px;
 }
 #TOC ul {
-  padding-left: 1.3em;
+    padding-left: 1.3em;
 }
 #TOC > ul {
-  padding-left: 0;
+    padding-left: 0;
 }
 #TOC a:not(:hover) {
-  text-decoration: none;
+    text-decoration: none;
 }
 span.toc-section-number {
-  padding-right: 10px;
+    padding-right: 10px;
 }
 span.header-section-number {
-  padding-right: 15px;
+    padding-right: 15px;
 }
 #TOC > ul > li {
-  font-weight: bold;
+    font-weight: bold;
 }
 #TOC > ul > li li {
     font-weight: normal;
@@ -85,36 +85,36 @@ span.header-section-number {
 /* For citations -- taken from Pandoc template. */
 div.csl-bib-body { }
 div.csl-entry {
-  clear: both;
-  margin-bottom: 0em;
+    clear: both;
+    margin-bottom: 0em;
 }
 .hanging-indent div.csl-entry {
-  margin-left:2em;
-  text-indent:-2em;
+    margin-left:2em;
+    text-indent:-2em;
 }
 div.csl-left-margin {
-  min-width:2em;
-  float:left;
+    min-width:2em;
+    float:left;
 }
 div.csl-right-inline {
-  margin-left:2em;
-  padding-left:1em;
+    margin-left:2em;
+    padding-left:1em;
 }
 div.csl-indent {
-  margin-left: 2em;
+    margin-left: 2em;
 }
 
 body.dark {
-  background-color: rgb(40, 41, 42);
-  /* color: rgb(216, 215, 212); */
-  color: #d4be98; /* trying out this color which I found on
-                   * https://yasserarg.com/tb.css */
+    background-color: rgb(40, 41, 42);
+    /* color: rgb(216, 215, 212); */
+    color: #d4be98; /* trying out this color which I found on
+                     * https://yasserarg.com/tb.css */
 }
 
 body.dark article {
-  background-color: rgb(40, 41, 42);
-  /* color: rgb(216, 215, 212); */
-  color: #d4be98;
+    background-color: rgb(40, 41, 42);
+    /* color: rgb(216, 215, 212); */
+    color: #d4be98;
 }
 
 body.dark a:link { color: #f0ca35; }
