@@ -931,6 +931,14 @@ Here's what I actually wrote down on paper:
 
 > 9:23 \[(pm). I only had to write down a single time!\]
 
+2025-02-04: Trying this again. I've tried it a few times since the previous update too, and it has worked every time. However, this morning's air hunger seems worse than usual.
+
+> | 11:30am
+> | 11:37am
+> | 11:39am
+> | \[nose is starting to clear at 11:42am\]
+
+
 ## Intermittent exercise: count how many times you blow your nose per day
 
 # Posture
