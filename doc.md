@@ -218,6 +218,8 @@ On the night of 2025-02-04, I did a 15 min Buteyko session (using my favorite Ne
 
 ## Questionnaire
 
+(I would eventually like to build this questionnaire up into a thing someone with air hunger can use to figure out which type of air hunger they have, and from there, figure out which practices would help them the most. But that's not what I have here, for now. For now, this is just some brainstorming.)
+
 - Straining for air clears air hunger? Yes/No/Helps but doesn't eliminate air hunger
 - Nose feels blocked or there is a feeling of resistance in the nose? Yes/No
 - Happens as one is falling asleep? Yes, all the time/Yes, but not all the time/No
