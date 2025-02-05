@@ -937,7 +937,15 @@ Here's what I actually wrote down on paper:
 > | 11:37am
 > | 11:39am
 > | \[nose is starting to clear at 11:42am\]
-
+> | 11:44am
+> | 11:45am
+> | 11:49am \[it may not seem like it based on the timestamps, but my nose is continuing to clear up\]
+> | 11:50am
+> | 11:54am
+> | 11:58am -- natural yawn
+> | 11:59am -- another natural yawn
+> | 12:04pm
+> | \[and then I started checking my email at 12:12pm, which made me take a bunch more forced breaths as I tried to concentrate...\]
 
 ## Intermittent exercise: count how many times you blow your nose per day
 
