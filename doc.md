@@ -206,7 +206,7 @@ The following is a typology of the _phenomenology_ of shortness of breath (at le
 
 2025-01-31: Example of one type of shortness of breath:
 
-As I lie to sleep, anxiety builds at the end of the exhale. If I focus too much on my breathing, it's like getting onto an escalator. I can't do it. I need to tap with my foot or make some other movement for the anxiety to go away and to be able to inhale normally. When I messed up enough, I sat up gasping for air, even though Iwas breathing!
+As I lie to sleep, anxiety builds at the end of the exhale. If I focus too much on my breathing, it's like getting onto an escalator. I can't do it. I need to tap with my foot or make some other movement for the anxiety to go away and to be able to inhale normally. When I messed up enough, I sat up gasping for air, even though I was breathing!
 
 Air feels unreal. That feeling again.
 
