@@ -204,6 +204,18 @@ The following is a typology of the _phenomenology_ of shortness of breath (at le
 - airway blockage: nose is stuffed, turbinates are enlarged, etc. See [Clearing your nose].
 - diaphragm/throat tension when talking/laughing/etc: see [Talking out loud]
 
+2025-01-31: Example of one type of shortness of breath:
+
+As I lie to sleep, anxiety builds at the end of the exhale. If I focus too much on my breathing, it's like getting onto an escalator. I can't do it. I need to tap with my foot or make some other movement for the anxiety to go away and to be able to inhale normally. When I messed up enough, I sat up gasping for air, even though Iwas breathing!
+
+Air feels unreal. That feeling again.
+
+For some reason, while writing this in a paper spiral notebook, my breathing is good. I think focusing on my breath make me subtly control it in bad ways (that I can't even not do). So I must focus on other things.
+
+Anyway, I haven't had this in a while! So I am improving. It's just that with this current AP, my symptoms are higher, I am more sensitive, and understandably this bleeds into my breathing patterns as well. But I know the way out. Keep up the soft nasal breaths. Use the tapping as a coping mechanism. If the air hunger builds too much, take a forced breath (preferably through the nose). Just keep going.
+
+On the night of 2025-02-04, I did a 15 min Buteyko session (using my favorite Neil Tranter video) before brushing my teeth, and this actually helped me to _not_ have the above while falling asleep (even though I have been having it every night since I wrote the above). Gentle Buteyko seems to just soothe the nervous system just enough that my breathing stops being a problem.
+
 ## Questionnaire
 
 - Straining for air clears air hunger? Yes/No/Helps but doesn't eliminate air hunger
