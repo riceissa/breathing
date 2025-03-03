@@ -32,6 +32,22 @@
         options_list.forEach((c) => document.getElementById(c + "-menu-option").style.textDecoration = "none");
     }
 
+    function add_darkmode_menu() {
+        document.getElementById('darkmode-menu').innerHTML = `
+            Set color scheme to:
+            <span id="auto-menu-option" style="cursor: pointer;" class="unselectable" onclick="darkmode.set_color('auto')">auto</span>,
+            <span id="light-menu-option" style="cursor: pointer;" class="unselectable" onclick="darkmode.set_color('light')">light</span>,
+            <span id="dark-menu-option" style="cursor: pointer;" class="unselectable" onclick="darkmode.set_color('dark')">dark</span>
+        `;
+    }
+
+    function set_theme_from_local_storage() {
+        add_darkmode_menu();
+        const site_specific_preferred_color = localStorage.getItem("color") || "auto";
+        set_root_color_scheme(site_specific_preferred_color);
+        set_visual_feedback_color(site_specific_preferred_color);
+    }
+
     // This function runs every time the menu buttons (auto/light/dark) are
     // clicked.
     darkmode.set_color = function (color) {
@@ -41,9 +57,10 @@
     };
 
     // This function runs once on each page load.
-    darkmode.set_theme_from_local_storage = function () {
-        const site_specific_preferred_color = localStorage.getItem("color") || "auto";
-        set_root_color_scheme(site_specific_preferred_color);
-        set_visual_feedback_color(site_specific_preferred_color);
+    darkmode.initialize = function () {
+        add_darkmode_menu();
+        set_theme_from_local_storage();
     };
+
+    // document.addEventListener('DOMContentLoaded', darkmode.set_theme_from_local_storage);
 }(window.darkmode = window.darkmode || {}));
