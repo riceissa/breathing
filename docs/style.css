@@ -1,6 +1,5 @@
 :root {
-    --the-color-scheme-var: light dark;
-    color-scheme: var(--the-color-scheme-var);
+    color-scheme: light dark;
 }
 
 html { font-size: 19px; }

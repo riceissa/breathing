@@ -16,11 +16,11 @@
             // If the user has specifically chosen this particular website to
             // be in dark mode, then honor that over the OS/browser-level
             // preference.
-            document.documentElement.style.setProperty("--the-color-scheme-var", "dark");
+            document.documentElement.style.setProperty("color-scheme", "dark", "important");
         } else if (color === "light") {
-            document.documentElement.style.setProperty("--the-color-scheme-var", "light");
+            document.documentElement.style.setProperty("color-scheme", "light", "important");
         } else {
-            document.documentElement.style.setProperty("--the-color-scheme-var", "light dark");
+            document.documentElement.style.setProperty("color-scheme", "light dark", "important");
         }
     }
 
