@@ -13,14 +13,15 @@ $endif$
   <title>$pagetitle$</title>
   <link rel="stylesheet" href="style.css">
 
-  <script src="darkmode.js"></script>
-
 $-- This was used for MathJax, but I've switched to MathML now so it's no
 $-- longer needed. I'm keeping it just in case I want to test out MathJax
 $-- again in the future.
 $if(math)$
   $math$
 $endif$
+
+  <script src="https://cdn.jsdelivr.net/gh/riceissa/simple-website-darkmode@latest/docs/darkmode.js"></script>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/riceissa/simple-website-darkmode@latest/docs/darkmode-overrides.css">
 </head>
 <body>
 

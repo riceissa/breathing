@@ -11,9 +11,9 @@ html { font-size: 19px; }
 body {
     line-height: 1.28;
     font-family: XCharter, Charter, "Bitstream Charter", Georgia, serif;
-    background-color: light-dark(#cccccc, rgb(40, 41, 42));
+    background-color: #cccccc;
     text-rendering: optimizeLegibility;
-    color: light-dark(#000000, #d4be98);
+    color: #000000;
 
     /* This prevents there being a thin gray border on the sides on narrow
      * screens. */
@@ -24,14 +24,14 @@ body {
 article {
     max-width: 36rem;
     margin: auto;
-    color: light-dark(#000000, #d4be98); /* trying out this color which I found on https://yasserarg.com/tb.css */
-    background-color: light-dark(#ffffff, rgb(40, 41, 42));
+    color: #000000;
+    background-color: #ffffff;
     padding: 55px 86px 30px 86px;
     word-wrap: break-word;
 }
 
-a:link { color: light-dark(rgb(0, 102, 204), #f0ca35); }
-a:visited { color: light-dark(#551A8B, #d04a09); }
+a:link { color: rgb(0, 102, 204); }
+a:visited { color: #551A8B; }
 
 h1 { font-size: 1.15rem; }
 h2 { font-size: 1.08rem; }
