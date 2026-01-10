@@ -642,12 +642,23 @@ some solutions i've used:
 - blowing my nose a lot -- this was my main strategy, but i think i overdid it at times because i started seeing some blood mixed in my mucus.
 - lying down on my sides instead of back (this was useful on the worst nights).
 - learn to breathe through your mouth in the least disruptive way possible. rather than gulping or straining for air, just try to breathe softly, as if you are breathing through your nose.
+- humidifier -- this thing did not do anything for me.
+- NAC -- noticed slight loosening of mucus, but not enough to really help. i think i took as high as 1200mg(?) at once.
 
 other ideas i haven't tried yet:
 
-- NAC
 - raised pillow/slanted bed -- i think this would have been useful on the nights when i had trouble sleeping.
-- humidifier
+- NyQuil/Tussin -- cold medications/expectorants. I have heard from friends that these are quite helpful during colds.
+
+## Breathing trouble when trying to fall asleep
+
+For the last several months or more, I've had this thing where I am breathing completely fine when upright, but then when I lie down to sleep, I am fine at first, but then as my nervous system adjusts to sleep, something happens where my body freaks out and feels like it can't breathe. Most nights, it feels like my brain has trouble handing off the breathing rhythm to the night time rhythm, and it feels like the tempo of breathing gets dysregulated. But other nights it feels like there is mucus and this clogs up my nostrils just enough that I have trouble breathing.
+
+A particularly bad instance of the mucus version happened on the night of 2025-12-23. I had a "sensory whackamole" where I cycled through can't breathe -> sitting up so I could breathe -> feeling cold -> lying down (under covers, so warmer) -> mucus clogged, can't breathe -> sitting back up -> feeling bored -> reading on phone -> too tired to actually read -> lying back down -> mucus clogged -> trying to breathe harder -> chest and diaphragm hurt -> sitting back up -> etc. etc. etc. for like 3 hours.
+
+Since then, I have discovered that on nights I am susceptible to this dynamic, lying down the first time for the night is okay, but if I get back up to e.g. go to the bathroom to urinate, then lying back down the second time causes the mucus problem to appear. Something to do with gravity shifting mucus around the sinuses, maybe. So I have a general rule now where I try not to get back up once I lie down for the night. I also find that lying down on my left side initially, then sleeping on my back, seems to help (I used to lie down on my back first, then shift to my sides).
+
+As for the nervous system variant of this general problem of "can't breathe when trying to fall asleep", I haven't figured out as good of a solution. Turning off my computer ~2 hours before going to sleep, doing a Buteyko session ~1 hour before going to sleep, just generally trying to not do too much at night in the ~2 hour period before going to sleep, seem to all help. I think this symptom will improve as my nervous system health improves (from brain retraining/mindbody work).
 
 # Allergies
 
