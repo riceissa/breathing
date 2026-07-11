@@ -739,7 +739,7 @@ unfortunately the theory given in the section [The biological basis of shortness
 
 ## Main practice: relaxed silent nasal breathing
 
-This one is most similar to @rakhimov2013advanced [section 4.6, "Relaxing the diaphragm (Buteyko relaxed breathing exercise)"], but Neil Tranter also has a similar video [@tranter2023relaxed]. @novozhilov2012 has similar exercises too (e.g., Exercise 1). I recommend reading/watching these other sources to get these other people's takes on the material; they are, in my opinion, all pointing to the same thing, gesturing at that thing in different words.
+This one is most similar to @rakhimov2013advanced [section 4.6, "Relaxing the diaphragm (Buteyko relaxed breathing exercise)"], but Neil Tranter also has a similar video [@tranter2023relaxed]. @novozhilov2012 has similar exercises too (e.g., Exercise 1). Some Buddhist meditation techniques are also very similar to this. In particular, the first 25 minutes or so of @taft's "Just Shamatha" guided meditation is strikingly similar. I recommend reading/watching these other sources to get these other people's takes on the material; they are, in my opinion, all pointing to the same thing, gesturing at that thing in different words.
 
 However, in my experience, all the other buteyko resources are pretty much "you just sit there and relax your body and breathe lighter", and people will just go like "ok...... so you just sit there and relax and breathe? how hard can that be?" And I think this style of pedagogy will tend to disappoint people when they find out how tricky the practice actually is. Or people will just sit there and try to relax and breathe, and they won't make any progress because they do the exercise wrong?
 
