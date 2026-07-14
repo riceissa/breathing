@@ -134,6 +134,8 @@ i don't have any good answers yet. i'm still working through this myself. for th
 
 as of 2024-02-17, i am less concerned about this. i basically don't notice any changes in my psychological state after focus on my breathing so much. i think as long as you're doing other stuff in the day, and not just sitting there and thinking about breathing the whole day for hours at a time, you should be fine.
 
+as of 2026-07-14, having gotten more into meditation in the last several months, i think this is not a problem. the key thing with meditation is attentional rather than merely physiological, so as long as your attention is able to wander to different parts of the body and also do "monkey mind" about random things, it should not have the same effects as meditation. if you keep bringing your attention back to breathing every time you notice it strays, _that's_ when things get more meditation-y; see @taft.
+
 ## Coughing
 
 Buteyko people seem too anti-coughing to me. My uninformed guess is that it's good to cough sometimes, e.g., to clear mucus or during a viral infection. Then there are other more mysterious forms of cough (e.g., twice in my life for like a month each, I had a habit of little micro-coughs/chest itchy feeling) where I think suppressing the cough is more justified (the second time it happened, doing soft breathing to make the cough not trigger is what finally made it go away).
